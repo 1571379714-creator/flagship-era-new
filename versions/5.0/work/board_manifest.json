@@ -1,0 +1,42 @@
+[
+  {
+    "id": "central",
+    "title": "中央市场"
+  },
+  {
+    "id": "supply",
+    "title": "供应链"
+  },
+  {
+    "id": "pricing",
+    "title": "定价速查"
+  },
+  {
+    "id": "M01",
+    "title": "珠江研发园"
+  },
+  {
+    "id": "M02",
+    "title": "滨海影像中心"
+  },
+  {
+    "id": "M03",
+    "title": "南山设计工坊"
+  },
+  {
+    "id": "M04",
+    "title": "松山湖终端基地"
+  },
+  {
+    "id": "industry",
+    "title": "产业协作"
+  },
+  {
+    "id": "special",
+    "title": "专项陈列"
+  },
+  {
+    "id": "factories",
+    "title": "五厂标签"
+  }
+]

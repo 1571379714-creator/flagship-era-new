@@ -1,0 +1,270 @@
+{
+  "version": "5.0",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3097,
+      "sha256": "b5923da46d0cd8f38a854e9ba885ebf7761811c92352c94649db8686e189fc6b"
+    },
+    {
+      "path": "assets/aids.css",
+      "bytes": 3984,
+      "sha256": "94f70d17b73f9e046b0398b068270cb14eea06329b1a974bac93249b7441ebe4"
+    },
+    {
+      "path": "assets/catalog.css",
+      "bytes": 6751,
+      "sha256": "c067460855e470dbf87914d56df4bf819ec9abfd6a76422c277903f9eaa25ab8"
+    },
+    {
+      "path": "assets/factory_B.png",
+      "bytes": 2336,
+      "sha256": "a6dd5337e7488dcef554c7db9ae477766b9414fed8be4dfa102b74a711fca5aa"
+    },
+    {
+      "path": "assets/factory_B.svg",
+      "bytes": 166,
+      "sha256": "800a92b4f302558c6081ca63072badcfa0350b2c1536f98328d9932b07c07e0a"
+    },
+    {
+      "path": "assets/factory_G.png",
+      "bytes": 6589,
+      "sha256": "31af2466a4ee8aee9a6e0cce54dda7d0939df35b6573644a7e0df6c6144d779a"
+    },
+    {
+      "path": "assets/factory_G.svg",
+      "bytes": 251,
+      "sha256": "1054712942b7a1b025433d46d39ff965c01f42af27e10b7ae120946aed0d26f9"
+    },
+    {
+      "path": "assets/factory_K.png",
+      "bytes": 9840,
+      "sha256": "be53b81d9fc219ee6977c4916a207f0ef74007cdd79f2478edce30ff1879d149"
+    },
+    {
+      "path": "assets/factory_K.svg",
+      "bytes": 204,
+      "sha256": "4a1c72442837d8d5adcb02c7b331d4e9ed52ace6d461de6d39187957cd839e60"
+    },
+    {
+      "path": "assets/factory_R.png",
+      "bytes": 5358,
+      "sha256": "fd7c3deff98c0e7ad427186e265e2596ae84a2a88d8e4573d47b4f1e8afa2da2"
+    },
+    {
+      "path": "assets/factory_R.svg",
+      "bytes": 148,
+      "sha256": "de8ad9aa65f250e80c43bae40de3382f3f05cbdd0a470cf3078df585e3b7e900"
+    },
+    {
+      "path": "assets/factory_Y.png",
+      "bytes": 4258,
+      "sha256": "1307a7f2e031f4c42cd1c6752da94633511236f0763a9d02af3d3ef1a0b20d38"
+    },
+    {
+      "path": "assets/factory_Y.svg",
+      "bytes": 176,
+      "sha256": "a8d1a01eece3018fca7bac201725ed80fe7cab0dedbad968e6b0acb422877247"
+    },
+    {
+      "path": "assets/factory_strip.png",
+      "bytes": 16725,
+      "sha256": "ac213aceba2b5147f5dd5f5edd847d7b02088783783a1c03dc8d01eba8f244e1"
+    },
+    {
+      "path": "assets/factory_strip.svg",
+      "bytes": 942,
+      "sha256": "2339fbf2fb9f8b9138765fd989cba2475deb200155aed301880f30239ce37f45"
+    },
+    {
+      "path": "outputs/旗舰元年_5.0_修改与校验说明.md",
+      "bytes": 19255,
+      "sha256": "0b2431b62548caa7365c9f9eef8963bb305d0b52abcccf4fca26bdc8132da858"
+    },
+    {
+      "path": "outputs/旗舰元年_5.0_全卡牌图鉴.html",
+      "bytes": 336778,
+      "sha256": "9a6f597363181b530be51fb0bb81438f3c476bd2b9d8d78627e3e6ca23a02bbf"
+    },
+    {
+      "path": "outputs/旗舰元年_5.0_全卡牌图鉴.pdf",
+      "bytes": 7315531,
+      "sha256": "7de3c53b45743be0730867ba6cfc2d26306f40a97d5775f613d515dadf2ccbdc"
+    },
+    {
+      "path": "outputs/旗舰元年_5.0_完整规则书.docx",
+      "bytes": 94015,
+      "sha256": "6c3590bc0a7f5845eed3352da5af021b672e81ba6c6b875893b6708eaa24e297"
+    },
+    {
+      "path": "outputs/旗舰元年_5.0_完整规则书.pdf",
+      "bytes": 883252,
+      "sha256": "9378d6f82b47054e3921cbdce6fc18c935557a68b2174306822fa19a4a4953b2"
+    },
+    {
+      "path": "outputs/旗舰元年_5.0_实体定价与标记.html",
+      "bytes": 25984,
+      "sha256": "0c311362728cee576bddadba782ab88a79d82f53db5f3eb389e9e410c38d56ec"
+    },
+    {
+      "path": "outputs/旗舰元年_5.0_实体定价与标记.pdf",
+      "bytes": 1267749,
+      "sha256": "cbafe87739b694604816bb781b344289aba520b4c0cb15f5c606be1245fed28b"
+    },
+    {
+      "path": "outputs/旗舰元年_5.0_线下版图.html",
+      "bytes": 90926,
+      "sha256": "d917855f03c7683dea9e8d5eb8c186e3f53cf2f807963519be737900ed33e2ff"
+    },
+    {
+      "path": "outputs/旗舰元年_5.0_线下版图.pdf",
+      "bytes": 4938895,
+      "sha256": "1e47758badd11823abe6942f12bc0b51397cc5f9a9f9d936356850affd5044f0"
+    },
+    {
+      "path": "outputs/芯片资料与抽象说明_继承档案.md",
+      "bytes": 3887,
+      "sha256": "75569fb469128b01680211a1959c9fdc1c08fb79b27c838031f12f207f4cb143"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 55,
+      "sha256": "7e3a30660790edcb2c9b53ec3f7c658466d388dc9efb28cf50f9fa2bf934db70"
+    },
+    {
+      "path": "source/build_v48.py",
+      "bytes": 35685,
+      "sha256": "fd5a9d062dd7210a5a64c3c9a9ed9be2fcd78910c8e970c8058469c1e5449581"
+    },
+    {
+      "path": "source/v47_data.json",
+      "bytes": 157254,
+      "sha256": "2eb8cde765a88cd55f22aa95ed83072547d47e07145badb6843c1f346fccfb23"
+    },
+    {
+      "path": "source/v48_data.json",
+      "bytes": 162959,
+      "sha256": "5b7b3f465e9430fdb05e8ab2e632f27a798deda0ee60f34cf2bf4e743a8cee90"
+    },
+    {
+      "path": "source/v48_rules.md",
+      "bytes": 59133,
+      "sha256": "efff0773366b42aabe4181954f7b4b663522943303276acc66283dae62899c13"
+    },
+    {
+      "path": "source/旗舰元年_4.8_线下版图.html",
+      "bytes": 1130810,
+      "sha256": "4f0b9eded6ed9293e58d03341c387cd49e22c3fb0dc884941f0b1bf8455a65f9"
+    },
+    {
+      "path": "source/芯片资料与抽象说明.md",
+      "bytes": 3611,
+      "sha256": "9dd7e1fcfc9827464c9e69ac7503ec9e0533baa2318fd560d94579c780f6a897"
+    },
+    {
+      "path": "work/artifact_checks_v50.json",
+      "bytes": 99543,
+      "sha256": "94b8db71cbf7d93e8ae6fcd50859ff0423df5af8b97c33bbcbe9d0a49e7e4ec8"
+    },
+    {
+      "path": "work/board_manifest.json",
+      "bytes": 589,
+      "sha256": "81a2d21488c6113f7e08acc0e034beceb9cd2ad512792483764b2c7724c5a1ed"
+    },
+    {
+      "path": "work/boards_and_aids_v50.py",
+      "bytes": 31784,
+      "sha256": "2aaf38d47a22cc192ca15331f88297fa2cba2d842651f29cd8ae9c3b4ca84af0"
+    },
+    {
+      "path": "work/build_all.py",
+      "bytes": 1731,
+      "sha256": "ee34f95fc1284f553e86523db08d3a03c2ac881a7847ca352d02f07c48f0b721"
+    },
+    {
+      "path": "work/build_v50.py",
+      "bytes": 27784,
+      "sha256": "28057819be5c8fd6c1dbea9db8ad32cde68029f609cf2a84471ed8e3d3b3ade4"
+    },
+    {
+      "path": "work/catalog_manifest.json",
+      "bytes": 38055,
+      "sha256": "9a6cfbfbd4e127784af28cfc888b45886e911b9936a2f5d95aa5a9599f376ed1"
+    },
+    {
+      "path": "work/check_artifacts_v50.py",
+      "bytes": 8908,
+      "sha256": "17dd38a760076fd51ab6a9c3815a457871d529400e55c7835cfdaaaccb51d321"
+    },
+    {
+      "path": "work/export_v50.py",
+      "bytes": 4294,
+      "sha256": "5fc356ddce3bfeeb6cc41705588f382452c42f556ecc1e7bf8f6fed33bb0692e"
+    },
+    {
+      "path": "work/layout_checks_v50.json",
+      "bytes": 134633,
+      "sha256": "9230363ca58c3e350a8381d68cc7b55b23af0cdfa1234c86893fbaa8c824f2bb"
+    },
+    {
+      "path": "work/make_release_notes_v50.py",
+      "bytes": 15969,
+      "sha256": "45a28c9bd3206982fa89ef5eca7129bb3c3a12f84eb52209fefaa0d7ba9190e4"
+    },
+    {
+      "path": "work/make_rules_v50.py",
+      "bytes": 48748,
+      "sha256": "cde3ac2ef200a4b91f543248505b097749bd4f83d11d334f68d97b43e1694449"
+    },
+    {
+      "path": "work/revise_v50.py",
+      "bytes": 21170,
+      "sha256": "9e968492ea087526799fb295c2b2e29c9a4e616428fd91bd77a804d1559b33db"
+    },
+    {
+      "path": "work/technology_36_trace.json",
+      "bytes": 104764,
+      "sha256": "1aea1dcbb846ff38cbc56594397f6395bb24ae20491fe4382118285643beb4bd"
+    },
+    {
+      "path": "work/v48_to_v50_changes.json",
+      "bytes": 247864,
+      "sha256": "d3f5dcac61a486372a4fb9721ab3bdcbc67d2c925cbe81177fb1c3afd2523c2e"
+    },
+    {
+      "path": "work/v50_catalog.md",
+      "bytes": 97803,
+      "sha256": "6fecb4efdfec6df73b033f2c72063364e27c19d9d7c4c4d4897e437fc31a381c"
+    },
+    {
+      "path": "work/v50_common.py",
+      "bytes": 3528,
+      "sha256": "28224421615499c34789d4276bce43b84e5c7659e891b97389f17058b329db1d"
+    },
+    {
+      "path": "work/v50_data.json",
+      "bytes": 196136,
+      "sha256": "f3cd083ba4b9b985175e2679db0ec003711e60facb9257387fdef80fb013ba91"
+    },
+    {
+      "path": "work/v50_rules.md",
+      "bytes": 48593,
+      "sha256": "3dc5cf7de061fb278870f39d0aaed5b3dbc7f8581c0cdf304fef56a72071c275"
+    },
+    {
+      "path": "work/validate_v50.py",
+      "bytes": 30630,
+      "sha256": "703db86d7b8fe1613bc184c8f2b39d26b02fa01823badb5c0e5c82005f84d591"
+    },
+    {
+      "path": "work/validation_v50.json",
+      "bytes": 67922,
+      "sha256": "009cd2aaa2876fd6d346a097daa3567a73a8ceb5cc92bb2a6d8fc53e8b918181"
+    },
+    {
+      "path": "work/visual_review_v50.json",
+      "bytes": 1512,
+      "sha256": "e324e71db83fd216897539bd6aa4d90dc90d59e4aa9b6de5f95a22bdfd9e0659"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+python-docx
+CairoSVG
+beautifulsoup4
+PyMuPDF
+playwright

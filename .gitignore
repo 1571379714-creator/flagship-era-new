@@ -1,0 +1,27 @@
+# Local credentials, editor/cache files and ephemeral rendering output
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credentials*.json
+*.token
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+*.log
+qa/
+.publish-state.json
+.publish-result.json
+# Font binaries are not distributed
+*.ttf
+*.otf
+*.ttc
+*.woff
+*.woff2

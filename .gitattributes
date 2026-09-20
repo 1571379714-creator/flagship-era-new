@@ -1,0 +1,12 @@
+# Keep the imported baseline byte-for-byte, including original newline sequences.
+versions/5.0/** -text
+# New project text uses LF, except Windows launcher.
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.cmd text eol=crlf
+# Baseline override must come last.
+versions/5.0/** -text
+*.pdf binary
+*.docx binary
+*.png binary

@@ -1,0 +1,2193 @@
+{
+  "pages": 59,
+  "cards": [
+    {
+      "id": "P01",
+      "type": "phone",
+      "name": "千元5G机",
+      "qty": 1,
+      "page": 3
+    },
+    {
+      "id": "P02",
+      "type": "phone",
+      "name": "轻商务入门机",
+      "qty": 1,
+      "page": 3
+    },
+    {
+      "id": "P03",
+      "type": "phone",
+      "name": "入门性能机",
+      "qty": 1,
+      "page": 3
+    },
+    {
+      "id": "P04",
+      "type": "phone",
+      "name": "入门拍照机",
+      "qty": 1,
+      "page": 3
+    },
+    {
+      "id": "P05",
+      "type": "phone",
+      "name": "大电池长续航机",
+      "qty": 1,
+      "page": 3
+    },
+    {
+      "id": "P06",
+      "type": "phone",
+      "name": "护眼直屏机",
+      "qty": 1,
+      "page": 3
+    },
+    {
+      "id": "P07",
+      "type": "phone",
+      "name": "小屏手机",
+      "qty": 1,
+      "page": 4
+    },
+    {
+      "id": "P08",
+      "type": "phone",
+      "name": "三防手机",
+      "qty": 1,
+      "page": 4
+    },
+    {
+      "id": "P09",
+      "type": "phone",
+      "name": "快充普及机",
+      "qty": 1,
+      "page": 4
+    },
+    {
+      "id": "P10",
+      "type": "phone",
+      "name": "人像自拍机",
+      "qty": 1,
+      "page": 4
+    },
+    {
+      "id": "P11",
+      "type": "phone",
+      "name": "轻旗舰",
+      "qty": 1,
+      "page": 4
+    },
+    {
+      "id": "P12",
+      "type": "phone",
+      "name": "大屏影音机",
+      "qty": 1,
+      "page": 4
+    },
+    {
+      "id": "P13",
+      "type": "phone",
+      "name": "高刷游戏手机",
+      "qty": 1,
+      "page": 5
+    },
+    {
+      "id": "P14",
+      "type": "phone",
+      "name": "旗舰芯片普及机",
+      "qty": 1,
+      "page": 5
+    },
+    {
+      "id": "P15",
+      "type": "phone",
+      "name": "双芯游戏手机",
+      "qty": 1,
+      "page": 5
+    },
+    {
+      "id": "P16",
+      "type": "phone",
+      "name": "主动散热游戏机",
+      "qty": 1,
+      "page": 5
+    },
+    {
+      "id": "P17",
+      "type": "phone",
+      "name": "电竞旗舰",
+      "qty": 1,
+      "page": 5
+    },
+    {
+      "id": "P18",
+      "type": "phone",
+      "name": "性能小钢炮",
+      "qty": 1,
+      "page": 5
+    },
+    {
+      "id": "P19",
+      "type": "phone",
+      "name": "长续航性能机",
+      "qty": 1,
+      "page": 6
+    },
+    {
+      "id": "P20",
+      "type": "phone",
+      "name": "直屏性能旗舰",
+      "qty": 1,
+      "page": 6
+    },
+    {
+      "id": "P21",
+      "type": "phone",
+      "name": "开放生态开发机",
+      "qty": 1,
+      "page": 6
+    },
+    {
+      "id": "P22",
+      "type": "phone",
+      "name": "端侧AI旗舰",
+      "qty": 1,
+      "page": 6
+    },
+    {
+      "id": "P23",
+      "type": "phone",
+      "name": "双电芯快充旗舰",
+      "qty": 1,
+      "page": 6
+    },
+    {
+      "id": "P24",
+      "type": "phone",
+      "name": "极致性能旗舰",
+      "qty": 1,
+      "page": 6
+    },
+    {
+      "id": "P25",
+      "type": "phone",
+      "name": "大底主摄机",
+      "qty": 1,
+      "page": 7
+    },
+    {
+      "id": "P26",
+      "type": "phone",
+      "name": "光学防抖拍照机",
+      "qty": 1,
+      "page": 7
+    },
+    {
+      "id": "P27",
+      "type": "phone",
+      "name": "人像摄影手机",
+      "qty": 1,
+      "page": 7
+    },
+    {
+      "id": "P28",
+      "type": "phone",
+      "name": "潜望长焦手机",
+      "qty": 1,
+      "page": 7
+    },
+    {
+      "id": "P29",
+      "type": "phone",
+      "name": "视频创作手机",
+      "qty": 1,
+      "page": 7
+    },
+    {
+      "id": "P30",
+      "type": "phone",
+      "name": "可变光圈旗舰",
+      "qty": 1,
+      "page": 7
+    },
+    {
+      "id": "P31",
+      "type": "phone",
+      "name": "双长焦影像旗舰",
+      "qty": 1,
+      "page": 8
+    },
+    {
+      "id": "P32",
+      "type": "phone",
+      "name": "轻薄影像旗舰",
+      "qty": 1,
+      "page": 8
+    },
+    {
+      "id": "P33",
+      "type": "phone",
+      "name": "一英寸影像旗舰",
+      "qty": 1,
+      "page": 8
+    },
+    {
+      "id": "P34",
+      "type": "phone",
+      "name": "全焦段影像旗舰",
+      "qty": 1,
+      "page": 8
+    },
+    {
+      "id": "P35",
+      "type": "phone",
+      "name": "摄影套装旗舰",
+      "qty": 1,
+      "page": 8
+    },
+    {
+      "id": "P36",
+      "type": "phone",
+      "name": "卫星通信影像旗舰",
+      "qty": 1,
+      "page": 8
+    },
+    {
+      "id": "P37",
+      "type": "phone",
+      "name": "企业定制手机",
+      "qty": 1,
+      "page": 9
+    },
+    {
+      "id": "P38",
+      "type": "phone",
+      "name": "隐私安全手机",
+      "qty": 1,
+      "page": 9
+    },
+    {
+      "id": "P39",
+      "type": "phone",
+      "name": "轻薄通勤机",
+      "qty": 1,
+      "page": 9
+    },
+    {
+      "id": "P40",
+      "type": "phone",
+      "name": "旗舰标准版",
+      "qty": 1,
+      "page": 9
+    },
+    {
+      "id": "P41",
+      "type": "phone",
+      "name": "大屏商务旗舰",
+      "qty": 1,
+      "page": 9
+    },
+    {
+      "id": "P42",
+      "type": "phone",
+      "name": "紧凑型小折叠",
+      "qty": 1,
+      "page": 9
+    },
+    {
+      "id": "P43",
+      "type": "phone",
+      "name": "时尚小折叠",
+      "qty": 1,
+      "page": 10
+    },
+    {
+      "id": "P44",
+      "type": "phone",
+      "name": "轻薄大折叠",
+      "qty": 1,
+      "page": 10
+    },
+    {
+      "id": "P45",
+      "type": "phone",
+      "name": "商务大折叠",
+      "qty": 1,
+      "page": 10
+    },
+    {
+      "id": "P46",
+      "type": "phone",
+      "name": "影像大折叠",
+      "qty": 1,
+      "page": 10
+    },
+    {
+      "id": "P47",
+      "type": "phone",
+      "name": "全能Pro旗舰",
+      "qty": 1,
+      "page": 10
+    },
+    {
+      "id": "P48",
+      "type": "phone",
+      "name": "多任务折叠旗舰",
+      "qty": 1,
+      "page": 10
+    },
+    {
+      "id": "P49",
+      "type": "phone",
+      "name": "长辈关怀手机",
+      "qty": 1,
+      "page": 11
+    },
+    {
+      "id": "P50",
+      "type": "phone",
+      "name": "小屏直板机",
+      "qty": 1,
+      "page": 11
+    },
+    {
+      "id": "P51",
+      "type": "phone",
+      "name": "户外长续航机",
+      "qty": 1,
+      "page": 11
+    },
+    {
+      "id": "P52",
+      "type": "phone",
+      "name": "校园游戏机",
+      "qty": 1,
+      "page": 11
+    },
+    {
+      "id": "P53",
+      "type": "phone",
+      "name": "流畅标准版",
+      "qty": 1,
+      "page": 11
+    },
+    {
+      "id": "P54",
+      "type": "phone",
+      "name": "轻巧自拍机",
+      "qty": 1,
+      "page": 11
+    },
+    {
+      "id": "P55",
+      "type": "phone",
+      "name": "家庭互联手机",
+      "qty": 1,
+      "page": 12
+    },
+    {
+      "id": "P56",
+      "type": "phone",
+      "name": "高亮户外机",
+      "qty": 1,
+      "page": 12
+    },
+    {
+      "id": "P57",
+      "type": "phone",
+      "name": "能效游戏机",
+      "qty": 1,
+      "page": 12
+    },
+    {
+      "id": "P58",
+      "type": "phone",
+      "name": "均衡性能机",
+      "qty": 1,
+      "page": 12
+    },
+    {
+      "id": "P59",
+      "type": "phone",
+      "name": "满帧直屏旗舰",
+      "qty": 1,
+      "page": 12
+    },
+    {
+      "id": "P60",
+      "type": "phone",
+      "name": "大电池电竞机",
+      "qty": 1,
+      "page": 12
+    },
+    {
+      "id": "P61",
+      "type": "phone",
+      "name": "小屏性能旗舰",
+      "qty": 1,
+      "page": 13
+    },
+    {
+      "id": "P62",
+      "type": "phone",
+      "name": "标准版性能旗舰",
+      "qty": 1,
+      "page": 13
+    },
+    {
+      "id": "P63",
+      "type": "phone",
+      "name": "开发者参考机",
+      "qty": 1,
+      "page": 13
+    },
+    {
+      "id": "P64",
+      "type": "phone",
+      "name": "持续性能旗舰",
+      "qty": 1,
+      "page": 13
+    },
+    {
+      "id": "P65",
+      "type": "phone",
+      "name": "街拍轻旗舰",
+      "qty": 1,
+      "page": 13
+    },
+    {
+      "id": "P66",
+      "type": "phone",
+      "name": "人像标准版",
+      "qty": 1,
+      "page": 13
+    },
+    {
+      "id": "P67",
+      "type": "phone",
+      "name": "长焦旅行机",
+      "qty": 1,
+      "page": 14
+    },
+    {
+      "id": "P68",
+      "type": "phone",
+      "name": "紧凑影像旗舰",
+      "qty": 1,
+      "page": 14
+    },
+    {
+      "id": "P69",
+      "type": "phone",
+      "name": "视频工作机",
+      "qty": 1,
+      "page": 14
+    },
+    {
+      "id": "P70",
+      "type": "phone",
+      "name": "创作双机方案",
+      "qty": 1,
+      "page": 14
+    },
+    {
+      "id": "P71",
+      "type": "phone",
+      "name": "专业影像Ultra",
+      "qty": 1,
+      "page": 14
+    },
+    {
+      "id": "P72",
+      "type": "phone",
+      "name": "耐候摄影手机",
+      "qty": 1,
+      "page": 14
+    },
+    {
+      "id": "P73",
+      "type": "phone",
+      "name": "政企安全终端",
+      "qty": 1,
+      "page": 15
+    },
+    {
+      "id": "P74",
+      "type": "phone",
+      "name": "轻办公手机",
+      "qty": 1,
+      "page": 15
+    },
+    {
+      "id": "P75",
+      "type": "phone",
+      "name": "差旅商务机",
+      "qty": 1,
+      "page": 15
+    },
+    {
+      "id": "P76",
+      "type": "phone",
+      "name": "远程协作旗舰",
+      "qty": 1,
+      "page": 15
+    },
+    {
+      "id": "P77",
+      "type": "phone",
+      "name": "生产力小折叠",
+      "qty": 1,
+      "page": 15
+    },
+    {
+      "id": "P78",
+      "type": "phone",
+      "name": "双屏会议终端",
+      "qty": 1,
+      "page": 15
+    },
+    {
+      "id": "P79",
+      "type": "phone",
+      "name": "高端质感旗舰",
+      "qty": 1,
+      "page": 16
+    },
+    {
+      "id": "P80",
+      "type": "phone",
+      "name": "移动办公大折叠",
+      "qty": 1,
+      "page": 16
+    },
+    {
+      "id": "P81",
+      "type": "phone",
+      "name": "平价国民机",
+      "qty": 1,
+      "page": 16
+    },
+    {
+      "id": "P82",
+      "type": "phone",
+      "name": "出行可靠机",
+      "qty": 1,
+      "page": 16
+    },
+    {
+      "id": "P83",
+      "type": "phone",
+      "name": "易维修手机",
+      "qty": 1,
+      "page": 16
+    },
+    {
+      "id": "P84",
+      "type": "phone",
+      "name": "全能大众Pro",
+      "qty": 1,
+      "page": 16
+    },
+    {
+      "id": "P85",
+      "type": "phone",
+      "name": "电竞联调机",
+      "qty": 1,
+      "page": 17
+    },
+    {
+      "id": "P86",
+      "type": "phone",
+      "name": "性能工程样机",
+      "qty": 1,
+      "page": 17
+    },
+    {
+      "id": "P87",
+      "type": "phone",
+      "name": "平台性能旗舰",
+      "qty": 1,
+      "page": 17
+    },
+    {
+      "id": "P88",
+      "type": "phone",
+      "name": "极限性能Ultra",
+      "qty": 1,
+      "page": 17
+    },
+    {
+      "id": "P89",
+      "type": "phone",
+      "name": "联合影像手机",
+      "qty": 1,
+      "page": 17
+    },
+    {
+      "id": "P90",
+      "type": "phone",
+      "name": "旅行摄影套装",
+      "qty": 1,
+      "page": 17
+    },
+    {
+      "id": "P91",
+      "type": "phone",
+      "name": "多机位创作旗舰",
+      "qty": 1,
+      "page": 18
+    },
+    {
+      "id": "P92",
+      "type": "phone",
+      "name": "超感光专业机",
+      "qty": 1,
+      "page": 18
+    },
+    {
+      "id": "P93",
+      "type": "phone",
+      "name": "供应链标准机",
+      "qty": 1,
+      "page": 18
+    },
+    {
+      "id": "P94",
+      "type": "phone",
+      "name": "企业平台终端",
+      "qty": 1,
+      "page": 18
+    },
+    {
+      "id": "P95",
+      "type": "phone",
+      "name": "协作折叠旗舰",
+      "qty": 1,
+      "page": 18
+    },
+    {
+      "id": "P96",
+      "type": "phone",
+      "name": "行业解决方案终端",
+      "qty": 1,
+      "page": 18
+    },
+    {
+      "id": "T01",
+      "type": "tech",
+      "name": "VC均热板",
+      "qty": 1,
+      "page": 19
+    },
+    {
+      "id": "T02",
+      "type": "tech",
+      "name": "OIS光学防抖",
+      "qty": 1,
+      "page": 19
+    },
+    {
+      "id": "T03",
+      "type": "tech",
+      "name": "柔性OLED",
+      "qty": 1,
+      "page": 19
+    },
+    {
+      "id": "T04",
+      "type": "tech",
+      "name": "快充协议",
+      "qty": 1,
+      "page": 19
+    },
+    {
+      "id": "T05",
+      "type": "tech",
+      "name": "水滴铰链",
+      "qty": 1,
+      "page": 19
+    },
+    {
+      "id": "T06",
+      "type": "tech",
+      "name": "多设备协同",
+      "qty": 1,
+      "page": 19
+    },
+    {
+      "id": "T07",
+      "type": "tech",
+      "name": "LPDDR5X",
+      "qty": 1,
+      "page": 20
+    },
+    {
+      "id": "T08",
+      "type": "tech",
+      "name": "多帧降噪",
+      "qty": 1,
+      "page": 20
+    },
+    {
+      "id": "T09",
+      "type": "tech",
+      "name": "LTPO自适应刷新率",
+      "qty": 1,
+      "page": 20
+    },
+    {
+      "id": "T10",
+      "type": "tech",
+      "name": "硅碳负极电池",
+      "qty": 1,
+      "page": 20
+    },
+    {
+      "id": "T11",
+      "type": "tech",
+      "name": "超薄柔性玻璃",
+      "qty": 1,
+      "page": 20
+    },
+    {
+      "id": "T12",
+      "type": "tech",
+      "name": "隐私计算",
+      "qty": 1,
+      "page": 20
+    },
+    {
+      "id": "T13",
+      "type": "tech",
+      "name": "UFS 4.0",
+      "qty": 1,
+      "page": 21
+    },
+    {
+      "id": "T14",
+      "type": "tech",
+      "name": "潜望式长焦",
+      "qty": 1,
+      "page": 21
+    },
+    {
+      "id": "T15",
+      "type": "tech",
+      "name": "低功耗显示驱动",
+      "qty": 1,
+      "page": 21
+    },
+    {
+      "id": "T16",
+      "type": "tech",
+      "name": "电池健康管理",
+      "qty": 1,
+      "page": 21
+    },
+    {
+      "id": "T17",
+      "type": "tech",
+      "name": "多角度悬停结构",
+      "qty": 1,
+      "page": 21
+    },
+    {
+      "id": "T18",
+      "type": "tech",
+      "name": "端侧大模型",
+      "qty": 1,
+      "page": 21
+    },
+    {
+      "id": "T19",
+      "type": "tech",
+      "name": "动态频率调度",
+      "qty": 1,
+      "page": 22
+    },
+    {
+      "id": "T20",
+      "type": "tech",
+      "name": "像素合并",
+      "qty": 1,
+      "page": 22
+    },
+    {
+      "id": "T21",
+      "type": "tech",
+      "name": "高密度封装",
+      "qty": 1,
+      "page": 22
+    },
+    {
+      "id": "T22",
+      "type": "tech",
+      "name": "电源管理芯片",
+      "qty": 1,
+      "page": 22
+    },
+    {
+      "id": "T23",
+      "type": "tech",
+      "name": "可信执行环境",
+      "qty": 1,
+      "page": 22
+    },
+    {
+      "id": "T24",
+      "type": "tech",
+      "name": "轻量化铰链",
+      "qty": 1,
+      "page": 22
+    },
+    {
+      "id": "T25",
+      "type": "tech",
+      "name": "高频PWM调光",
+      "qty": 1,
+      "page": 23
+    },
+    {
+      "id": "T26",
+      "type": "tech",
+      "name": "多摄色彩标定",
+      "qty": 1,
+      "page": 23
+    },
+    {
+      "id": "T27",
+      "type": "tech",
+      "name": "系统能效调优",
+      "qty": 1,
+      "page": 23
+    },
+    {
+      "id": "T28",
+      "type": "tech",
+      "name": "图形驱动优化",
+      "qty": 1,
+      "page": 23
+    },
+    {
+      "id": "T29",
+      "type": "tech",
+      "name": "跨设备接续",
+      "qty": 1,
+      "page": 23
+    },
+    {
+      "id": "T30",
+      "type": "tech",
+      "name": "分屏任务调度",
+      "qty": 1,
+      "page": 23
+    },
+    {
+      "id": "T31",
+      "type": "tech",
+      "name": "模组接口标准",
+      "qty": 1,
+      "page": 24
+    },
+    {
+      "id": "T32",
+      "type": "tech",
+      "name": "可靠性工程",
+      "qty": 1,
+      "page": 24
+    },
+    {
+      "id": "T33",
+      "type": "tech",
+      "name": "参考设计平台",
+      "qty": 1,
+      "page": 24
+    },
+    {
+      "id": "T34",
+      "type": "tech",
+      "name": "片上安全隔离",
+      "qty": 1,
+      "page": 24
+    },
+    {
+      "id": "T35",
+      "type": "tech",
+      "name": "热管理建模",
+      "qty": 1,
+      "page": 24
+    },
+    {
+      "id": "T36",
+      "type": "tech",
+      "name": "工程流程标准化",
+      "qty": 1,
+      "page": 24
+    },
+    {
+      "id": "T37",
+      "type": "tech",
+      "name": "平台复用接口",
+      "qty": 1,
+      "page": 25
+    },
+    {
+      "id": "T38",
+      "type": "tech",
+      "name": "影像模组适配层",
+      "qty": 1,
+      "page": 25
+    },
+    {
+      "id": "T39",
+      "type": "tech",
+      "name": "能效验证体系",
+      "qty": 1,
+      "page": 25
+    },
+    {
+      "id": "T40",
+      "type": "tech",
+      "name": "柔性结构协同",
+      "qty": 1,
+      "page": 25
+    },
+    {
+      "id": "T41",
+      "type": "tech",
+      "name": "跨厂互联验证",
+      "qty": 1,
+      "page": 25
+    },
+    {
+      "id": "B01",
+      "type": "business",
+      "name": "电商旗舰店",
+      "qty": 1,
+      "page": 26
+    },
+    {
+      "id": "B02",
+      "type": "business",
+      "name": "校园推广",
+      "qty": 1,
+      "page": 26
+    },
+    {
+      "id": "B03",
+      "type": "business",
+      "name": "工业设计外包",
+      "qty": 1,
+      "page": 26
+    },
+    {
+      "id": "B04",
+      "type": "business",
+      "name": "售后服务网络",
+      "qty": 1,
+      "page": 26
+    },
+    {
+      "id": "B05",
+      "type": "business",
+      "name": "运营商合约",
+      "qty": 1,
+      "page": 26
+    },
+    {
+      "id": "B06",
+      "type": "business",
+      "name": "ODM合作",
+      "qty": 1,
+      "page": 26
+    },
+    {
+      "id": "B07",
+      "type": "business",
+      "name": "影像联合实验室",
+      "qty": 1,
+      "page": 27
+    },
+    {
+      "id": "B08",
+      "type": "business",
+      "name": "开发者社区",
+      "qty": 1,
+      "page": 27
+    },
+    {
+      "id": "B09",
+      "type": "business",
+      "name": "柔性面板联合开发",
+      "qty": 1,
+      "page": 27
+    },
+    {
+      "id": "B10",
+      "type": "business",
+      "name": "以旧换新",
+      "qty": 1,
+      "page": 27
+    },
+    {
+      "id": "B11",
+      "type": "business",
+      "name": "线下体验店",
+      "qty": 1,
+      "page": 27
+    },
+    {
+      "id": "B12",
+      "type": "business",
+      "name": "电竞赛事合作",
+      "qty": 1,
+      "page": 27
+    },
+    {
+      "id": "B13",
+      "type": "business",
+      "name": "摄影师合作计划",
+      "qty": 1,
+      "page": 28
+    },
+    {
+      "id": "B14",
+      "type": "business",
+      "name": "海外经销商",
+      "qty": 1,
+      "page": 28
+    },
+    {
+      "id": "B15",
+      "type": "business",
+      "name": "大客户采购",
+      "qty": 1,
+      "page": 28
+    },
+    {
+      "id": "B16",
+      "type": "business",
+      "name": "供应链账期协商",
+      "qty": 1,
+      "page": 28
+    },
+    {
+      "id": "B17",
+      "type": "business",
+      "name": "品牌联名",
+      "qty": 1,
+      "page": 28
+    },
+    {
+      "id": "B18",
+      "type": "business",
+      "name": "渠道扩张",
+      "qty": 1,
+      "page": 28
+    },
+    {
+      "id": "B19",
+      "type": "business",
+      "name": "区域零售渠道",
+      "qty": 1,
+      "page": 29
+    },
+    {
+      "id": "B20",
+      "type": "business",
+      "name": "小批量试产",
+      "qty": 1,
+      "page": 29
+    },
+    {
+      "id": "B21",
+      "type": "business",
+      "name": "结构件集中采购",
+      "qty": 1,
+      "page": 29
+    },
+    {
+      "id": "B22",
+      "type": "business",
+      "name": "模组联合采购",
+      "qty": 1,
+      "page": 29
+    },
+    {
+      "id": "B23",
+      "type": "business",
+      "name": "平台化采购",
+      "qty": 1,
+      "page": 29
+    },
+    {
+      "id": "B24",
+      "type": "business",
+      "name": "延保服务",
+      "qty": 1,
+      "page": 29
+    },
+    {
+      "id": "B25",
+      "type": "business",
+      "name": "企业设备管理",
+      "qty": 1,
+      "page": 30
+    },
+    {
+      "id": "B26",
+      "type": "business",
+      "name": "工业设计奖",
+      "qty": 1,
+      "page": 30
+    },
+    {
+      "id": "B27",
+      "type": "business",
+      "name": "柔性面板长约",
+      "qty": 1,
+      "page": 30
+    },
+    {
+      "id": "B28",
+      "type": "business",
+      "name": "影像评测合作",
+      "qty": 1,
+      "page": 30
+    },
+    {
+      "id": "B29",
+      "type": "business",
+      "name": "行业展会",
+      "qty": 1,
+      "page": 30
+    },
+    {
+      "id": "B30",
+      "type": "business",
+      "name": "精品直营店",
+      "qty": 1,
+      "page": 30
+    },
+    {
+      "id": "B31",
+      "type": "business",
+      "name": "元器件分销网络",
+      "qty": 1,
+      "page": 31
+    },
+    {
+      "id": "B32",
+      "type": "business",
+      "name": "联合打样服务",
+      "qty": 1,
+      "page": 31
+    },
+    {
+      "id": "B33",
+      "type": "business",
+      "name": "备件周转中心",
+      "qty": 1,
+      "page": 31
+    },
+    {
+      "id": "B34",
+      "type": "business",
+      "name": "供应信息平台",
+      "qty": 1,
+      "page": 31
+    },
+    {
+      "id": "B35",
+      "type": "business",
+      "name": "行业技术论坛",
+      "qty": 1,
+      "page": 31
+    },
+    {
+      "id": "B36",
+      "type": "business",
+      "name": "组织变革顾问",
+      "qty": 1,
+      "page": 31
+    },
+    {
+      "id": "B37",
+      "type": "business",
+      "name": "红厂合作协议",
+      "qty": 1,
+      "page": 32
+    },
+    {
+      "id": "B38",
+      "type": "business",
+      "name": "黄厂合作协议",
+      "qty": 1,
+      "page": 32
+    },
+    {
+      "id": "B39",
+      "type": "business",
+      "name": "蓝厂合作协议",
+      "qty": 1,
+      "page": 32
+    },
+    {
+      "id": "B40",
+      "type": "business",
+      "name": "绿厂合作协议",
+      "qty": 1,
+      "page": 32
+    },
+    {
+      "id": "B41",
+      "type": "business",
+      "name": "黑厂合作协议",
+      "qty": 1,
+      "page": 32
+    },
+    {
+      "id": "C01",
+      "type": "common",
+      "name": "天玑7300",
+      "qty": 2,
+      "page": 33
+    },
+    {
+      "id": "C02",
+      "type": "common",
+      "name": "骁龙778G",
+      "qty": 2,
+      "page": 33
+    },
+    {
+      "id": "C03",
+      "type": "common",
+      "name": "骁龙870",
+      "qty": 2,
+      "page": 33
+    },
+    {
+      "id": "C04",
+      "type": "common",
+      "name": "天玑8100",
+      "qty": 2,
+      "page": 33
+    },
+    {
+      "id": "C05",
+      "type": "common",
+      "name": "骁龙888",
+      "qty": 2,
+      "page": 33
+    },
+    {
+      "id": "C06",
+      "type": "common",
+      "name": "骁龙8 Gen 1",
+      "qty": 2,
+      "page": 33
+    },
+    {
+      "id": "C07",
+      "type": "common",
+      "name": "骁龙8+ Gen 1",
+      "qty": 2,
+      "page": 34
+    },
+    {
+      "id": "C08",
+      "type": "common",
+      "name": "骁龙8 Gen 2",
+      "qty": 2,
+      "page": 34
+    },
+    {
+      "id": "C09",
+      "type": "common",
+      "name": "天玑9300",
+      "qty": 2,
+      "page": 34
+    },
+    {
+      "id": "C10",
+      "type": "common",
+      "name": "骁龙8 Gen 3",
+      "qty": 2,
+      "page": 34
+    },
+    {
+      "id": "C11",
+      "type": "common",
+      "name": "骁龙7+ Gen 2",
+      "qty": 2,
+      "page": 34
+    },
+    {
+      "id": "C12",
+      "type": "common",
+      "name": "骁龙8 Elite",
+      "qty": 2,
+      "page": 34
+    },
+    {
+      "id": "C13",
+      "type": "common",
+      "name": "天玑8200",
+      "qty": 2,
+      "page": 35
+    },
+    {
+      "id": "D01",
+      "type": "common",
+      "name": "720p LCD",
+      "qty": 2,
+      "page": 35
+    },
+    {
+      "id": "D02",
+      "type": "common",
+      "name": "90Hz OLED",
+      "qty": 2,
+      "page": 35
+    },
+    {
+      "id": "D03",
+      "type": "common",
+      "name": "120Hz OLED",
+      "qty": 2,
+      "page": 35
+    },
+    {
+      "id": "D04",
+      "type": "common",
+      "name": "1.5K LTPO",
+      "qty": 2,
+      "page": 35
+    },
+    {
+      "id": "D05",
+      "type": "common",
+      "name": "2K LTPO",
+      "qty": 2,
+      "page": 35
+    },
+    {
+      "id": "D06",
+      "type": "common",
+      "name": "柔性折叠屏",
+      "qty": 2,
+      "page": 36
+    },
+    {
+      "id": "D07",
+      "type": "common",
+      "name": "小尺寸OLED",
+      "qty": 2,
+      "page": 36
+    },
+    {
+      "id": "D08",
+      "type": "common",
+      "name": "144Hz OLED",
+      "qty": 2,
+      "page": 36
+    },
+    {
+      "id": "D09",
+      "type": "common",
+      "name": "紧凑折叠屏",
+      "qty": 2,
+      "page": 36
+    },
+    {
+      "id": "F01",
+      "type": "common",
+      "name": "聚碳酸酯机身",
+      "qty": 2,
+      "page": 36
+    },
+    {
+      "id": "F02",
+      "type": "common",
+      "name": "轻薄玻璃机身",
+      "qty": 2,
+      "page": 36
+    },
+    {
+      "id": "F03",
+      "type": "common",
+      "name": "铝合金机身",
+      "qty": 2,
+      "page": 37
+    },
+    {
+      "id": "F04",
+      "type": "common",
+      "name": "大电池机身",
+      "qty": 2,
+      "page": 37
+    },
+    {
+      "id": "F05",
+      "type": "common",
+      "name": "陶瓷机身",
+      "qty": 2,
+      "page": 37
+    },
+    {
+      "id": "F06",
+      "type": "common",
+      "name": "折叠铰链机身",
+      "qty": 2,
+      "page": 37
+    },
+    {
+      "id": "F07",
+      "type": "common",
+      "name": "镁合金机身",
+      "qty": 2,
+      "page": 37
+    },
+    {
+      "id": "F08",
+      "type": "common",
+      "name": "纤薄折叠机身",
+      "qty": 2,
+      "page": 37
+    },
+    {
+      "id": "F09",
+      "type": "common",
+      "name": "复合纤维机身",
+      "qty": 2,
+      "page": 38
+    },
+    {
+      "id": "I01",
+      "type": "common",
+      "name": "12MP单摄",
+      "qty": 2,
+      "page": 38
+    },
+    {
+      "id": "I02",
+      "type": "common",
+      "name": "50MP主摄",
+      "qty": 2,
+      "page": 38
+    },
+    {
+      "id": "I03",
+      "type": "common",
+      "name": "OIS双摄",
+      "qty": 2,
+      "page": 38
+    },
+    {
+      "id": "I04",
+      "type": "common",
+      "name": "人像三摄",
+      "qty": 2,
+      "page": 38
+    },
+    {
+      "id": "I05",
+      "type": "common",
+      "name": "潜望长焦模组",
+      "qty": 2,
+      "page": 38
+    },
+    {
+      "id": "I06",
+      "type": "common",
+      "name": "一英寸主摄",
+      "qty": 2,
+      "page": 39
+    },
+    {
+      "id": "I07",
+      "type": "common",
+      "name": "轻量OIS模组",
+      "qty": 2,
+      "page": 39
+    },
+    {
+      "id": "I08",
+      "type": "common",
+      "name": "视频双摄模组",
+      "qty": 2,
+      "page": 39
+    },
+    {
+      "id": "I09",
+      "type": "common",
+      "name": "大底双摄模组",
+      "qty": 2,
+      "page": 39
+    },
+    {
+      "id": "X01",
+      "type": "custom",
+      "name": "高频芯片定制",
+      "qty": 2,
+      "page": 40
+    },
+    {
+      "id": "X02",
+      "type": "custom",
+      "name": "低压芯片定制",
+      "qty": 2,
+      "page": 40
+    },
+    {
+      "id": "X03",
+      "type": "custom",
+      "name": "安全芯片定制",
+      "qty": 2,
+      "page": 40
+    },
+    {
+      "id": "X04",
+      "type": "custom",
+      "name": "旗舰芯片定制",
+      "qty": 2,
+      "page": 40
+    },
+    {
+      "id": "X05",
+      "type": "custom",
+      "name": "高刷屏定制",
+      "qty": 2,
+      "page": 40
+    },
+    {
+      "id": "X06",
+      "type": "custom",
+      "name": "轻薄屏定制",
+      "qty": 2,
+      "page": 40
+    },
+    {
+      "id": "X07",
+      "type": "custom",
+      "name": "影像监看屏定制",
+      "qty": 2,
+      "page": 41
+    },
+    {
+      "id": "X08",
+      "type": "custom",
+      "name": "折叠屏定制",
+      "qty": 2,
+      "page": 41
+    },
+    {
+      "id": "X09",
+      "type": "custom",
+      "name": "人像模组定制",
+      "qty": 2,
+      "page": 41
+    },
+    {
+      "id": "X10",
+      "type": "custom",
+      "name": "轻量影像定制",
+      "qty": 2,
+      "page": 41
+    },
+    {
+      "id": "X11",
+      "type": "custom",
+      "name": "视频模组定制",
+      "qty": 2,
+      "page": 41
+    },
+    {
+      "id": "X12",
+      "type": "custom",
+      "name": "大底长焦定制",
+      "qty": 2,
+      "page": 41
+    },
+    {
+      "id": "X13",
+      "type": "custom",
+      "name": "大电池结构定制",
+      "qty": 2,
+      "page": 42
+    },
+    {
+      "id": "X14",
+      "type": "custom",
+      "name": "轻薄结构定制",
+      "qty": 2,
+      "page": 42
+    },
+    {
+      "id": "X15",
+      "type": "custom",
+      "name": "陶瓷结构定制",
+      "qty": 2,
+      "page": 42
+    },
+    {
+      "id": "X16",
+      "type": "custom",
+      "name": "折叠结构定制",
+      "qty": 2,
+      "page": 42
+    },
+    {
+      "id": "X17",
+      "type": "custom",
+      "name": "电竞双件套",
+      "qty": 2,
+      "page": 42
+    },
+    {
+      "id": "X18",
+      "type": "custom",
+      "name": "影像计算双件套",
+      "qty": 2,
+      "page": 42
+    },
+    {
+      "id": "X19",
+      "type": "custom",
+      "name": "长续航双件套",
+      "qty": 2,
+      "page": 43
+    },
+    {
+      "id": "X20",
+      "type": "custom",
+      "name": "创作显示双件套",
+      "qty": 2,
+      "page": 43
+    },
+    {
+      "id": "X21",
+      "type": "custom",
+      "name": "柔性折叠双件套",
+      "qty": 2,
+      "page": 43
+    },
+    {
+      "id": "X22",
+      "type": "custom",
+      "name": "旅行摄影双件套",
+      "qty": 2,
+      "page": 43
+    },
+    {
+      "id": "X23",
+      "type": "custom",
+      "name": "安全平台双件套",
+      "qty": 2,
+      "page": 43
+    },
+    {
+      "id": "X24",
+      "type": "custom",
+      "name": "专业视频双件套",
+      "qty": 2,
+      "page": 43
+    },
+    {
+      "id": "X25",
+      "type": "custom",
+      "name": "游戏平台三件套",
+      "qty": 2,
+      "page": 44
+    },
+    {
+      "id": "X26",
+      "type": "custom",
+      "name": "影像平台三件套",
+      "qty": 2,
+      "page": 44
+    },
+    {
+      "id": "X27",
+      "type": "custom",
+      "name": "轻薄平台三件套",
+      "qty": 2,
+      "page": 44
+    },
+    {
+      "id": "X28",
+      "type": "custom",
+      "name": "旗舰计算三件套",
+      "qty": 2,
+      "page": 44
+    },
+    {
+      "id": "X29",
+      "type": "custom",
+      "name": "大众整机方案",
+      "qty": 2,
+      "page": 44
+    },
+    {
+      "id": "X30",
+      "type": "custom",
+      "name": "性能整机方案",
+      "qty": 2,
+      "page": 44
+    },
+    {
+      "id": "X31",
+      "type": "custom",
+      "name": "影像整机方案",
+      "qty": 2,
+      "page": 45
+    },
+    {
+      "id": "X32",
+      "type": "custom",
+      "name": "折叠整机方案",
+      "qty": 2,
+      "page": 45
+    },
+    {
+      "id": "S011",
+      "type": "starter",
+      "name": "入门计算平台",
+      "qty": 1,
+      "page": 46
+    },
+    {
+      "id": "S012",
+      "type": "starter",
+      "name": "标准LCD",
+      "qty": 1,
+      "page": 46
+    },
+    {
+      "id": "S013",
+      "type": "starter",
+      "name": "基础主摄",
+      "qty": 1,
+      "page": 46
+    },
+    {
+      "id": "S014",
+      "type": "starter",
+      "name": "复合材料机身",
+      "qty": 1,
+      "page": 46
+    },
+    {
+      "id": "S021",
+      "type": "starter",
+      "name": "低功耗平台",
+      "qty": 1,
+      "page": 46
+    },
+    {
+      "id": "S022",
+      "type": "starter",
+      "name": "轻量显示屏",
+      "qty": 1,
+      "page": 46
+    },
+    {
+      "id": "S023",
+      "type": "starter",
+      "name": "入门影像模组",
+      "qty": 1,
+      "page": 47
+    },
+    {
+      "id": "S024",
+      "type": "starter",
+      "name": "影像握持机身",
+      "qty": 1,
+      "page": 47
+    },
+    {
+      "id": "S031",
+      "type": "starter",
+      "name": "互联基础平台",
+      "qty": 1,
+      "page": 47
+    },
+    {
+      "id": "S032",
+      "type": "starter",
+      "name": "紧凑显示屏",
+      "qty": 1,
+      "page": 47
+    },
+    {
+      "id": "S033",
+      "type": "starter",
+      "name": "微型基础模组",
+      "qty": 1,
+      "page": 47
+    },
+    {
+      "id": "S034",
+      "type": "starter",
+      "name": "轻薄入门机身",
+      "qty": 1,
+      "page": 47
+    },
+    {
+      "id": "S041",
+      "type": "starter",
+      "name": "稳定互联平台",
+      "qty": 1,
+      "page": 48
+    },
+    {
+      "id": "S042",
+      "type": "starter",
+      "name": "节能LCD",
+      "qty": 1,
+      "page": 48
+    },
+    {
+      "id": "S043",
+      "type": "starter",
+      "name": "标准主摄",
+      "qty": 1,
+      "page": 48
+    },
+    {
+      "id": "S044",
+      "type": "starter",
+      "name": "长续航入门机身",
+      "qty": 1,
+      "page": 48
+    },
+    {
+      "id": "J01",
+      "type": "project",
+      "name": "高性能计算",
+      "qty": 1,
+      "page": 49
+    },
+    {
+      "id": "J02",
+      "type": "project",
+      "name": "移动影像",
+      "qty": 1,
+      "page": 49
+    },
+    {
+      "id": "J03",
+      "type": "project",
+      "name": "轻薄化设计",
+      "qty": 1,
+      "page": 49
+    },
+    {
+      "id": "J04",
+      "type": "project",
+      "name": "能效与续航",
+      "qty": 1,
+      "page": 49
+    },
+    {
+      "id": "J05",
+      "type": "project",
+      "name": "折叠形态",
+      "qty": 1,
+      "page": 49
+    },
+    {
+      "id": "J06",
+      "type": "project",
+      "name": "软件生态",
+      "qty": 1,
+      "page": 49
+    },
+    {
+      "id": "J07",
+      "type": "project",
+      "name": "技术标准体系",
+      "qty": 1,
+      "page": 50
+    },
+    {
+      "id": "J08",
+      "type": "project",
+      "name": "渠道服务网络",
+      "qty": 1,
+      "page": 50
+    },
+    {
+      "id": "J09",
+      "type": "project",
+      "name": "量产产品线",
+      "qty": 1,
+      "page": 50
+    },
+    {
+      "id": "J10",
+      "type": "project",
+      "name": "产品组合",
+      "qty": 1,
+      "page": 50
+    },
+    {
+      "id": "J11",
+      "type": "project",
+      "name": "自主供应链",
+      "qty": 1,
+      "page": 50
+    },
+    {
+      "id": "J12",
+      "type": "project",
+      "name": "平台兼容性",
+      "qty": 1,
+      "page": 50
+    },
+    {
+      "id": "R01",
+      "type": "specialProject",
+      "name": "红厂平台标准",
+      "qty": 1,
+      "page": 51
+    },
+    {
+      "id": "R02",
+      "type": "specialProject",
+      "name": "黄厂平台标准",
+      "qty": 1,
+      "page": 51
+    },
+    {
+      "id": "R03",
+      "type": "specialProject",
+      "name": "蓝厂平台标准",
+      "qty": 1,
+      "page": 51
+    },
+    {
+      "id": "R04",
+      "type": "specialProject",
+      "name": "绿厂平台标准",
+      "qty": 1,
+      "page": 51
+    },
+    {
+      "id": "R05",
+      "type": "specialProject",
+      "name": "黑厂平台标准",
+      "qty": 1,
+      "page": 51
+    },
+    {
+      "id": "R06",
+      "type": "specialProject",
+      "name": "跨厂互联标准",
+      "qty": 1,
+      "page": 51
+    },
+    {
+      "id": "O01",
+      "type": "goal",
+      "name": "电竞娱乐品牌",
+      "qty": 1,
+      "page": 52
+    },
+    {
+      "id": "O02",
+      "type": "goal",
+      "name": "摄影创作品牌",
+      "qty": 1,
+      "page": 52
+    },
+    {
+      "id": "O03",
+      "type": "goal",
+      "name": "大众消费产品线",
+      "qty": 1,
+      "page": 52
+    },
+    {
+      "id": "O04",
+      "type": "goal",
+      "name": "商务办公产品线",
+      "qty": 1,
+      "page": 52
+    },
+    {
+      "id": "O05",
+      "type": "goal",
+      "name": "技术积累",
+      "qty": 1,
+      "page": 52
+    },
+    {
+      "id": "O06",
+      "type": "goal",
+      "name": "渠道建设",
+      "qty": 1,
+      "page": 52
+    },
+    {
+      "id": "O07",
+      "type": "goal",
+      "name": "多元产品组合",
+      "qty": 1,
+      "page": 53
+    },
+    {
+      "id": "O08",
+      "type": "goal",
+      "name": "行业标准参与者",
+      "qty": 1,
+      "page": 53
+    },
+    {
+      "id": "O09",
+      "type": "goal",
+      "name": "供应体系建设",
+      "qty": 1,
+      "page": 53
+    },
+    {
+      "id": "O10",
+      "type": "goal",
+      "name": "折叠产品专家",
+      "qty": 1,
+      "page": 53
+    },
+    {
+      "id": "O11",
+      "type": "goal",
+      "name": "旗舰产品组合",
+      "qty": 1,
+      "page": 53
+    },
+    {
+      "id": "O12",
+      "type": "goal",
+      "name": "研发组织建设",
+      "qty": 1,
+      "page": 53
+    },
+    {
+      "id": "O13",
+      "type": "goal",
+      "name": "红厂产品体系",
+      "qty": 1,
+      "page": 54
+    },
+    {
+      "id": "O14",
+      "type": "goal",
+      "name": "黄厂产品体系",
+      "qty": 1,
+      "page": 54
+    },
+    {
+      "id": "O15",
+      "type": "goal",
+      "name": "蓝厂产品体系",
+      "qty": 1,
+      "page": 54
+    },
+    {
+      "id": "O16",
+      "type": "goal",
+      "name": "绿厂产品体系",
+      "qty": 1,
+      "page": 54
+    },
+    {
+      "id": "O17",
+      "type": "goal",
+      "name": "黑厂产品体系",
+      "qty": 1,
+      "page": 54
+    },
+    {
+      "id": "O18",
+      "type": "goal",
+      "name": "跨厂产品组合",
+      "qty": 1,
+      "page": 54
+    }
+  ],
+  "index": [
+    [
+      "phone",
+      "产品企划",
+      96,
+      96,
+      3,
+      18
+    ],
+    [
+      "tech",
+      "科技卡",
+      41,
+      41,
+      19,
+      25
+    ],
+    [
+      "business",
+      "企业卡",
+      41,
+      41,
+      26,
+      32
+    ],
+    [
+      "common",
+      "稳定配件",
+      40,
+      80,
+      33,
+      39
+    ],
+    [
+      "custom",
+      "定制配件",
+      32,
+      64,
+      40,
+      45
+    ],
+    [
+      "starter",
+      "初始稳定配件",
+      16,
+      16,
+      46,
+      48
+    ],
+    [
+      "project",
+      "基础产业突破",
+      12,
+      12,
+      49,
+      50
+    ],
+    [
+      "specialProject",
+      "专项突破",
+      6,
+      6,
+      51,
+      51
+    ],
+    [
+      "goal",
+      "终局目标",
+      18,
+      18,
+      52,
+      54
+    ]
+  ]
+}
