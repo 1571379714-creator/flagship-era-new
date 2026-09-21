@@ -1,0 +1,9 @@
+{
+  "version": "6.2",
+  "testMethods": 32,
+  "failures": 0,
+  "errors": 0,
+  "singleMarketScenarios": 600,
+  "success": true,
+  "scope": "有限状态模型与数据断言；部分特效以显式测试参数输入，不是完整游戏解释器。没有真人对局、隐藏策略或全卡组合穷举。"
+}

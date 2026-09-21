@@ -1,0 +1,7197 @@
+[
+  {
+    "path": "/benchmarks/0/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/0/markets/0/incomeReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/0/markets/0/specialText",
+    "before": null,
+    "after": "无奖"
+  },
+  {
+    "path": "/benchmarks/0/markets/0/technologyReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/0/markets/1/incomeReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/0/markets/1/specialText",
+    "before": null,
+    "after": "无奖"
+  },
+  {
+    "path": "/benchmarks/0/markets/1/technologyReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/0/markets/2/incomeReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/0/markets/2/specialText",
+    "before": null,
+    "after": "无奖"
+  },
+  {
+    "path": "/benchmarks/0/markets/2/technologyReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/0/markets/3/incomeReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/0/markets/3/specialText",
+    "before": null,
+    "after": "无奖"
+  },
+  {
+    "path": "/benchmarks/0/markets/3/technologyReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/0/specialSummary",
+    "before": "获得8／16／24现金。",
+    "after": "按本市场格直接取得印刷现金。"
+  },
+  {
+    "path": "/benchmarks/1/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/1/markets/0/incomeReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/1/markets/0/specialText",
+    "before": null,
+    "after": "无奖"
+  },
+  {
+    "path": "/benchmarks/1/markets/0/technologyReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/1/markets/1/incomeReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/1/markets/1/specialText",
+    "before": null,
+    "after": "无奖"
+  },
+  {
+    "path": "/benchmarks/1/markets/1/technologyReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/1/markets/2/incomeReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/1/markets/2/specialText",
+    "before": null,
+    "after": "无奖"
+  },
+  {
+    "path": "/benchmarks/1/markets/2/technologyReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/1/markets/3/incomeReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/1/markets/3/specialText",
+    "before": null,
+    "after": "无奖"
+  },
+  {
+    "path": "/benchmarks/1/markets/3/technologyReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/1/specialSummary",
+    "before": "从公开商业区或研发区选1／2／3张入手。",
+    "after": "从统一牌市或主牌堆取印刷张数；取得不等于使用，结束后一次补牌。"
+  },
+  {
+    "path": "/benchmarks/2/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/2/markets/0/incomeReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/2/markets/0/specialText",
+    "before": null,
+    "after": "无奖"
+  },
+  {
+    "path": "/benchmarks/2/markets/0/technologyReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/2/markets/1/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/2/markets/1/specialText",
+    "before": null,
+    "after": "进度+1"
+  },
+  {
+    "path": "/benchmarks/2/markets/1/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/2/markets/2/incomeReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/2/markets/2/specialText",
+    "before": null,
+    "after": "无奖"
+  },
+  {
+    "path": "/benchmarks/2/markets/2/technologyReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/2/markets/3/incomeReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/2/markets/3/specialText",
+    "before": null,
+    "after": "无奖"
+  },
+  {
+    "path": "/benchmarks/2/markets/3/technologyReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/2/specialSummary",
+    "before": "已有1项在研推进1／2／3格；需首发并已部署研发。",
+    "after": "已有1项在研增加印刷进度；需挑战批次已部署完成研发，不立项、不溢出、不跳过证明。"
+  },
+  {
+    "path": "/benchmarks/3/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/3/markets/0/incomeReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/3/markets/0/specialText",
+    "before": null,
+    "after": "无奖"
+  },
+  {
+    "path": "/benchmarks/3/markets/0/technologyReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/3/markets/1/incomeReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/3/markets/1/specialText",
+    "before": null,
+    "after": "无奖"
+  },
+  {
+    "path": "/benchmarks/3/markets/1/technologyReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/3/markets/2/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/3/markets/2/specialText",
+    "before": null,
+    "after": "推荐+2"
+  },
+  {
+    "path": "/benchmarks/3/markets/2/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/3/markets/3/incomeReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/3/markets/3/specialText",
+    "before": null,
+    "after": "无奖"
+  },
+  {
+    "path": "/benchmarks/3/markets/3/technologyReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/3/specialSummary",
+    "before": "取得+2／+4／+6推荐章，供以后一次发布使用。",
+    "after": "取得印刷加值的推荐章，未来一次发布给一批一个市场；每公司至多留1枚。"
+  },
+  {
+    "path": "/benchmarks/4/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/4/markets/0/incomeReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/4/markets/0/specialText",
+    "before": null,
+    "after": "无奖"
+  },
+  {
+    "path": "/benchmarks/4/markets/0/technologyReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/4/markets/1/incomeReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/4/markets/1/specialText",
+    "before": null,
+    "after": "无奖"
+  },
+  {
+    "path": "/benchmarks/4/markets/1/technologyReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/4/markets/2/incomeReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/4/markets/2/specialText",
+    "before": null,
+    "after": "无奖"
+  },
+  {
+    "path": "/benchmarks/4/markets/2/technologyReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/4/markets/3/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/4/markets/3/specialText",
+    "before": null,
+    "after": "入库券3"
+  },
+  {
+    "path": "/benchmarks/4/markets/3/specialValue",
+    "before": 0,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/4/markets/3/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/4/specialSummary",
+    "before": "购买1张公开稳定或定制；取得费减0／3／6。",
+    "after": "取得印刷面额的入库券，未来一次稳定入库减现金；不省工作、不解锁引用，每公司至多1券。"
+  },
+  {
+    "path": "/benchmarks/5/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/5/markets/0/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/5/markets/0/specialText",
+    "before": null,
+    "after": "单批试产券 减0"
+  },
+  {
+    "path": "/benchmarks/5/markets/0/specialValue",
+    "before": 1,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/5/markets/0/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/5/markets/1/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/5/markets/1/specialText",
+    "before": null,
+    "after": "单批试产券 减0"
+  },
+  {
+    "path": "/benchmarks/5/markets/1/specialValue",
+    "before": 1,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/5/markets/1/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/5/markets/2/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/5/markets/2/specialText",
+    "before": null,
+    "after": "单批试产券 减0"
+  },
+  {
+    "path": "/benchmarks/5/markets/2/specialValue",
+    "before": 1,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/5/markets/2/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/5/markets/3/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/5/markets/3/specialText",
+    "before": null,
+    "after": "单批试产券 减0"
+  },
+  {
+    "path": "/benchmarks/5/markets/3/specialValue",
+    "before": 1,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/5/markets/3/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/5/specialSummary",
+    "before": "取得可试产1／2／3批的试产券。",
+    "after": "取得印刷面额的试产券；未来本人回合免费工作组装恰好1批，总费减券面值、最低6；照查世代与空位，每公司至多1券。"
+  },
+  {
+    "path": "/benchmarks/6/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/6/markets/0/incomeReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/6/markets/0/specialText",
+    "before": null,
+    "after": "无奖"
+  },
+  {
+    "path": "/benchmarks/6/markets/0/technologyReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/6/markets/1/incomeReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/6/markets/1/specialText",
+    "before": null,
+    "after": "无奖"
+  },
+  {
+    "path": "/benchmarks/6/markets/1/technologyReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/6/markets/2/incomeReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/6/markets/2/specialText",
+    "before": null,
+    "after": "无奖"
+  },
+  {
+    "path": "/benchmarks/6/markets/2/technologyReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/6/markets/3/incomeReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/6/markets/3/specialText",
+    "before": null,
+    "after": "无奖"
+  },
+  {
+    "path": "/benchmarks/6/markets/3/technologyReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/6/specialSummary",
+    "before": "获得8／16／24现金。",
+    "after": "按本市场格直接取得印刷现金。"
+  },
+  {
+    "path": "/benchmarks/7/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/7/markets/0/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/7/markets/0/specialText",
+    "before": null,
+    "after": "取1张"
+  },
+  {
+    "path": "/benchmarks/7/markets/0/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/7/markets/1/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/7/markets/1/specialText",
+    "before": null,
+    "after": "取1张"
+  },
+  {
+    "path": "/benchmarks/7/markets/1/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/7/markets/2/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/7/markets/2/specialText",
+    "before": null,
+    "after": "取1张"
+  },
+  {
+    "path": "/benchmarks/7/markets/2/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/7/markets/3/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/7/markets/3/specialText",
+    "before": null,
+    "after": "取1张"
+  },
+  {
+    "path": "/benchmarks/7/markets/3/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/7/specialSummary",
+    "before": "从公开商业区或研发区选1／2／3张入手。",
+    "after": "从统一牌市或主牌堆取印刷张数；取得不等于使用，结束后一次补牌。"
+  },
+  {
+    "path": "/benchmarks/8/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/8/markets/0/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/8/markets/0/specialText",
+    "before": null,
+    "after": "进度+1"
+  },
+  {
+    "path": "/benchmarks/8/markets/0/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/8/markets/1/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/8/markets/1/specialText",
+    "before": null,
+    "after": "进度+2"
+  },
+  {
+    "path": "/benchmarks/8/markets/1/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/8/markets/2/incomeReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/8/markets/2/specialText",
+    "before": null,
+    "after": "无奖"
+  },
+  {
+    "path": "/benchmarks/8/markets/2/technologyReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/8/markets/3/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/8/markets/3/specialText",
+    "before": null,
+    "after": "进度+1"
+  },
+  {
+    "path": "/benchmarks/8/markets/3/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/8/specialSummary",
+    "before": "已有1项在研推进1／2／3格；需首发并已部署研发。",
+    "after": "已有1项在研增加印刷进度；需挑战批次已部署完成研发，不立项、不溢出、不跳过证明。"
+  },
+  {
+    "path": "/benchmarks/9/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/9/markets/0/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/9/markets/0/specialText",
+    "before": null,
+    "after": "推荐+2"
+  },
+  {
+    "path": "/benchmarks/9/markets/0/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/9/markets/1/incomeReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/9/markets/1/specialText",
+    "before": null,
+    "after": "无奖"
+  },
+  {
+    "path": "/benchmarks/9/markets/1/technologyReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/9/markets/2/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/9/markets/2/specialText",
+    "before": null,
+    "after": "推荐+4"
+  },
+  {
+    "path": "/benchmarks/9/markets/2/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/9/markets/3/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/9/markets/3/specialText",
+    "before": null,
+    "after": "推荐+2"
+  },
+  {
+    "path": "/benchmarks/9/markets/3/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/9/specialSummary",
+    "before": "取得+2／+4／+6推荐章，供以后一次发布使用。",
+    "after": "取得印刷加值的推荐章，未来一次发布给一批一个市场；每公司至多留1枚。"
+  },
+  {
+    "path": "/benchmarks/10/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/10/markets/0/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/10/markets/0/specialText",
+    "before": null,
+    "after": "入库券3"
+  },
+  {
+    "path": "/benchmarks/10/markets/0/specialValue",
+    "before": 0,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/10/markets/0/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/10/markets/1/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/10/markets/1/specialText",
+    "before": null,
+    "after": "入库券3"
+  },
+  {
+    "path": "/benchmarks/10/markets/1/specialValue",
+    "before": 0,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/10/markets/1/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/10/markets/2/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/10/markets/2/specialText",
+    "before": null,
+    "after": "入库券3"
+  },
+  {
+    "path": "/benchmarks/10/markets/2/specialValue",
+    "before": 0,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/10/markets/2/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/10/markets/3/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/10/markets/3/specialText",
+    "before": null,
+    "after": "入库券6"
+  },
+  {
+    "path": "/benchmarks/10/markets/3/specialValue",
+    "before": 3,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/10/markets/3/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/10/specialSummary",
+    "before": "购买1张公开稳定或定制；取得费减0／3／6。",
+    "after": "取得印刷面额的入库券，未来一次稳定入库减现金；不省工作、不解锁引用，每公司至多1券。"
+  },
+  {
+    "path": "/benchmarks/11/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/11/markets/0/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/11/markets/0/specialText",
+    "before": null,
+    "after": "单批试产券 减3"
+  },
+  {
+    "path": "/benchmarks/11/markets/0/specialValue",
+    "before": 2,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/11/markets/0/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/11/markets/1/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/11/markets/1/specialText",
+    "before": null,
+    "after": "单批试产券 减3"
+  },
+  {
+    "path": "/benchmarks/11/markets/1/specialValue",
+    "before": 2,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/11/markets/1/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/11/markets/2/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/11/markets/2/specialText",
+    "before": null,
+    "after": "单批试产券 减3"
+  },
+  {
+    "path": "/benchmarks/11/markets/2/specialValue",
+    "before": 2,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/11/markets/2/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/11/markets/3/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/11/markets/3/specialText",
+    "before": null,
+    "after": "单批试产券 减3"
+  },
+  {
+    "path": "/benchmarks/11/markets/3/specialValue",
+    "before": 2,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/11/markets/3/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/11/specialSummary",
+    "before": "取得可试产1／2／3批的试产券。",
+    "after": "取得印刷面额的试产券；未来本人回合免费工作组装恰好1批，总费减券面值、最低6；照查世代与空位，每公司至多1券。"
+  },
+  {
+    "path": "/benchmarks/12/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/12/markets/0/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/12/markets/0/specialText",
+    "before": null,
+    "after": "8现金"
+  },
+  {
+    "path": "/benchmarks/12/markets/0/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/12/markets/1/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/12/markets/1/specialText",
+    "before": null,
+    "after": "8现金"
+  },
+  {
+    "path": "/benchmarks/12/markets/1/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/12/markets/2/incomeReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/12/markets/2/specialText",
+    "before": null,
+    "after": "无奖"
+  },
+  {
+    "path": "/benchmarks/12/markets/2/technologyReward",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/benchmarks/12/markets/3/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/12/markets/3/specialText",
+    "before": null,
+    "after": "8现金"
+  },
+  {
+    "path": "/benchmarks/12/markets/3/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/12/specialSummary",
+    "before": "获得8／16／24现金。",
+    "after": "按本市场格直接取得印刷现金。"
+  },
+  {
+    "path": "/benchmarks/13/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/13/markets/0/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/13/markets/0/specialText",
+    "before": null,
+    "after": "取2张"
+  },
+  {
+    "path": "/benchmarks/13/markets/0/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/13/markets/1/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/13/markets/1/specialText",
+    "before": null,
+    "after": "取1张"
+  },
+  {
+    "path": "/benchmarks/13/markets/1/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/13/markets/2/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/13/markets/2/specialText",
+    "before": null,
+    "after": "取1张"
+  },
+  {
+    "path": "/benchmarks/13/markets/2/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/13/markets/3/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/13/markets/3/specialText",
+    "before": null,
+    "after": "取2张"
+  },
+  {
+    "path": "/benchmarks/13/markets/3/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/13/specialSummary",
+    "before": "从公开商业区或研发区选1／2／3张入手。",
+    "after": "从统一牌市或主牌堆取印刷张数；取得不等于使用，结束后一次补牌。"
+  },
+  {
+    "path": "/benchmarks/14/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/14/markets/0/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/14/markets/0/specialText",
+    "before": null,
+    "after": "进度+1"
+  },
+  {
+    "path": "/benchmarks/14/markets/0/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/14/markets/1/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/14/markets/1/specialText",
+    "before": null,
+    "after": "进度+2"
+  },
+  {
+    "path": "/benchmarks/14/markets/1/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/14/markets/2/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/14/markets/2/specialText",
+    "before": null,
+    "after": "进度+1"
+  },
+  {
+    "path": "/benchmarks/14/markets/2/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/14/markets/3/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/14/markets/3/specialText",
+    "before": null,
+    "after": "进度+1"
+  },
+  {
+    "path": "/benchmarks/14/markets/3/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/14/specialSummary",
+    "before": "已有1项在研推进1／2／3格；需首发并已部署研发。",
+    "after": "已有1项在研增加印刷进度；需挑战批次已部署完成研发，不立项、不溢出、不跳过证明。"
+  },
+  {
+    "path": "/benchmarks/15/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/15/markets/0/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/15/markets/0/specialText",
+    "before": null,
+    "after": "推荐+2"
+  },
+  {
+    "path": "/benchmarks/15/markets/0/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/15/markets/1/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/15/markets/1/specialText",
+    "before": null,
+    "after": "推荐+2"
+  },
+  {
+    "path": "/benchmarks/15/markets/1/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/15/markets/2/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/15/markets/2/specialText",
+    "before": null,
+    "after": "推荐+4"
+  },
+  {
+    "path": "/benchmarks/15/markets/2/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/15/markets/3/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/15/markets/3/specialText",
+    "before": null,
+    "after": "推荐+2"
+  },
+  {
+    "path": "/benchmarks/15/markets/3/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/15/specialSummary",
+    "before": "取得+2／+4／+6推荐章，供以后一次发布使用。",
+    "after": "取得印刷加值的推荐章，未来一次发布给一批一个市场；每公司至多留1枚。"
+  },
+  {
+    "path": "/benchmarks/16/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/16/markets/0/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/16/markets/0/specialText",
+    "before": null,
+    "after": "入库券3"
+  },
+  {
+    "path": "/benchmarks/16/markets/0/specialValue",
+    "before": 0,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/16/markets/0/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/16/markets/1/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/16/markets/1/specialText",
+    "before": null,
+    "after": "入库券3"
+  },
+  {
+    "path": "/benchmarks/16/markets/1/specialValue",
+    "before": 0,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/16/markets/1/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/16/markets/2/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/16/markets/2/specialText",
+    "before": null,
+    "after": "入库券6"
+  },
+  {
+    "path": "/benchmarks/16/markets/2/specialValue",
+    "before": 3,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/16/markets/2/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/16/markets/3/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/16/markets/3/specialText",
+    "before": null,
+    "after": "入库券6"
+  },
+  {
+    "path": "/benchmarks/16/markets/3/specialValue",
+    "before": 3,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/16/markets/3/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/16/specialSummary",
+    "before": "购买1张公开稳定或定制；取得费减0／3／6。",
+    "after": "取得印刷面额的入库券，未来一次稳定入库减现金；不省工作、不解锁引用，每公司至多1券。"
+  },
+  {
+    "path": "/benchmarks/17/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/17/markets/0/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/17/markets/0/specialText",
+    "before": null,
+    "after": "单批试产券 减3"
+  },
+  {
+    "path": "/benchmarks/17/markets/0/specialValue",
+    "before": 2,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/17/markets/0/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/17/markets/1/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/17/markets/1/specialText",
+    "before": null,
+    "after": "单批试产券 减3"
+  },
+  {
+    "path": "/benchmarks/17/markets/1/specialValue",
+    "before": 2,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/17/markets/1/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/17/markets/2/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/17/markets/2/specialText",
+    "before": null,
+    "after": "单批试产券 减3"
+  },
+  {
+    "path": "/benchmarks/17/markets/2/specialValue",
+    "before": 2,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/17/markets/2/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/17/markets/3/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/17/markets/3/specialText",
+    "before": null,
+    "after": "单批试产券 减3"
+  },
+  {
+    "path": "/benchmarks/17/markets/3/specialValue",
+    "before": 2,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/17/markets/3/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/17/specialSummary",
+    "before": "取得可试产1／2／3批的试产券。",
+    "after": "取得印刷面额的试产券；未来本人回合免费工作组装恰好1批，总费减券面值、最低6；照查世代与空位，每公司至多1券。"
+  },
+  {
+    "path": "/benchmarks/18/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/18/markets/0/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/18/markets/0/specialText",
+    "before": null,
+    "after": "16现金"
+  },
+  {
+    "path": "/benchmarks/18/markets/0/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/18/markets/1/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/18/markets/1/specialText",
+    "before": null,
+    "after": "8现金"
+  },
+  {
+    "path": "/benchmarks/18/markets/1/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/18/markets/2/incomeReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/18/markets/2/specialText",
+    "before": null,
+    "after": "8现金"
+  },
+  {
+    "path": "/benchmarks/18/markets/2/technologyReward",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/benchmarks/18/markets/3/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/18/markets/3/specialText",
+    "before": null,
+    "after": "16现金"
+  },
+  {
+    "path": "/benchmarks/18/markets/3/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/18/specialSummary",
+    "before": "获得8／16／24现金。",
+    "after": "按本市场格直接取得印刷现金。"
+  },
+  {
+    "path": "/benchmarks/19/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/19/markets/0/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/19/markets/0/specialText",
+    "before": null,
+    "after": "取2张"
+  },
+  {
+    "path": "/benchmarks/19/markets/0/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/19/markets/1/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/19/markets/1/specialText",
+    "before": null,
+    "after": "取2张"
+  },
+  {
+    "path": "/benchmarks/19/markets/1/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/19/markets/2/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/19/markets/2/specialText",
+    "before": null,
+    "after": "取2张"
+  },
+  {
+    "path": "/benchmarks/19/markets/2/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/19/markets/3/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/19/markets/3/specialText",
+    "before": null,
+    "after": "取2张"
+  },
+  {
+    "path": "/benchmarks/19/markets/3/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/19/specialSummary",
+    "before": "从公开商业区或研发区选1／2／3张入手。",
+    "after": "从统一牌市或主牌堆取印刷张数；取得不等于使用，结束后一次补牌。"
+  },
+  {
+    "path": "/benchmarks/20/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/20/markets/0/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/20/markets/0/specialText",
+    "before": null,
+    "after": "进度+2"
+  },
+  {
+    "path": "/benchmarks/20/markets/0/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/20/markets/1/incomeReward",
+    "before": null,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/20/markets/1/specialText",
+    "before": null,
+    "after": "进度+3"
+  },
+  {
+    "path": "/benchmarks/20/markets/1/technologyReward",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/20/markets/2/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/20/markets/2/specialText",
+    "before": null,
+    "after": "进度+2"
+  },
+  {
+    "path": "/benchmarks/20/markets/2/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/20/markets/3/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/20/markets/3/specialText",
+    "before": null,
+    "after": "进度+2"
+  },
+  {
+    "path": "/benchmarks/20/markets/3/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/20/specialSummary",
+    "before": "已有1项在研推进1／2／3格；需首发并已部署研发。",
+    "after": "已有1项在研增加印刷进度；需挑战批次已部署完成研发，不立项、不溢出、不跳过证明。"
+  },
+  {
+    "path": "/benchmarks/21/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/21/markets/0/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/21/markets/0/specialText",
+    "before": null,
+    "after": "推荐+4"
+  },
+  {
+    "path": "/benchmarks/21/markets/0/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/21/markets/1/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/21/markets/1/specialText",
+    "before": null,
+    "after": "推荐+4"
+  },
+  {
+    "path": "/benchmarks/21/markets/1/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/21/markets/2/incomeReward",
+    "before": null,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/21/markets/2/specialText",
+    "before": null,
+    "after": "推荐+6"
+  },
+  {
+    "path": "/benchmarks/21/markets/2/technologyReward",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/21/markets/3/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/21/markets/3/specialText",
+    "before": null,
+    "after": "推荐+4"
+  },
+  {
+    "path": "/benchmarks/21/markets/3/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/21/specialSummary",
+    "before": "取得+2／+4／+6推荐章，供以后一次发布使用。",
+    "after": "取得印刷加值的推荐章，未来一次发布给一批一个市场；每公司至多留1枚。"
+  },
+  {
+    "path": "/benchmarks/22/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/22/markets/0/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/22/markets/0/specialText",
+    "before": null,
+    "after": "入库券6"
+  },
+  {
+    "path": "/benchmarks/22/markets/0/specialValue",
+    "before": 3,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/22/markets/0/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/22/markets/1/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/22/markets/1/specialText",
+    "before": null,
+    "after": "入库券6"
+  },
+  {
+    "path": "/benchmarks/22/markets/1/specialValue",
+    "before": 3,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/22/markets/1/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/22/markets/2/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/22/markets/2/specialText",
+    "before": null,
+    "after": "入库券6"
+  },
+  {
+    "path": "/benchmarks/22/markets/2/specialValue",
+    "before": 3,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/22/markets/2/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/22/markets/3/incomeReward",
+    "before": null,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/22/markets/3/specialText",
+    "before": null,
+    "after": "入库券9"
+  },
+  {
+    "path": "/benchmarks/22/markets/3/specialValue",
+    "before": 6,
+    "after": 9
+  },
+  {
+    "path": "/benchmarks/22/markets/3/technologyReward",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/22/specialSummary",
+    "before": "购买1张公开稳定或定制；取得费减0／3／6。",
+    "after": "取得印刷面额的入库券，未来一次稳定入库减现金；不省工作、不解锁引用，每公司至多1券。"
+  },
+  {
+    "path": "/benchmarks/23/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/23/markets/0/incomeReward",
+    "before": null,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/23/markets/0/specialText",
+    "before": null,
+    "after": "单批试产券 减6"
+  },
+  {
+    "path": "/benchmarks/23/markets/0/specialValue",
+    "before": 3,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/23/markets/0/technologyReward",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/23/markets/1/incomeReward",
+    "before": null,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/23/markets/1/specialText",
+    "before": null,
+    "after": "单批试产券 减6"
+  },
+  {
+    "path": "/benchmarks/23/markets/1/specialValue",
+    "before": 3,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/23/markets/1/technologyReward",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/23/markets/2/incomeReward",
+    "before": null,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/23/markets/2/specialText",
+    "before": null,
+    "after": "单批试产券 减6"
+  },
+  {
+    "path": "/benchmarks/23/markets/2/specialValue",
+    "before": 3,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/23/markets/2/technologyReward",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/23/markets/3/incomeReward",
+    "before": null,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/23/markets/3/specialText",
+    "before": null,
+    "after": "单批试产券 减6"
+  },
+  {
+    "path": "/benchmarks/23/markets/3/specialValue",
+    "before": 3,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/23/markets/3/technologyReward",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/23/specialSummary",
+    "before": "取得可试产1／2／3批的试产券。",
+    "after": "取得印刷面额的试产券；未来本人回合免费工作组装恰好1批，总费减券面值、最低6；照查世代与空位，每公司至多1券。"
+  },
+  {
+    "path": "/benchmarks/24/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/24/markets/0/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/24/markets/0/specialText",
+    "before": null,
+    "after": "16现金"
+  },
+  {
+    "path": "/benchmarks/24/markets/0/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/24/markets/1/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/24/markets/1/specialText",
+    "before": null,
+    "after": "16现金"
+  },
+  {
+    "path": "/benchmarks/24/markets/1/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/24/markets/2/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/24/markets/2/specialText",
+    "before": null,
+    "after": "16现金"
+  },
+  {
+    "path": "/benchmarks/24/markets/2/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/24/markets/3/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/24/markets/3/specialText",
+    "before": null,
+    "after": "16现金"
+  },
+  {
+    "path": "/benchmarks/24/markets/3/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/24/specialSummary",
+    "before": "获得8／16／24现金。",
+    "after": "按本市场格直接取得印刷现金。"
+  },
+  {
+    "path": "/benchmarks/25/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/25/markets/0/incomeReward",
+    "before": null,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/25/markets/0/specialText",
+    "before": null,
+    "after": "取3张"
+  },
+  {
+    "path": "/benchmarks/25/markets/0/technologyReward",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/25/markets/1/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/25/markets/1/specialText",
+    "before": null,
+    "after": "取2张"
+  },
+  {
+    "path": "/benchmarks/25/markets/1/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/25/markets/2/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/25/markets/2/specialText",
+    "before": null,
+    "after": "取2张"
+  },
+  {
+    "path": "/benchmarks/25/markets/2/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/25/markets/3/incomeReward",
+    "before": null,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/25/markets/3/specialText",
+    "before": null,
+    "after": "取3张"
+  },
+  {
+    "path": "/benchmarks/25/markets/3/technologyReward",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/25/specialSummary",
+    "before": "从公开商业区或研发区选1／2／3张入手。",
+    "after": "从统一牌市或主牌堆取印刷张数；取得不等于使用，结束后一次补牌。"
+  },
+  {
+    "path": "/benchmarks/26/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/26/markets/0/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/26/markets/0/specialText",
+    "before": null,
+    "after": "进度+2"
+  },
+  {
+    "path": "/benchmarks/26/markets/0/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/26/markets/1/incomeReward",
+    "before": null,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/26/markets/1/specialText",
+    "before": null,
+    "after": "进度+3"
+  },
+  {
+    "path": "/benchmarks/26/markets/1/technologyReward",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/26/markets/2/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/26/markets/2/specialText",
+    "before": null,
+    "after": "进度+2"
+  },
+  {
+    "path": "/benchmarks/26/markets/2/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/26/markets/3/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/26/markets/3/specialText",
+    "before": null,
+    "after": "进度+2"
+  },
+  {
+    "path": "/benchmarks/26/markets/3/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/26/specialSummary",
+    "before": "已有1项在研推进1／2／3格；需首发并已部署研发。",
+    "after": "已有1项在研增加印刷进度；需挑战批次已部署完成研发，不立项、不溢出、不跳过证明。"
+  },
+  {
+    "path": "/benchmarks/27/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/27/markets/0/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/27/markets/0/specialText",
+    "before": null,
+    "after": "推荐+4"
+  },
+  {
+    "path": "/benchmarks/27/markets/0/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/27/markets/1/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/27/markets/1/specialText",
+    "before": null,
+    "after": "推荐+4"
+  },
+  {
+    "path": "/benchmarks/27/markets/1/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/27/markets/2/incomeReward",
+    "before": null,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/27/markets/2/specialText",
+    "before": null,
+    "after": "推荐+6"
+  },
+  {
+    "path": "/benchmarks/27/markets/2/technologyReward",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/27/markets/3/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/27/markets/3/specialText",
+    "before": null,
+    "after": "推荐+4"
+  },
+  {
+    "path": "/benchmarks/27/markets/3/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/27/specialSummary",
+    "before": "取得+2／+4／+6推荐章，供以后一次发布使用。",
+    "after": "取得印刷加值的推荐章，未来一次发布给一批一个市场；每公司至多留1枚。"
+  },
+  {
+    "path": "/benchmarks/28/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/28/markets/0/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/28/markets/0/specialText",
+    "before": null,
+    "after": "入库券6"
+  },
+  {
+    "path": "/benchmarks/28/markets/0/specialValue",
+    "before": 3,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/28/markets/0/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/28/markets/1/incomeReward",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/benchmarks/28/markets/1/specialText",
+    "before": null,
+    "after": "入库券6"
+  },
+  {
+    "path": "/benchmarks/28/markets/1/specialValue",
+    "before": 3,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/28/markets/1/technologyReward",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/benchmarks/28/markets/2/incomeReward",
+    "before": null,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/28/markets/2/specialText",
+    "before": null,
+    "after": "入库券9"
+  },
+  {
+    "path": "/benchmarks/28/markets/2/specialValue",
+    "before": 6,
+    "after": 9
+  },
+  {
+    "path": "/benchmarks/28/markets/2/technologyReward",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/28/markets/3/incomeReward",
+    "before": null,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/28/markets/3/specialText",
+    "before": null,
+    "after": "入库券9"
+  },
+  {
+    "path": "/benchmarks/28/markets/3/specialValue",
+    "before": 6,
+    "after": 9
+  },
+  {
+    "path": "/benchmarks/28/markets/3/technologyReward",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/28/specialSummary",
+    "before": "购买1张公开稳定或定制；取得费减0／3／6。",
+    "after": "取得印刷面额的入库券，未来一次稳定入库减现金；不省工作、不解锁引用，每公司至多1券。"
+  },
+  {
+    "path": "/benchmarks/29/effect",
+    "before": "所有人先锁定价格和投放，再从本场标定世代6张中现抽1张。每市场最多占1份订单，同分真人先。某型号真实零售成交且严格超过该市场参考值，才可领奖；每公司每场最多一次。0星无奖。1／2／3星选2／4／6收入，或1／2／3科技，或本卡特色奖，三选一、不叠领。科技奖与工程试验需该型号本场首发且已部署完成研发。",
+    "after": "全员锁价并选定唯一投放后，从本场参考世代6张中现抽。各市场只占1订单，同分真人先。实际零售成交且严格超过本格才可选本格收入、科技或特色其中1奖；每公司每场最多1奖。0星无奖。科技或工程试验另需该批锁定时已部署完成研发；不要求首次参加发布。"
+  },
+  {
+    "path": "/benchmarks/29/markets/0/incomeReward",
+    "before": null,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/29/markets/0/specialText",
+    "before": null,
+    "after": "单批试产券 减6"
+  },
+  {
+    "path": "/benchmarks/29/markets/0/specialValue",
+    "before": 3,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/29/markets/0/technologyReward",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/29/markets/1/incomeReward",
+    "before": null,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/29/markets/1/specialText",
+    "before": null,
+    "after": "单批试产券 减6"
+  },
+  {
+    "path": "/benchmarks/29/markets/1/specialValue",
+    "before": 3,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/29/markets/1/technologyReward",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/29/markets/2/incomeReward",
+    "before": null,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/29/markets/2/specialText",
+    "before": null,
+    "after": "单批试产券 减6"
+  },
+  {
+    "path": "/benchmarks/29/markets/2/specialValue",
+    "before": 3,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/29/markets/2/technologyReward",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/29/markets/3/incomeReward",
+    "before": null,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/29/markets/3/specialText",
+    "before": null,
+    "after": "单批试产券 减6"
+  },
+  {
+    "path": "/benchmarks/29/markets/3/specialValue",
+    "before": 3,
+    "after": 6
+  },
+  {
+    "path": "/benchmarks/29/markets/3/technologyReward",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/benchmarks/29/specialSummary",
+    "before": "取得可试产1／2／3批的试产券。",
+    "after": "取得印刷面额的试产券；未来本人回合免费工作组装恰好1批，总费减券面值、最低6；照查世代与空位，每公司至多1券。"
+  },
+  {
+    "path": "/challengeRewardFamilies/0/byStars",
+    "before": null,
+    "after": [
+      0,
+      8,
+      16,
+      24
+    ]
+  },
+  {
+    "path": "/challengeRewardFamilies/0/description",
+    "before": null,
+    "after": "按本市场格直接取得印刷现金。"
+  },
+  {
+    "path": "/challengeRewardFamilies/0/detail",
+    "before": "按所选市场的1／2／3星，从银行获得8／16／24现金。不是零售成交，不额外增加收入。",
+    "after": null
+  },
+  {
+    "path": "/challengeRewardFamilies/0/summary",
+    "before": "获得8／16／24现金。",
+    "after": null
+  },
+  {
+    "path": "/challengeRewardFamilies/0/values",
+    "before": [
+      8,
+      16,
+      24
+    ],
+    "after": null
+  },
+  {
+    "path": "/challengeRewardFamilies/1/byStars",
+    "before": null,
+    "after": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "path": "/challengeRewardFamilies/1/description",
+    "before": null,
+    "after": "从统一牌市或主牌堆取印刷张数；取得不等于使用，结束后一次补牌。"
+  },
+  {
+    "path": "/challengeRewardFamilies/1/detail",
+    "before": "可从公开商业区与研发区合计选择至多1／2／3张牌入手；可混选，每取1张立即补位。不签约、不立项、不建设，不取供货或定制；整理时仍限8张手牌。",
+    "after": null
+  },
+  {
+    "path": "/challengeRewardFamilies/1/summary",
+    "before": "从公开商业区或研发区选1／2／3张入手。",
+    "after": null
+  },
+  {
+    "path": "/challengeRewardFamilies/1/values",
+    "before": [
+      1,
+      2,
+      3
+    ],
+    "after": null
+  },
+  {
+    "path": "/challengeRewardFamilies/2/byStars",
+    "before": null,
+    "after": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "path": "/challengeRewardFamilies/2/description",
+    "before": null,
+    "after": "已有1项在研增加印刷进度；需挑战批次已部署完成研发，不立项、不溢出、不跳过证明。"
+  },
+  {
+    "path": "/challengeRewardFamilies/2/detail",
+    "before": "仅符合科技挑战资格时可选。选择已有1项在研项目，增加至多1／2／3进度；不另花工作点、不立新项目、不触发按工作点推进的实验室加速。达到工期即用奖励前已有的合法样机检查证据；合格完成并可结算一张此前已签的验证合同，不合格停在完成线，日后花1工作点复核。超出进度不转移、不储存。新成果不追溯影响本场销售、挑战资格、型号或回收。",
+    "after": null
+  },
+  {
+    "path": "/challengeRewardFamilies/2/summary",
+    "before": "已有1项在研推进1／2／3格；需首发并已部署研发。",
+    "after": null
+  },
+  {
+    "path": "/challengeRewardFamilies/2/values",
+    "before": [
+      1,
+      2,
+      3
+    ],
+    "after": null
+  },
+  {
+    "path": "/challengeRewardFamilies/3/byStars",
+    "before": null,
+    "after": [
+      0,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "path": "/challengeRewardFamilies/3/description",
+    "before": null,
+    "after": "取得印刷加值的推荐章，未来一次发布给一批一个市场；每公司至多留1枚。"
+  },
+  {
+    "path": "/challengeRewardFamilies/3/detail",
+    "before": "取得对应推荐章，每家公司最多保留1枚。以后某次发布锁定前，放在一个己方型号的一个零售市场格内；只令该格竞争力加2／4／6。不能绕过预算、进入资格、库存或48售价许可，不改变基础竞争力与样机证据。揭晓即消耗，无论成交与否；本场刚取得的章不能用于本场。不使用时可留存；再得一枚须二选一，不叠加，不兑换分数。",
+    "after": null
+  },
+  {
+    "path": "/challengeRewardFamilies/3/summary",
+    "before": "取得+2／+4／+6推荐章，供以后一次发布使用。",
+    "after": null
+  },
+  {
+    "path": "/challengeRewardFamilies/3/values",
+    "before": [
+      2,
+      4,
+      6
+    ],
+    "after": null
+  },
+  {
+    "path": "/challengeRewardFamilies/4/byStars",
+    "before": null,
+    "after": [
+      0,
+      3,
+      6,
+      9
+    ]
+  },
+  {
+    "path": "/challengeRewardFamilies/4/description",
+    "before": null,
+    "after": "取得印刷面额的入库券，未来一次稳定入库减现金；不省工作、不解锁引用，每公司至多1券。"
+  },
+  {
+    "path": "/challengeRewardFamilies/4/detail",
+    "before": "现在可从公开的稳定或定制中购买1张，不花工作点。1／2／3星分别令本次通用签约费或定制取得费减0／3／6，最低0；仍支付剩余费用。不是本人的采购工作，不叠加U03、U04等采购工作能力。稳定取走不补，定制照常补；不查未解锁牌、不延后兑现、不改变已经制造的库存。",
+    "after": null
+  },
+  {
+    "path": "/challengeRewardFamilies/4/summary",
+    "before": "购买1张公开稳定或定制；取得费减0／3／6。",
+    "after": null
+  },
+  {
+    "path": "/challengeRewardFamilies/4/values",
+    "before": [
+      0,
+      3,
+      6
+    ],
+    "after": null
+  },
+  {
+    "path": "/challengeRewardFamilies/5/byStars",
+    "before": null,
+    "after": [
+      0,
+      0,
+      3,
+      6
+    ]
+  },
+  {
+    "path": "/challengeRewardFamilies/5/description",
+    "before": null,
+    "after": "取得印刷面额的试产券；未来本人回合免费工作组装恰好1批，总费减券面值、最低6；照查世代与空位，每公司至多1券。"
+  },
+  {
+    "path": "/challengeRewardFamilies/5/detail",
+    "before": "取得对应试产券，每家公司最多保留1张。以后自己的回合，可弃券并选择一个合法型号，不花工作点生产至多1／2／3批。每批照常付制造费，检查真实芯片配额、公司产能和库存上限。不能在发布流程中使用；不是正常生产工作，不触发T13、T36、H20等改变一次工作吞吐的能力；持续制造减费和上限照常适用。一次用完，未用数量不保留；再得券须二选一。",
+    "after": null
+  },
+  {
+    "path": "/challengeRewardFamilies/5/summary",
+    "before": "取得可试产1／2／3批的试产券。",
+    "after": null
+  },
+  {
+    "path": "/challengeRewardFamilies/5/values",
+    "before": [
+      1,
+      2,
+      3
+    ],
+    "after": null
+  },
+  {
+    "path": "/contracts/0/batchPolicy",
+    "before": null,
+    "after": "允许不同配置、每批逐一达标、同场一次交齐"
+  },
+  {
+    "path": "/contracts/0/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/0/effect",
+    "before": "到期前一次交付同一型号2批库存，逐批获得24现金与2收入，并退还6押金。允许提前一期交付；不能分次或混型号。未交付则押金不退，无额外债务。",
+    "after": "在签约后2次发布内，一次交付2个产品位的现货（每位1批），每批均须满足本卡条件，允许配置不同；不能分次交付。每批得24现金、2收入；整单48现金、4收入，并退6押金。未交付到期只没收押金，不增加债务。"
+  },
+  {
+    "path": "/contracts/0/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/0/totalCash",
+    "before": null,
+    "after": 48
+  },
+  {
+    "path": "/contracts/0/totalIncome",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/contracts/1/batchPolicy",
+    "before": null,
+    "after": "允许不同配置、每批逐一达标、同场一次交齐"
+  },
+  {
+    "path": "/contracts/1/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/1/effect",
+    "before": "到期前一次交付同一型号2批库存，逐批获得30现金与2收入，并退还6押金。允许提前一期交付；不能分次或混型号。未交付则押金不退，无额外债务。",
+    "after": "在签约后2次发布内，一次交付2个产品位的现货（每位1批），每批均须满足本卡条件，允许配置不同；不能分次交付。每批得30现金、2收入；整单60现金、4收入，并退6押金。未交付到期只没收押金，不增加债务。"
+  },
+  {
+    "path": "/contracts/1/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/1/totalCash",
+    "before": null,
+    "after": 60
+  },
+  {
+    "path": "/contracts/1/totalIncome",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/contracts/2/batchPolicy",
+    "before": null,
+    "after": "允许不同配置、每批逐一达标、同场一次交齐"
+  },
+  {
+    "path": "/contracts/2/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/2/effect",
+    "before": "到期前一次交付同一型号2批库存，逐批获得34现金与3收入，并退还6押金。允许提前一期交付；不能分次或混型号。未交付则押金不退，无额外债务。",
+    "after": "在签约后2次发布内，一次交付2个产品位的现货（每位1批），每批均须满足本卡条件，允许配置不同；不能分次交付。每批得34现金、3收入；整单68现金、6收入，并退6押金。未交付到期只没收押金，不增加债务。"
+  },
+  {
+    "path": "/contracts/2/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/2/totalCash",
+    "before": null,
+    "after": 68
+  },
+  {
+    "path": "/contracts/2/totalIncome",
+    "before": null,
+    "after": 6
+  },
+  {
+    "path": "/contracts/3/batchPolicy",
+    "before": null,
+    "after": "允许不同配置、每批逐一达标、同场一次交齐"
+  },
+  {
+    "path": "/contracts/3/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/3/effect",
+    "before": "到期前一次交付同一型号2批库存，逐批获得30现金与2收入，并退还6押金。允许提前一期交付；不能分次或混型号。未交付则押金不退，无额外债务。",
+    "after": "在签约后2次发布内，一次交付2个产品位的现货（每位1批），每批均须满足本卡条件，允许配置不同；不能分次交付。每批得30现金、2收入；整单60现金、4收入，并退6押金。未交付到期只没收押金，不增加债务。"
+  },
+  {
+    "path": "/contracts/3/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/3/totalCash",
+    "before": null,
+    "after": 60
+  },
+  {
+    "path": "/contracts/3/totalIncome",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/contracts/4/batchPolicy",
+    "before": null,
+    "after": "允许不同配置、每批逐一达标、同场一次交齐"
+  },
+  {
+    "path": "/contracts/4/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/4/effect",
+    "before": "到期前一次交付同一型号2批库存，逐批获得28现金与2收入，并退还6押金。允许提前一期交付；不能分次或混型号。未交付则押金不退，无额外债务。",
+    "after": "在签约后2次发布内，一次交付2个产品位的现货（每位1批），每批均须满足本卡条件，允许配置不同；不能分次交付。每批得28现金、2收入；整单56现金、4收入，并退6押金。未交付到期只没收押金，不增加债务。"
+  },
+  {
+    "path": "/contracts/4/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/4/totalCash",
+    "before": null,
+    "after": 56
+  },
+  {
+    "path": "/contracts/4/totalIncome",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/contracts/5/batchPolicy",
+    "before": null,
+    "after": "允许不同配置、每批逐一达标、同场一次交齐"
+  },
+  {
+    "path": "/contracts/5/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/5/effect",
+    "before": "到期前一次交付同一型号2批库存，逐批获得28现金与2收入，并退还6押金。允许提前一期交付；不能分次或混型号。未交付则押金不退，无额外债务。",
+    "after": "在签约后2次发布内，一次交付2个产品位的现货（每位1批），每批均须满足本卡条件，允许配置不同；不能分次交付。每批得28现金、2收入；整单56现金、4收入，并退6押金。未交付到期只没收押金，不增加债务。"
+  },
+  {
+    "path": "/contracts/5/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/5/totalCash",
+    "before": null,
+    "after": 56
+  },
+  {
+    "path": "/contracts/5/totalIncome",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/contracts/6/batchPolicy",
+    "before": null,
+    "after": "允许不同配置、每批逐一达标、同场一次交齐"
+  },
+  {
+    "path": "/contracts/6/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/6/effect",
+    "before": "到期前一次交付同一型号2批库存，逐批获得36现金与3收入，并退还6押金。允许提前一期交付；不能分次或混型号。未交付则押金不退，无额外债务。",
+    "after": "在签约后2次发布内，一次交付2个产品位的现货（每位1批），每批均须满足本卡条件，允许配置不同；不能分次交付。每批得36现金、3收入；整单72现金、6收入，并退6押金。未交付到期只没收押金，不增加债务。"
+  },
+  {
+    "path": "/contracts/6/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/6/totalCash",
+    "before": null,
+    "after": 72
+  },
+  {
+    "path": "/contracts/6/totalIncome",
+    "before": null,
+    "after": 6
+  },
+  {
+    "path": "/contracts/7/batchPolicy",
+    "before": null,
+    "after": "允许不同配置、每批逐一达标、同场一次交齐"
+  },
+  {
+    "path": "/contracts/7/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/7/effect",
+    "before": "到期前一次交付同一型号1批库存，逐批获得48现金与4收入，并退还6押金。允许提前一期交付；不能分次或混型号。未交付则押金不退，无额外债务。",
+    "after": "在签约后2次发布内，一次交付1个产品位的现货（每位1批），每批均须满足本卡条件，允许配置不同；不能分次交付。每批得48现金、4收入；整单48现金、4收入，并退6押金。未交付到期只没收押金，不增加债务。"
+  },
+  {
+    "path": "/contracts/7/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/7/totalCash",
+    "before": null,
+    "after": 48
+  },
+  {
+    "path": "/contracts/7/totalIncome",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/contracts/8/batchPolicy",
+    "before": null,
+    "after": "允许不同配置、每批逐一达标、同场一次交齐"
+  },
+  {
+    "path": "/contracts/8/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/8/effect",
+    "before": "到期前一次交付同一型号2批库存，逐批获得30现金与2收入，并退还6押金。允许提前一期交付；不能分次或混型号。未交付则押金不退，无额外债务。",
+    "after": "在签约后2次发布内，一次交付2个产品位的现货（每位1批），每批均须满足本卡条件，允许配置不同；不能分次交付。每批得30现金、2收入；整单60现金、4收入，并退6押金。未交付到期只没收押金，不增加债务。"
+  },
+  {
+    "path": "/contracts/8/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/8/totalCash",
+    "before": null,
+    "after": 60
+  },
+  {
+    "path": "/contracts/8/totalIncome",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/contracts/9/batchPolicy",
+    "before": null,
+    "after": "允许不同配置、每批逐一达标、同场一次交齐"
+  },
+  {
+    "path": "/contracts/9/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/9/effect",
+    "before": "到期前一次交付同一型号3批库存，逐批获得20现金与1收入，并退还6押金。允许提前一期交付；不能分次或混型号。未交付则押金不退，无额外债务。",
+    "after": "在签约后2次发布内，一次交付3个产品位的现货（每位1批），每批均须满足本卡条件，允许配置不同；不能分次交付。每批得20现金、1收入；整单60现金、3收入，并退6押金。未交付到期只没收押金，不增加债务。"
+  },
+  {
+    "path": "/contracts/9/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/9/totalCash",
+    "before": null,
+    "after": 60
+  },
+  {
+    "path": "/contracts/9/totalIncome",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/contracts/10/batchPolicy",
+    "before": null,
+    "after": "允许不同配置、每批逐一达标、同场一次交齐"
+  },
+  {
+    "path": "/contracts/10/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/10/effect",
+    "before": "到期前一次交付同一型号1批库存，逐批获得48现金与4收入，并退还6押金。允许提前一期交付；不能分次或混型号。未交付则押金不退，无额外债务。",
+    "after": "在签约后2次发布内，一次交付1个产品位的现货（每位1批），每批均须满足本卡条件，允许配置不同；不能分次交付。每批得48现金、4收入；整单48现金、4收入，并退6押金。未交付到期只没收押金，不增加债务。"
+  },
+  {
+    "path": "/contracts/10/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/10/totalCash",
+    "before": null,
+    "after": 48
+  },
+  {
+    "path": "/contracts/10/totalIncome",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/contracts/11/batchPolicy",
+    "before": null,
+    "after": "允许不同配置、每批逐一达标、同场一次交齐"
+  },
+  {
+    "path": "/contracts/11/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/11/effect",
+    "before": "到期前一次交付同一型号2批库存，逐批获得28现金与2收入，并退还6押金。允许提前一期交付；不能分次或混型号。未交付则押金不退，无额外债务。",
+    "after": "在签约后2次发布内，一次交付2个产品位的现货（每位1批），每批均须满足本卡条件，允许配置不同；不能分次交付。每批得28现金、2收入；整单56现金、4收入，并退6押金。未交付到期只没收押金，不增加债务。"
+  },
+  {
+    "path": "/contracts/11/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/11/totalCash",
+    "before": null,
+    "after": 56
+  },
+  {
+    "path": "/contracts/11/totalIncome",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/contracts/12/batchPolicy",
+    "before": null,
+    "after": "允许不同配置、每批逐一达标、同场一次交齐"
+  },
+  {
+    "path": "/contracts/12/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/12/effect",
+    "before": "到期前一次交付同一型号2批库存，逐批获得32现金与2收入，并退还6押金。允许提前一期交付；不能分次或混型号。未交付则押金不退，无额外债务。",
+    "after": "在签约后2次发布内，一次交付2个产品位的现货（每位1批），每批均须满足本卡条件，允许配置不同；不能分次交付。每批得32现金、2收入；整单64现金、4收入，并退6押金。未交付到期只没收押金，不增加债务。"
+  },
+  {
+    "path": "/contracts/12/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/12/totalCash",
+    "before": null,
+    "after": 64
+  },
+  {
+    "path": "/contracts/12/totalIncome",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/contracts/13/batchPolicy",
+    "before": null,
+    "after": "允许不同配置、每批逐一达标、同场一次交齐"
+  },
+  {
+    "path": "/contracts/13/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/13/effect",
+    "before": "到期前一次交付同一型号1批库存，逐批获得42现金与3收入，并退还6押金。允许提前一期交付；不能分次或混型号。未交付则押金不退，无额外债务。",
+    "after": "在签约后2次发布内，一次交付1个产品位的现货（每位1批），每批均须满足本卡条件，允许配置不同；不能分次交付。每批得42现金、3收入；整单42现金、3收入，并退6押金。未交付到期只没收押金，不增加债务。"
+  },
+  {
+    "path": "/contracts/13/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/13/totalCash",
+    "before": null,
+    "after": 42
+  },
+  {
+    "path": "/contracts/13/totalIncome",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/contracts/14/batchPolicy",
+    "before": null,
+    "after": "允许不同配置、每批逐一达标、同场一次交齐"
+  },
+  {
+    "path": "/contracts/14/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/14/effect",
+    "before": "到期前一次交付同一型号2批库存，逐批获得26现金与2收入，并退还6押金。允许提前一期交付；不能分次或混型号。未交付则押金不退，无额外债务。",
+    "after": "在签约后2次发布内，一次交付2个产品位的现货（每位1批），每批均须满足本卡条件，允许配置不同；不能分次交付。每批得26现金、2收入；整单52现金、4收入，并退6押金。未交付到期只没收押金，不增加债务。"
+  },
+  {
+    "path": "/contracts/14/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/14/requirement",
+    "before": "同一型号，全部四部件为稳定或初始配件。",
+    "after": "每批均须全部四部件使用稳定部件代替卡。"
+  },
+  {
+    "path": "/contracts/14/totalCash",
+    "before": null,
+    "after": 52
+  },
+  {
+    "path": "/contracts/14/totalIncome",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/contracts/15/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/15/effect",
+    "before": "签约时选自有1张稳定芯片。有效期内，与它关联的型号合计配额加1；含T37共享。 两次发布后合同结束；费用不退。",
+    "after": "有效期2次发布。每个本人回合首次组装引用库内稳定芯片的产品，总费用减3，最低6。免费取消不恢复本人回合次数。"
+  },
+  {
+    "path": "/contracts/15/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/15/requirement",
+    "before": "签约时满足牌面可选择对象；对象退出则剩余合同失效。",
+    "after": "库内已有稳定芯片（含初始），本合同不绑定具体卡号。"
+  },
+  {
+    "path": "/contracts/15/scope",
+    "before": "chip",
+    "after": null
+  },
+  {
+    "path": "/contracts/16/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/16/effect",
+    "before": "签约时选1款含稳定影像的型号。有效期内该型号所用芯片平台配额加1，每批制造费减1，最低6。 两次发布后合同结束；费用不退。",
+    "after": "有效期2次发布。每次组装引用稳定影像的产品，总费用减2，最低6；不是旧部件折价。"
+  },
+  {
+    "path": "/contracts/16/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/16/requirement",
+    "before": "签约时满足牌面可选择对象；对象退出则剩余合同失效。",
+    "after": "库内已有稳定影像（含初始），本合同不绑定具体卡号。"
+  },
+  {
+    "path": "/contracts/16/scope",
+    "before": "camera",
+    "after": null
+  },
+  {
+    "path": "/contracts/17/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/17/effect",
+    "before": "签约时选1款含稳定屏幕的型号。有效期内该型号每批制造费减2，最低6。 两次发布后合同结束；费用不退。",
+    "after": "有效期2次发布。安装稳定屏幕的入库费减6，最低0；仍花安装工作，且屏幕栏不能被任何产品引用。"
+  },
+  {
+    "path": "/contracts/17/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/17/requirement",
+    "before": "签约时满足牌面可选择对象；对象退出则剩余合同失效。",
+    "after": "无。"
+  },
+  {
+    "path": "/contracts/17/scope",
+    "before": "screen",
+    "after": null
+  },
+  {
+    "path": "/contracts/18/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/18/effect",
+    "before": "签约时选1款含稳定机身的型号。有效期内该型号库存上限从4提高到6。 两次发布后合同结束；费用不退。",
+    "after": "有效期2次发布。每准备期一次，可在本人工作阶段不花工作点安装1张手中稳定机身；照付入库费且不得解除锁定。"
+  },
+  {
+    "path": "/contracts/18/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/18/requirement",
+    "before": "签约时满足牌面可选择对象；对象退出则剩余合同失效。",
+    "after": "无。"
+  },
+  {
+    "path": "/contracts/18/scope",
+    "before": "body",
+    "after": null
+  },
+  {
+    "path": "/contracts/19/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/19/effect",
+    "before": "每个发布周期首次生产含多项定制的型号时，可多生产1批；总产能、配额、库存和付款仍检查。 两次发布后合同结束；费用不退。",
+    "after": "有效期2次发布。每个本人回合首次组装包含多项定制的产品，总费用减4，最低6；每次仍只生产1批。"
+  },
+  {
+    "path": "/contracts/19/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/19/requirement",
+    "before": "签约时满足牌面可选择对象；对象退出则剩余合同失效。",
+    "after": "无。"
+  },
+  {
+    "path": "/contracts/19/scope",
+    "before": "custom",
+    "after": null
+  },
+  {
+    "path": "/contracts/20/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/20/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/21/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/21/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/22/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/22/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/23/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/23/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/24/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/24/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/25/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/25/effect",
+    "before": "签约后选1款尚未公开的型号。其首次发布可在电竞娱乐不要求性能；仍查预算与库存。该发布结束合同即结束。 最多持续两次发布。",
+    "after": "有效期2次发布。每场锁定时选1批产品：该批可投向电竞娱乐而不要求性能特征；仍查预算，且不能再投第二处。"
+  },
+  {
+    "path": "/contracts/25/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/25/name",
+    "before": "红厂首发陈列",
+    "after": "红厂试销陈列"
+  },
+  {
+    "path": "/contracts/25/requirement",
+    "before": "签约时满足牌面指定对象。",
+    "after": "无。"
+  },
+  {
+    "path": "/contracts/26/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/26/effect",
+    "before": "签约后选1款型号。有效期内摄影市场的投放上限加1，最高4；不得绕过摄影资格。 最多持续两次发布。",
+    "after": "有效期2次发布。己方合格产品投放摄影创作时，竞争力加2；仍须满足入场资格与预算。"
+  },
+  {
+    "path": "/contracts/26/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/26/requirement",
+    "before": "签约时满足牌面指定对象。",
+    "after": "无。"
+  },
+  {
+    "path": "/contracts/27/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/27/effect",
+    "before": "有效期内每次发布，本公司18售价零售成交的前2批，各多获得3现金；不加收入。 最多持续两次发布。",
+    "after": "有效期2次发布。每场己方18售价零售成交的前2批（产品位较小者先），每批额外3现金，不加收入。"
+  },
+  {
+    "path": "/contracts/27/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/27/requirement",
+    "before": "签约时满足牌面指定对象。",
+    "after": "无。"
+  },
+  {
+    "path": "/contracts/28/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/28/effect",
+    "before": "有效期内每次发布后，可回收至多2批年龄至少1的未售库存，每批8现金；这些不是销售，不拿收入或挑战奖。 最多持续两次发布。",
+    "after": "有效期2次发布。分单后可出口1批本场实际投放零售但未成交的合法产品，获得8现金；按成交结束占用并消耗定制和Q，不回手。不加收入、不领挑战奖。不是免费取消。出口不触发Q21等成交奖励。"
+  },
+  {
+    "path": "/contracts/28/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/28/requirement",
+    "before": "签约时满足牌面指定对象。",
+    "after": "无。"
+  },
+  {
+    "path": "/contracts/29/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/contracts/29/effect",
+    "before": "有效期内交付订单合同H01—H15时，额外获得6现金；每个合同一次。仍需另一个合同槽。 最多持续两次发布。",
+    "after": "有效期2次发布。每完整交付1张H01—H15订单，额外获得6现金；每合同一次。仍需另一个合同槽。"
+  },
+  {
+    "path": "/contracts/29/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/contracts/29/requirement",
+    "before": "签约时满足牌面指定对象。",
+    "after": "另有执行订单合同时才有收益。"
+  },
+  {
+    "path": "/date",
+    "before": "2026-09-21",
+    "after": "2026-09-22"
+  },
+  {
+    "path": "/deckStructure",
+    "before": null,
+    "after": {
+      "main": 257,
+      "mainDesigns": 185,
+      "starters": 16,
+      "benchmarks": 30,
+      "demands": 12,
+      "refresh": "取牌事项/完整奖励结束后一次补空位；期间不滑动、不立即补新选。普通发布末统一弃最左2张、左移补8。"
+    }
+  },
+  {
+    "path": "/demands/0/effect",
+    "before": "每市场订单数＝玩家人数＋本卡修正，至少1份。每满足一种偏好加3竞争力。预算是所能接受的最高标价。整场预先公开并锁定。",
+    "after": "本卡提前公开；订单按本卡2/3/4人列直接取片。每种已满足偏好加3，通常各一次。预算为最高可接受售价。实际普通发布末才更换。"
+  },
+  {
+    "path": "/demands/0/markets/0/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/0/markets/0/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/0/markets/1/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/0/markets/1/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/0/markets/2/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/0/markets/2/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/0/markets/3/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/0/markets/3/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/1/effect",
+    "before": "每市场订单数＝玩家人数＋本卡修正，至少1份。每满足一种偏好加3竞争力。预算是所能接受的最高标价。整场预先公开并锁定。",
+    "after": "本卡提前公开；订单按本卡2/3/4人列直接取片。每种已满足偏好加3，通常各一次。预算为最高可接受售价。实际普通发布末才更换。"
+  },
+  {
+    "path": "/demands/1/markets/0/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 3,
+      "3": 4,
+      "4": 5
+    }
+  },
+  {
+    "path": "/demands/1/markets/0/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/1/markets/1/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 3,
+      "3": 4,
+      "4": 5
+    }
+  },
+  {
+    "path": "/demands/1/markets/1/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/1/markets/2/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/1/markets/2/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/1/markets/3/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 1,
+      "3": 2,
+      "4": 3
+    }
+  },
+  {
+    "path": "/demands/1/markets/3/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/2/effect",
+    "before": "每市场订单数＝玩家人数＋本卡修正，至少1份。每满足一种偏好加3竞争力。预算是所能接受的最高标价。整场预先公开并锁定。",
+    "after": "本卡提前公开；订单按本卡2/3/4人列直接取片。每种已满足偏好加3，通常各一次。预算为最高可接受售价。实际普通发布末才更换。"
+  },
+  {
+    "path": "/demands/2/markets/0/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/2/markets/0/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/2/markets/1/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/2/markets/1/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/2/markets/2/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 3,
+      "3": 4,
+      "4": 5
+    }
+  },
+  {
+    "path": "/demands/2/markets/2/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/2/markets/3/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 1,
+      "3": 2,
+      "4": 3
+    }
+  },
+  {
+    "path": "/demands/2/markets/3/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/3/effect",
+    "before": "每市场订单数＝玩家人数＋本卡修正，至少1份。每满足一种偏好加3竞争力。预算是所能接受的最高标价。整场预先公开并锁定。",
+    "after": "本卡提前公开；订单按本卡2/3/4人列直接取片。每种已满足偏好加3，通常各一次。预算为最高可接受售价。实际普通发布末才更换。"
+  },
+  {
+    "path": "/demands/3/markets/0/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 1,
+      "3": 2,
+      "4": 3
+    }
+  },
+  {
+    "path": "/demands/3/markets/0/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/3/markets/1/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/3/markets/1/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/3/markets/2/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/3/markets/2/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/3/markets/3/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 3,
+      "3": 4,
+      "4": 5
+    }
+  },
+  {
+    "path": "/demands/3/markets/3/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/4/effect",
+    "before": "每市场订单数＝玩家人数＋本卡修正，至少1份。每满足一种偏好加3竞争力。预算是所能接受的最高标价。整场预先公开并锁定。",
+    "after": "本卡提前公开；订单按本卡2/3/4人列直接取片。每种已满足偏好加3，通常各一次。预算为最高可接受售价。实际普通发布末才更换。"
+  },
+  {
+    "path": "/demands/4/markets/0/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 3,
+      "3": 4,
+      "4": 5
+    }
+  },
+  {
+    "path": "/demands/4/markets/0/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/4/markets/1/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/4/markets/1/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/4/markets/2/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/4/markets/2/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/4/markets/3/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/4/markets/3/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/5/effect",
+    "before": "每市场订单数＝玩家人数＋本卡修正，至少1份。每满足一种偏好加3竞争力。预算是所能接受的最高标价。整场预先公开并锁定。",
+    "after": "本卡提前公开；订单按本卡2/3/4人列直接取片。每种已满足偏好加3，通常各一次。预算为最高可接受售价。实际普通发布末才更换。"
+  },
+  {
+    "path": "/demands/5/markets/0/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 3,
+      "3": 4,
+      "4": 5
+    }
+  },
+  {
+    "path": "/demands/5/markets/0/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/5/markets/1/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/5/markets/1/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/5/markets/2/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/5/markets/2/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/5/markets/3/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/5/markets/3/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/6/effect",
+    "before": "每市场订单数＝玩家人数＋本卡修正，至少1份。每满足一种偏好加3竞争力。预算是所能接受的最高标价。整场预先公开并锁定。",
+    "after": "本卡提前公开；订单按本卡2/3/4人列直接取片。每种已满足偏好加3，通常各一次。预算为最高可接受售价。实际普通发布末才更换。"
+  },
+  {
+    "path": "/demands/6/markets/0/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 1,
+      "3": 2,
+      "4": 3
+    }
+  },
+  {
+    "path": "/demands/6/markets/0/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/6/markets/1/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 3,
+      "3": 4,
+      "4": 5
+    }
+  },
+  {
+    "path": "/demands/6/markets/1/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/6/markets/2/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 3,
+      "3": 4,
+      "4": 5
+    }
+  },
+  {
+    "path": "/demands/6/markets/2/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/6/markets/3/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/6/markets/3/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/7/effect",
+    "before": "每市场订单数＝玩家人数＋本卡修正，至少1份。每满足一种偏好加3竞争力。预算是所能接受的最高标价。整场预先公开并锁定。",
+    "after": "本卡提前公开；订单按本卡2/3/4人列直接取片。每种已满足偏好加3，通常各一次。预算为最高可接受售价。实际普通发布末才更换。"
+  },
+  {
+    "path": "/demands/7/markets/0/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 3,
+      "3": 4,
+      "4": 5
+    }
+  },
+  {
+    "path": "/demands/7/markets/0/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/7/markets/1/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/7/markets/1/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/7/markets/2/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 3,
+      "3": 4,
+      "4": 5
+    }
+  },
+  {
+    "path": "/demands/7/markets/2/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/7/markets/3/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 1,
+      "3": 2,
+      "4": 3
+    }
+  },
+  {
+    "path": "/demands/7/markets/3/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/8/effect",
+    "before": "每市场订单数＝玩家人数＋本卡修正，至少1份。每满足一种偏好加3竞争力。预算是所能接受的最高标价。整场预先公开并锁定。",
+    "after": "本卡提前公开；订单按本卡2/3/4人列直接取片。每种已满足偏好加3，通常各一次。预算为最高可接受售价。实际普通发布末才更换。"
+  },
+  {
+    "path": "/demands/8/markets/0/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/8/markets/0/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/8/markets/1/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 1,
+      "3": 2,
+      "4": 3
+    }
+  },
+  {
+    "path": "/demands/8/markets/1/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/8/markets/2/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/8/markets/2/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/8/markets/3/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 3,
+      "3": 4,
+      "4": 5
+    }
+  },
+  {
+    "path": "/demands/8/markets/3/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/9/effect",
+    "before": "每市场订单数＝玩家人数＋本卡修正，至少1份。每满足一种偏好加3竞争力。预算是所能接受的最高标价。整场预先公开并锁定。",
+    "after": "本卡提前公开；订单按本卡2/3/4人列直接取片。每种已满足偏好加3，通常各一次。预算为最高可接受售价。实际普通发布末才更换。"
+  },
+  {
+    "path": "/demands/9/markets/0/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/9/markets/0/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/9/markets/1/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 3,
+      "3": 4,
+      "4": 5
+    }
+  },
+  {
+    "path": "/demands/9/markets/1/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/9/markets/2/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/9/markets/2/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/9/markets/3/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/9/markets/3/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/10/effect",
+    "before": "每市场订单数＝玩家人数＋本卡修正，至少1份。每满足一种偏好加3竞争力。预算是所能接受的最高标价。整场预先公开并锁定。",
+    "after": "本卡提前公开；订单按本卡2/3/4人列直接取片。每种已满足偏好加3，通常各一次。预算为最高可接受售价。实际普通发布末才更换。"
+  },
+  {
+    "path": "/demands/10/markets/0/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/10/markets/0/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/10/markets/1/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/10/markets/1/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/10/markets/2/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/10/markets/2/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/10/markets/3/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 3,
+      "3": 4,
+      "4": 5
+    }
+  },
+  {
+    "path": "/demands/10/markets/3/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/11/effect",
+    "before": "每市场订单数＝玩家人数＋本卡修正，至少1份。每满足一种偏好加3竞争力。预算是所能接受的最高标价。整场预先公开并锁定。",
+    "after": "本卡提前公开；订单按本卡2/3/4人列直接取片。每种已满足偏好加3，通常各一次。预算为最高可接受售价。实际普通发布末才更换。"
+  },
+  {
+    "path": "/demands/11/markets/0/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/11/markets/0/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/11/markets/1/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/11/markets/1/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/11/markets/2/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/11/markets/2/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/demands/11/markets/3/ordersByPlayers",
+    "before": null,
+    "after": {
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  {
+    "path": "/demands/11/markets/3/preferenceBonus",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/facilities/0/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/facilities/0/effect",
+    "before": "公司每个发布周期生产产能加2。可以与不同设施叠加，最终至多10。",
+    "after": "每个本人回合首次正常组装前，可顺带从手牌安装1张稳定配件，不另花安装工作；仍付入库费并检查无引用。然后照常组装1批并付款。"
+  },
+  {
+    "path": "/facilities/0/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/facilities/1/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/facilities/1/effect",
+    "before": "公司生产产能加3，最终至多10；每次发布后需付6维护费，否则下期停用，之后可付6启用。",
+    "after": "每个本人回合另有1枚专用工作点，只能用于一次正常的单批组装，不可保存或挪作他用。每次普通发布末付6维护费，否则停用；本人回合付6可重新启用，但本回合专用点仍只一次。"
+  },
+  {
+    "path": "/facilities/1/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/facilities/2/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/facilities/2/effect",
+    "before": "每个本人回合第一次采购，可以同一工作点购买两张不同类别公开配件，各付签约费。",
+    "after": "每个本人回合首次取牌工作可取得至多3张主牌，而非2张；可混选当前牌市与盲抽，全部选完后统一补牌。"
+  },
+  {
+    "path": "/facilities/2/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/facilities/3/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/facilities/3/effect",
+    "before": "每周期一次采购可改为：查看一种非芯片已解锁供应堆顶3张，选1付签约费，其余置底。不同时购买陈列牌。",
+    "after": "每准备期一次，取牌工作可改为查看主牌堆顶5张，留至多2张，其余按原顺序置底。不同时取牌市；未来卡可拿但不可提前用于组装。"
+  },
+  {
+    "path": "/facilities/3/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/facilities/4/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/facilities/4/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/facilities/5/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/facilities/5/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/facilities/6/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/facilities/6/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/facilities/7/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/facilities/7/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/facilities/8/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/facilities/8/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/facilities/9/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/facilities/9/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/facilities/10/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/facilities/10/effect",
+    "before": "每个本人回合第一次定型的通用开发费减6，最低0；仍花工作点，方案卡费用照付。",
+    "after": "每个本人回合首次正常组装的组装费8减6，最低0；工作点、部件制造费及Q费用照付。试产券不触发。"
+  },
+  {
+    "path": "/facilities/10/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/facilities/11/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/facilities/11/effect",
+    "before": "公开独立验证现金费减6，最低0；不额外增加验证次数。",
+    "after": "独立验证现金费12减6，最低0；每公司每世代次数不增加。"
+  },
+  {
+    "path": "/facilities/11/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/facilities/12/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/facilities/12/effect",
+    "before": "每款型号库存上限加2，最终至多8；不改变产能与供货配额。",
+    "after": "手牌上限由8提高到10；不增加稳定库栏位或产品位，也不允许未来配件提前用于组装。拆除后本人回合末弃至恢复后的上限。"
+  },
+  {
+    "path": "/facilities/12/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/facilities/13/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/facilities/13/effect",
+    "before": "强制退市时，该型号至多1批库存回收6现金，其他批次按通常残值。不是销售，不加收入。",
+    "after": "在本人工作阶段取消一批产品后，紧接着进行的同产品位改款组装，总费用减3，最低6。每本人回合一次；不退原制造费，仍花组装工作。"
+  },
+  {
+    "path": "/facilities/13/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/facilities/14/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/facilities/14/effect",
+    "before": "全部使用稳定或初始件的型号，每批制造费减2，最低6。",
+    "after": "四种部件全部使用稳定部件代替卡的产品，组装总费用减2，最低6。"
+  },
+  {
+    "path": "/facilities/14/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/facilities/15/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/facilities/15/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/facilities/16/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/facilities/16/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/facilities/17/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/facilities/17/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/lifecycle",
+    "before": null,
+    "after": {
+      "product": "一个产品位＝一批已付款现货；所有配件恰好覆盖四种",
+      "stable": "真实卡留四栏库，产品以代替卡引用；任一现存引用都会锁该栏",
+      "cancel": "本人工作阶段免费取消；定制及Q回手，代替片收回，部署释放；现金和工作不退",
+      "sold": "整场所有奖励处理后，成交批次定制和Q移出（Q21例外），代替片收回，技术释放，产品位清空",
+      "unsold": "保持配置与部署及库引用，不老化、不折价；下场重新选择一处去向和价格",
+      "replacement": "只在无产品引用时，1工作点从手牌安装1张稳定，支付印刷入库费；撤下稳定进主弃牌，初始移出；无找零/返现",
+      "future": "可取得、可付费入库；未来配件不得用于组装或样机；新世代回合末开放，不加牌不洗牌"
+    }
+  },
+  {
+    "path": "/migration/changedGameplayCardFamily",
+    "before": "benchmark",
+    "after": null
+  },
+  {
+    "path": "/migration/from",
+    "before": "6.0",
+    "after": "6.1"
+  },
+  {
+    "path": "/migration/note",
+    "before": null,
+    "after": "243种/315张不变；主牌257张开局全入，16初始/30参考/12需求独立。删除年龄、型号库存数、公司产能和芯片配额，所有冲突效果重写。"
+  },
+  {
+    "path": "/migration/otherCards",
+    "before": "全部其他213种内容牌的原数值、前置和效果原样保留；版式增加状态提示。",
+    "after": null
+  },
+  {
+    "path": "/parameters/agingPenalty",
+    "before": 3,
+    "after": null
+  },
+  {
+    "path": "/parameters/assemblyFee",
+    "before": null,
+    "after": 8
+  },
+  {
+    "path": "/parameters/assemblyWork",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/parameters/baseProductionCap",
+    "before": 6,
+    "after": null
+  },
+  {
+    "path": "/parameters/batchesPerAssembly",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/parameters/cancelRefund",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parameters/cancelWork",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parameters/drawPerWork",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/parameters/independentVerification",
+    "before": null,
+    "after": "每公司每个当前世代至多一次，取消不复位"
+  },
+  {
+    "path": "/parameters/installWork",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/parameters/inventoryCapPerModel",
+    "before": 4,
+    "after": null
+  },
+  {
+    "path": "/parameters/mainDisplay",
+    "before": null,
+    "after": 8
+  },
+  {
+    "path": "/parameters/maxAge",
+    "before": 2,
+    "after": null
+  },
+  {
+    "path": "/parameters/minimumAssemblyTotal",
+    "before": null,
+    "after": 6
+  },
+  {
+    "path": "/parameters/normalRefreshDiscard",
+    "before": null,
+    "after": 2
+  },
+  {
+    "path": "/parameters/offerCapPerModelPerMarket",
+    "before": 3,
+    "after": null
+  },
+  {
+    "path": "/parameters/platformQuota",
+    "before": 2,
+    "after": null
+  },
+  {
+    "path": "/parameters/stableSlotsPerKind",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/parameters/startingDraw",
+    "before": null,
+    "after": 8
+  },
+  {
+    "path": "/parameters/startingKeep",
+    "before": null,
+    "after": 5
+  },
+  {
+    "path": "/parameters/startingProductCount",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/0/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/0/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/0/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/0/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/1/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/1/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/1/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/1/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/2/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/2/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/2/effect",
+    "before": "成熟平台：落后当前供应至少1代时，本型号每批制造费再减1，最低6。",
+    "after": "成熟平台：本产品四类全部用稳定部件代替卡时，组装总费用减1，最低6；不随世代自动降价。"
+  },
+  {
+    "path": "/parts/2/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/2/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/3/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/3/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/3/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/3/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/4/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/4/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/4/effect",
+    "before": "高频平台：允许选择强劲调校，竞争力加3、芯片功耗加2；定型时锁定。",
+    "after": "高频平台：允许选择强劲调校，竞争力加3、芯片功耗加2；组装时锁定。"
+  },
+  {
+    "path": "/parts/4/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/4/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/5/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/5/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/5/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/5/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/6/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/6/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/6/effect",
+    "before": "平台复用：作为共用芯片时，两型号合计基础配额由2增至3。仍须有T37许可。",
+    "after": "平台适配：本产品引用稳定屏幕，且屏幕带性能标识时，电竞娱乐竞争力加2。不改变一次组装1批。"
+  },
+  {
+    "path": "/parts/6/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/6/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/7/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/7/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/7/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/7/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/8/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/8/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/8/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/8/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/9/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/9/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/9/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/9/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/10/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/10/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/10/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/10/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/11/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/11/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/11/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/11/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/12/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/12/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/12/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/12/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/13/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/13/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/13/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/13/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/14/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/14/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/14/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/14/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/15/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/15/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/15/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/15/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/16/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/16/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/16/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/16/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/17/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/17/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/17/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/17/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/18/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/18/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/18/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/18/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/19/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/19/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/19/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/19/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/20/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/20/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/20/effect",
+    "before": "高级影像：芯片规格至少6，或装有T26/T38/C06，才可定型。",
+    "after": "高级影像：芯片规格至少6，或装有T26/T38/C06，才可组装。"
+  },
+  {
+    "path": "/parts/20/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/20/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/21/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/21/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/21/effect",
+    "before": "高级影像：芯片规格至少8，或装有T26/T38/C06，才可定型。",
+    "after": "高级影像：芯片规格至少8，或装有T26/T38/C06，才可组装。"
+  },
+  {
+    "path": "/parts/21/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/21/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/22/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/22/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/22/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/22/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/23/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/23/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/23/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/23/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/24/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/24/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/24/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/24/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/25/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/25/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/25/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/25/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/26/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/26/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/26/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/26/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/27/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/27/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/27/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/27/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/28/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/28/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/28/effect",
+    "before": "低压运行：允许选择节能调校，芯片功耗减2、竞争力减1；定型时锁定。",
+    "after": "低压运行：允许选择节能调校，芯片功耗减2、竞争力减1；组装时锁定。"
+  },
+  {
+    "path": "/parts/28/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/28/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/29/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/29/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/29/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/29/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/30/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/30/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/30/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/30/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/31/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/31/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/31/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/31/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/32/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/32/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/32/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/32/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/33/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/33/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/33/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/33/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/34/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/34/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/34/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/34/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/35/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/35/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/35/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/35/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/36/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/36/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/36/effect",
+    "before": "高级影像：芯片规格至少6，或装有T26/T38/C06，才可定型。",
+    "after": "高级影像：芯片规格至少6，或装有T26/T38/C06，才可组装。"
+  },
+  {
+    "path": "/parts/36/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/36/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/37/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/37/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/37/effect",
+    "before": "轻量结构：定型时本机具有轻薄特征。",
+    "after": "轻量结构：组装时本机具有轻薄特征。"
+  },
+  {
+    "path": "/parts/37/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/37/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/38/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/38/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/38/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/38/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/39/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/39/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/39/installCost",
+    "before": null,
+    "after": 9
+  },
+  {
+    "path": "/parts/39/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/40/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/40/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/40/effect",
+    "before": "允许强劲调校：竞争力加3、芯片功耗加2；定型时锁定。",
+    "after": "允许强劲调校：竞争力加3、芯片功耗加2；组装时锁定。"
+  },
+  {
+    "path": "/parts/40/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/41/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/41/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/41/effect",
+    "before": "允许节能调校：芯片功耗减2、竞争力减1；定型时锁定。",
+    "after": "允许节能调校：芯片功耗减2、竞争力减1；组装时锁定。"
+  },
+  {
+    "path": "/parts/41/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/42/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/42/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/42/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/43/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/43/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/43/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/44/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/44/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/44/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/45/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/45/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/45/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/46/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/46/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/46/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/47/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/47/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/47/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/48/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/48/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/48/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/49/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/49/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/49/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/50/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/50/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/50/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/51/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/51/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/51/effect",
+    "before": "高级影像：芯片规格至少6，或装有T26/T38/C06，才可定型。",
+    "after": "高级影像：芯片规格至少6，或装有T26/T38/C06，才可组装。"
+  },
+  {
+    "path": "/parts/51/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/52/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/52/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/52/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/53/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/53/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/53/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/54/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/54/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/54/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/55/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/55/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/55/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/56/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/56/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/56/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/57/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/57/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/57/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/58/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/58/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/58/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/59/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/59/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/59/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/60/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/60/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/60/effect",
+    "before": "预适配结构：本机定型开发费减3，最低0；四类仍须齐全。",
+    "after": "预适配结构：本机组装费减3，最低0；四类仍须齐全。"
+  },
+  {
+    "path": "/parts/60/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/61/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/61/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/61/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/62/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/62/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/62/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/63/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/63/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/63/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/64/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/64/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/64/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/65/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/65/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/65/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/66/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/66/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/66/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/67/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/67/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/67/effect",
+    "before": "预适配平台：本机定型开发费减3，最低0。",
+    "after": "预适配平台：本机组装费减3，最低0。"
+  },
+  {
+    "path": "/parts/67/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/68/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/68/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/68/effect",
+    "before": "整机参考：定型不再支付通用6现金开发费；可追加产品方案的费用照付。",
+    "after": "整机参考：组装费8减6，最低0；本卡制造费及Q方案费用仍照付。"
+  },
+  {
+    "path": "/parts/68/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/69/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/69/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/69/effect",
+    "before": "整机参考：本机具有性能特征；通用开发费仍照付。",
+    "after": "整机参考：本机具有性能特征；组装费8仍照付。"
+  },
+  {
+    "path": "/parts/69/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/70/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/70/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/70/effect",
+    "before": "整机参考：本机具有影像特征；通用开发费仍照付。",
+    "after": "整机参考：本机具有影像特征；组装费8仍照付。"
+  },
+  {
+    "path": "/parts/70/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/71/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/71/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/parts/71/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "手牌中直接用于组装；整张全部部件同批使用。取消整张回手，成交后整张移出，未售原样留产品中。"
+  },
+  {
+    "path": "/parts/72/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/72/deck",
+    "before": null,
+    "after": "initial"
+  },
+  {
+    "path": "/parts/72/installCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/72/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/73/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/73/deck",
+    "before": null,
+    "after": "initial"
+  },
+  {
+    "path": "/parts/73/installCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/73/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/74/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/74/deck",
+    "before": null,
+    "after": "initial"
+  },
+  {
+    "path": "/parts/74/installCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/74/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/75/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/75/deck",
+    "before": null,
+    "after": "initial"
+  },
+  {
+    "path": "/parts/75/installCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/75/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/76/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/76/deck",
+    "before": null,
+    "after": "initial"
+  },
+  {
+    "path": "/parts/76/installCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/76/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/77/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/77/deck",
+    "before": null,
+    "after": "initial"
+  },
+  {
+    "path": "/parts/77/installCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/77/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/78/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/78/deck",
+    "before": null,
+    "after": "initial"
+  },
+  {
+    "path": "/parts/78/installCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/78/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/79/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/79/deck",
+    "before": null,
+    "after": "initial"
+  },
+  {
+    "path": "/parts/79/installCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/79/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/80/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/80/deck",
+    "before": null,
+    "after": "initial"
+  },
+  {
+    "path": "/parts/80/installCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/80/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/81/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/81/deck",
+    "before": null,
+    "after": "initial"
+  },
+  {
+    "path": "/parts/81/installCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/81/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/82/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/82/deck",
+    "before": null,
+    "after": "initial"
+  },
+  {
+    "path": "/parts/82/installCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/82/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/83/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/83/deck",
+    "before": null,
+    "after": "initial"
+  },
+  {
+    "path": "/parts/83/installCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/83/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/84/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/84/deck",
+    "before": null,
+    "after": "initial"
+  },
+  {
+    "path": "/parts/84/installCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/84/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/85/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/85/deck",
+    "before": null,
+    "after": "initial"
+  },
+  {
+    "path": "/parts/85/installCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/85/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/86/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/86/deck",
+    "before": null,
+    "after": "initial"
+  },
+  {
+    "path": "/parts/86/installCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/86/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/parts/87/acquisitionCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/87/deck",
+    "before": null,
+    "after": "initial"
+  },
+  {
+    "path": "/parts/87/installCost",
+    "before": null,
+    "after": 0
+  },
+  {
+    "path": "/parts/87/lifecycle",
+    "before": "定型后留在型号下，直至改款撤下或退市。稳定/初始件退市后回库，定制方案退市后移出。不是每次发布后消耗。",
+    "after": "实体一直留同类库栏；产品放稳定部件代替卡。仍有任何产品引用就不能替换。取消/成交不消耗本卡。"
+  },
+  {
+    "path": "/physicalProtocol/allocationColumns",
+    "before": [
+      "留库",
+      "合同A",
+      "合同B",
+      "合同C",
+      "大众消费",
+      "电竞娱乐",
+      "摄影创作",
+      "商务办公"
+    ],
+    "after": null
+  },
+  {
+    "path": "/physicalProtocol/bankDeposit",
+    "before": null,
+    "after": "实际现金压合同，退押收回"
+  },
+  {
+    "path": "/physicalProtocol/batchTokenMeaning",
+    "before": "1枚代表该型号1批已付费生产的库存",
+    "after": null
+  },
+  {
+    "path": "/physicalProtocol/batchTokensPerPlayer",
+    "before": 32,
+    "after": null
+  },
+  {
+    "path": "/physicalProtocol/contractDeadlineTracks",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/physicalProtocol/contractStripsPerPlayer",
+    "before": 3,
+    "after": null
+  },
+  {
+    "path": "/physicalProtocol/deployedTechNumberPairs",
+    "before": null,
+    "after": 12
+  },
+  {
+    "path": "/physicalProtocol/depositTracking",
+    "before": "3或6现金实物压在合同押金区，代银行保管，不属于可花现金；履约收回，失败入银行",
+    "after": null
+  },
+  {
+    "path": "/physicalProtocol/independentVerificationEraCells",
+    "before": null,
+    "after": 5
+  },
+  {
+    "path": "/physicalProtocol/keptRewardTokensPerPlayer",
+    "before": {
+      "endorsement": 1,
+      "pilot": 1
+    },
+    "after": null
+  },
+  {
+    "path": "/physicalProtocol/marketCellZones",
+    "before": [
+      "待售",
+      "已售"
+    ],
+    "after": null
+  },
+  {
+    "path": "/physicalProtocol/noHistoricalCostRecords",
+    "before": true,
+    "after": null
+  },
+  {
+    "path": "/physicalProtocol/paidSaleTracking",
+    "before": "付款后才归还已售批次块；数值奖励先冻结并在来源牌放待结片，逐项领取后收回片",
+    "after": null
+  },
+  {
+    "path": "/physicalProtocol/pendingRewardSlotsPerPlayer",
+    "before": 1,
+    "after": null
+  },
+  {
+    "path": "/physicalProtocol/productDestinationTokensPerPlayer",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/physicalProtocol/productSlotsPerPlayer",
+    "before": null,
+    "after": 4
+  },
+  {
+    "path": "/physicalProtocol/progressStripsPerPlayer",
+    "before": 3,
+    "after": null
+  },
+  {
+    "path": "/physicalProtocol/referenceEraMarker",
+    "before": true,
+    "after": null
+  },
+  {
+    "path": "/physicalProtocol/researchProgressTracks",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/physicalProtocol/retainedRewardTokens",
+    "before": null,
+    "after": {
+      "endorsement": 1,
+      "installVoucher": 1,
+      "pilot": 1
+    }
+  },
+  {
+    "path": "/physicalProtocol/retiredRecords",
+    "before": null,
+    "after": "不保留已售产品档案、代龄、型号终身验证、历史制造费"
+  },
+  {
+    "path": "/physicalProtocol/rulebookSidebars",
+    "before": "只放例子、操作提示与交叉引用；必要规则写在正文，不藏在侧栏。",
+    "after": null
+  },
+  {
+    "path": "/physicalProtocol/sidebars",
+    "before": null,
+    "after": "仅例子/操作提示；强制规则仍写正文。"
+  },
+  {
+    "path": "/physicalProtocol/stableSubstitutesPerPlayer",
+    "before": null,
+    "after": {
+      "chip": 4,
+      "screen": 4,
+      "camera": 4,
+      "body": 4
+    }
+  },
+  {
+    "path": "/physicalProtocol/stockRule",
+    "before": null,
+    "after": "每完整配置只是一批，不另用库存数量条。放一个去向片于每产品行，成交时移到已售区；整场结算完才清空。"
+  },
+  {
+    "path": "/physicalProtocol/stockTracking",
+    "before": "用实际批次块在型号/投放格间移动，不再同时用一个库存数值表重复记账",
+    "after": null
+  },
+  {
+    "path": "/physicalProtocol/usedPlatformStripsPerPlayer",
+    "before": 10,
+    "after": null
+  },
+  {
+    "path": "/physicalProtocol/workTokensPerPlayer",
+    "before": null,
+    "after": 3
+  },
+  {
+    "path": "/provenance/commit",
+    "before": "5ea3143af4da5225fcddd5c37349a21143fb3aea",
+    "after": null
+  },
+  {
+    "path": "/provenance/dataGitBlob",
+    "before": "02213dd77fc095bbf62b6bb8633f113fce5c32f3",
+    "after": null
+  },
+  {
+    "path": "/provenance/note",
+    "before": "本地6.0数据、规则与规划的Git blob均与仓库对应文件一致。6.0归档不覆盖。",
+    "after": null
+  },
+  {
+    "path": "/provenance/remoteStatus",
+    "before": null,
+    "after": "本轮未读取或修改远端；以用户实际6.1交付包为底稿。"
+  },
+  {
+    "path": "/provenance/rulesGitBlob",
+    "before": "bbf487192675870a729b9cd21fb8860bc08728b5",
+    "after": null
+  },
+  {
+    "path": "/provenance/sha256",
+    "before": "050b23806111aab13ab1a9fd5d1628604a2ddb36afd8d43a9e211c573f49e205",
+    "after": "2ec794ca54bc7a573e8258273032efce6d1cb12417b67c406b3c92d93236ffe3"
+  },
+  {
+    "path": "/provenance/sourceFile",
+    "before": null,
+    "after": "source/v61_data.json"
+  },
+  {
+    "path": "/provenance/sourceVersion",
+    "before": "6.0",
+    "after": "6.1"
+  },
+  {
+    "path": "/referenceRules/specialResolution",
+    "before": "先收款和普通成果，再按触发者之后的顺序处理特色奖；在本场合同减期限和退市之前",
+    "after": "全桌收款和普通成果后、成交产品清空前，按触发者下一位顺时针结算特色奖；新技术不追溯。"
+  },
+  {
+    "path": "/referenceRules/technologyGate",
+    "before": "所选挑战型号本场首发，且发布开始时已部署至少1项完成研发；科技奖与工程试验均要求",
+    "after": "挑战产品在锁定时已部署至少1张完成研发；不再检查首发或代龄。成交后该批清空，不能重复成交领奖。"
+  },
+  {
+    "path": "/schemes/0/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/schemes/0/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/schemes/0/lifecycle",
+    "before": null,
+    "after": "可选，每批至多1张；取消回手，成交移出。每次再组装仍付方案费；Q21按例外。"
+  },
+  {
+    "path": "/schemes/1/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/schemes/1/effect",
+    "before": "本型号所用芯片平台配额加1；不是增加全公司的生产产能。",
+    "after": "组装费减3，最低0；不依赖当前世代或旧配件折价。"
+  },
+  {
+    "path": "/schemes/1/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/schemes/1/lifecycle",
+    "before": null,
+    "after": "可选，每批至多1张；取消回手，成交移出。每次再组装仍付方案费；Q21按例外。"
+  },
+  {
+    "path": "/schemes/1/requirement",
+    "before": "至少一张稳定件比当前世代早1代。",
+    "after": "引用库内稳定芯片，且芯片规格至多5。"
+  },
+  {
+    "path": "/schemes/2/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/schemes/2/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/schemes/2/lifecycle",
+    "before": null,
+    "after": "可选，每批至多1张；取消回手，成交移出。每次再组装仍付方案费；Q21按例外。"
+  },
+  {
+    "path": "/schemes/3/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/schemes/3/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/schemes/3/lifecycle",
+    "before": null,
+    "after": "可选，每批至多1张；取消回手，成交移出。每次再组装仍付方案费；Q21按例外。"
+  },
+  {
+    "path": "/schemes/4/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/schemes/4/effect",
+    "before": "本机及与它共享芯片的另一型号，共享芯片合计基础配额再加1，只加一次。",
+    "after": "本机组装费减6，最低0；不增加生产批次。可与T37叠加，但组装费最低0。"
+  },
+  {
+    "path": "/schemes/4/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/schemes/4/lifecycle",
+    "before": null,
+    "after": "可选，每批至多1张；取消回手，成交移出。每次再组装仍付方案费；Q21按例外。"
+  },
+  {
+    "path": "/schemes/4/requirement",
+    "before": "已完成T37；芯片为共享稳定件。",
+    "after": "已完成T37；本机与另一现存产品都引用稳定芯片。"
+  },
+  {
+    "path": "/schemes/5/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/schemes/5/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/schemes/5/lifecycle",
+    "before": null,
+    "after": "可选，每批至多1张；取消回手，成交移出。每次再组装仍付方案费；Q21按例外。"
+  },
+  {
+    "path": "/schemes/6/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/schemes/6/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/schemes/6/lifecycle",
+    "before": null,
+    "after": "可选，每批至多1张；取消回手，成交移出。每次再组装仍付方案费；Q21按例外。"
+  },
+  {
+    "path": "/schemes/7/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/schemes/7/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/schemes/7/lifecycle",
+    "before": null,
+    "after": "可选，每批至多1张；取消回手，成交移出。每次再组装仍付方案费；Q21按例外。"
+  },
+  {
+    "path": "/schemes/8/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/schemes/8/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/schemes/8/lifecycle",
+    "before": null,
+    "after": "可选，每批至多1张；取消回手，成交移出。每次再组装仍付方案费；Q21按例外。"
+  },
+  {
+    "path": "/schemes/9/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/schemes/9/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/schemes/9/lifecycle",
+    "before": null,
+    "after": "可选，每批至多1张；取消回手，成交移出。每次再组装仍付方案费；Q21按例外。"
+  },
+  {
+    "path": "/schemes/10/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/schemes/10/effect",
+    "before": "本机同时投放摄影和商务时，两边各加2竞争力。",
+    "after": "本机投放摄影或商务，且另一己方合法产品投放其中另一市场时，本机竞争力加2；不要求另一批已成交。"
+  },
+  {
+    "path": "/schemes/10/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/schemes/10/lifecycle",
+    "before": null,
+    "after": "可选，每批至多1张；取消回手，成交移出。每次再组装仍付方案费；Q21按例外。"
+  },
+  {
+    "path": "/schemes/11/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/schemes/11/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/schemes/11/lifecycle",
+    "before": null,
+    "after": "可选，每批至多1张；取消回手，成交移出。每次再组装仍付方案费；Q21按例外。"
+  },
+  {
+    "path": "/schemes/12/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/schemes/12/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/schemes/12/lifecycle",
+    "before": null,
+    "after": "可选，每批至多1张；取消回手，成交移出。每次再组装仍付方案费；Q21按例外。"
+  },
+  {
+    "path": "/schemes/13/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/schemes/13/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/schemes/13/lifecycle",
+    "before": null,
+    "after": "可选，每批至多1张；取消回手，成交移出。每次再组装仍付方案费；Q21按例外。"
+  },
+  {
+    "path": "/schemes/14/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/schemes/14/effect",
+    "before": "本机采用18售价时，零售成交每批收入加1，仍只有18销售现金。",
+    "after": "本机采用18售价时，零售成交该批收入加1，仍只有18销售现金。"
+  },
+  {
+    "path": "/schemes/14/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/schemes/14/lifecycle",
+    "before": null,
+    "after": "可选，每批至多1张；取消回手，成交移出。每次再组装仍付方案费；Q21按例外。"
+  },
+  {
+    "path": "/schemes/15/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/schemes/15/effect",
+    "before": "本机以18售价投放大众消费时，单市场批次上限为4。",
+    "after": "本机18售价投放大众消费时，与无同类优先能力的其他真人产品同分，本机优先。与同类优先产品同分仍按玩家顺序、产品位顺序。"
+  },
+  {
+    "path": "/schemes/15/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/schemes/15/lifecycle",
+    "before": null,
+    "after": "可选，每批至多1张；取消回手，成交移出。每次再组装仍付方案费；Q21按例外。"
+  },
+  {
+    "path": "/schemes/16/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/schemes/16/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/schemes/16/lifecycle",
+    "before": null,
+    "after": "可选，每批至多1张；取消回手，成交移出。每次再组装仍付方案费；Q21按例外。"
+  },
+  {
+    "path": "/schemes/17/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/schemes/17/effect",
+    "before": "本机每批合同销售的收入加1；不改变零售收入。",
+    "after": "本机该批合同销售的收入加1；不改变零售收入。"
+  },
+  {
+    "path": "/schemes/17/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/schemes/17/lifecycle",
+    "before": null,
+    "after": "可选，每批至多1张；取消回手，成交移出。每次再组装仍付方案费；Q21按例外。"
+  },
+  {
+    "path": "/schemes/18/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/schemes/18/effect",
+    "before": "本机具有轻薄，且通用开发费减3。",
+    "after": "本机具有轻薄，且组装费减3，最低0。"
+  },
+  {
+    "path": "/schemes/18/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/schemes/18/lifecycle",
+    "before": null,
+    "after": "可选，每批至多1张；取消回手，成交移出。每次再组装仍付方案费；Q21按例外。"
+  },
+  {
+    "path": "/schemes/19/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/schemes/19/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/schemes/19/lifecycle",
+    "before": null,
+    "after": "可选，每批至多1张；取消回手，成交移出。每次再组装仍付方案费；Q21按例外。"
+  },
+  {
+    "path": "/schemes/20/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/schemes/20/effect",
+    "before": "本机自主退市或强制退市，未售库存每批回收6现金，而不是3。",
+    "after": "本产品实际成交结束后，只有本Q方案回手而非移出；定制配件照常消耗。下次使用本方案仍付3方案费。取消也按通用规则回手。"
+  },
+  {
+    "path": "/schemes/20/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/schemes/20/lifecycle",
+    "before": null,
+    "after": "可选，每批至多1张；取消回手，成交移出。每次再组装仍付方案费；Q21按例外。"
+  },
+  {
+    "path": "/schemes/20/requirement",
+    "before": "至少3张非定制部件。",
+    "after": "至少3种部件使用稳定部件代替卡。"
+  },
+  {
+    "path": "/schemes/21/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/schemes/21/effect",
+    "before": "本型号的独立验证现金费减6，最低0；每型号一生仍只验证一次。",
+    "after": "用本产品做独立验证时现金费减6，最低0；每公司每当前世代一次，取消、再造或换产品位不恢复。"
+  },
+  {
+    "path": "/schemes/21/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/schemes/21/lifecycle",
+    "before": null,
+    "after": "可选，每批至多1张；取消回手，成交移出。每次再组装仍付方案费；Q21按例外。"
+  },
+  {
+    "path": "/schemes/22/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/schemes/22/effect",
+    "before": "本机所用芯片平台配额加1；研发证明可以展示本机的整合方案属性。",
+    "after": "本机组装费减4，最低0；可作为需要整合定制属性的研发样机，不因此多生产一批。"
+  },
+  {
+    "path": "/schemes/22/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/schemes/22/lifecycle",
+    "before": null,
+    "after": "可选，每批至多1张；取消回手，成交移出。每次再组装仍付方案费；Q21按例外。"
+  },
+  {
+    "path": "/schemes/23/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/schemes/23/effect",
+    "before": "每次发布本机在两个不同零售市场均有成交时，额外增加1收入；只加一次。",
+    "after": "本产品与至少另一批己方产品在不同零售市场实际成交时，额外增加1收入；每场只加一次，不把同一批投到两处。"
+  },
+  {
+    "path": "/schemes/23/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/schemes/23/lifecycle",
+    "before": null,
+    "after": "可选，每批至多1张；取消回手，成交移出。每次再组装仍付方案费；Q21按例外。"
+  },
+  {
+    "path": "/status",
+    "before": "易读规则与隐藏参考机测试版；未完成多人平衡实测",
+    "after": "结构简化测试版；尚未充分多人实测"
+  },
+  {
+    "path": "/subtitle",
+    "before": "发布悬念与实体操作",
+    "after": "统一牌流与单批产品"
+  },
+  {
+    "path": "/technologies/0/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/0/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/1/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/1/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/2/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/2/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/3/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/3/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/4/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/4/effect",
+    "before": "部署：配套折叠型号的通用开发费减6，最低0；本项技术也须在定型时部署。",
+    "after": "部署：配套折叠产品的组装费8减6，最低0；本技术须在该次组装中部署。"
+  },
+  {
+    "path": "/technologies/4/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/5/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/5/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/6/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/6/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/7/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/7/effect",
+    "before": "部署：影像规格不超过5的型号，在摄影创作竞争力加4。",
+    "after": "部署：影像规格不超过5的产品，在摄影创作竞争力加4。"
+  },
+  {
+    "path": "/technologies/7/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/8/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/8/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/9/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/9/effect",
+    "before": "部署：有效供电加4；可用普通结构做出长续航型号。",
+    "after": "部署：有效供电加4；可用普通结构做出长续航产品。"
+  },
+  {
+    "path": "/technologies/9/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/10/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/10/effect",
+    "before": "部署：配套折叠型号另有轻薄特征。",
+    "after": "部署：配套折叠产品另有轻薄特征。"
+  },
+  {
+    "path": "/technologies/10/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/11/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/11/effect",
+    "before": "部署：生态型号可以履行要求“安全”的合同，不必额外使用安全产品方案。",
+    "after": "部署：生态产品可以履行要求“安全”的合同，不必额外使用安全产品方案。"
+  },
+  {
+    "path": "/technologies/11/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/12/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/12/effect",
+    "before": "部署：允许本机每次生产最多3批，仍受供货配额、产能、库存及付款限制。",
+    "after": "部署：芯片和屏幕规格均至少6时，本产品以38或48售价投放电竞娱乐或商务办公，竞争力加3。"
+  },
+  {
+    "path": "/technologies/12/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/13/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/13/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/14/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/14/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/15/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/15/effect",
+    "before": "部署：本型号年龄2发布后可不强制退市，额外参加一次年龄3发布，衰减照常为9；此后必须退市。",
+    "after": "部署：本产品有续航特征且供电余量至少4时，在商务办公把续航偏好计2次；只在需求卡偏好含续航时生效。"
+  },
+  {
+    "path": "/technologies/15/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/16/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/16/effect",
+    "before": "部署：折叠型号可进入摄影创作，即使没有影像特征；不替代摄影合同的硬性要求。",
+    "after": "部署：折叠产品可进入摄影创作，即使没有影像特征；不替代摄影合同的硬性要求。"
+  },
+  {
+    "path": "/technologies/16/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/17/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/17/effect",
+    "before": "部署：每次投放零售时，本机可额外进入一个原本不合格的市场；不新增特征，不绕预算。",
+    "after": "部署：锁定投放时，可以选择一个本来不合格的零售市场，作为本批唯一去向；不新增特征，不绕预算，不允许一批投两处。"
+  },
+  {
+    "path": "/technologies/17/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/18/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/18/effect",
+    "before": "部署：定型或无库存改款时，可选节能调校：芯片功耗减2、通用竞争力减1。全机至多一种调校。",
+    "after": "部署：组装时可选节能调校，芯片功耗减2、基础竞争力减1。全机至多一种调校，取消重组才可更换。"
+  },
+  {
+    "path": "/technologies/18/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/19/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/19/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/20/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/20/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/21/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/21/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/22/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/22/effect",
+    "before": "部署：使用定制芯片的型号取得生态特征，并可履行安全合同。",
+    "after": "部署：使用定制芯片的产品取得生态特征，并可履行安全合同。"
+  },
+  {
+    "path": "/technologies/22/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/23/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/23/effect",
+    "before": "部署：折叠型号的有效供电加3。",
+    "after": "部署：折叠产品的有效供电加3。"
+  },
+  {
+    "path": "/technologies/23/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/24/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/24/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/25/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/25/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/26/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/26/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/27/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/27/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/28/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/28/effect",
+    "before": "部署：本机每个市场的投放上限从3批提高到4批；总库存仍最多4。",
+    "after": "部署：本产品有生态特征，且本场另有一款己方生态产品投向不同零售市场时，本产品所投市场竞争力加3；双方都须有合法投放，不要求已成交。"
+  },
+  {
+    "path": "/technologies/28/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/29/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/29/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/30/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/30/effect",
+    "before": "工艺：无库存型号改款的现金费从6降至0；仍花1工作点，不重置年龄。",
+    "after": "工艺：在本人工作阶段取消一批产品后，紧接着花1工作点在刚释放的同一产品位组装时，该次组装费减6，最低0。每本人回合一次；原费用不退。"
+  },
+  {
+    "path": "/technologies/30/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/31/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/31/effect",
+    "before": "工艺：每次强制退市时，可将该型号1张完整定制方案回手，而非移出；其他定制照常移出。",
+    "after": "工艺：独立验证的产品门槛改为基础竞争力至少8且至少1种特征；工作2、现金12和每公司每世代一次仍不变。"
+  },
+  {
+    "path": "/technologies/31/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/32/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/32/effect",
+    "before": "部署：本机使用2项或3项整合定制时，开发费减3；该型号使用的芯片平台配额加1。",
+    "after": "部署：本产品含至少1张二项或三项定制时，组装费减3，最低0。本卡也占1个技术槽。"
+  },
+  {
+    "path": "/technologies/32/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/33/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/33/effect",
+    "before": "部署：性能型号另具有生态，并可履行安全合同。",
+    "after": "部署：性能产品另具有生态，并可履行安全合同。"
+  },
+  {
+    "path": "/technologies/33/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/34/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/34/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/35/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/35/effect",
+    "before": "工艺：每个本人回合第一次生产可同时处理两型号；两者合计最多2批，每型号照常各付费并占配额。",
+    "after": "工艺：一次安装工作可依次安装至多2张不同类别的稳定配件，各自支付入库费并检查锁定；不增加组装批数。"
+  },
+  {
+    "path": "/technologies/35/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/35/proof",
+    "before": "完成时展示至少一款已参加共同发布的自家型号（年龄至少1）。",
+    "after": "完成时展示两批现存合法产品；两批均以稳定部件代替卡引用芯片。"
+  },
+  {
+    "path": "/technologies/36/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/36/effect",
+    "before": "工艺：允许两款型号共用一张稳定芯片；共享牌仅一实体，合计基础供货2批/期。芯片、年龄、其他部件与库存仍分别处理。",
+    "after": "工艺：组装的新产品与另一款现存待售产品都引用库内稳定芯片时，本次组装费减3，最低0。共享供货本身无需本卡许可。"
+  },
+  {
+    "path": "/technologies/36/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/37/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/37/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/38/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/38/effect",
+    "before": "工艺：每次公开独立验证的工作投入由2降为1，现金不减；仍每公司每发布周期一次、每型号一生一次。",
+    "after": "工艺：独立验证工作由2降为1，现金仍12；每公司每当前世代只可验证一次，取消产品不能恢复次数。"
+  },
+  {
+    "path": "/technologies/38/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/39/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/39/effect",
+    "before": "部署：本机供电加3；常规退市回收库存的每批残值从3增至5。",
+    "after": "部署：本产品有效供电加3；折叠配套且机身使用稳定部件代替卡时，商务办公竞争力另加2。"
+  },
+  {
+    "path": "/technologies/39/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/technologies/40/deck",
+    "before": null,
+    "after": "main"
+  },
+  {
+    "path": "/technologies/40/era",
+    "before": null,
+    "after": 1
+  },
+  {
+    "path": "/version",
+    "before": "6.1",
+    "after": "6.2"
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "version": "6.2",
+  "cleanOutputDirectory": true,
+  "cachedRendersUsed": false,
+  "pdfChecks": [
+    {
+      "file": "旗舰元年_6.2_参考机正反面.pdf",
+      "pages": 10,
+      "perPageTextEqual": true
+    },
+    {
+      "file": "旗舰元年_6.2_完整规则书.pdf",
+      "pages": 16,
+      "perPageTextEqual": true
+    },
+    {
+      "file": "旗舰元年_6.2_实体组件.pdf",
+      "pages": 11,
+      "perPageTextEqual": true
+    },
+    {
+      "file": "旗舰元年_6.2_全卡牌图鉴.pdf",
+      "pages": 50,
+      "perPageTextEqual": true
+    },
+    {
+      "file": "旗舰元年_6.2_设计规划书.pdf",
+      "pages": 3,
+      "perPageTextEqual": true
+    },
+    {
+      "file": "旗舰元年_6.2_统一主牌正反面.pdf",
+      "pages": 58,
+      "perPageTextEqual": true
+    },
+    {
+      "file": "旗舰元年_6.2_线下版图.pdf",
+      "pages": 8,
+      "perPageTextEqual": true
+    }
+  ],
+  "htmlByteIdentical": [
+    "旗舰元年_6.2_统一主牌正反面.html",
+    "旗舰元年_6.2_完整规则书.html",
+    "旗舰元年_6.2_线下版图.html",
+    "旗舰元年_6.2_全卡牌图鉴.html",
+    "旗舰元年_6.2_实体组件.html",
+    "旗舰元年_6.2_参考机正反面.html"
+  ],
+  "sourcesUnchanged": [
+    "v62_data.json",
+    "v62_rulebook.json",
+    "v62_rules.md",
+    "v62_planning.md"
+  ],
+  "notes": "独立目录实际运行build_all及32项定向测试。比较固定页数与逐页文字，不声称PDF二进制哈希相同或真人对局。"
+}

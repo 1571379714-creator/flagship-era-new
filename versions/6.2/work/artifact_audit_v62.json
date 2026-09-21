@@ -1,0 +1,58 @@
+{
+  "version": "6.2",
+  "contentDesigns": 243,
+  "physicalContentCards": 315,
+  "mainPhysicalCards": 257,
+  "checks": 2884,
+  "success": true,
+  "pdfs": {
+    "旗舰元年_6.2_全卡牌图鉴.pdf": {
+      "pages": 50,
+      "bytes": 1845225,
+      "allPagesRendered": true
+    },
+    "旗舰元年_6.2_参考机正反面.pdf": {
+      "pages": 10,
+      "bytes": 1590965,
+      "allPagesRendered": true
+    },
+    "旗舰元年_6.2_完整规则书.pdf": {
+      "pages": 16,
+      "bytes": 716222,
+      "allPagesRendered": true
+    },
+    "旗舰元年_6.2_实体组件.pdf": {
+      "pages": 11,
+      "bytes": 1753236,
+      "allPagesRendered": true
+    },
+    "旗舰元年_6.2_线下版图.pdf": {
+      "pages": 8,
+      "bytes": 1051635,
+      "allPagesRendered": true
+    },
+    "旗舰元年_6.2_统一主牌正反面.pdf": {
+      "pages": 58,
+      "bytes": 5874663,
+      "allPagesRendered": true
+    },
+    "旗舰元年_6.2_设计规划书.pdf": {
+      "pages": 3,
+      "bytes": 247712,
+      "allPagesRendered": true
+    }
+  },
+  "totalPdfPages": 156,
+  "geometry": {
+    "mainFrontBackRects": 514,
+    "mainSizeMm": [
+      63,
+      88
+    ]
+  },
+  "limits": [
+    "文本和浏览器几何检查不等于所有字形逐一放大审阅。",
+    "未作真实打印机正反面对位测试。",
+    "不是完整游戏、全部卡牌连锁或策略平衡模拟。"
+  ]
+}

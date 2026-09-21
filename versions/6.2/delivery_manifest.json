@@ -1,0 +1,308 @@
+{
+  "version": "6.2",
+  "basis": "实际6.1交付包",
+  "archiveContents": "本版文件；不含字体、QA截图或其他版本成品",
+  "files": [
+    {
+      "path": "PRINTING.md",
+      "bytes": 3888,
+      "sha256": "b7ff5e0e72b3abd79676a639f4976e35c891927c81df667dd45d93311dcae13e"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3004,
+      "sha256": "b7ceb94a4062ea7a006e24f9d601cbf88254b713e45daf4171f10584ab010425"
+    },
+    {
+      "path": "VERSION",
+      "bytes": 4,
+      "sha256": "5a5484914845f720d197b9a42f8a3713a8eb71ded775a99fb9597f54a752772e"
+    },
+    {
+      "path": "assets/boards.css",
+      "bytes": 3292,
+      "sha256": "a02e2fb31dd8bde294cfc8d847e56ac3cffa6459f790d8f17ba849a936b3c03f"
+    },
+    {
+      "path": "assets/catalog.css",
+      "bytes": 3453,
+      "sha256": "465be332121f8c086ac0424aa4f275f9db9947c428ab920126c2c00f13017883"
+    },
+    {
+      "path": "assets/factory_B.svg",
+      "bytes": 166,
+      "sha256": "800a92b4f302558c6081ca63072badcfa0350b2c1536f98328d9932b07c07e0a"
+    },
+    {
+      "path": "assets/factory_G.svg",
+      "bytes": 251,
+      "sha256": "1054712942b7a1b025433d46d39ff965c01f42af27e10b7ae120946aed0d26f9"
+    },
+    {
+      "path": "assets/factory_K.svg",
+      "bytes": 204,
+      "sha256": "4a1c72442837d8d5adcb02c7b331d4e9ed52ace6d461de6d39187957cd839e60"
+    },
+    {
+      "path": "assets/factory_R.svg",
+      "bytes": 148,
+      "sha256": "de8ad9aa65f250e80c43bae40de3382f3f05cbdd0a470cf3078df585e3b7e900"
+    },
+    {
+      "path": "assets/factory_Y.svg",
+      "bytes": 176,
+      "sha256": "a8d1a01eece3018fca7bac201725ed80fe7cab0dedbad968e6b0acb422877247"
+    },
+    {
+      "path": "assets/factory_strip.svg",
+      "bytes": 942,
+      "sha256": "2339fbf2fb9f8b9138765fd989cba2475deb200155aed301880f30239ce37f45"
+    },
+    {
+      "path": "outputs/旗舰元年_6.2_修改与校验说明.md",
+      "bytes": 61721,
+      "sha256": "64bb40c7e3bb57642b550da27e21fb29cfb2b6d00492fc89c965e9e832f9b8dd"
+    },
+    {
+      "path": "outputs/旗舰元年_6.2_全卡牌图鉴.html",
+      "bytes": 237625,
+      "sha256": "404773933de346277407b6cad3f481b7df6024817a66b07eecd73500073a9ef5"
+    },
+    {
+      "path": "outputs/旗舰元年_6.2_全卡牌图鉴.pdf",
+      "bytes": 1845225,
+      "sha256": "8e577de119c15d8ea7b80f9a98706109a6014a6139e98d02fa02f826f2170f1c"
+    },
+    {
+      "path": "outputs/旗舰元年_6.2_参考机正反面.html",
+      "bytes": 35633,
+      "sha256": "ae00f77c318e11cd4a0e8ef89f0abb4913fb84e0a2660ca904b107a7bb75f652"
+    },
+    {
+      "path": "outputs/旗舰元年_6.2_参考机正反面.pdf",
+      "bytes": 1590965,
+      "sha256": "8d423aa4ead6989423e0bc9d2ff2c56f5207d06be6182e2df78ac48cbc2efbb6"
+    },
+    {
+      "path": "outputs/旗舰元年_6.2_完整规则书.docx",
+      "bytes": 57912,
+      "sha256": "4b2e71ac1402eba164c70e9a3e3284fa0a67481aac27329b4e85d8539ac1933c"
+    },
+    {
+      "path": "outputs/旗舰元年_6.2_完整规则书.html",
+      "bytes": 39582,
+      "sha256": "4992553c054ec41192c695c694b55c8392c18d919decae714f461d548f508839"
+    },
+    {
+      "path": "outputs/旗舰元年_6.2_完整规则书.pdf",
+      "bytes": 716222,
+      "sha256": "1a0650a11a839c60ae068f61cebd50cd98e0f32d2f6ffd2c7439290fc356a1ca"
+    },
+    {
+      "path": "outputs/旗舰元年_6.2_实体组件.html",
+      "bytes": 28963,
+      "sha256": "0b73e96e1fca7e37e0667f5f557a0af47d13007a3fba8310c751c37fb2eac4ae"
+    },
+    {
+      "path": "outputs/旗舰元年_6.2_实体组件.pdf",
+      "bytes": 1753236,
+      "sha256": "d6e64f0342030e4e37fec82b4d728909bb6ec0cb3bf995634c8d6ee00cf67f4d"
+    },
+    {
+      "path": "outputs/旗舰元年_6.2_打印与实体准备.md",
+      "bytes": 3888,
+      "sha256": "b7ff5e0e72b3abd79676a639f4976e35c891927c81df667dd45d93311dcae13e"
+    },
+    {
+      "path": "outputs/旗舰元年_6.2_线下版图.html",
+      "bytes": 24756,
+      "sha256": "2c326573eff31f67328990cbd741667c2fe32b9a6153c7729e13cd9ba54da993"
+    },
+    {
+      "path": "outputs/旗舰元年_6.2_线下版图.pdf",
+      "bytes": 1051635,
+      "sha256": "b479688c93ee7dc9ccbc1e930c822bde15790bb8ebc061042c03f7321c68edb9"
+    },
+    {
+      "path": "outputs/旗舰元年_6.2_统一主牌正反面.html",
+      "bytes": 267998,
+      "sha256": "6b05927c4ab68975ed2849f98f6cd15103b686460834cae06d6d1b5abc47a247"
+    },
+    {
+      "path": "outputs/旗舰元年_6.2_统一主牌正反面.pdf",
+      "bytes": 5874663,
+      "sha256": "3cfe76aa8a1bb90e2b387f1a4b94096a9c5f2b8ccf4c9aa9202e4cb46083b7c1"
+    },
+    {
+      "path": "outputs/旗舰元年_6.2_设计规划书.docx",
+      "bytes": 42338,
+      "sha256": "8b57d7f353c0b94595e23ffebfaae318b509e5a48d56ffe8ff975ab904dc9488"
+    },
+    {
+      "path": "outputs/旗舰元年_6.2_设计规划书.pdf",
+      "bytes": 247712,
+      "sha256": "eda084b55315c4bd4fdc525879e0ee9923fa36f8874c3509688b32d8c50361c7"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 92,
+      "sha256": "54eb7779ba944061b0a88e32fa5ae089a254a6ad188b67ca177ee9139584b8a9"
+    },
+    {
+      "path": "source/v61_data.json",
+      "bytes": 167497,
+      "sha256": "2ec794ca54bc7a573e8258273032efce6d1cb12417b67c406b3c92d93236ffe3"
+    },
+    {
+      "path": "source/v61_planning.md",
+      "bytes": 8051,
+      "sha256": "45218cfc9b68daa117c05eedbdf1693063cbfbef899d33c0a804e6b9d1bc1519"
+    },
+    {
+      "path": "source/v61_rulebook.json",
+      "bytes": 48751,
+      "sha256": "8982315ac5f4a3b0d22581066ee82c7243b32ef3faff99200960654fa61c3b9e"
+    },
+    {
+      "path": "source/v61_rules.md",
+      "bytes": 42838,
+      "sha256": "a131152f555fc0b3eb3efb44a7887462df620b80d7d66707c10717b4b441964e"
+    },
+    {
+      "path": "work/aids_manifest.json",
+      "bytes": 1408,
+      "sha256": "dd00e18e652aeb3b89341cf61586fdb3c803a6a72513fc7248587d4246fbf18d"
+    },
+    {
+      "path": "work/artifact_audit_v62.json",
+      "bytes": 1390,
+      "sha256": "86e91a3fc3fd2f3417cc8f9efecce02c0e2c68e4c85f0f56123ec3528aa3b806"
+    },
+    {
+      "path": "work/audit_artifacts.py",
+      "bytes": 8042,
+      "sha256": "0d608da9d520b953fc966d5e6a8a6814e0cfb575418eb4fa257f9e94239ec444"
+    },
+    {
+      "path": "work/boards_manifest.json",
+      "bytes": 593,
+      "sha256": "48c48543df5d859b9eeba7fcb4bc34c7e4314c74df0c6a70071d094d20cff472"
+    },
+    {
+      "path": "work/build_all.py",
+      "bytes": 12827,
+      "sha256": "1d782337e8c7df8cb7f67d00138b490e427646ad03de41de4626154a181f2903"
+    },
+    {
+      "path": "work/catalog_manifest.json",
+      "bytes": 30959,
+      "sha256": "a5876677057afdf33d1dab5984080e3439e062d466e1dd525ca68719bf086874"
+    },
+    {
+      "path": "work/check_layout.py",
+      "bytes": 2320,
+      "sha256": "9b35aad47fc95d9beb56bb5e7e34508e3a30af3bb9f9611969ed60a54a1df515"
+    },
+    {
+      "path": "work/doc_layout.py",
+      "bytes": 10253,
+      "sha256": "e147824c86067101da29bd03a8bb2b8c7d73e0b0bece0c381cdfc1640d4df92a"
+    },
+    {
+      "path": "work/layout_audit.json",
+      "bytes": 287,
+      "sha256": "69e647c14301d457677eb63e406d7b11880c120ebb5b7e1606cb8b66b6f63c90"
+    },
+    {
+      "path": "work/main_print_manifest.json",
+      "bytes": 22643,
+      "sha256": "68a5bdf6704b13e7a6260326eb303d03ab0dbc445e43b69109138a5501af9c97"
+    },
+    {
+      "path": "work/migrate_v62.py",
+      "bytes": 17554,
+      "sha256": "3cee929743cbb389bab2401e096e681e425661b737f44876357457dff9aa1c6d"
+    },
+    {
+      "path": "work/physical_layout.py",
+      "bytes": 26885,
+      "sha256": "1ccf895ae80be0c5cc35be0d09164f90c0a1f0de68ca2f24365a3a4f6aea3ca7"
+    },
+    {
+      "path": "work/rebuild_v62.json",
+      "bytes": 1502,
+      "sha256": "4ac387a9d6ab182b3a60c38e87385ac6379bc197591689e503668920bbdb56e9"
+    },
+    {
+      "path": "work/reference_print_manifest.json",
+      "bytes": 1173,
+      "sha256": "566d31822edc482231ac8fa741ee90cf3e3c25287aafb5e30d7ec7542d9a4fa6"
+    },
+    {
+      "path": "work/rules_core.py",
+      "bytes": 9639,
+      "sha256": "9411d12bf2758c8ccb9e0e3763ef33b8140434123ef8e37a282c94249020acd4"
+    },
+    {
+      "path": "work/sync_rules_text.py",
+      "bytes": 772,
+      "sha256": "e4cf26923197bde0fd513fecc0be393bcae3b2e8c191249bce35691828550e61"
+    },
+    {
+      "path": "work/v61_to_v62_changes.json",
+      "bytes": 215283,
+      "sha256": "6f1994f5367e05a04e7fa958f88b59816e5d6b86e8722061ef0911da805b8160"
+    },
+    {
+      "path": "work/v62_catalog.md",
+      "bytes": 136054,
+      "sha256": "16bd979e1e38836b5116a3cdac377c1b597a5cf7d18b0ea5b1275d62ed06696a"
+    },
+    {
+      "path": "work/v62_data.json",
+      "bytes": 200535,
+      "sha256": "a10e373b607e57d13395baff946a2e799dce50db4d72b799e7180c7d6c4edca2"
+    },
+    {
+      "path": "work/v62_planning.md",
+      "bytes": 6428,
+      "sha256": "6f76727882e56d382e2ca2641d14674fb644da69809e9c23fa8465c2feaf71c5"
+    },
+    {
+      "path": "work/v62_rulebook.json",
+      "bytes": 37497,
+      "sha256": "11deb2645f34a59a4170b94303d58ffce0d8e7b700017c4cac4e53fba9bd972f"
+    },
+    {
+      "path": "work/v62_rules.md",
+      "bytes": 32783,
+      "sha256": "549f247f836075ed1f6b88fa5f28cdb821b4597ab07800057182f8d7b5199d9d"
+    },
+    {
+      "path": "work/validate_v62.py",
+      "bytes": 10763,
+      "sha256": "1a12c9328f7e8ea58a2122c7efd3485d6ddc1ef4483b87834677b4e9459fb722"
+    },
+    {
+      "path": "work/validation_v62.json",
+      "bytes": 306,
+      "sha256": "e2ec0dddafa8aa766fafc5f81993ad4655bf84a094c12e4f4ba0d44b0fec02f9"
+    },
+    {
+      "path": "work/visual_review_v62.json",
+      "bytes": 2050,
+      "sha256": "8e2cdd778b224fcab7fad27f735bf9bf6af65900110eb4374bc880186fa6889a"
+    },
+    {
+      "path": "work/write_delivery_notes.py",
+      "bytes": 14492,
+      "sha256": "d576930b829ca6cd8e7e5993aff6c09a2b194f9c7083a6c7c95103cdadf99f0a"
+    },
+    {
+      "path": "work/write_rulebook.py",
+      "bytes": 32260,
+      "sha256": "f390df35f7e2f20ccc9ddcf8953785cba46a23bcec02fa3625c440c6347ed41d"
+    }
+  ],
+  "remoteWrite": false
+}
