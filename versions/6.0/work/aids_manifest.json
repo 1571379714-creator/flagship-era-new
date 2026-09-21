@@ -1,0 +1,20 @@
+{
+  "pages": 7,
+  "pricesPerPlayer": 16,
+  "priceSizeMM": [
+    46,
+    62
+  ],
+  "duplexPages": [
+    1,
+    2
+  ],
+  "singleSidedPages": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "handwritingRequired": false
+}

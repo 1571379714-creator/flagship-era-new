@@ -1,0 +1,128 @@
+{
+  "pdfs": {
+    "旗舰元年_6.0_完整规则书.pdf": {
+      "pages": 13,
+      "bytes": 601009,
+      "sha256": "31693061430af0ce357b1323870ba5a4c8626a1482f5c515068a283612bd73d0",
+      "decodedEveryPage": true
+    },
+    "旗舰元年_6.0_线下版图.pdf": {
+      "pages": 8,
+      "bytes": 1016122,
+      "sha256": "b2b36f10b3497fd93d75a5581d0abc1e95ffadc50df57848f736c7f390775902",
+      "decodedEveryPage": true
+    },
+    "旗舰元年_6.0_设计规划书.pdf": {
+      "pages": 5,
+      "bytes": 360333,
+      "sha256": "85034f8cc531022a20cfdd2bb6c3140d3e2405053d43fb7fd78e9c534a3dd701",
+      "decodedEveryPage": true
+    },
+    "旗舰元年_6.0_实体组件.pdf": {
+      "pages": 7,
+      "bytes": 1104684,
+      "sha256": "71857019d87e9c155410e12e5400aed6a4639c718afca2770fdf50c3a4b133a4",
+      "decodedEveryPage": true
+    },
+    "旗舰元年_6.0_全卡牌图鉴.pdf": {
+      "pages": 47,
+      "bytes": 1764292,
+      "sha256": "0610637ff3330f2d74b51ffca34a72981d59173a3c2619a54c4972853dbcbec0",
+      "decodedEveryPage": true
+    }
+  },
+  "html": {
+    "catalogCards": 243,
+    "boards": [
+      {
+        "id": "market",
+        "last": 1033.359375,
+        "limit": 1086.703125,
+        "overflow": 0
+      },
+      {
+        "id": "supply",
+        "last": 972.828125,
+        "limit": 1086.703125,
+        "overflow": 0
+      },
+      {
+        "id": "offers",
+        "last": 1068,
+        "limit": 1086.703125,
+        "overflow": 0
+      },
+      {
+        "id": "company",
+        "last": 1050.984375,
+        "limit": 1086.703125,
+        "overflow": 0
+      },
+      {
+        "id": "model",
+        "last": 1041.765625,
+        "limit": 1086.703125,
+        "overflow": 0
+      },
+      {
+        "id": "allocation",
+        "last": 939.453125,
+        "limit": 1086.703125,
+        "overflow": 0
+      },
+      {
+        "id": "scores",
+        "last": 959.234375,
+        "limit": 1086.703125,
+        "overflow": 0
+      },
+      {
+        "id": "reference",
+        "last": 803.71875,
+        "limit": 1086.703125,
+        "overflow": 0
+      }
+    ],
+    "priceDuplexMaxMirrorErrorMM": 0.020670572916666668,
+    "aids": [
+      {
+        "last": 1104.75,
+        "limit": 1111.5,
+        "overflow": 0
+      },
+      {
+        "last": 2178.796875,
+        "limit": 2185.546875,
+        "overflow": 0
+      },
+      {
+        "last": 1935.203125,
+        "limit": 2250.59375,
+        "overflow": 0
+      },
+      {
+        "last": 1961.734375,
+        "limit": 2181.640625,
+        "overflow": 0
+      },
+      {
+        "last": 2091.984375,
+        "limit": 2250.6875,
+        "overflow": 0
+      },
+      {
+        "last": 2106.734375,
+        "limit": 2181.734375,
+        "overflow": 0
+      },
+      {
+        "last": 1963.765625,
+        "limit": 2250.78125,
+        "overflow": 0
+      }
+    ]
+  },
+  "checks": 4397,
+  "errors": [],
+  "passed": true
+}

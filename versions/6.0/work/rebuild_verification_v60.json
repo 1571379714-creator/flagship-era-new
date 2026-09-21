@@ -1,0 +1,55 @@
+{
+  "version": "6.0",
+  "status": "passed",
+  "method": "独立目录，无QA缓存，先删输出PDF/Word/HTML，再运行build_all.py；不运行make_data.py。",
+  "checks": [
+    {
+      "file": "旗舰元年_6.0_全卡牌图鉴.html",
+      "htmlByteIdentical": true
+    },
+    {
+      "file": "旗舰元年_6.0_实体组件.html",
+      "htmlByteIdentical": true
+    },
+    {
+      "file": "旗舰元年_6.0_完整规则书.pdf",
+      "pages": 13,
+      "pageTextIdentical": true,
+      "bytesIdentical": false
+    },
+    {
+      "file": "旗舰元年_6.0_线下版图.pdf",
+      "pages": 8,
+      "pageTextIdentical": true,
+      "bytesIdentical": false
+    },
+    {
+      "file": "旗舰元年_6.0_线下版图.html",
+      "htmlByteIdentical": true
+    },
+    {
+      "file": "旗舰元年_6.0_设计规划书.pdf",
+      "pages": 5,
+      "pageTextIdentical": true,
+      "bytesIdentical": false
+    },
+    {
+      "file": "旗舰元年_6.0_实体组件.pdf",
+      "pages": 7,
+      "pageTextIdentical": true,
+      "bytesIdentical": false
+    },
+    {
+      "file": "旗舰元年_6.0_全卡牌图鉴.pdf",
+      "pages": 47,
+      "pageTextIdentical": true,
+      "bytesIdentical": false
+    }
+  ],
+  "dataUnchanged": true,
+  "notClaimed": [
+    "二进制PDF必定完全相同（时间/内部元数据可能变化）",
+    "用户不同软件版本保证相同分页",
+    "远程GitHub上传"
+  ]
+}

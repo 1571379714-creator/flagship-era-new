@@ -1,0 +1,215 @@
+{
+  "version": "6.0",
+  "type": "actual local delivery",
+  "contentDesigns": 243,
+  "physicalContentCards": 315,
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3658,
+      "sha256": "e3423ddc07645247f2a301534ab426ac4ceb821ce69f34d65681a5a070dca663"
+    },
+    {
+      "path": "VERSION",
+      "bytes": 4,
+      "sha256": "3247b46b4d71689b538ae2205436d3e6afcc4ae5cf423b6bf82d49f5d07dc13a"
+    },
+    {
+      "path": "assets/factory_B.svg",
+      "bytes": 166,
+      "sha256": "800a92b4f302558c6081ca63072badcfa0350b2c1536f98328d9932b07c07e0a"
+    },
+    {
+      "path": "assets/factory_G.svg",
+      "bytes": 251,
+      "sha256": "1054712942b7a1b025433d46d39ff965c01f42af27e10b7ae120946aed0d26f9"
+    },
+    {
+      "path": "assets/factory_K.svg",
+      "bytes": 204,
+      "sha256": "4a1c72442837d8d5adcb02c7b331d4e9ed52ace6d461de6d39187957cd839e60"
+    },
+    {
+      "path": "assets/factory_R.svg",
+      "bytes": 148,
+      "sha256": "de8ad9aa65f250e80c43bae40de3382f3f05cbdd0a470cf3078df585e3b7e900"
+    },
+    {
+      "path": "assets/factory_Y.svg",
+      "bytes": 176,
+      "sha256": "a8d1a01eece3018fca7bac201725ed80fe7cab0dedbad968e6b0acb422877247"
+    },
+    {
+      "path": "assets/factory_strip.svg",
+      "bytes": 942,
+      "sha256": "2339fbf2fb9f8b9138765fd989cba2475deb200155aed301880f30239ce37f45"
+    },
+    {
+      "path": "outputs/旗舰元年_6.0_修改与校验说明.md",
+      "bytes": 9071,
+      "sha256": "68ccfb772459eeaeb9494ca33341de289d63802466409befc1c3a5f73636b187"
+    },
+    {
+      "path": "outputs/旗舰元年_6.0_全卡牌图鉴.html",
+      "bytes": 213974,
+      "sha256": "e97ae97a8565820906464a86a139d60aa230ca9f5b1cd544c9a4adba5132bb1b"
+    },
+    {
+      "path": "outputs/旗舰元年_6.0_全卡牌图鉴.pdf",
+      "bytes": 1764292,
+      "sha256": "0610637ff3330f2d74b51ffca34a72981d59173a3c2619a54c4972853dbcbec0"
+    },
+    {
+      "path": "outputs/旗舰元年_6.0_完整规则书.docx",
+      "bytes": 56481,
+      "sha256": "4eb8dc100c6d0bff17d40e503a4aabd912798aee27c4531e3c0f4300d5d9b8f1"
+    },
+    {
+      "path": "outputs/旗舰元年_6.0_完整规则书.pdf",
+      "bytes": 601009,
+      "sha256": "31693061430af0ce357b1323870ba5a4c8626a1482f5c515068a283612bd73d0"
+    },
+    {
+      "path": "outputs/旗舰元年_6.0_实体组件.html",
+      "bytes": 23610,
+      "sha256": "ed75b5de3d2a9c5cc5d424175f8647f76dc7bcadddc3d11309a2bde4ba6c72d8"
+    },
+    {
+      "path": "outputs/旗舰元年_6.0_实体组件.pdf",
+      "bytes": 1104684,
+      "sha256": "71857019d87e9c155410e12e5400aed6a4639c718afca2770fdf50c3a4b133a4"
+    },
+    {
+      "path": "outputs/旗舰元年_6.0_线下版图.html",
+      "bytes": 28620,
+      "sha256": "45a715b5e48babe3d264e58799097e3e60cfd747ffe948a40494d662a497c207"
+    },
+    {
+      "path": "outputs/旗舰元年_6.0_线下版图.pdf",
+      "bytes": 1016122,
+      "sha256": "b2b36f10b3497fd93d75a5581d0abc1e95ffadc50df57848f736c7f390775902"
+    },
+    {
+      "path": "outputs/旗舰元年_6.0_设计规划书.docx",
+      "bytes": 45413,
+      "sha256": "652705f178e65be4e32e464c79c10002b782892c51a86d6a48e67bc9eecdaf53"
+    },
+    {
+      "path": "outputs/旗舰元年_6.0_设计规划书.pdf",
+      "bytes": 360333,
+      "sha256": "85034f8cc531022a20cfdd2bb6c3140d3e2405053d43fb7fd78e9c534a3dd701"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 59,
+      "sha256": "5c6a339fbe267491e567655730c99b3d323975f541296a2bf5b30e41992287ca"
+    },
+    {
+      "path": "source/v53_data.json",
+      "bytes": 236839,
+      "sha256": "95ddb04a4738d7c1127d50aa7ee0f4443eb36dc298c6be228945c2e90ee99a89"
+    },
+    {
+      "path": "source/v53_rules.md",
+      "bytes": 42454,
+      "sha256": "379f58dbb9e30de6a17f18a657740642c6e9409f5a4e9bb27f8d1ab707e7917d"
+    },
+    {
+      "path": "source/原版_完整规则说明书.docx",
+      "bytes": 18858,
+      "sha256": "190cb841a435be924e1a9c31436570508c4b541092999c9458cd62c39ac2dbf5"
+    },
+    {
+      "path": "work/aids_manifest.json",
+      "bytes": 212,
+      "sha256": "c8032a18210348f842ffaed78d89533b431787f82c4757e8abcc64902f656c60"
+    },
+    {
+      "path": "work/artifact_checks_v60.json",
+      "bytes": 2898,
+      "sha256": "634296f18350e6346333635fcf3579f9b8fb4615e36f1982dd59b065cc506b85"
+    },
+    {
+      "path": "work/audit_artifacts.py",
+      "bytes": 5618,
+      "sha256": "187aed0acbe171f0d052bd4f890c0fd0d5b2a2df636ff709adf57fcd14960ad5"
+    },
+    {
+      "path": "work/boards_manifest.json",
+      "bytes": 181,
+      "sha256": "933c0be4adc9d325c8980c3e35806a174cfc8134b1c5e89351a91e1dd41aee26"
+    },
+    {
+      "path": "work/build_all.py",
+      "bytes": 41571,
+      "sha256": "15d296ff8c5fef63e2910867cb2a09dcbbb2df0efd06fb37fb3ca28d130e4145"
+    },
+    {
+      "path": "work/catalog_manifest.json",
+      "bytes": 30965,
+      "sha256": "58cb563b7ce4cbd9bf2c587ff92c4edf221aec701fad20684c8a15adec784527"
+    },
+    {
+      "path": "work/make_data.py",
+      "bytes": 27968,
+      "sha256": "2400e3d667235e3be981edec9e37e6232c54b934a6f3ffae6c1976cb1a8952d5"
+    },
+    {
+      "path": "work/migration_v53_to_v60.json",
+      "bytes": 2146,
+      "sha256": "852a3da53c1d84e8dffd333998ce03c890e4cea92feab593b24605d62e9b0e50"
+    },
+    {
+      "path": "work/numeric_core.py",
+      "bytes": 5397,
+      "sha256": "eacbd7957990f2a735d8141c2750eaef3fae01f75aa289a439db881c8712d8f5"
+    },
+    {
+      "path": "work/rebuild_verification_v60.json",
+      "bytes": 1414,
+      "sha256": "a96155d62bd9d7b0b48a991e6629c6be8088ff5cc4e4e0ca957594ca1d0eeaeb"
+    },
+    {
+      "path": "work/v60_catalog.md",
+      "bytes": 99269,
+      "sha256": "0b0651158eebeb1112aba6424305e417ddc5bb82d48de05712c7fcb603bbea18"
+    },
+    {
+      "path": "work/v60_data.json",
+      "bytes": 153598,
+      "sha256": "050b23806111aab13ab1a9fd5d1628604a2ddb36afd8d43a9e211c573f49e205"
+    },
+    {
+      "path": "work/v60_planning.md",
+      "bytes": 10743,
+      "sha256": "d91b1b1a78444c5603a681716e1737e3087c119ed5e41582184df309a26ef98a"
+    },
+    {
+      "path": "work/v60_rules.md",
+      "bytes": 34537,
+      "sha256": "b6ddd69aac5141d2462b3cccb773e790dd5a628fd640c3146a5476e58d8feb2b"
+    },
+    {
+      "path": "work/validate.py",
+      "bytes": 6672,
+      "sha256": "3a2ee15612e2ca8bc8cb07a9bab546fac93a487688b38c132ad59c369fb73d35"
+    },
+    {
+      "path": "work/validation_v60.json",
+      "bytes": 636,
+      "sha256": "5d9b6b9e3374b8b30ff9dd98023aa15e40a841e204d0ee6402e3dc197977d2b0"
+    },
+    {
+      "path": "work/verify_delivery.py",
+      "bytes": 854,
+      "sha256": "9d85d4f1cbbea1c37fb8b27e2ea6dd9425ec92991aeff808e0f90da029eca3dc"
+    },
+    {
+      "path": "work/visual_review_v60.json",
+      "bytes": 1619,
+      "sha256": "4a6ff7c3bf833e398ef7f8fe60cd98c027d32b7a716a97ef6bd830bac0d3890a"
+    }
+  ],
+  "manifestExcludesItself": true,
+  "remoteUploaded": false
+}

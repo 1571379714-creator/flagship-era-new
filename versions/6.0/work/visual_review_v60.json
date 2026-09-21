@@ -1,0 +1,119 @@
+{
+  "version": "6.0",
+  "rulebookAllPagesReviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "planningAllPagesReviewed": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "catalogAllPagesOverviewReviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47
+  ],
+  "catalogDetailedCardsReviewed": [
+    "T18",
+    "H08",
+    "Q24",
+    "V26",
+    "X32"
+  ],
+  "boardsReviewed": {
+    "views": 8,
+    "ids": [
+      "market",
+      "supply",
+      "offers",
+      "company",
+      "model",
+      "allocation",
+      "scores",
+      "reference"
+    ],
+    "onlyDisplayAndPrint": true
+  },
+  "aidAllSheetsOverviewReviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "aidDetailedSheetsReviewed": [
+    3,
+    5,
+    7
+  ],
+  "rendering": "Word使用render_docx.py渲染；HTML使用Chromium set_content并打印，所有PDF用PyMuPDF逐页解码。",
+  "fixedIssues": [
+    "公开供应、商机和个人版图压缩高度后无内容遮挡",
+    "定价牌网格居中，并核对长边翻转的横向镜像误差"
+  ],
+  "limitations": [
+    "图鉴总览不代表每个字形都逐一放大审阅；另有全部卡名和完整效果逐页核对",
+    "尚无真实打印机套准测试",
+    "未进行多人实桌平衡测试"
+  ]
+}

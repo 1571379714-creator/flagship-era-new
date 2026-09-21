@@ -1,0 +1,8500 @@
+{
+  "version": "5.3",
+  "cards": [
+    {
+      "id": "P01",
+      "name": "千元5G机",
+      "market": "大众消费",
+      "strength": 1,
+      "tech": 0,
+      "tags": [
+        "续航"
+      ],
+      "appeal": 4,
+      "income": 3,
+      "effect": "获得6现金。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P02",
+      "name": "轻商务入门机",
+      "market": "商务办公",
+      "strength": 1,
+      "tech": 0,
+      "tags": [
+        "轻薄"
+      ],
+      "appeal": 4,
+      "income": 3,
+      "effect": "获得6现金。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P03",
+      "name": "入门性能机",
+      "market": "电竞娱乐",
+      "strength": 1,
+      "tech": 0,
+      "tags": [
+        "性能"
+      ],
+      "appeal": 4,
+      "income": 3,
+      "effect": "获得6现金。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P04",
+      "name": "入门拍照机",
+      "market": "摄影创作",
+      "strength": 1,
+      "tech": 0,
+      "tags": [
+        "影像"
+      ],
+      "appeal": 4,
+      "income": 3,
+      "effect": "获得6现金。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P05",
+      "name": "大电池长续航机",
+      "market": "大众消费",
+      "strength": 2,
+      "tech": 0,
+      "tags": [
+        "续航"
+      ],
+      "appeal": 6,
+      "income": 4,
+      "effect": "若本机采用走量价且供电余量至少4，获得6现金。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "定价"
+      ]
+    },
+    {
+      "id": "P06",
+      "name": "护眼直屏机",
+      "market": "大众消费",
+      "strength": 2,
+      "tech": 0,
+      "tags": [
+        "轻薄"
+      ],
+      "appeal": 6,
+      "income": 4,
+      "effect": "若本机至少使用3张稳定配件且屏幕印刷功耗至多2，额外增加1收入。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P07",
+      "name": "小屏手机",
+      "market": "大众消费",
+      "strength": 2,
+      "tech": 0,
+      "tags": [
+        "轻薄"
+      ],
+      "appeal": 8,
+      "income": 3,
+      "effect": "若本机机身带轻薄类别且芯片印刷功耗至多2，获得6现金。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P08",
+      "name": "三防手机",
+      "market": "大众消费",
+      "strength": 3,
+      "tech": 1,
+      "tags": [
+        "续航"
+      ],
+      "appeal": 6,
+      "income": 6,
+      "effect": "若你的公司有至少3个绿厂厂标，额外获得12现金。本场已成功上市的厂标可以计入。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P09",
+      "name": "快充普及机",
+      "market": "大众消费",
+      "strength": 2,
+      "tech": 1,
+      "tags": [
+        "续航"
+      ],
+      "appeal": 6,
+      "income": 4,
+      "effect": "若本场你有至少2款有效新机，且本机续航企划类别已匹配，额外增加1收入。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P10",
+      "name": "人像自拍机",
+      "market": "大众消费",
+      "strength": 3,
+      "tech": 1,
+      "tags": [
+        "影像",
+        "轻薄"
+      ],
+      "appeal": 6,
+      "income": 4,
+      "effect": "若你的公司有至少3种不同类别标签，额外增加1收入。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P11",
+      "name": "轻旗舰",
+      "market": "大众消费",
+      "strength": 3,
+      "tech": 2,
+      "tags": [
+        "性能",
+        "轻薄"
+      ],
+      "appeal": 8,
+      "income": 4,
+      "effect": "若本场在大众消费市场获得第二，额外增加1收入。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {
+        "G": 1
+      },
+      "mechanismTags": []
+    },
+    {
+      "id": "P12",
+      "name": "大屏影音机",
+      "market": "大众消费",
+      "strength": 3,
+      "tech": 2,
+      "tags": [
+        "续航",
+        "生态"
+      ],
+      "appeal": 8,
+      "income": 4,
+      "effect": "若你的公司有至少2个生态标签，额外增加2收入。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {
+        "B": 1
+      },
+      "mechanismTags": []
+    },
+    {
+      "id": "P13",
+      "name": "高刷游戏手机",
+      "market": "大众消费",
+      "strength": 2,
+      "tech": 0,
+      "tags": [
+        "性能"
+      ],
+      "appeal": 8,
+      "income": 3,
+      "effect": "若本机屏幕带性能类别且采用走量价，获得9现金。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "定价"
+      ]
+    },
+    {
+      "id": "P14",
+      "name": "旗舰芯片普及机",
+      "market": "电竞娱乐",
+      "strength": 2,
+      "tech": 1,
+      "tags": [
+        "性能"
+      ],
+      "appeal": 6,
+      "income": 4,
+      "effect": "若本机使用至少落后当前供应世代1代的稳定芯片，且公司有至少2个性能类别，增加1科技。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "研发成果"
+      ]
+    },
+    {
+      "id": "P15",
+      "name": "双芯游戏手机",
+      "market": "电竞娱乐",
+      "strength": 3,
+      "tech": 2,
+      "tags": [
+        "性能"
+      ],
+      "appeal": 8,
+      "income": 6,
+      "effect": "若你的公司有至少3个性能标签，本机吸引力额外加4。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {
+        "R": 1
+      },
+      "mechanismTags": []
+    },
+    {
+      "id": "P16",
+      "name": "主动散热游戏机",
+      "market": "电竞娱乐",
+      "strength": 3,
+      "tech": 1,
+      "tags": [
+        "性能"
+      ],
+      "appeal": 10,
+      "income": 3,
+      "effect": "若本机芯片印刷功耗至少6且供电余量至少2，获得9现金。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P17",
+      "name": "电竞旗舰",
+      "market": "电竞娱乐",
+      "strength": 4,
+      "tech": 4,
+      "tags": [
+        "性能",
+        "续航"
+      ],
+      "appeal": 12,
+      "income": 6,
+      "effect": "若本机供电余量至少2，额外增加1科技。",
+      "type": "phone",
+      "development": 3,
+      "qty": 1,
+      "tagRequirements": {
+        "性能": 2
+      },
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "研发成果"
+      ]
+    },
+    {
+      "id": "P18",
+      "name": "性能小钢炮",
+      "market": "电竞娱乐",
+      "strength": 3,
+      "tech": 2,
+      "tags": [
+        "性能",
+        "轻薄"
+      ],
+      "appeal": 8,
+      "income": 4,
+      "effect": "若本机机身带轻薄类别且本场有另一款带性能企划类别的有效新机，额外增加2收入。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P19",
+      "name": "长续航性能机",
+      "market": "电竞娱乐",
+      "strength": 3,
+      "tech": 2,
+      "tags": [
+        "性能",
+        "续航"
+      ],
+      "appeal": 8,
+      "income": 6,
+      "effect": "若你的公司有至少3个黄厂厂标，额外获得12现金。本场已成功上市的厂标可以计入。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {
+        "Y": 1
+      },
+      "mechanismTags": []
+    },
+    {
+      "id": "P20",
+      "name": "直屏性能旗舰",
+      "market": "电竞娱乐",
+      "strength": 4,
+      "tech": 3,
+      "tags": [
+        "性能"
+      ],
+      "appeal": 10,
+      "income": 6,
+      "effect": "若你的公司有至少4个性能标签，额外增加2收入。",
+      "type": "phone",
+      "development": 3,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P21",
+      "name": "开放生态开发机",
+      "market": "电竞娱乐",
+      "strength": 3,
+      "tech": 2,
+      "tags": [
+        "性能",
+        "生态"
+      ],
+      "appeal": 6,
+      "income": 4,
+      "effect": "若公司已有至少2张已研究科技卡，增加1科技。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "研发成果"
+      ]
+    },
+    {
+      "id": "P22",
+      "name": "端侧AI旗舰",
+      "market": "电竞娱乐",
+      "strength": 4,
+      "tech": 5,
+      "tags": [
+        "性能",
+        "生态"
+      ],
+      "appeal": 10,
+      "income": 6,
+      "effect": "若本机装载至少2张科技且芯片印刷吸引力至少8，增加1科技并获得6现金。",
+      "type": "phone",
+      "development": 3,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {
+        "G": 2
+      },
+      "mechanismTags": [
+        "研发成果"
+      ]
+    },
+    {
+      "id": "P23",
+      "name": "双电芯快充旗舰",
+      "market": "电竞娱乐",
+      "strength": 4,
+      "tech": 4,
+      "tags": [
+        "性能",
+        "续航"
+      ],
+      "appeal": 10,
+      "income": 6,
+      "effect": "若你的公司有至少3个续航标签，额外增加1科技。",
+      "type": "phone",
+      "development": 3,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "研发成果"
+      ]
+    },
+    {
+      "id": "P24",
+      "name": "极致性能旗舰",
+      "market": "电竞娱乐",
+      "strength": 5,
+      "tech": 7,
+      "tags": [
+        "性能",
+        "续航"
+      ],
+      "appeal": 14,
+      "income": 8,
+      "effect": "若本机芯片印刷吸引力至少8，且供电余量至少2，额外增加2科技。",
+      "type": "phone",
+      "development": 6,
+      "qty": 1,
+      "tagRequirements": {
+        "性能": 3
+      },
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P25",
+      "name": "大底主摄机",
+      "market": "摄影创作",
+      "strength": 2,
+      "tech": 1,
+      "tags": [
+        "影像"
+      ],
+      "appeal": 6,
+      "income": 4,
+      "effect": "若公司有至少2个影像类别，额外增加1收入。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P26",
+      "name": "光学防抖拍照机",
+      "market": "大众消费",
+      "strength": 2,
+      "tech": 0,
+      "tags": [
+        "影像"
+      ],
+      "appeal": 6,
+      "income": 4,
+      "effect": "若本场在大众消费市场获得第二，额外获得12现金。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P27",
+      "name": "人像摄影手机",
+      "market": "摄影创作",
+      "strength": 3,
+      "tech": 1,
+      "tags": [
+        "影像",
+        "轻薄"
+      ],
+      "appeal": 8,
+      "income": 4,
+      "effect": "若本机影像和机身分别带影像、轻薄类别，市场吸引力加2。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P28",
+      "name": "潜望长焦手机",
+      "market": "摄影创作",
+      "strength": 3,
+      "tech": 3,
+      "tags": [
+        "影像"
+      ],
+      "appeal": 10,
+      "income": 4,
+      "effect": "若你的公司有至少3个影像标签，额外增加1科技。",
+      "type": "phone",
+      "development": 3,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "研发成果"
+      ]
+    },
+    {
+      "id": "P29",
+      "name": "视频创作手机",
+      "market": "摄影创作",
+      "strength": 3,
+      "tech": 2,
+      "tags": [
+        "影像",
+        "生态"
+      ],
+      "appeal": 8,
+      "income": 4,
+      "effect": "若你的公司有至少2个生态标签，额外获得12现金。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P30",
+      "name": "可变光圈旗舰",
+      "market": "摄影创作",
+      "strength": 4,
+      "tech": 4,
+      "tags": [
+        "影像"
+      ],
+      "appeal": 10,
+      "income": 6,
+      "effect": "若本场另一款己方有效新机面向不同市场，增加1科技。",
+      "type": "phone",
+      "development": 3,
+      "qty": 1,
+      "tagRequirements": {
+        "影像": 2
+      },
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "研发成果"
+      ]
+    },
+    {
+      "id": "P31",
+      "name": "双长焦影像旗舰",
+      "market": "摄影创作",
+      "strength": 4,
+      "tech": 4,
+      "tags": [
+        "影像"
+      ],
+      "appeal": 12,
+      "income": 6,
+      "effect": "若本机影像模组印刷吸引力至少8，获得9现金。",
+      "type": "phone",
+      "development": 3,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P32",
+      "name": "轻薄影像旗舰",
+      "market": "摄影创作",
+      "strength": 4,
+      "tech": 3,
+      "tags": [
+        "影像",
+        "轻薄"
+      ],
+      "appeal": 8,
+      "income": 6,
+      "effect": "若你的公司有至少3个轻薄标签，额外增加2收入。",
+      "type": "phone",
+      "development": 3,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P33",
+      "name": "一英寸影像旗舰",
+      "market": "摄影创作",
+      "strength": 5,
+      "tech": 6,
+      "tags": [
+        "影像"
+      ],
+      "appeal": 12,
+      "income": 8,
+      "effect": "若你的公司有至少4个影像标签，额外增加1科技。",
+      "type": "phone",
+      "development": 3,
+      "qty": 1,
+      "tagRequirements": {
+        "影像": 3
+      },
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "研发成果"
+      ]
+    },
+    {
+      "id": "P34",
+      "name": "全焦段影像旗舰",
+      "market": "摄影创作",
+      "strength": 5,
+      "tech": 7,
+      "tags": [
+        "影像",
+        "性能"
+      ],
+      "appeal": 14,
+      "income": 8,
+      "effect": "若本场在摄影创作市场获得第一，额外获得15现金。",
+      "type": "phone",
+      "development": 6,
+      "qty": 1,
+      "tagRequirements": {
+        "影像": 3
+      },
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P35",
+      "name": "摄影套装旗舰",
+      "market": "摄影创作",
+      "strength": 4,
+      "tech": 4,
+      "tags": [
+        "影像",
+        "生态"
+      ],
+      "appeal": 10,
+      "income": 6,
+      "effect": "若本机影像印刷吸引力至少8且屏幕带影像类别，获得12现金。",
+      "type": "phone",
+      "development": 3,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P36",
+      "name": "卫星通信影像旗舰",
+      "market": "摄影创作",
+      "strength": 5,
+      "tech": 6,
+      "tags": [
+        "影像",
+        "续航"
+      ],
+      "appeal": 10,
+      "income": 8,
+      "effect": "若你的公司有至少3种不同类别标签，额外增加1科技。",
+      "type": "phone",
+      "development": 3,
+      "qty": 1,
+      "tagRequirements": {
+        "续航": 2
+      },
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "研发成果"
+      ]
+    },
+    {
+      "id": "P37",
+      "name": "企业定制手机",
+      "market": "商务办公",
+      "strength": 2,
+      "tech": 0,
+      "tags": [
+        "生态"
+      ],
+      "appeal": 4,
+      "income": 4,
+      "effect": "若本机采用标准价，且本机成为达需求线的商务办公新机代表，获得6现金；不是第二份市场名次奖励。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "定价"
+      ]
+    },
+    {
+      "id": "P38",
+      "name": "隐私安全手机",
+      "market": "商务办公",
+      "strength": 2,
+      "tech": 1,
+      "tags": [
+        "生态"
+      ],
+      "appeal": 6,
+      "income": 4,
+      "effect": "若公司有至少2个生态类别，增加1科技。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "研发成果"
+      ]
+    },
+    {
+      "id": "P39",
+      "name": "轻薄通勤机",
+      "market": "大众消费",
+      "strength": 2,
+      "tech": 0,
+      "tags": [
+        "轻薄"
+      ],
+      "appeal": 6,
+      "income": 4,
+      "effect": "若你的公司有至少3个蓝厂厂标，额外获得12现金。本场已成功上市的厂标可以计入。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P40",
+      "name": "旗舰标准版",
+      "market": "商务办公",
+      "strength": 3,
+      "tech": 2,
+      "tags": [
+        "生态",
+        "性能"
+      ],
+      "appeal": 8,
+      "income": 4,
+      "effect": "若你已上市机型覆盖至少3种市场，额外增加2收入。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {
+        "K": 1
+      },
+      "mechanismTags": []
+    },
+    {
+      "id": "P41",
+      "name": "大屏商务旗舰",
+      "market": "商务办公",
+      "strength": 4,
+      "tech": 3,
+      "tags": [
+        "生态",
+        "续航"
+      ],
+      "appeal": 8,
+      "income": 6,
+      "effect": "若你的公司有至少3个生态标签，额外增加2收入。",
+      "type": "phone",
+      "development": 3,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P42",
+      "name": "紧凑型小折叠",
+      "market": "商务办公",
+      "strength": 3,
+      "tech": 2,
+      "tags": [
+        "折叠",
+        "轻薄"
+      ],
+      "appeal": 8,
+      "income": 4,
+      "effect": "若你的公司有至少2个折叠标签，额外获得12现金。",
+      "type": "phone",
+      "development": 0,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P43",
+      "name": "时尚小折叠",
+      "market": "商务办公",
+      "strength": 3,
+      "tech": 3,
+      "tags": [
+        "折叠",
+        "影像"
+      ],
+      "appeal": 10,
+      "income": 4,
+      "effect": "若本机采用走量价且本机成为达需求线的新机代表，额外增加1收入。",
+      "type": "phone",
+      "development": 3,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "定价"
+      ]
+    },
+    {
+      "id": "P44",
+      "name": "轻薄大折叠",
+      "market": "商务办公",
+      "strength": 4,
+      "tech": 4,
+      "tags": [
+        "折叠",
+        "轻薄"
+      ],
+      "appeal": 10,
+      "income": 6,
+      "effect": "若你的公司有至少3个轻薄标签，本机吸引力额外加4。",
+      "type": "phone",
+      "development": 3,
+      "qty": 1,
+      "tagRequirements": {
+        "折叠": 2
+      },
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P45",
+      "name": "商务大折叠",
+      "market": "商务办公",
+      "strength": 4,
+      "tech": 5,
+      "tags": [
+        "折叠",
+        "生态"
+      ],
+      "appeal": 10,
+      "income": 8,
+      "effect": "若本场只有你向商务办公市场发布，额外增加1收入。",
+      "type": "phone",
+      "development": 3,
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {
+        "K": 2
+      },
+      "mechanismTags": []
+    },
+    {
+      "id": "P46",
+      "name": "影像大折叠",
+      "market": "商务办公",
+      "strength": 5,
+      "tech": 6,
+      "tags": [
+        "折叠",
+        "影像"
+      ],
+      "appeal": 12,
+      "income": 6,
+      "effect": "若本场你的另一款有效新机面向摄影创作市场，额外增加2收入。",
+      "type": "phone",
+      "development": 3,
+      "qty": 1,
+      "tagRequirements": {
+        "折叠": 2,
+        "影像": 1
+      },
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P47",
+      "name": "全能Pro旗舰",
+      "market": "商务办公",
+      "strength": 5,
+      "tech": 6,
+      "tags": [
+        "生态",
+        "性能"
+      ],
+      "appeal": 12,
+      "income": 8,
+      "effect": "若本机四项原始吸引力至少16，增加1科技；本机采用溢价时，价格吸引力修正改为−2，不是−4。该价格修正不计入续销基准。",
+      "type": "phone",
+      "development": 3,
+      "qty": 1,
+      "tagRequirements": {
+        "生态": 2
+      },
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "研发成果",
+        "定价"
+      ]
+    },
+    {
+      "id": "P48",
+      "name": "多任务折叠旗舰",
+      "market": "商务办公",
+      "strength": 5,
+      "tech": 8,
+      "tags": [
+        "折叠",
+        "生态"
+      ],
+      "appeal": 14,
+      "income": 8,
+      "effect": "若你的公司有至少3个折叠标签，额外增加2科技并获得9现金。",
+      "type": "phone",
+      "development": 6,
+      "qty": 1,
+      "tagRequirements": {
+        "折叠": 3
+      },
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P49",
+      "type": "phone",
+      "name": "长辈关怀手机",
+      "market": "大众消费",
+      "strength": 1,
+      "development": 0,
+      "tech": 0,
+      "tags": [
+        "续航",
+        "生态"
+      ],
+      "appeal": 4,
+      "income": 3,
+      "effect": "若本机有效总功耗至多4，获得9现金。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P50",
+      "type": "phone",
+      "name": "小屏直板机",
+      "market": "大众消费",
+      "strength": 2,
+      "development": 0,
+      "tech": 0,
+      "tags": [
+        "轻薄"
+      ],
+      "appeal": 6,
+      "income": 4,
+      "effect": "若本机机身印刷供电至多8且轻薄企划类别已匹配，额外增加1收入。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P51",
+      "type": "phone",
+      "name": "户外长续航机",
+      "market": "大众消费",
+      "strength": 3,
+      "development": 0,
+      "tech": 1,
+      "tags": [
+        "续航"
+      ],
+      "appeal": 8,
+      "income": 4,
+      "effect": "若本机供电余量至少6，额外增加1科技。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "研发成果"
+      ]
+    },
+    {
+      "id": "P52",
+      "type": "phone",
+      "name": "校园游戏机",
+      "market": "大众消费",
+      "strength": 2,
+      "development": 0,
+      "tech": 1,
+      "tags": [
+        "性能",
+        "续航"
+      ],
+      "appeal": 8,
+      "income": 4,
+      "effect": "若本机芯片印刷吸引力至少6且机身带续航标签，获得12现金。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P53",
+      "type": "phone",
+      "name": "流畅标准版",
+      "market": "大众消费",
+      "strength": 2,
+      "development": 0,
+      "tech": 0,
+      "tags": [
+        "生态"
+      ],
+      "appeal": 6,
+      "income": 4,
+      "effect": "若本机四项经成熟减费后的部件制造费合计至多24，获得6现金；不计企业、开发费或整机减免。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P54",
+      "type": "phone",
+      "name": "轻巧自拍机",
+      "market": "大众消费",
+      "strength": 3,
+      "development": 0,
+      "tech": 1,
+      "tags": [
+        "影像",
+        "轻薄"
+      ],
+      "appeal": 8,
+      "income": 4,
+      "effect": "若本机两个企划标签均已匹配，额外增加1收入。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P55",
+      "type": "phone",
+      "name": "家庭互联手机",
+      "market": "大众消费",
+      "strength": 3,
+      "development": 3,
+      "tech": 2,
+      "tags": [
+        "生态",
+        "续航"
+      ],
+      "appeal": 8,
+      "income": 4,
+      "effect": "若本场另一款己方有效新机面向商务办公市场，增加1科技。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "研发成果"
+      ]
+    },
+    {
+      "id": "P56",
+      "type": "phone",
+      "name": "高亮户外机",
+      "market": "大众消费",
+      "strength": 4,
+      "development": 3,
+      "tech": 3,
+      "tags": [
+        "续航",
+        "影像"
+      ],
+      "appeal": 10,
+      "income": 6,
+      "effect": "若本机屏幕的印刷吸引力至少6且供电余量至少2，本机吸引力加4。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P57",
+      "type": "phone",
+      "name": "能效游戏机",
+      "market": "电竞娱乐",
+      "strength": 2,
+      "development": 0,
+      "tech": 1,
+      "tags": [
+        "性能",
+        "续航"
+      ],
+      "appeal": 8,
+      "income": 4,
+      "effect": "若本机芯片的印刷功耗不超过2，额外增加1收入。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P58",
+      "type": "phone",
+      "name": "均衡性能机",
+      "market": "电竞娱乐",
+      "strength": 3,
+      "development": 0,
+      "tech": 2,
+      "tags": [
+        "性能"
+      ],
+      "appeal": 10,
+      "income": 4,
+      "effect": "若本机有效总功耗恰好等于有效供电，额外增加1科技。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "研发成果"
+      ]
+    },
+    {
+      "id": "P59",
+      "type": "phone",
+      "name": "满帧直屏旗舰",
+      "market": "电竞娱乐",
+      "strength": 4,
+      "development": 3,
+      "tech": 3,
+      "tags": [
+        "性能"
+      ],
+      "appeal": 12,
+      "income": 6,
+      "effect": "若本机屏幕带性能标签，本机吸引力加4。",
+      "qty": 1,
+      "tagRequirements": {
+        "性能": 2
+      },
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P60",
+      "type": "phone",
+      "name": "大电池电竞机",
+      "market": "电竞娱乐",
+      "strength": 3,
+      "development": 3,
+      "tech": 2,
+      "tags": [
+        "性能",
+        "续航"
+      ],
+      "appeal": 10,
+      "income": 6,
+      "effect": "若本机机身带续航标签且芯片印刷功耗至少6，额外增加1收入。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P61",
+      "type": "phone",
+      "name": "小屏性能旗舰",
+      "market": "电竞娱乐",
+      "strength": 4,
+      "development": 3,
+      "tech": 3,
+      "tags": [
+        "性能",
+        "轻薄"
+      ],
+      "appeal": 12,
+      "income": 6,
+      "effect": "若本机机身印刷供电不超过8，额外增加1科技。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "研发成果"
+      ]
+    },
+    {
+      "id": "P62",
+      "type": "phone",
+      "name": "标准版性能旗舰",
+      "market": "电竞娱乐",
+      "strength": 3,
+      "development": 3,
+      "tech": 2,
+      "tags": [
+        "性能",
+        "生态"
+      ],
+      "appeal": 10,
+      "income": 4,
+      "effect": "若本场另一款己方有效新机使用相同编号芯片，获得9现金；允许T37明确许可的共用芯片。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "共用平台"
+      ]
+    },
+    {
+      "id": "P63",
+      "type": "phone",
+      "name": "开发者参考机",
+      "market": "电竞娱乐",
+      "strength": 4,
+      "development": 3,
+      "tech": 3,
+      "tags": [
+        "性能",
+        "生态"
+      ],
+      "appeal": 10,
+      "income": 4,
+      "effect": "若本机配件印刷类别覆盖至少3种，增加1科技。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {
+        "R": 2
+      },
+      "mechanismTags": [
+        "研发成果"
+      ]
+    },
+    {
+      "id": "P64",
+      "type": "phone",
+      "name": "持续性能旗舰",
+      "market": "电竞娱乐",
+      "strength": 5,
+      "development": 6,
+      "tech": 6,
+      "tags": [
+        "性能",
+        "续航"
+      ],
+      "appeal": 14,
+      "income": 8,
+      "effect": "若本机四项原始吸引力合计至少16，且供电余量至少4，额外增加1科技。",
+      "qty": 1,
+      "tagRequirements": {
+        "性能": 3
+      },
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "研发成果"
+      ]
+    },
+    {
+      "id": "P65",
+      "type": "phone",
+      "name": "街拍轻旗舰",
+      "market": "摄影创作",
+      "strength": 2,
+      "development": 0,
+      "tech": 1,
+      "tags": [
+        "影像",
+        "轻薄"
+      ],
+      "appeal": 8,
+      "income": 4,
+      "effect": "若本机影像模组印刷功耗不超过2且带影像标签，获得9现金。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P66",
+      "type": "phone",
+      "name": "人像标准版",
+      "market": "摄影创作",
+      "strength": 3,
+      "development": 3,
+      "tech": 2,
+      "tags": [
+        "影像"
+      ],
+      "appeal": 10,
+      "income": 4,
+      "effect": "若本机影像模组印刷吸引力至少6，且本场在摄影创作市场获得第二，额外增加1收入。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P67",
+      "type": "phone",
+      "name": "长焦旅行机",
+      "market": "摄影创作",
+      "strength": 3,
+      "development": 3,
+      "tech": 3,
+      "tags": [
+        "影像",
+        "续航"
+      ],
+      "appeal": 10,
+      "income": 4,
+      "effect": "若本机影像模组印刷吸引力至少8且供电余量至少4，额外增加1科技。",
+      "qty": 1,
+      "tagRequirements": {
+        "影像": 2
+      },
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "研发成果"
+      ]
+    },
+    {
+      "id": "P68",
+      "type": "phone",
+      "name": "紧凑影像旗舰",
+      "market": "摄影创作",
+      "strength": 4,
+      "development": 3,
+      "tech": 3,
+      "tags": [
+        "影像",
+        "轻薄"
+      ],
+      "appeal": 12,
+      "income": 6,
+      "effect": "若本机机身带轻薄类别且影像印刷吸引力至少6，市场吸引力加4。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P69",
+      "type": "phone",
+      "name": "视频工作机",
+      "market": "摄影创作",
+      "strength": 4,
+      "development": 3,
+      "tech": 3,
+      "tags": [
+        "影像",
+        "生态"
+      ],
+      "appeal": 12,
+      "income": 6,
+      "effect": "若你的公司有至少3个黑厂厂标，额外获得12现金。本场已成功上市的厂标可以计入。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P70",
+      "type": "phone",
+      "name": "创作双机方案",
+      "market": "摄影创作",
+      "strength": 4,
+      "development": 3,
+      "tech": 3,
+      "tags": [
+        "影像",
+        "生态"
+      ],
+      "appeal": 10,
+      "income": 6,
+      "effect": "若本场另一款己方有效新机使用同编号、不同实体的影像部件，获得9现金。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {
+        "B": 2
+      },
+      "mechanismTags": []
+    },
+    {
+      "id": "P71",
+      "type": "phone",
+      "name": "专业影像Ultra",
+      "market": "摄影创作",
+      "strength": 5,
+      "development": 6,
+      "tech": 6,
+      "tags": [
+        "影像",
+        "性能"
+      ],
+      "appeal": 16,
+      "income": 8,
+      "effect": "若本机影像模组印刷吸引力至少10且本机四件原始吸引力达到20，额外增加2科技。",
+      "qty": 1,
+      "tagRequirements": {
+        "影像": 3
+      },
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P72",
+      "type": "phone",
+      "name": "耐候摄影手机",
+      "market": "摄影创作",
+      "strength": 4,
+      "development": 3,
+      "tech": 4,
+      "tags": [
+        "影像",
+        "续航"
+      ],
+      "appeal": 12,
+      "income": 6,
+      "effect": "若本机机身带续航标签且供电余量至少4，额外增加1收入。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P73",
+      "type": "phone",
+      "name": "政企安全终端",
+      "market": "商务办公",
+      "strength": 2,
+      "development": 0,
+      "tech": 1,
+      "tags": [
+        "生态"
+      ],
+      "appeal": 6,
+      "income": 4,
+      "effect": "若本机芯片带生态标签，额外增加1收入。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P74",
+      "type": "phone",
+      "name": "轻办公手机",
+      "market": "商务办公",
+      "strength": 2,
+      "development": 0,
+      "tech": 0,
+      "tags": [
+        "轻薄",
+        "生态"
+      ],
+      "appeal": 6,
+      "income": 3,
+      "effect": "若本机采用标准价且两个企划类别都已匹配，额外增加1收入。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "定价"
+      ]
+    },
+    {
+      "id": "P75",
+      "type": "phone",
+      "name": "差旅商务机",
+      "market": "商务办公",
+      "strength": 3,
+      "development": 3,
+      "tech": 2,
+      "tags": [
+        "生态",
+        "续航"
+      ],
+      "appeal": 8,
+      "income": 4,
+      "effect": "若本机供电余量至少8，额外增加1收入。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P76",
+      "type": "phone",
+      "name": "远程协作旗舰",
+      "market": "商务办公",
+      "strength": 3,
+      "development": 3,
+      "tech": 2,
+      "tags": [
+        "生态",
+        "影像"
+      ],
+      "appeal": 10,
+      "income": 4,
+      "effect": "若本场另一款带生态企划类别的己方有效新机与本机具有不同厂标，增加1科技；两机均须有厂标。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "研发成果"
+      ]
+    },
+    {
+      "id": "P77",
+      "type": "phone",
+      "name": "生产力小折叠",
+      "market": "商务办公",
+      "strength": 4,
+      "development": 3,
+      "tech": 4,
+      "tags": [
+        "折叠",
+        "生态"
+      ],
+      "appeal": 12,
+      "income": 6,
+      "effect": "若本机两个企划标签均已匹配，额外增加1收入。",
+      "qty": 1,
+      "tagRequirements": {
+        "折叠": 2
+      },
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P78",
+      "type": "phone",
+      "name": "双屏会议终端",
+      "market": "商务办公",
+      "strength": 4,
+      "development": 3,
+      "tech": 4,
+      "tags": [
+        "折叠",
+        "影像"
+      ],
+      "appeal": 12,
+      "income": 6,
+      "effect": "若本机影像模组印刷功耗不超过2，获得12现金。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P79",
+      "type": "phone",
+      "name": "高端质感旗舰",
+      "market": "商务办公",
+      "strength": 4,
+      "development": 3,
+      "tech": 3,
+      "tags": [
+        "生态",
+        "轻薄"
+      ],
+      "appeal": 12,
+      "income": 6,
+      "effect": "若本机机身印刷吸引力至少6且使用至少2张稳定配件卡，本机吸引力加4。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P80",
+      "type": "phone",
+      "name": "移动办公大折叠",
+      "market": "商务办公",
+      "strength": 5,
+      "development": 6,
+      "tech": 6,
+      "tags": [
+        "折叠",
+        "生态"
+      ],
+      "appeal": 14,
+      "income": 8,
+      "effect": "若本场你至少向两个不同市场发布且本机供电余量至少2，额外增加2科技。",
+      "qty": 1,
+      "tagRequirements": {
+        "折叠": 2,
+        "生态": 1
+      },
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P81",
+      "type": "phone",
+      "name": "平价国民机",
+      "market": "大众消费",
+      "strength": 2,
+      "development": 0,
+      "tech": 0,
+      "tags": [
+        "续航",
+        "生态"
+      ],
+      "appeal": 6,
+      "income": 4,
+      "effect": "若本机采用走量价且四类部件都来自稳定配件，额外增加1收入。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "定价"
+      ]
+    },
+    {
+      "id": "P82",
+      "type": "phone",
+      "name": "出行可靠机",
+      "market": "大众消费",
+      "strength": 2,
+      "development": 0,
+      "tech": 1,
+      "tags": [
+        "续航"
+      ],
+      "appeal": 8,
+      "income": 4,
+      "effect": "若本机供电余量至少4，额外增加1收入。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P83",
+      "type": "phone",
+      "name": "易维修手机",
+      "market": "大众消费",
+      "strength": 3,
+      "development": 0,
+      "tech": 1,
+      "tags": [
+        "生态",
+        "轻薄"
+      ],
+      "appeal": 8,
+      "income": 4,
+      "effect": "本机成功上市后，可从主牌弃牌堆取回1张单项定制配件；本场待消耗或已移出游戏的卡不属于弃牌。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P84",
+      "type": "phone",
+      "name": "全能大众Pro",
+      "market": "大众消费",
+      "strength": 4,
+      "development": 3,
+      "tech": 3,
+      "tags": [
+        "性能",
+        "生态"
+      ],
+      "appeal": 12,
+      "income": 6,
+      "effect": "若本场你有至少3款有效新机，额外增加1科技。",
+      "qty": 1,
+      "tagRequirements": {
+        "续航": 2
+      },
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "研发成果"
+      ]
+    },
+    {
+      "id": "P85",
+      "type": "phone",
+      "name": "电竞联调机",
+      "market": "电竞娱乐",
+      "strength": 3,
+      "development": 3,
+      "tech": 2,
+      "tags": [
+        "性能"
+      ],
+      "appeal": 10,
+      "income": 4,
+      "effect": "若本机使用单项定制芯片卡，额外增加1收入。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P86",
+      "type": "phone",
+      "name": "性能工程样机",
+      "market": "电竞娱乐",
+      "strength": 4,
+      "development": 3,
+      "tech": 3,
+      "tags": [
+        "性能",
+        "续航"
+      ],
+      "appeal": 12,
+      "income": 6,
+      "effect": "若本机使用至少2张定制卡且四项原始吸引力至少16，增加2科技。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P87",
+      "type": "phone",
+      "name": "平台性能旗舰",
+      "market": "电竞娱乐",
+      "strength": 4,
+      "development": 3,
+      "tech": 4,
+      "tags": [
+        "性能",
+        "生态"
+      ],
+      "appeal": 12,
+      "income": 6,
+      "effect": "若本场另一款己方有效新机使用同编号稳定芯片，获得12现金；允许T37明确许可的共用芯片。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "共用平台"
+      ]
+    },
+    {
+      "id": "P88",
+      "type": "phone",
+      "name": "极限性能Ultra",
+      "market": "电竞娱乐",
+      "strength": 5,
+      "development": 6,
+      "tech": 6,
+      "tags": [
+        "性能",
+        "续航"
+      ],
+      "appeal": 16,
+      "income": 8,
+      "effect": "若本机使用单项定制芯片且供电余量至少2，本机吸引力加4。",
+      "qty": 1,
+      "tagRequirements": {
+        "性能": 3
+      },
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P89",
+      "type": "phone",
+      "name": "联合影像手机",
+      "market": "摄影创作",
+      "strength": 3,
+      "development": 3,
+      "tech": 2,
+      "tags": [
+        "影像",
+        "生态"
+      ],
+      "appeal": 10,
+      "income": 4,
+      "effect": "若本机影像模组来自定制配件，额外增加1收入。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P90",
+      "type": "phone",
+      "name": "旅行摄影套装",
+      "market": "摄影创作",
+      "strength": 3,
+      "development": 3,
+      "tech": 3,
+      "tags": [
+        "影像",
+        "续航"
+      ],
+      "appeal": 10,
+      "income": 4,
+      "effect": "若本机使用一张同时含影像和机身的定制卡，额外增加1收入。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P91",
+      "type": "phone",
+      "name": "多机位创作旗舰",
+      "market": "摄影创作",
+      "strength": 4,
+      "development": 3,
+      "tech": 4,
+      "tags": [
+        "影像",
+        "生态"
+      ],
+      "appeal": 12,
+      "income": 6,
+      "effect": "若本场你的有效新机覆盖3种不同市场，额外增加1科技。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "研发成果"
+      ]
+    },
+    {
+      "id": "P92",
+      "type": "phone",
+      "name": "超感光专业机",
+      "market": "摄影创作",
+      "strength": 5,
+      "development": 6,
+      "tech": 6,
+      "tags": [
+        "影像"
+      ],
+      "appeal": 16,
+      "income": 8,
+      "effect": "若本机使用印刷吸引力至少10的单项定制影像卡，额外增加2科技。",
+      "qty": 1,
+      "tagRequirements": {
+        "影像": 3
+      },
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P93",
+      "type": "phone",
+      "name": "供应链标准机",
+      "market": "商务办公",
+      "strength": 2,
+      "development": 0,
+      "tech": 1,
+      "tags": [
+        "生态"
+      ],
+      "appeal": 8,
+      "income": 4,
+      "effect": "若本机至少使用3张稳定配件卡，额外增加1收入。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": []
+    },
+    {
+      "id": "P94",
+      "type": "phone",
+      "name": "企业平台终端",
+      "market": "商务办公",
+      "strength": 3,
+      "development": 3,
+      "tech": 2,
+      "tags": [
+        "生态",
+        "续航"
+      ],
+      "appeal": 10,
+      "income": 4,
+      "effect": "若本机四项来自同一张定制配件卡，整机费用减3，最低仍为3现金。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "成本"
+      ]
+    },
+    {
+      "id": "P95",
+      "type": "phone",
+      "name": "协作折叠旗舰",
+      "market": "商务办公",
+      "strength": 5,
+      "development": 6,
+      "tech": 5,
+      "tags": [
+        "折叠",
+        "生态"
+      ],
+      "appeal": 14,
+      "income": 8,
+      "effect": "若本场你有至少两款有效新机带生态企划类别，额外增加1收入。",
+      "qty": 1,
+      "tagRequirements": {},
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {
+        "Y": 2
+      },
+      "mechanismTags": [
+        "批量制造"
+      ]
+    },
+    {
+      "id": "P96",
+      "type": "phone",
+      "name": "行业解决方案终端",
+      "market": "商务办公",
+      "strength": 4,
+      "development": 3,
+      "tech": 4,
+      "tags": [
+        "生态",
+        "性能"
+      ],
+      "appeal": 12,
+      "income": 6,
+      "effect": "若你已完成至少2个产业突破，额外增加1科技。",
+      "qty": 1,
+      "tagRequirements": {
+        "生态": 3
+      },
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {},
+      "mechanismTags": [
+        "研发成果"
+      ]
+    },
+    {
+      "id": "T01",
+      "name": "VC均热板",
+      "strength": 1,
+      "cost": 9,
+      "tech": 0,
+      "tags": [
+        "性能"
+      ],
+      "gain": 0,
+      "effect": "装载：芯片印刷功耗至少6的机型，其芯片有效功耗减2。",
+      "type": "tech",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "应用技术",
+      "priorTechCardsRequired": 0,
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T02",
+      "name": "OIS光学防抖",
+      "strength": 1,
+      "cost": 9,
+      "tech": 0,
+      "tags": [
+        "影像"
+      ],
+      "gain": 0,
+      "effect": "装载：影像部件带影像标签的机型，验收值减2。",
+      "type": "tech",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "应用技术",
+      "priorTechCardsRequired": 0,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T03",
+      "name": "柔性OLED",
+      "strength": 1,
+      "cost": 9,
+      "tech": 0,
+      "tags": [
+        "轻薄"
+      ],
+      "gain": 0,
+      "effect": "装载：屏幕带轻薄标签的机型，其屏幕有效功耗减2。",
+      "type": "tech",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "应用技术",
+      "priorTechCardsRequired": 0,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T04",
+      "name": "快充协议",
+      "strength": 1,
+      "cost": 9,
+      "tech": 0,
+      "tags": [
+        "续航"
+      ],
+      "gain": 0,
+      "effect": "装载：机身带续航标签的机型，有效供电加2。",
+      "type": "tech",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "应用技术",
+      "priorTechCardsRequired": 0,
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T05",
+      "name": "水滴铰链",
+      "strength": 2,
+      "cost": 13,
+      "tech": 1,
+      "tags": [
+        "折叠"
+      ],
+      "gain": 1,
+      "effect": "装载：使用配套折叠屏与折叠机身的机型，验收值减2。",
+      "type": "tech",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "成果技术",
+      "priorTechCardsRequired": 0,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T06",
+      "name": "多设备协同",
+      "strength": 2,
+      "cost": 9,
+      "tech": 0,
+      "tags": [
+        "生态"
+      ],
+      "gain": 0,
+      "effect": "装载：本机芯片带生态类别时，性能企划类别视为匹配；若本机另有生态企划类别，该类别也视为匹配。",
+      "type": "tech",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "应用技术",
+      "priorTechCardsRequired": 0,
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T07",
+      "name": "LPDDR5X",
+      "strength": 3,
+      "cost": 21,
+      "tech": 2,
+      "tags": [
+        "性能"
+      ],
+      "gain": 1,
+      "effect": "装载：芯片印刷吸引力至少6且屏幕带性能标签的机型，市场吸引力加4。",
+      "type": "tech",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "成果技术",
+      "priorTechCardsRequired": 1,
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T08",
+      "name": "多帧降噪",
+      "strength": 3,
+      "cost": 21,
+      "tech": 2,
+      "tags": [
+        "影像"
+      ],
+      "gain": 1,
+      "effect": "装载：影像部件印刷吸引力至多4的机型，市场吸引力加4。",
+      "type": "tech",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "成果技术",
+      "priorTechCardsRequired": 1,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T09",
+      "name": "LTPO自适应刷新率",
+      "strength": 3,
+      "cost": 21,
+      "tech": 2,
+      "tags": [
+        "轻薄"
+      ],
+      "gain": 1,
+      "effect": "装载：屏幕印刷功耗至少4的机型，其屏幕有效功耗减2。",
+      "type": "tech",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "成果技术",
+      "priorTechCardsRequired": 1,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T10",
+      "name": "硅碳负极电池",
+      "strength": 3,
+      "cost": 21,
+      "tech": 2,
+      "tags": [
+        "续航"
+      ],
+      "gain": 1,
+      "effect": "装载：机身印刷供电至多10的机型，有效供电加4。",
+      "type": "tech",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "成果技术",
+      "priorTechCardsRequired": 1,
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T11",
+      "name": "超薄柔性玻璃",
+      "strength": 3,
+      "cost": 24,
+      "tech": 3,
+      "tags": [
+        "折叠"
+      ],
+      "gain": 1,
+      "effect": "装载：使用折叠屏的机型，其轻薄企划标签视为已匹配。",
+      "type": "tech",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "成果技术",
+      "priorTechCardsRequired": 1,
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T12",
+      "name": "隐私计算",
+      "strength": 3,
+      "cost": 21,
+      "tech": 2,
+      "tags": [
+        "生态"
+      ],
+      "gain": 1,
+      "effect": "装载：芯片带生态标签的机型，验收值减2。",
+      "type": "tech",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "成果技术",
+      "priorTechCardsRequired": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T13",
+      "name": "UFS 4.0",
+      "strength": 4,
+      "cost": 34,
+      "tech": 4,
+      "tags": [
+        "性能"
+      ],
+      "gain": 2,
+      "effect": "装载：本机芯片和屏幕印刷吸引力均至少6时，市场吸引力加4。不保留或复制本场定制配件。",
+      "type": "tech",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "成果技术",
+      "priorTechCardsRequired": 2,
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T14",
+      "name": "潜望式长焦",
+      "strength": 4,
+      "cost": 34,
+      "tech": 4,
+      "tags": [
+        "影像"
+      ],
+      "gain": 2,
+      "effect": "装载：影像部件印刷吸引力至少8的机型，市场吸引力加4。",
+      "type": "tech",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "成果技术",
+      "priorTechCardsRequired": 2,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T15",
+      "name": "低功耗显示驱动",
+      "strength": 4,
+      "cost": 27,
+      "tech": 4,
+      "tags": [
+        "轻薄"
+      ],
+      "gain": 1,
+      "effect": "装载：屏幕带轻薄标签的机型，其屏幕有效功耗减2；屏幕印刷功耗为0时，改为市场吸引力加2。",
+      "type": "tech",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "成果技术",
+      "priorTechCardsRequired": 2,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T16",
+      "name": "电池健康管理",
+      "strength": 4,
+      "cost": 27,
+      "tech": 4,
+      "tags": [
+        "续航"
+      ],
+      "gain": 1,
+      "effect": "装载：机身印刷供电至少12的机型，有效供电加4。",
+      "type": "tech",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "成果技术",
+      "priorTechCardsRequired": 2,
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T17",
+      "name": "多角度悬停结构",
+      "strength": 4,
+      "cost": 34,
+      "tech": 4,
+      "tags": [
+        "折叠"
+      ],
+      "gain": 2,
+      "effect": "装载：使用配套折叠屏与折叠机身，且影像部件带影像标签的机型，市场吸引力加4。",
+      "type": "tech",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "成果技术",
+      "priorTechCardsRequired": 2,
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T18",
+      "name": "端侧大模型",
+      "strength": 5,
+      "cost": 44,
+      "tech": 6,
+      "tags": [
+        "生态"
+      ],
+      "gain": 3,
+      "effect": "装载：芯片印刷吸引力至少8时，本机性能和影像企划类别视为匹配。不从牌库取得额外科技卡。",
+      "type": "tech",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "成果技术",
+      "priorTechCardsRequired": 2,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T19",
+      "type": "tech",
+      "name": "动态频率调度",
+      "strength": 2,
+      "cost": 9,
+      "tech": 0,
+      "tags": [
+        "性能"
+      ],
+      "effect": "装载：组装或返工时，可为本机选择本卡的节能调校：芯片有效功耗减2，市场吸引力减2。每台至多选择一个调校方案，不能与配件调校叠用；默认模式不修正。",
+      "gain": 0,
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "tuning": {
+        "target": "chip",
+        "loadDelta": -2,
+        "appealDelta": -2,
+        "name": "节能调校"
+      },
+      "researchClass": "应用技术",
+      "priorTechCardsRequired": 0,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": [
+        "返工"
+      ]
+    },
+    {
+      "id": "T20",
+      "type": "tech",
+      "name": "像素合并",
+      "strength": 2,
+      "cost": 9,
+      "tech": 0,
+      "tags": [
+        "影像"
+      ],
+      "effect": "装载：影像部件印刷吸引力至多4的机型，验收值减2。",
+      "gain": 0,
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "应用技术",
+      "priorTechCardsRequired": 0,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T21",
+      "type": "tech",
+      "name": "高密度封装",
+      "strength": 2,
+      "cost": 16,
+      "tech": 1,
+      "tags": [
+        "轻薄"
+      ],
+      "effect": "装载：本机机身带轻薄类别时，有效供电加2，且本机技术位由2增至3；本卡也占1位，总上限仍为3。",
+      "gain": 1,
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "成果技术",
+      "priorTechCardsRequired": 0,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": [
+        "技术位"
+      ]
+    },
+    {
+      "id": "T22",
+      "type": "tech",
+      "name": "电源管理芯片",
+      "strength": 2,
+      "cost": 16,
+      "tech": 1,
+      "tags": [
+        "续航"
+      ],
+      "effect": "装载：芯片和屏幕的印刷功耗均至少2的机型，有效供电加2。",
+      "gain": 1,
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "成果技术",
+      "priorTechCardsRequired": 0,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T23",
+      "type": "tech",
+      "name": "可信执行环境",
+      "strength": 2,
+      "cost": 9,
+      "tech": 0,
+      "tags": [
+        "生态"
+      ],
+      "effect": "装载：芯片来自定制配件的机型，其生态企划标签视为已匹配。",
+      "gain": 0,
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "应用技术",
+      "priorTechCardsRequired": 0,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T24",
+      "type": "tech",
+      "name": "轻量化铰链",
+      "strength": 3,
+      "cost": 19,
+      "tech": 2,
+      "tags": [
+        "折叠"
+      ],
+      "effect": "装载：使用配套折叠屏与折叠机身的机型，有效供电加2。",
+      "gain": 1,
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "成果技术",
+      "priorTechCardsRequired": 0,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T25",
+      "type": "tech",
+      "name": "高频PWM调光",
+      "strength": 3,
+      "cost": 15,
+      "tech": 2,
+      "tags": [
+        "轻薄"
+      ],
+      "effect": "装载：屏幕带轻薄标签的机型，其影像企划标签视为已匹配。",
+      "gain": 0,
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "应用技术",
+      "priorTechCardsRequired": 0,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T26",
+      "type": "tech",
+      "name": "多摄色彩标定",
+      "strength": 3,
+      "cost": 22,
+      "tech": 3,
+      "tags": [
+        "影像"
+      ],
+      "effect": "装载：本机影像部件标明的“平台兼容”条件视为满足；不跳过科技门槛、世代解锁、功耗、验收或折叠配套。",
+      "gain": 1,
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "成果技术",
+      "priorTechCardsRequired": 0,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": [
+        "兼容"
+      ]
+    },
+    {
+      "id": "T27",
+      "type": "tech",
+      "name": "系统能效调优",
+      "strength": 3,
+      "cost": 26,
+      "tech": 3,
+      "tags": [
+        "续航"
+      ],
+      "effect": "装载：四项部件中至少两项带续航标签的机型，其芯片有效功耗减2、屏幕有效功耗减2。",
+      "gain": 2,
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "成果技术",
+      "priorTechCardsRequired": 0,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T28",
+      "type": "tech",
+      "name": "图形驱动优化",
+      "strength": 4,
+      "cost": 25,
+      "tech": 4,
+      "tags": [
+        "性能"
+      ],
+      "effect": "装载：芯片与屏幕均带性能标签的机型，验收值减2。",
+      "gain": 1,
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "成果技术",
+      "priorTechCardsRequired": 0,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T29",
+      "type": "tech",
+      "name": "跨设备接续",
+      "strength": 4,
+      "cost": 32,
+      "tech": 4,
+      "tags": [
+        "生态"
+      ],
+      "effect": "装载：本机至少两项部件带生态类别时，市场吸引力加4。若本机和另一款己方有效新机均带生态企划类别、且分属不同厂家，增加1科技；两机均须有厂标，每场至多一次。",
+      "gain": 2,
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "成果技术",
+      "priorTechCardsRequired": 0,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": [
+        "研发成果"
+      ]
+    },
+    {
+      "id": "T30",
+      "type": "tech",
+      "name": "分屏任务调度",
+      "strength": 4,
+      "cost": 28,
+      "tech": 4,
+      "tags": [
+        "折叠"
+      ],
+      "effect": "装载：本机使用配套折叠屏与机身时，技术位由2增至3；本卡占1位，总上限仍为3。本机折叠配套且芯片印刷吸引力至少6时，市场吸引力加2。",
+      "gain": 1,
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "成果技术",
+      "priorTechCardsRequired": 0,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": [
+        "技术位"
+      ]
+    },
+    {
+      "id": "T31",
+      "type": "tech",
+      "name": "模组接口标准",
+      "strength": 3,
+      "cost": 15,
+      "tech": 2,
+      "tags": [
+        "生态"
+      ],
+      "effect": "装载：返工本机时，可将原企划回手，换成手牌中同市场的另一张企划；按新企划计算任务要求，最终仍须装载本卡。不得改变筹备位，入场门槛留待发布检查。",
+      "qty": 1,
+      "gain": 0,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "应用技术",
+      "priorTechCardsRequired": 0,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": [
+        "返工"
+      ]
+    },
+    {
+      "id": "T32",
+      "type": "tech",
+      "name": "可靠性工程",
+      "strength": 3,
+      "cost": 19,
+      "tech": 2,
+      "tags": [
+        "续航"
+      ],
+      "effect": "装载：本机技术装载本身合法、但在发布验收或付款时失败，可将本机1张完整定制配件回手，替代该卡本场消耗；其余定制照常消耗，企划照常失败。",
+      "qty": 1,
+      "gain": 1,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "成果技术",
+      "priorTechCardsRequired": 0,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T33",
+      "type": "tech",
+      "name": "参考设计平台",
+      "strength": 3,
+      "cost": 18,
+      "tech": 3,
+      "tags": [
+        "生态"
+      ],
+      "effect": "装载：本机使用至少1张含2项或3项部件的定制卡时，验收值减2，且本机组装或返工的行动要求减1，最低1。",
+      "qty": 1,
+      "gain": 0,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "应用技术",
+      "priorTechCardsRequired": 0,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": [
+        "返工"
+      ]
+    },
+    {
+      "id": "T34",
+      "type": "tech",
+      "name": "片上安全隔离",
+      "strength": 3,
+      "cost": 18,
+      "tech": 3,
+      "tags": [
+        "性能"
+      ],
+      "effect": "装载：芯片带性能标签的机型，其生态企划标签视为已匹配。",
+      "qty": 1,
+      "gain": 0,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "应用技术",
+      "priorTechCardsRequired": 0,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T35",
+      "type": "tech",
+      "name": "热管理建模",
+      "strength": 4,
+      "cost": 29,
+      "tech": 4,
+      "tags": [
+        "性能"
+      ],
+      "effect": "装载：芯片印刷功耗至少6且机身印刷供电至少12的机型，其芯片有效功耗减4。",
+      "qty": 1,
+      "gain": 2,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "成果技术",
+      "priorTechCardsRequired": 0,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T36",
+      "type": "tech",
+      "name": "工程流程标准化",
+      "strength": 4,
+      "cost": 15,
+      "tech": 3,
+      "tags": [
+        "生态"
+      ],
+      "effect": "打出时获得1次行动升级；本卡没有其他持续能力。",
+      "qty": 1,
+      "gain": 0,
+      "deck": "main",
+      "era": 1,
+      "researchClass": "应用技术",
+      "priorTechCardsRequired": 0,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "technologyScope": "company",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": []
+    },
+    {
+      "id": "B01",
+      "name": "电商旗舰店",
+      "strength": 1,
+      "cost": 12,
+      "tech": 0,
+      "tags": [
+        "生态"
+      ],
+      "effect": "签约：可从当前牌市取得1张企划，不受牌位限制。 经营：每场发布，若你有采用走量价、达需求线且取得第一的新机代表，额外增加1收入；每场至多一次。",
+      "type": "business",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "可从当前牌市取得1张企划，不受牌位限制。",
+      "ongoing": "每场发布，若你有采用走量价、达需求线且取得第一的新机代表，额外增加1收入；每场至多一次。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "定价"
+      ]
+    },
+    {
+      "id": "B02",
+      "name": "校园推广",
+      "strength": 1,
+      "cost": 12,
+      "tech": 0,
+      "tags": [
+        "性能"
+      ],
+      "effect": "签约：可从当前牌市取得1张开发费为0的企划，不受牌位限制。 经营：每场发布，若你有大众消费有效新机，其开发费为0且采用走量价，获得6现金；每场至多一次。",
+      "type": "business",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "可从当前牌市取得1张开发费为0的企划，不受牌位限制。",
+      "ongoing": "每场发布，若你有大众消费有效新机，其开发费为0且采用走量价，获得6现金；每场至多一次。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "定价"
+      ]
+    },
+    {
+      "id": "B03",
+      "name": "工业设计外包",
+      "strength": 2,
+      "cost": 15,
+      "tech": 0,
+      "tags": [
+        "轻薄"
+      ],
+      "effect": "经营：每次组装的常规任务后，可额外返工1台在行动开始时已有且本次尚未处理的机型。要求不超过本次S，不占常规任务数与总要求；不能额外新增机型。",
+      "type": "business",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "无。",
+      "ongoing": "每次组装的常规任务后，可额外返工1台在行动开始时已有且本次尚未处理的机型。要求不超过本次S，不占常规任务数与总要求；不能额外新增机型。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "返工"
+      ]
+    },
+    {
+      "id": "B04",
+      "name": "售后服务网络",
+      "strength": 2,
+      "cost": 15,
+      "tech": 0,
+      "tags": [
+        "续航"
+      ],
+      "effect": "经营：每次获得正常发布回款时，额外获得9现金。最终发布或全桌空发布不触发。",
+      "type": "business",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "无。",
+      "ongoing": "每次获得正常发布回款时，额外获得9现金。最终发布或全桌空发布不触发。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": []
+    },
+    {
+      "id": "B05",
+      "name": "运营商合约",
+      "strength": 2,
+      "cost": 15,
+      "tech": 0,
+      "tags": [
+        "生态"
+      ],
+      "effect": "签约：获得6现金。 经营：每场发布，若你的大众消费新机代表采用标准价且达需求线，额外获得9现金；每场至多一次，不改变名次。",
+      "type": "business",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "获得6现金。",
+      "ongoing": "每场发布，若你的大众消费新机代表采用标准价且达需求线，额外获得9现金；每场至多一次，不改变名次。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "定价"
+      ]
+    },
+    {
+      "id": "B06",
+      "name": "ODM合作",
+      "strength": 2,
+      "cost": 18,
+      "tech": 0,
+      "tags": [
+        "性能"
+      ],
+      "effect": "签约：可从当前牌市取得1张定制配件，不受牌位限制。 经营：企划印刷科技门槛为0的新机，整机费用减6，最低3；配件、功耗和技术位照常验收。",
+      "type": "business",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "可从当前牌市取得1张定制配件，不受牌位限制。",
+      "ongoing": "企划印刷科技门槛为0的新机，整机费用减6，最低3；配件、功耗和技术位照常验收。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "技术位",
+        "成本"
+      ]
+    },
+    {
+      "id": "B07",
+      "name": "影像联合实验室",
+      "strength": 3,
+      "cost": 18,
+      "tech": 0,
+      "tags": [
+        "影像"
+      ],
+      "effect": "经营：打出带影像类别的科技卡时，研发费减6，最低3。进行影像后台采购时，服务费由6减为3，签约费照常。",
+      "type": "business",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "无。",
+      "ongoing": "打出带影像类别的科技卡时，研发费减6，最低3。进行影像后台采购时，服务费由6减为3，签约费照常。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "供货"
+      ]
+    },
+    {
+      "id": "B08",
+      "name": "开发者社区",
+      "strength": 3,
+      "cost": 18,
+      "tech": 0,
+      "tags": [
+        "生态"
+      ],
+      "effect": "签约：可从主牌弃牌堆取回1张科技卡。 经营：每次研发行动打出1张科技后，可弃1张手牌，再从当前牌市取1张科技入手；不受牌位限制，不能本次继续打出它。",
+      "type": "business",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "可从主牌弃牌堆取回1张科技卡。",
+      "ongoing": "每次研发行动打出1张科技后，可弃1张手牌，再从当前牌市取1张科技入手；不受牌位限制，不能本次继续打出它。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": []
+    },
+    {
+      "id": "B09",
+      "name": "柔性面板联合开发",
+      "strength": 3,
+      "cost": 18,
+      "tech": 0,
+      "tags": [
+        "折叠"
+      ],
+      "effect": "经营：后台采购屏幕时，可查看堆顶至多5张而不是3张；仍最多取1张、照常付费并翻后台标记。",
+      "type": "business",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "无。",
+      "ongoing": "后台采购屏幕时，可查看堆顶至多5张而不是3张；仍最多取1张、照常付费并翻后台标记。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "供货"
+      ]
+    },
+    {
+      "id": "B10",
+      "name": "库存回收商",
+      "strength": 3,
+      "cost": 12,
+      "tech": 0,
+      "tags": [
+        "续航"
+      ],
+      "effect": "经营：合作行动可改为库存转让：将1张未占用、非初始的自有稳定配件放到对应活动供应堆底，获得其当前通用签约费。占整个行动；不算采购，不立即补货。",
+      "type": "business",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "无。",
+      "ongoing": "合作行动可改为库存转让：将1张未占用、非初始的自有稳定配件放到对应活动供应堆底，获得其当前通用签约费。占整个行动；不算采购，不立即补货。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "供货"
+      ]
+    },
+    {
+      "id": "B11",
+      "name": "线下体验店",
+      "strength": 3,
+      "cost": 24,
+      "tech": 0,
+      "tags": [
+        "折叠"
+      ],
+      "effect": "经营：你每款有效新机的渠道需求线降低2；既用于该机企划收入，也用于新机代表能否参与排名。不增加吸引力、不改变代表挑选，不作用于旧机或技术验收。",
+      "type": "business",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "无。",
+      "ongoing": "你每款有效新机的渠道需求线降低2；既用于该机企划收入，也用于新机代表能否参与排名。不增加吸引力、不改变代表挑选，不作用于旧机或技术验收。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": []
+    },
+    {
+      "id": "B12",
+      "name": "电竞赛事合作",
+      "strength": 3,
+      "cost": 21,
+      "tech": 0,
+      "tags": [
+        "性能"
+      ],
+      "effect": "经营：每场发布，若你有达需求线且取得电竞娱乐第一的新机代表，获得12现金；每场至多一次，仅旧机第一不触发。",
+      "type": "business",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "tagRequirements": {
+        "性能": 2
+      },
+      "onSign": "无。",
+      "ongoing": "每场发布，若你有达需求线且取得电竞娱乐第一的新机代表，获得12现金；每场至多一次，仅旧机第一不触发。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": []
+    },
+    {
+      "id": "B13",
+      "name": "摄影师合作计划",
+      "strength": 3,
+      "cost": 21,
+      "tech": 0,
+      "tags": [
+        "影像"
+      ],
+      "effect": "签约：可从当前牌市取得1张摄影创作企划，不受牌位限制。 经营：每场发布，若你有影像印刷吸引力至少8的摄影创作有效新机，获得6现金；每场至多一次。",
+      "type": "business",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {},
+      "tagRequirements": {
+        "影像": 2
+      },
+      "onSign": "可从当前牌市取得1张摄影创作企划，不受牌位限制。",
+      "ongoing": "每场发布，若你有影像印刷吸引力至少8的摄影创作有效新机，获得6现金；每场至多一次。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": []
+    },
+    {
+      "id": "B14",
+      "name": "海外经销商",
+      "strength": 4,
+      "cost": 18,
+      "tech": 0,
+      "tags": [
+        "生态"
+      ],
+      "effect": "经营：每场发布，你宣布清仓但没有成为公司代表的旧机，每台获得3现金；清仓后仍必须退市。全桌没有有效新机时不发这笔钱。",
+      "type": "business",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "无。",
+      "ongoing": "每场发布，你宣布清仓但没有成为公司代表的旧机，每台获得3现金；清仓后仍必须退市。全桌没有有效新机时不发这笔钱。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "清仓"
+      ]
+    },
+    {
+      "id": "B15",
+      "name": "大客户采购",
+      "strength": 4,
+      "cost": 24,
+      "tech": 0,
+      "tags": [
+        "生态"
+      ],
+      "effect": "经营：每场发布，你采用标准价、达需求线且取得商务办公第二的新机代表，其市场销售现金改为12（不是6），市场收入仍为2。",
+      "type": "business",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {},
+      "tagRequirements": {
+        "生态": 2
+      },
+      "onSign": "无。",
+      "ongoing": "每场发布，你采用标准价、达需求线且取得商务办公第二的新机代表，其市场销售现金改为12（不是6），市场收入仍为2。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "定价"
+      ]
+    },
+    {
+      "id": "B16",
+      "name": "供应链账期协商",
+      "strength": 4,
+      "cost": 24,
+      "tech": 0,
+      "tags": [
+        "续航"
+      ],
+      "effect": "签约：获得9现金。 经营：每次执行营销的预热或融资，额外获得6现金；整备不触发。不会产生制造费垫付或债务。",
+      "type": "business",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "获得9现金。",
+      "ongoing": "每次执行营销的预热或融资，额外获得6现金；整备不触发。不会产生制造费垫付或债务。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": []
+    },
+    {
+      "id": "B17",
+      "name": "品牌联名",
+      "strength": 4,
+      "cost": 24,
+      "tech": 0,
+      "tags": [
+        "轻薄"
+      ],
+      "effect": "经营：每场发布，若你有采用溢价、达需求线且取得第一的新机代表，额外增加1收入；每场至多一次。不增加终局目标数量。",
+      "type": "business",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {},
+      "tagRequirements": {
+        "轻薄": 2
+      },
+      "onSign": "无。",
+      "ongoing": "每场发布，若你有采用溢价、达需求线且取得第一的新机代表，额外增加1收入；每场至多一次。不增加终局目标数量。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "定价"
+      ]
+    },
+    {
+      "id": "B18",
+      "name": "渠道扩张",
+      "strength": 5,
+      "cost": 27,
+      "tech": 0,
+      "tags": [
+        "生态"
+      ],
+      "effect": "签约：获得9现金。 经营：每场发布，若你有至少3款有效新机且覆盖至少3个市场，获得15现金；每场至多一次。",
+      "type": "business",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "tagRequirements": {
+        "生态": 3
+      },
+      "onSign": "获得9现金。",
+      "ongoing": "每场发布，若你有至少3款有效新机且覆盖至少3个市场，获得15现金；每场至多一次。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": []
+    },
+    {
+      "id": "B19",
+      "type": "business",
+      "name": "区域零售渠道",
+      "strength": 1,
+      "cost": 12,
+      "tech": 0,
+      "tags": [
+        "生态"
+      ],
+      "effect": "经营：每次调研可用至多1个基础额度，从主牌弃牌堆取回1张开发费为0的企划。该额度不能再拿主牌、采购或推进。",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "无。",
+      "ongoing": "每次调研可用至多1个基础额度，从主牌弃牌堆取回1张开发费为0的企划。该额度不能再拿主牌、采购或推进。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "供货"
+      ]
+    },
+    {
+      "id": "B20",
+      "type": "business",
+      "name": "小批量试产",
+      "strength": 2,
+      "cost": 15,
+      "tech": 0,
+      "tags": [
+        "性能"
+      ],
+      "effect": "经营：每场发布，你筹备位最靠前、开发费为0且未达本机有效需求线的有效新机，退回至多6现金制造费；该机净制造费至少保留3。每场至多一台。",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "无。",
+      "ongoing": "每场发布，你筹备位最靠前、开发费为0且未达本机有效需求线的有效新机，退回至多6现金制造费；该机净制造费至少保留3。每场至多一台。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": []
+    },
+    {
+      "id": "B21",
+      "type": "business",
+      "name": "结构件集中采购",
+      "strength": 2,
+      "cost": 15,
+      "tech": 0,
+      "tags": [
+        "轻薄"
+      ],
+      "effect": "经营：强度至少3的调研中，若已用基础额度采购屏幕或机身，可用额度采购第三张不同部件类别的稳定配件。上限3，类别均不同，照常付签约费，不赠额度或补货。",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "无。",
+      "ongoing": "强度至少3的调研中，若已用基础额度采购屏幕或机身，可用额度采购第三张不同部件类别的稳定配件。上限3，类别均不同，照常付签约费，不赠额度或补货。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "供货"
+      ]
+    },
+    {
+      "id": "B22",
+      "type": "business",
+      "name": "模组联合采购",
+      "strength": 3,
+      "cost": 18,
+      "tech": 0,
+      "tags": [
+        "影像"
+      ],
+      "effect": "签约：可按当前签约费采购1张公开稳定影像，不占调研额度；可放弃。 经营：每场发布，若两款己方有效新机使用同编号、不同实体影像部件，获得9现金；每场至多一次。",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "可按当前签约费采购1张公开稳定影像，不占调研额度；可放弃。",
+      "ongoing": "每场发布，若两款己方有效新机使用同编号、不同实体影像部件，获得9现金；每场至多一次。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "批量制造",
+        "供货"
+      ]
+    },
+    {
+      "id": "B23",
+      "type": "business",
+      "name": "平台化采购",
+      "strength": 3,
+      "cost": 21,
+      "tech": 0,
+      "tags": [
+        "性能"
+      ],
+      "effect": "签约：可按当前签约费采购1张公开稳定芯片，不占调研额度；可放弃。 经营：每场发布，若T37许可共用同一稳定芯片的两台机型都成功上市，获得12现金；每场至多一次，不赠额外行动。",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "可按当前签约费采购1张公开稳定芯片，不占调研额度；可放弃。",
+      "ongoing": "每场发布，若T37许可共用同一稳定芯片的两台机型都成功上市，获得12现金；每场至多一次，不赠额外行动。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "共用平台",
+        "供货"
+      ]
+    },
+    {
+      "id": "B24",
+      "type": "business",
+      "name": "延保服务",
+      "strength": 3,
+      "cost": 18,
+      "tech": 0,
+      "tags": [
+        "续航"
+      ],
+      "effect": "经营：每场发布，筹备位最靠前的失败机型，其企划回手而非弃置；每场至多一张。仍不上市、不领收入，配件照常处理。",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "无。",
+      "ongoing": "每场发布，筹备位最靠前的失败机型，其企划回手而非弃置；每场至多一张。仍不上市、不领收入，配件照常处理。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": []
+    },
+    {
+      "id": "B25",
+      "type": "business",
+      "name": "企业设备管理",
+      "strength": 3,
+      "cost": 21,
+      "tech": 0,
+      "tags": [
+        "生态"
+      ],
+      "effect": "经营：你的商务办公旧机若企划印有生态类别，在常规续销时每代衰减3而不是4。仍最多两场；选择清仓时不享受本减免，按通用清仓规则。",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "tagRequirements": {
+        "生态": 2
+      },
+      "onSign": "无。",
+      "ongoing": "你的商务办公旧机若企划印有生态类别，在常规续销时每代衰减3而不是4。仍最多两场；选择清仓时不享受本减免，按通用清仓规则。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "清仓"
+      ]
+    },
+    {
+      "id": "B26",
+      "type": "business",
+      "name": "工业设计奖",
+      "strength": 4,
+      "cost": 24,
+      "tech": 0,
+      "tags": [
+        "轻薄"
+      ],
+      "effect": "经营：每场发布，若你有两个企划类别都已匹配的有效新机，额外增加1收入；视为匹配也算，每场至多一次。",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "tagRequirements": {
+        "轻薄": 3
+      },
+      "onSign": "无。",
+      "ongoing": "每场发布，若你有两个企划类别都已匹配的有效新机，额外增加1收入；视为匹配也算，每场至多一次。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": []
+    },
+    {
+      "id": "B27",
+      "type": "business",
+      "name": "柔性面板长约",
+      "strength": 3,
+      "cost": 18,
+      "tech": 0,
+      "tags": [
+        "折叠"
+      ],
+      "effect": "签约：可按当前签约费采购1张公开折叠屏，不占调研额度；可放弃。 经营：使用配套折叠屏与折叠机身的新机，整机费用减6，最低3。",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "可按当前签约费采购1张公开折叠屏，不占调研额度；可放弃。",
+      "ongoing": "使用配套折叠屏与折叠机身的新机，整机费用减6，最低3。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "供货",
+        "成本"
+      ]
+    },
+    {
+      "id": "B28",
+      "type": "business",
+      "name": "影像评测合作",
+      "strength": 4,
+      "cost": 24,
+      "tech": 0,
+      "tags": [
+        "影像"
+      ],
+      "effect": "经营：每场发布，若你有达需求线且取得摄影创作第二的新机代表，额外增加1收入并获得3现金；每场至多一次。",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "tagRequirements": {
+        "影像": 2
+      },
+      "onSign": "无。",
+      "ongoing": "每场发布，若你有达需求线且取得摄影创作第二的新机代表，额外增加1收入并获得3现金；每场至多一次。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": []
+    },
+    {
+      "id": "B29",
+      "type": "business",
+      "name": "行业展会",
+      "strength": 4,
+      "cost": 18,
+      "tech": 0,
+      "tags": [
+        "生态"
+      ],
+      "effect": "经营：用合作行动完成一次实际后台采购后，可从当前牌市取得1张企划，不受牌位限制；每次后台任务至多一张。未取得配件不触发。",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "tagRequirements": {
+        "生态": 2
+      },
+      "onSign": "无。",
+      "ongoing": "用合作行动完成一次实际后台采购后，可从当前牌市取得1张企划，不受牌位限制；每次后台任务至多一张。未取得配件不触发。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "供货"
+      ]
+    },
+    {
+      "id": "B30",
+      "type": "business",
+      "name": "精品直营店",
+      "strength": 4,
+      "cost": 27,
+      "tech": 0,
+      "tags": [
+        "轻薄"
+      ],
+      "effect": "经营：每场发布，若你有采用溢价、达需求线且排名前二的新机代表，获得9现金；每场至多一次，旧机不触发。",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "tagRequirements": {
+        "轻薄": 2
+      },
+      "onSign": "无。",
+      "ongoing": "每场发布，若你有采用溢价、达需求线且排名前二的新机代表，获得9现金；每场至多一次，旧机不触发。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "定价"
+      ]
+    },
+    {
+      "id": "B31",
+      "type": "business",
+      "name": "元器件分销网络",
+      "strength": 2,
+      "cost": 18,
+      "tech": 0,
+      "tags": [
+        "生态"
+      ],
+      "effect": "签约：可按当前签约费采购1张公开稳定配件，不占调研额度；可放弃。 经营：调研采购的签约费每张减3、最低3。后台、签约栏采购与竞标不享受本优惠。",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "可按当前签约费采购1张公开稳定配件，不占调研额度；可放弃。",
+      "ongoing": "调研采购的签约费每张减3、最低3。后台、签约栏采购与竞标不享受本优惠。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "供货"
+      ]
+    },
+    {
+      "id": "B32",
+      "type": "business",
+      "name": "联合打样服务",
+      "strength": 3,
+      "cost": 18,
+      "tech": 0,
+      "tags": [
+        "影像"
+      ],
+      "effect": "签约：可返工1台已有筹备机，调整后要求至多3；不移动行动卡、不新增机型。 经营：使用至少1张单项定制配件的新机，整机费用减6、最低3；每台只减一次。",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "可返工1台已有筹备机，调整后要求至多3；不移动行动卡、不新增机型。",
+      "ongoing": "使用至少1张单项定制配件的新机，整机费用减6、最低3；每台只减一次。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "返工",
+        "成本"
+      ]
+    },
+    {
+      "id": "B33",
+      "type": "business",
+      "name": "备件周转中心",
+      "strength": 3,
+      "cost": 21,
+      "tech": 0,
+      "tags": [
+        "续航"
+      ],
+      "effect": "经营：每场发布，你至多选择一款达需求线且作为公司代表的清仓旧机；结算后从主牌弃牌堆取回1张单项定制配件。不是取回该旧机的原配置。全桌无有效新机不触发。",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "无。",
+      "ongoing": "每场发布，你至多选择一款达需求线且作为公司代表的清仓旧机；结算后从主牌弃牌堆取回1张单项定制配件。不是取回该旧机的原配置。全桌无有效新机不触发。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "清仓"
+      ]
+    },
+    {
+      "id": "B34",
+      "type": "business",
+      "name": "供应信息平台",
+      "strength": 4,
+      "cost": 24,
+      "tech": 0,
+      "tags": [
+        "轻薄"
+      ],
+      "effect": "经营：普通调研可选牌市序号上限加2、最多8。每次调研开始时，可将1行最旧公开配件换成该行活动堆顶1张；先抽后旧卡置底，堆空不能换。",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "无。",
+      "ongoing": "普通调研可选牌市序号上限加2、最多8。每次调研开始时，可将1行最旧公开配件换成该行活动堆顶1张；先抽后旧卡置底，堆空不能换。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": []
+    },
+    {
+      "id": "B35",
+      "type": "business",
+      "name": "行业技术论坛",
+      "strength": 3,
+      "cost": 21,
+      "tech": 0,
+      "tags": [
+        "生态"
+      ],
+      "effect": "经营：每次完成产业突破，获得12现金；不补领签约前的奖励，不产生免费签约或另一次项目。",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "tagRequirements": {
+        "生态": 2
+      },
+      "onSign": "无。",
+      "ongoing": "每次完成产业突破，获得12现金；不补领签约前的奖励，不产生免费签约或另一次项目。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": []
+    },
+    {
+      "id": "B36",
+      "type": "business",
+      "name": "组织变革顾问",
+      "strength": 3,
+      "cost": 24,
+      "tech": 0,
+      "tags": [
+        "生态"
+      ],
+      "effect": "签约：获得1次行动升级，在本回合末使用。",
+      "qty": 1,
+      "deck": "main",
+      "era": 1,
+      "factoryTags": [],
+      "factoryRequirements": {},
+      "tagRequirements": {},
+      "onSign": "获得1次行动升级，在本回合末使用。",
+      "ongoing": "无。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": []
+    },
+    {
+      "id": "T37",
+      "name": "平台复用接口",
+      "type": "tech",
+      "qty": 1,
+      "strength": 3,
+      "tech": 2,
+      "cost": 27,
+      "gain": 1,
+      "tags": [
+        "生态"
+      ],
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {
+        "R": 2
+      },
+      "priorTechCardsRequired": 0,
+      "researchClass": "成果技术",
+      "effect": "装载：本机必须为红厂。组装或返工时，本机可与本场另一台己方筹备机共用后者实际安装的1张稳定芯片；用共享标记指明来源。最多两机共用，按本机数值分别验收与付款。",
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": [
+        "共用平台",
+        "返工"
+      ]
+    },
+    {
+      "id": "T38",
+      "name": "影像模组适配层",
+      "type": "tech",
+      "qty": 1,
+      "strength": 3,
+      "tech": 2,
+      "cost": 28,
+      "gain": 1,
+      "tags": [
+        "影像"
+      ],
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {
+        "Y": 2
+      },
+      "priorTechCardsRequired": 0,
+      "researchClass": "成果技术",
+      "effect": "装载：本机为黄厂时，影像部件的“平台兼容”条件视为满足；其他门槛和折叠配套照常。不额外取得或处理手牌。",
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": [
+        "兼容"
+      ]
+    },
+    {
+      "id": "T39",
+      "name": "能效验证体系",
+      "type": "tech",
+      "qty": 1,
+      "strength": 4,
+      "tech": 3,
+      "cost": 32,
+      "gain": 1,
+      "tags": [
+        "续航"
+      ],
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {
+        "B": 2
+      },
+      "priorTechCardsRequired": 0,
+      "researchClass": "成果技术",
+      "effect": "装载：本机为蓝厂有效新机、四项原始吸引力至少14且供电余量至少4时，增加1科技。只检查本机，每场至多一次。",
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": [
+        "研发成果"
+      ]
+    },
+    {
+      "id": "T40",
+      "name": "柔性结构协同",
+      "type": "tech",
+      "qty": 1,
+      "strength": 3,
+      "tech": 2,
+      "cost": 29,
+      "gain": 1,
+      "tags": [
+        "折叠"
+      ],
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {
+        "G": 2
+      },
+      "priorTechCardsRequired": 0,
+      "researchClass": "成果技术",
+      "effect": "装载：本机为绿厂且使用配套折叠屏与机身时，有效供电加3。该机正常返工时可重选合法调校，仍占组装任务。",
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": [
+        "返工"
+      ]
+    },
+    {
+      "id": "T41",
+      "name": "跨厂互联验证",
+      "type": "tech",
+      "qty": 1,
+      "strength": 4,
+      "tech": 3,
+      "cost": 34,
+      "gain": 1,
+      "tags": [
+        "生态"
+      ],
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {
+        "K": 2
+      },
+      "priorTechCardsRequired": 0,
+      "researchClass": "成果技术",
+      "effect": "装载：本机为带生态企划类别的黑厂有效新机，并有另一款非黑厂且有厂标的己方有效新机时，增加1科技；每场至多一次。",
+      "technologyScope": "module",
+      "effectTiming": "研究时取得印刷科技；装载后只作用本机，T36公司即时例外。",
+      "mechanismTags": [
+        "研发成果"
+      ]
+    },
+    {
+      "id": "B37",
+      "name": "红厂合作协议",
+      "type": "business",
+      "qty": 1,
+      "strength": 2,
+      "tech": 0,
+      "cost": 19,
+      "tags": [
+        "影像"
+      ],
+      "factoryTags": [
+        "R"
+      ],
+      "factoryRequirements": {},
+      "effect": "经营：带红厂厂标的新机整机费用减3；打出红厂科技卡研发费减3，每项最低3。只看企划或科技的印刷厂标，不限制使用其他厂牌。",
+      "tagRequirements": {},
+      "onSign": "无。",
+      "ongoing": "带红厂厂标的新机整机费用减3；打出红厂科技卡研发费减3，每项最低3。只看企划或科技的印刷厂标，不限制使用其他厂牌。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "成本"
+      ]
+    },
+    {
+      "id": "B38",
+      "name": "黄厂合作协议",
+      "type": "business",
+      "qty": 1,
+      "strength": 2,
+      "tech": 0,
+      "cost": 19,
+      "tags": [
+        "性能"
+      ],
+      "factoryTags": [
+        "Y"
+      ],
+      "factoryRequirements": {},
+      "effect": "经营：带黄厂厂标的新机整机费用减3；打出黄厂科技卡研发费减3，每项最低3。只看企划或科技的印刷厂标，不限制使用其他厂牌。",
+      "tagRequirements": {},
+      "onSign": "无。",
+      "ongoing": "带黄厂厂标的新机整机费用减3；打出黄厂科技卡研发费减3，每项最低3。只看企划或科技的印刷厂标，不限制使用其他厂牌。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "成本"
+      ]
+    },
+    {
+      "id": "B39",
+      "name": "蓝厂合作协议",
+      "type": "business",
+      "qty": 1,
+      "strength": 2,
+      "tech": 0,
+      "cost": 19,
+      "tags": [
+        "轻薄"
+      ],
+      "factoryTags": [
+        "B"
+      ],
+      "factoryRequirements": {},
+      "effect": "经营：带蓝厂厂标的新机整机费用减3；打出蓝厂科技卡研发费减3，每项最低3。只看企划或科技的印刷厂标，不限制使用其他厂牌。",
+      "tagRequirements": {},
+      "onSign": "无。",
+      "ongoing": "带蓝厂厂标的新机整机费用减3；打出蓝厂科技卡研发费减3，每项最低3。只看企划或科技的印刷厂标，不限制使用其他厂牌。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "成本"
+      ]
+    },
+    {
+      "id": "B40",
+      "name": "绿厂合作协议",
+      "type": "business",
+      "qty": 1,
+      "strength": 2,
+      "tech": 0,
+      "cost": 19,
+      "tags": [
+        "生态"
+      ],
+      "factoryTags": [
+        "G"
+      ],
+      "factoryRequirements": {},
+      "effect": "经营：带绿厂厂标的新机整机费用减3；打出绿厂科技卡研发费减3，每项最低3。只看企划或科技的印刷厂标，不限制使用其他厂牌。",
+      "tagRequirements": {},
+      "onSign": "无。",
+      "ongoing": "带绿厂厂标的新机整机费用减3；打出绿厂科技卡研发费减3，每项最低3。只看企划或科技的印刷厂标，不限制使用其他厂牌。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "成本"
+      ]
+    },
+    {
+      "id": "B41",
+      "name": "黑厂合作协议",
+      "type": "business",
+      "qty": 1,
+      "strength": 2,
+      "tech": 0,
+      "cost": 19,
+      "tags": [
+        "续航"
+      ],
+      "factoryTags": [
+        "K"
+      ],
+      "factoryRequirements": {},
+      "effect": "经营：带黑厂厂标的新机整机费用减3；打出黑厂科技卡研发费减3，每项最低3。只看企划或科技的印刷厂标，不限制使用其他厂牌。",
+      "tagRequirements": {},
+      "onSign": "无。",
+      "ongoing": "带黑厂厂标的新机整机费用减3；打出黑厂科技卡研发费减3，每项最低3。只看企划或科技的印刷厂标，不限制使用其他厂牌。",
+      "effectTiming": "签约一次；经营按卡面指定事件，不存在通用发动。",
+      "mechanismTags": [
+        "成本"
+      ]
+    }
+  ],
+  "parts": [
+    {
+      "id": "C01",
+      "type": "common",
+      "name": "天玑7300",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "天玑7300",
+          "cost": 4,
+          "appeal": 5,
+          "load": 2,
+          "tech": 1,
+          "tag": "续航",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 5,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "C02",
+      "type": "common",
+      "name": "骁龙778G",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "骁龙778G",
+          "cost": 7,
+          "appeal": 3,
+          "load": 2,
+          "tech": 0,
+          "tag": "轻薄",
+          "form": "slab"
+        }
+      ],
+      "effect": "若本机影像部件的印刷功耗至多2，本机的影像企划标签视为已匹配。",
+      "era": 1,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "abilityName": "三ISP协同",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "C03",
+      "type": "common",
+      "name": "骁龙870",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "骁龙870",
+          "cost": 8,
+          "appeal": 4,
+          "load": 4,
+          "tech": 1,
+          "tag": "性能",
+          "form": "slab"
+        }
+      ],
+      "effect": "当前供应世代至少III时，本机整机费用额外减3；可与通用成熟部件减费叠加，整机最低3现金。",
+      "era": 1,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "abilityName": "成熟平台",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "C04",
+      "type": "common",
+      "name": "天玑8100",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "天玑8100",
+          "cost": 10,
+          "appeal": 5,
+          "load": 2,
+          "tech": 1,
+          "tag": "续航",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 2,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "C05",
+      "type": "common",
+      "name": "骁龙888",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "骁龙888",
+          "cost": 6,
+          "appeal": 7,
+          "load": 9,
+          "tech": 2,
+          "tag": "性能",
+          "form": "slab"
+        }
+      ],
+      "effect": "组装或返工时可选择本卡的性能调校：本机芯片有效功耗加2，市场吸引力加4；默认模式不修正。",
+      "era": 1,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "abilityName": "性能调校",
+      "tuning": {
+        "target": "chip",
+        "loadDelta": 2,
+        "appealDelta": 4,
+        "name": "性能调校"
+      },
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": [
+        "返工"
+      ]
+    },
+    {
+      "id": "C06",
+      "type": "common",
+      "name": "骁龙8 Gen 1",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "骁龙8 Gen 1",
+          "cost": 10,
+          "appeal": 6,
+          "load": 7,
+          "tech": 2,
+          "tag": "影像",
+          "form": "slab"
+        }
+      ],
+      "effect": "本机影像部件的有效科技门槛减1，最低0；不影响企划、其他部件、平台兼容或世代解锁。",
+      "era": 2,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "abilityName": "18位ISP",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": [
+        "兼容"
+      ]
+    },
+    {
+      "id": "C07",
+      "type": "common",
+      "name": "骁龙8+ Gen 1",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "骁龙8+ Gen 1",
+          "cost": 13,
+          "appeal": 7,
+          "load": 4,
+          "tech": 3,
+          "tag": "性能",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 2,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "C08",
+      "type": "common",
+      "name": "骁龙8 Gen 2",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "骁龙8 Gen 2",
+          "cost": 16,
+          "appeal": 9,
+          "load": 4,
+          "tech": 4,
+          "tag": "性能",
+          "form": "slab"
+        }
+      ],
+      "effect": "若本机屏幕带性能标签，本机在电竞娱乐市场的吸引力加2。",
+      "era": 3,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "abilityName": "图形平台",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "C09",
+      "type": "common",
+      "name": "天玑9300",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "天玑9300",
+          "cost": 17,
+          "appeal": 11,
+          "load": 9,
+          "tech": 4,
+          "tag": "性能",
+          "form": "slab"
+        }
+      ],
+      "effect": "组装或返工时可选择本卡的性能调校：本机芯片有效功耗加2，市场吸引力加4；默认模式不修正。",
+      "era": 4,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "abilityName": "全大核调校",
+      "tuning": {
+        "target": "chip",
+        "loadDelta": 2,
+        "appealDelta": 4,
+        "name": "性能调校"
+      },
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": [
+        "返工"
+      ]
+    },
+    {
+      "id": "C10",
+      "type": "common",
+      "name": "骁龙8 Gen 3",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "骁龙8 Gen 3",
+          "cost": 19,
+          "appeal": 11,
+          "load": 5,
+          "tech": 5,
+          "tag": "性能",
+          "form": "slab"
+        }
+      ],
+      "effect": "本机的生态企划标签视为已匹配。",
+      "era": 4,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "abilityName": "端侧推理",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "D01",
+      "type": "common",
+      "name": "720p LCD",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "screen",
+          "name": "720p LCD",
+          "cost": 3,
+          "appeal": 0,
+          "load": 0,
+          "tech": 0,
+          "tag": "续航",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 1,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "D02",
+      "type": "common",
+      "name": "90Hz OLED",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "screen",
+          "name": "90Hz OLED",
+          "cost": 5,
+          "appeal": 3,
+          "load": 2,
+          "tech": 0,
+          "tag": "轻薄",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 1,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "D03",
+      "type": "common",
+      "name": "120Hz OLED",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "screen",
+          "name": "120Hz OLED",
+          "cost": 9,
+          "appeal": 5,
+          "load": 5,
+          "tech": 1,
+          "tag": "性能",
+          "form": "slab"
+        }
+      ],
+      "effect": "若本机芯片的印刷吸引力至少4，本机在电竞娱乐市场的吸引力加2。",
+      "era": 2,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "abilityName": "游戏显示",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "D04",
+      "type": "common",
+      "name": "1.5K LTPO",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "screen",
+          "name": "1.5K LTPO",
+          "cost": 11,
+          "appeal": 5,
+          "load": 2,
+          "tech": 2,
+          "tag": "续航",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 3,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "D05",
+      "type": "common",
+      "name": "2K LTPO",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "screen",
+          "name": "2K LTPO",
+          "cost": 15,
+          "appeal": 7,
+          "load": 4,
+          "tech": 3,
+          "tag": "影像",
+          "form": "slab"
+        }
+      ],
+      "effect": "若本机影像部件的印刷吸引力至少6，本机在摄影创作市场的吸引力加2。",
+      "era": 4,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "abilityName": "创作监看",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "D06",
+      "type": "common",
+      "name": "柔性折叠屏",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "screen",
+          "name": "柔性折叠屏",
+          "cost": 15,
+          "appeal": 6,
+          "load": 4,
+          "tech": 4,
+          "tag": "折叠",
+          "form": "fold"
+        }
+      ],
+      "effect": "本机的生态企划标签视为已匹配；折叠形态仍须配套。",
+      "era": 5,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "abilityName": "多窗口显示",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "I01",
+      "type": "common",
+      "name": "12MP单摄",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "camera",
+          "name": "12MP单摄",
+          "cost": 3,
+          "appeal": 0,
+          "load": 0,
+          "tech": 0,
+          "tag": "轻薄",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 1,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "I02",
+      "type": "common",
+      "name": "50MP主摄",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "camera",
+          "name": "50MP主摄",
+          "cost": 5,
+          "appeal": 3,
+          "load": 2,
+          "tech": 0,
+          "tag": "影像",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 1,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "I03",
+      "type": "common",
+      "name": "OIS双摄",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "camera",
+          "name": "OIS双摄",
+          "cost": 8,
+          "appeal": 5,
+          "load": 2,
+          "tech": 1,
+          "tag": "影像",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 2,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "I04",
+      "type": "common",
+      "name": "人像三摄",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "camera",
+          "name": "人像三摄",
+          "cost": 10,
+          "appeal": 7,
+          "load": 4,
+          "tech": 2,
+          "tag": "影像",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 2,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "I05",
+      "type": "common",
+      "name": "潜望长焦模组",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "camera",
+          "name": "潜望长焦模组",
+          "cost": 16,
+          "appeal": 9,
+          "load": 7,
+          "tech": 3,
+          "tag": "影像",
+          "form": "slab"
+        }
+      ],
+      "effect": "本机芯片印刷吸引力至少6，或芯片印刷标签为影像，或本机已装载T26，三者至少满足一项，否则本机验收失败。",
+      "era": 4,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "abilityName": "平台兼容",
+      "compatibility": {
+        "chipAppealAtLeast": 6,
+        "orChipTag": "影像",
+        "orTechCard": "T26",
+        "technologyScope": "installedOnThisPhone"
+      },
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "I06",
+      "type": "common",
+      "name": "一英寸主摄",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "camera",
+          "name": "一英寸主摄",
+          "cost": 20,
+          "appeal": 11,
+          "load": 7,
+          "tech": 5,
+          "tag": "影像",
+          "form": "slab"
+        }
+      ],
+      "effect": "本机芯片印刷吸引力至少8，或芯片印刷标签为影像，或本机已装载T26，三者至少满足一项，否则本机验收失败。",
+      "era": 5,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "abilityName": "平台兼容",
+      "compatibility": {
+        "chipAppealAtLeast": 8,
+        "orChipTag": "影像",
+        "orTechCard": "T26",
+        "technologyScope": "installedOnThisPhone"
+      },
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "F01",
+      "type": "common",
+      "name": "聚碳酸酯机身",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "body",
+          "name": "聚碳酸酯机身",
+          "cost": 3,
+          "appeal": 0,
+          "load": 10,
+          "tech": 0,
+          "tag": "续航",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 1,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "F02",
+      "type": "common",
+      "name": "轻薄玻璃机身",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "body",
+          "name": "轻薄玻璃机身",
+          "cost": 7,
+          "appeal": 5,
+          "load": 7,
+          "tech": 0,
+          "tag": "轻薄",
+          "form": "slab"
+        }
+      ],
+      "effect": "若本机芯片、屏幕、影像三项印刷功耗合计至多6，市场吸引力加2。",
+      "era": 1,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "abilityName": "轻量结构",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "F03",
+      "type": "common",
+      "name": "铝合金机身",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "body",
+          "name": "铝合金机身",
+          "cost": 8,
+          "appeal": 2,
+          "load": 13,
+          "tech": 1,
+          "tag": "轻薄",
+          "form": "slab"
+        }
+      ],
+      "effect": "若本机芯片的印刷功耗至少6，该芯片有效功耗减2。",
+      "era": 2,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "abilityName": "均热结构",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "F04",
+      "type": "common",
+      "name": "大电池机身",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "body",
+          "name": "大电池机身",
+          "cost": 10,
+          "appeal": 0,
+          "load": 18,
+          "tech": 2,
+          "tag": "续航",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 2,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "F05",
+      "type": "common",
+      "name": "陶瓷机身",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "body",
+          "name": "陶瓷机身",
+          "cost": 13,
+          "appeal": 7,
+          "load": 11,
+          "tech": 3,
+          "tag": "生态",
+          "form": "slab"
+        }
+      ],
+      "effect": "若本机是采用溢价的市场代表机，且该市场获得第一或第二，本机销售现金额外加3。",
+      "era": 4,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "abilityName": "高端质感",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": [
+        "定价"
+      ]
+    },
+    {
+      "id": "F06",
+      "type": "common",
+      "name": "折叠铰链机身",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "body",
+          "name": "折叠铰链机身",
+          "cost": 16,
+          "appeal": 5,
+          "load": 13,
+          "tech": 4,
+          "tag": "折叠",
+          "form": "fold"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 5,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "C11",
+      "type": "common",
+      "name": "骁龙7+ Gen 2",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "骁龙7+ Gen 2",
+          "cost": 13,
+          "appeal": 7,
+          "load": 2,
+          "tech": 2,
+          "tag": "性能",
+          "form": "slab"
+        }
+      ],
+      "effect": "若本机机身的印刷供电至多8，本机验收值减2；计入整机最多减4的上限。",
+      "era": 3,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "abilityName": "紧凑设计",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "C12",
+      "type": "common",
+      "name": "骁龙8 Elite",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "骁龙8 Elite",
+          "cost": 22,
+          "appeal": 13,
+          "load": 6,
+          "tech": 7,
+          "tag": "生态",
+          "form": "slab"
+        }
+      ],
+      "effect": "组装或返工时可选择本卡的节能调校：本机芯片有效功耗减4，市场吸引力减2；默认模式不修正。",
+      "era": 5,
+      "deck": "supply",
+      "previousName": "安全增强SoC",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "abilityName": "Oryon平台",
+      "tuning": {
+        "target": "chip",
+        "loadDelta": -4,
+        "appealDelta": -2,
+        "name": "节能调校"
+      },
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": [
+        "返工"
+      ]
+    },
+    {
+      "id": "C13",
+      "type": "common",
+      "name": "天玑8200",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "天玑8200",
+          "cost": 8,
+          "appeal": 5,
+          "load": 2,
+          "tech": 2,
+          "tag": "性能",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 3,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "D07",
+      "type": "common",
+      "name": "小尺寸OLED",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "screen",
+          "name": "小尺寸OLED",
+          "cost": 8,
+          "appeal": 5,
+          "load": 2,
+          "tech": 1,
+          "tag": "轻薄",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 2,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "D08",
+      "type": "common",
+      "name": "144Hz OLED",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "screen",
+          "name": "144Hz OLED",
+          "cost": 13,
+          "appeal": 7,
+          "load": 7,
+          "tech": 2,
+          "tag": "性能",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 4,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "D09",
+      "type": "common",
+      "name": "紧凑折叠屏",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "screen",
+          "name": "紧凑折叠屏",
+          "cost": 11,
+          "appeal": 5,
+          "load": 2,
+          "tech": 3,
+          "tag": "折叠",
+          "form": "fold"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 3,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "I07",
+      "type": "common",
+      "name": "轻量OIS模组",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "camera",
+          "name": "轻量OIS模组",
+          "cost": 11,
+          "appeal": 7,
+          "load": 2,
+          "tech": 3,
+          "tag": "轻薄",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 3,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "I08",
+      "type": "common",
+      "name": "视频双摄模组",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "camera",
+          "name": "视频双摄模组",
+          "cost": 12,
+          "appeal": 7,
+          "load": 4,
+          "tech": 2,
+          "tag": "生态",
+          "form": "slab"
+        }
+      ],
+      "effect": "若本机芯片带生态标签，本机在摄影创作市场的吸引力加2。",
+      "era": 3,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "abilityName": "视频工作流",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "I09",
+      "type": "common",
+      "name": "大底双摄模组",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "camera",
+          "name": "大底双摄模组",
+          "cost": 11,
+          "appeal": 9,
+          "load": 9,
+          "tech": 2,
+          "tag": "影像",
+          "form": "slab"
+        }
+      ],
+      "effect": "本机芯片印刷吸引力至少6，或芯片印刷标签为影像，或本机已装载T26，三者至少满足一项，否则本机验收失败。",
+      "era": 4,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "abilityName": "平台兼容",
+      "compatibility": {
+        "chipAppealAtLeast": 6,
+        "orChipTag": "影像",
+        "orTechCard": "T26",
+        "technologyScope": "installedOnThisPhone"
+      },
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "F07",
+      "type": "common",
+      "name": "镁合金机身",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "body",
+          "name": "镁合金机身",
+          "cost": 11,
+          "appeal": 7,
+          "load": 9,
+          "tech": 2,
+          "tag": "轻薄",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 3,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "F08",
+      "type": "common",
+      "name": "纤薄折叠机身",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "body",
+          "name": "纤薄折叠机身",
+          "cost": 11,
+          "appeal": 3,
+          "load": 9,
+          "tech": 3,
+          "tag": "折叠",
+          "form": "fold"
+        }
+      ],
+      "effect": "本机的轻薄企划标签视为已匹配；折叠形态仍须配套。",
+      "era": 3,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "abilityName": "紧凑折叠结构",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "F09",
+      "type": "common",
+      "name": "复合纤维机身",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "body",
+          "name": "复合纤维机身",
+          "cost": 13,
+          "appeal": 5,
+          "load": 15,
+          "tech": 3,
+          "tag": "续航",
+          "form": "slab"
+        }
+      ],
+      "effect": "若本机供电余量至少6，市场吸引力加2。",
+      "era": 4,
+      "deck": "supply",
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "abilityName": "耐候与续航",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X01",
+      "type": "custom",
+      "name": "高频芯片定制",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "芯片定制单元",
+          "cost": 12,
+          "appeal": 9,
+          "load": 4,
+          "tech": 1,
+          "tag": "性能",
+          "form": "slab"
+        }
+      ],
+      "effect": "组装或返工时可选择本卡的性能调校：本机芯片有效功耗加2，市场吸引力加4；默认模式不修正。",
+      "era": 1,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "abilityName": "高频调校",
+      "tuning": {
+        "target": "chip",
+        "loadDelta": 2,
+        "appealDelta": 4,
+        "name": "性能调校"
+      },
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": [
+        "返工"
+      ]
+    },
+    {
+      "id": "X02",
+      "type": "custom",
+      "name": "低压芯片定制",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "芯片定制单元",
+          "cost": 12,
+          "appeal": 9,
+          "load": 2,
+          "tech": 1,
+          "tag": "续航",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 1,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X03",
+      "type": "custom",
+      "name": "安全芯片定制",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "芯片定制单元",
+          "cost": 12,
+          "appeal": 9,
+          "load": 4,
+          "tech": 1,
+          "tag": "生态",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 1,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X04",
+      "type": "custom",
+      "name": "旗舰芯片定制",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "芯片定制单元",
+          "cost": 21,
+          "appeal": 14,
+          "load": 7,
+          "tech": 6,
+          "tag": "性能",
+          "form": "slab"
+        }
+      ],
+      "effect": "组装或返工时可选择本卡的节能调校：本机芯片有效功耗减2，市场吸引力减2；默认模式不修正。",
+      "era": 5,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "abilityName": "旗舰调校",
+      "tuning": {
+        "target": "chip",
+        "loadDelta": -2,
+        "appealDelta": -2,
+        "name": "节能调校"
+      },
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": [
+        "返工"
+      ]
+    },
+    {
+      "id": "X05",
+      "type": "custom",
+      "name": "高刷屏定制",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "screen",
+          "name": "屏幕定制单元",
+          "cost": 12,
+          "appeal": 9,
+          "load": 4,
+          "tech": 1,
+          "tag": "性能",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 1,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X06",
+      "type": "custom",
+      "name": "轻薄屏定制",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "screen",
+          "name": "屏幕定制单元",
+          "cost": 12,
+          "appeal": 9,
+          "load": 2,
+          "tech": 1,
+          "tag": "轻薄",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 1,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X07",
+      "type": "custom",
+      "name": "影像监看屏定制",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "screen",
+          "name": "屏幕定制单元",
+          "cost": 15,
+          "appeal": 11,
+          "load": 4,
+          "tech": 3,
+          "tag": "影像",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 3,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X08",
+      "type": "custom",
+      "name": "折叠屏定制",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "screen",
+          "name": "屏幕定制单元",
+          "cost": 15,
+          "appeal": 11,
+          "load": 4,
+          "tech": 3,
+          "tag": "折叠",
+          "form": "fold"
+        }
+      ],
+      "effect": "若本机芯片的印刷功耗至多2，本卡屏幕有效功耗减2。",
+      "era": 3,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "abilityName": "低负载折叠",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X09",
+      "type": "custom",
+      "name": "人像模组定制",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "camera",
+          "name": "影像定制单元",
+          "cost": 12,
+          "appeal": 9,
+          "load": 4,
+          "tech": 1,
+          "tag": "影像",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 1,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X10",
+      "type": "custom",
+      "name": "轻量影像定制",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "camera",
+          "name": "影像定制单元",
+          "cost": 12,
+          "appeal": 9,
+          "load": 4,
+          "tech": 1,
+          "tag": "轻薄",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 1,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X11",
+      "type": "custom",
+      "name": "视频模组定制",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "camera",
+          "name": "影像定制单元",
+          "cost": 12,
+          "appeal": 9,
+          "load": 4,
+          "tech": 1,
+          "tag": "生态",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 1,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X12",
+      "type": "custom",
+      "name": "大底长焦定制",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "camera",
+          "name": "影像定制单元",
+          "cost": 15,
+          "appeal": 11,
+          "load": 4,
+          "tech": 3,
+          "tag": "影像",
+          "form": "slab"
+        }
+      ],
+      "effect": "本机芯片印刷吸引力至少6，或芯片印刷标签为影像，或本机已装载T26，三者至少满足一项，否则本机验收失败。",
+      "era": 4,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "abilityName": "平台兼容",
+      "compatibility": {
+        "chipAppealAtLeast": 6,
+        "orChipTag": "影像",
+        "orTechCard": "T26",
+        "technologyScope": "installedOnThisPhone"
+      },
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X13",
+      "type": "custom",
+      "name": "大电池结构定制",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "body",
+          "name": "机身定制单元",
+          "cost": 12,
+          "appeal": 9,
+          "load": 16,
+          "tech": 1,
+          "tag": "续航",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 1,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X14",
+      "type": "custom",
+      "name": "轻薄结构定制",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "body",
+          "name": "机身定制单元",
+          "cost": 12,
+          "appeal": 9,
+          "load": 9,
+          "tech": 1,
+          "tag": "轻薄",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 1,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X15",
+      "type": "custom",
+      "name": "陶瓷结构定制",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "body",
+          "name": "机身定制单元",
+          "cost": 15,
+          "appeal": 11,
+          "load": 10,
+          "tech": 3,
+          "tag": "生态",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 3,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X16",
+      "type": "custom",
+      "name": "折叠结构定制",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "body",
+          "name": "机身定制单元",
+          "cost": 15,
+          "appeal": 11,
+          "load": 10,
+          "tech": 3,
+          "tag": "折叠",
+          "form": "fold"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 3,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X17",
+      "type": "custom",
+      "name": "电竞双件套",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "芯片定制单元",
+          "cost": 9,
+          "appeal": 6,
+          "load": 2,
+          "tech": 1,
+          "tag": "性能",
+          "form": "slab"
+        },
+        {
+          "kind": "screen",
+          "name": "屏幕定制单元",
+          "cost": 9,
+          "appeal": 6,
+          "load": 2,
+          "tech": 1,
+          "tag": "性能",
+          "form": "slab"
+        }
+      ],
+      "effect": "本机的续航企划标签视为已匹配。",
+      "era": 2,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "abilityName": "整合调度",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X18",
+      "type": "custom",
+      "name": "影像计算双件套",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "芯片定制单元",
+          "cost": 9,
+          "appeal": 6,
+          "load": 2,
+          "tech": 1,
+          "tag": "性能",
+          "form": "slab"
+        },
+        {
+          "kind": "camera",
+          "name": "影像定制单元",
+          "cost": 9,
+          "appeal": 6,
+          "load": 2,
+          "tech": 1,
+          "tag": "影像",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 2,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X19",
+      "type": "custom",
+      "name": "长续航双件套",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "芯片定制单元",
+          "cost": 9,
+          "appeal": 6,
+          "load": 2,
+          "tech": 1,
+          "tag": "续航",
+          "form": "slab"
+        },
+        {
+          "kind": "body",
+          "name": "机身定制单元",
+          "cost": 9,
+          "appeal": 6,
+          "load": 14,
+          "tech": 1,
+          "tag": "续航",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 2,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X20",
+      "type": "custom",
+      "name": "创作显示双件套",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "screen",
+          "name": "屏幕定制单元",
+          "cost": 9,
+          "appeal": 6,
+          "load": 2,
+          "tech": 1,
+          "tag": "轻薄",
+          "form": "slab"
+        },
+        {
+          "kind": "camera",
+          "name": "影像定制单元",
+          "cost": 9,
+          "appeal": 6,
+          "load": 2,
+          "tech": 1,
+          "tag": "影像",
+          "form": "slab"
+        }
+      ],
+      "effect": "本机的生态企划标签视为已匹配。",
+      "era": 2,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "abilityName": "创作联调",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X21",
+      "type": "custom",
+      "name": "柔性折叠双件套",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "screen",
+          "name": "屏幕定制单元",
+          "cost": 12,
+          "appeal": 8,
+          "load": 4,
+          "tech": 3,
+          "tag": "折叠",
+          "form": "fold"
+        },
+        {
+          "kind": "body",
+          "name": "机身定制单元",
+          "cost": 12,
+          "appeal": 8,
+          "load": 10,
+          "tech": 3,
+          "tag": "折叠",
+          "form": "fold"
+        }
+      ],
+      "effect": "本机组装或返工的行动要求减1，最低1；不额外赠送任务。",
+      "era": 4,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "abilityName": "折叠参考设计",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": [
+        "返工"
+      ]
+    },
+    {
+      "id": "X22",
+      "type": "custom",
+      "name": "旅行摄影双件套",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "camera",
+          "name": "影像定制单元",
+          "cost": 9,
+          "appeal": 6,
+          "load": 2,
+          "tech": 1,
+          "tag": "影像",
+          "form": "slab"
+        },
+        {
+          "kind": "body",
+          "name": "机身定制单元",
+          "cost": 9,
+          "appeal": 6,
+          "load": 14,
+          "tech": 1,
+          "tag": "续航",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 2,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X23",
+      "type": "custom",
+      "name": "安全平台双件套",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "芯片定制单元",
+          "cost": 12,
+          "appeal": 8,
+          "load": 4,
+          "tech": 3,
+          "tag": "生态",
+          "form": "slab"
+        },
+        {
+          "kind": "body",
+          "name": "机身定制单元",
+          "cost": 12,
+          "appeal": 8,
+          "load": 10,
+          "tech": 3,
+          "tag": "生态",
+          "form": "slab"
+        }
+      ],
+      "effect": "整合接口便于验收：本机有效验收值减2，计入全机最多减4的上限。",
+      "era": 4,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "abilityName": "结构联调",
+      "mechanismTags": []
+    },
+    {
+      "id": "X24",
+      "type": "custom",
+      "name": "专业视频双件套",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "screen",
+          "name": "屏幕定制单元",
+          "cost": 12,
+          "appeal": 8,
+          "load": 4,
+          "tech": 3,
+          "tag": "影像",
+          "form": "slab"
+        },
+        {
+          "kind": "camera",
+          "name": "影像定制单元",
+          "cost": 12,
+          "appeal": 8,
+          "load": 4,
+          "tech": 3,
+          "tag": "生态",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 4,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X25",
+      "type": "custom",
+      "name": "游戏平台三件套",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "芯片定制单元",
+          "cost": 6,
+          "appeal": 4,
+          "load": 2,
+          "tech": 1,
+          "tag": "性能",
+          "form": "slab"
+        },
+        {
+          "kind": "screen",
+          "name": "屏幕定制单元",
+          "cost": 6,
+          "appeal": 4,
+          "load": 2,
+          "tech": 1,
+          "tag": "性能",
+          "form": "slab"
+        },
+        {
+          "kind": "body",
+          "name": "机身定制单元",
+          "cost": 6,
+          "appeal": 4,
+          "load": 14,
+          "tech": 1,
+          "tag": "续航",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 2,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X26",
+      "type": "custom",
+      "name": "影像平台三件套",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "芯片定制单元",
+          "cost": 6,
+          "appeal": 4,
+          "load": 2,
+          "tech": 1,
+          "tag": "生态",
+          "form": "slab"
+        },
+        {
+          "kind": "camera",
+          "name": "影像定制单元",
+          "cost": 6,
+          "appeal": 4,
+          "load": 2,
+          "tech": 1,
+          "tag": "影像",
+          "form": "slab"
+        },
+        {
+          "kind": "body",
+          "name": "机身定制单元",
+          "cost": 6,
+          "appeal": 4,
+          "load": 14,
+          "tech": 1,
+          "tag": "续航",
+          "form": "slab"
+        }
+      ],
+      "effect": "本机采用标准价且成功上市时，获得6现金；不额外抽牌。",
+      "era": 2,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "abilityName": "成熟整合",
+      "mechanismTags": [
+        "定价"
+      ]
+    },
+    {
+      "id": "X27",
+      "type": "custom",
+      "name": "轻薄平台三件套",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "screen",
+          "name": "屏幕定制单元",
+          "cost": 6,
+          "appeal": 4,
+          "load": 2,
+          "tech": 1,
+          "tag": "轻薄",
+          "form": "slab"
+        },
+        {
+          "kind": "camera",
+          "name": "影像定制单元",
+          "cost": 6,
+          "appeal": 4,
+          "load": 2,
+          "tech": 1,
+          "tag": "影像",
+          "form": "slab"
+        },
+        {
+          "kind": "body",
+          "name": "机身定制单元",
+          "cost": 6,
+          "appeal": 4,
+          "load": 8,
+          "tech": 1,
+          "tag": "轻薄",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 2,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X28",
+      "type": "custom",
+      "name": "旗舰计算三件套",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "芯片定制单元",
+          "cost": 9,
+          "appeal": 6,
+          "load": 2,
+          "tech": 3,
+          "tag": "性能",
+          "form": "slab"
+        },
+        {
+          "kind": "screen",
+          "name": "屏幕定制单元",
+          "cost": 9,
+          "appeal": 6,
+          "load": 2,
+          "tech": 3,
+          "tag": "轻薄",
+          "form": "slab"
+        },
+        {
+          "kind": "camera",
+          "name": "影像定制单元",
+          "cost": 9,
+          "appeal": 6,
+          "load": 2,
+          "tech": 3,
+          "tag": "影像",
+          "form": "slab"
+        }
+      ],
+      "effect": "本机组装或返工的行动要求减1，最低1；不额外赠送任务。",
+      "era": 5,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "abilityName": "整合参考设计",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": [
+        "返工"
+      ]
+    },
+    {
+      "id": "X29",
+      "type": "custom",
+      "name": "大众整机方案",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "芯片定制单元",
+          "cost": 3,
+          "appeal": 2,
+          "load": 2,
+          "tech": 0,
+          "tag": "续航",
+          "form": "slab"
+        },
+        {
+          "kind": "screen",
+          "name": "屏幕定制单元",
+          "cost": 3,
+          "appeal": 2,
+          "load": 2,
+          "tech": 0,
+          "tag": "轻薄",
+          "form": "slab"
+        },
+        {
+          "kind": "camera",
+          "name": "影像定制单元",
+          "cost": 3,
+          "appeal": 2,
+          "load": 2,
+          "tech": 0,
+          "tag": "影像",
+          "form": "slab"
+        },
+        {
+          "kind": "body",
+          "name": "机身定制单元",
+          "cost": 3,
+          "appeal": 2,
+          "load": 10,
+          "tech": 0,
+          "tag": "生态",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 1,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X30",
+      "type": "custom",
+      "name": "性能整机方案",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "芯片定制单元",
+          "cost": 3,
+          "appeal": 2,
+          "load": 2,
+          "tech": 1,
+          "tag": "性能",
+          "form": "slab"
+        },
+        {
+          "kind": "screen",
+          "name": "屏幕定制单元",
+          "cost": 3,
+          "appeal": 2,
+          "load": 2,
+          "tech": 1,
+          "tag": "性能",
+          "form": "slab"
+        },
+        {
+          "kind": "camera",
+          "name": "影像定制单元",
+          "cost": 3,
+          "appeal": 2,
+          "load": 2,
+          "tech": 1,
+          "tag": "影像",
+          "form": "slab"
+        },
+        {
+          "kind": "body",
+          "name": "机身定制单元",
+          "cost": 3,
+          "appeal": 2,
+          "load": 14,
+          "tech": 1,
+          "tag": "续航",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 1,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X31",
+      "type": "custom",
+      "name": "影像整机方案",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "芯片定制单元",
+          "cost": 6,
+          "appeal": 4,
+          "load": 2,
+          "tech": 3,
+          "tag": "生态",
+          "form": "slab"
+        },
+        {
+          "kind": "screen",
+          "name": "屏幕定制单元",
+          "cost": 6,
+          "appeal": 4,
+          "load": 2,
+          "tech": 3,
+          "tag": "轻薄",
+          "form": "slab"
+        },
+        {
+          "kind": "camera",
+          "name": "影像定制单元",
+          "cost": 6,
+          "appeal": 4,
+          "load": 2,
+          "tech": 3,
+          "tag": "影像",
+          "form": "slab"
+        },
+        {
+          "kind": "body",
+          "name": "机身定制单元",
+          "cost": 6,
+          "appeal": 4,
+          "load": 14,
+          "tech": 3,
+          "tag": "续航",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 3,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    },
+    {
+      "id": "X32",
+      "type": "custom",
+      "name": "折叠整机方案",
+      "qty": 2,
+      "components": [
+        {
+          "kind": "chip",
+          "name": "芯片定制单元",
+          "cost": 6,
+          "appeal": 4,
+          "load": 2,
+          "tech": 3,
+          "tag": "生态",
+          "form": "slab"
+        },
+        {
+          "kind": "screen",
+          "name": "屏幕定制单元",
+          "cost": 6,
+          "appeal": 4,
+          "load": 2,
+          "tech": 3,
+          "tag": "折叠",
+          "form": "fold"
+        },
+        {
+          "kind": "camera",
+          "name": "影像定制单元",
+          "cost": 6,
+          "appeal": 4,
+          "load": 2,
+          "tech": 3,
+          "tag": "影像",
+          "form": "slab"
+        },
+        {
+          "kind": "body",
+          "name": "机身定制单元",
+          "cost": 6,
+          "appeal": 4,
+          "load": 10,
+          "tech": 3,
+          "tag": "折叠",
+          "form": "fold"
+        }
+      ],
+      "effect": "无额外能力。",
+      "era": 3,
+      "deck": "main",
+      "lifeCycle": "整张全部部件用于同一台，不能拆分或重叠安装；发布后移出游戏，失败也消耗；发布前返工取回不消耗。",
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。",
+      "factoryTags": [],
+      "mechanismTags": []
+    }
+  ],
+  "starters": [
+    {
+      "id": "S011",
+      "type": "common",
+      "name": "入门计算平台",
+      "qty": 1,
+      "starter": true,
+      "board": "M01",
+      "components": [
+        {
+          "kind": "chip",
+          "name": "入门计算平台",
+          "cost": 6,
+          "appeal": 2,
+          "load": 2,
+          "tech": 0,
+          "tag": "性能",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "deck": "starter",
+      "era": 0,
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "factoryTags": [],
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。"
+    },
+    {
+      "id": "S012",
+      "type": "common",
+      "name": "标准LCD",
+      "qty": 1,
+      "starter": true,
+      "board": "M01",
+      "components": [
+        {
+          "kind": "screen",
+          "name": "标准LCD",
+          "cost": 3,
+          "appeal": 0,
+          "load": 0,
+          "tech": 0,
+          "tag": "续航",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "deck": "starter",
+      "era": 0,
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "factoryTags": [],
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。"
+    },
+    {
+      "id": "S013",
+      "type": "common",
+      "name": "基础主摄",
+      "qty": 1,
+      "starter": true,
+      "board": "M01",
+      "components": [
+        {
+          "kind": "camera",
+          "name": "基础主摄",
+          "cost": 3,
+          "appeal": 2,
+          "load": 2,
+          "tech": 0,
+          "tag": "影像",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "deck": "starter",
+      "era": 0,
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "factoryTags": [],
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。"
+    },
+    {
+      "id": "S014",
+      "type": "common",
+      "name": "复合材料机身",
+      "qty": 1,
+      "starter": true,
+      "board": "M01",
+      "components": [
+        {
+          "kind": "body",
+          "name": "复合材料机身",
+          "cost": 3,
+          "appeal": 0,
+          "load": 8,
+          "tech": 0,
+          "tag": "轻薄",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "deck": "starter",
+      "era": 0,
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "factoryTags": [],
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。"
+    },
+    {
+      "id": "S021",
+      "type": "common",
+      "name": "低功耗平台",
+      "qty": 1,
+      "starter": true,
+      "board": "M02",
+      "components": [
+        {
+          "kind": "chip",
+          "name": "低功耗平台",
+          "cost": 3,
+          "appeal": 2,
+          "load": 2,
+          "tech": 0,
+          "tag": "续航",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "deck": "starter",
+      "era": 0,
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "factoryTags": [],
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。"
+    },
+    {
+      "id": "S022",
+      "type": "common",
+      "name": "轻量显示屏",
+      "qty": 1,
+      "starter": true,
+      "board": "M02",
+      "components": [
+        {
+          "kind": "screen",
+          "name": "轻量显示屏",
+          "cost": 3,
+          "appeal": 0,
+          "load": 0,
+          "tech": 0,
+          "tag": "轻薄",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "deck": "starter",
+      "era": 0,
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "factoryTags": [],
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。"
+    },
+    {
+      "id": "S023",
+      "type": "common",
+      "name": "入门影像模组",
+      "qty": 1,
+      "starter": true,
+      "board": "M02",
+      "components": [
+        {
+          "kind": "camera",
+          "name": "入门影像模组",
+          "cost": 6,
+          "appeal": 2,
+          "load": 2,
+          "tech": 0,
+          "tag": "影像",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "deck": "starter",
+      "era": 0,
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "factoryTags": [],
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。"
+    },
+    {
+      "id": "S024",
+      "type": "common",
+      "name": "影像握持机身",
+      "qty": 1,
+      "starter": true,
+      "board": "M02",
+      "components": [
+        {
+          "kind": "body",
+          "name": "影像握持机身",
+          "cost": 3,
+          "appeal": 0,
+          "load": 8,
+          "tech": 0,
+          "tag": "生态",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "deck": "starter",
+      "era": 0,
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "factoryTags": [],
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。"
+    },
+    {
+      "id": "S031",
+      "type": "common",
+      "name": "互联基础平台",
+      "qty": 1,
+      "starter": true,
+      "board": "M03",
+      "components": [
+        {
+          "kind": "chip",
+          "name": "互联基础平台",
+          "cost": 3,
+          "appeal": 2,
+          "load": 2,
+          "tech": 0,
+          "tag": "生态",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "deck": "starter",
+      "era": 0,
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "factoryTags": [],
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。"
+    },
+    {
+      "id": "S032",
+      "type": "common",
+      "name": "紧凑显示屏",
+      "qty": 1,
+      "starter": true,
+      "board": "M03",
+      "components": [
+        {
+          "kind": "screen",
+          "name": "紧凑显示屏",
+          "cost": 3,
+          "appeal": 0,
+          "load": 0,
+          "tech": 0,
+          "tag": "轻薄",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "deck": "starter",
+      "era": 0,
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "factoryTags": [],
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。"
+    },
+    {
+      "id": "S033",
+      "type": "common",
+      "name": "微型基础模组",
+      "qty": 1,
+      "starter": true,
+      "board": "M03",
+      "components": [
+        {
+          "kind": "camera",
+          "name": "微型基础模组",
+          "cost": 3,
+          "appeal": 0,
+          "load": 0,
+          "tech": 0,
+          "tag": "影像",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "deck": "starter",
+      "era": 0,
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "factoryTags": [],
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。"
+    },
+    {
+      "id": "S034",
+      "type": "common",
+      "name": "轻薄入门机身",
+      "qty": 1,
+      "starter": true,
+      "board": "M03",
+      "components": [
+        {
+          "kind": "body",
+          "name": "轻薄入门机身",
+          "cost": 6,
+          "appeal": 2,
+          "load": 6,
+          "tech": 0,
+          "tag": "轻薄",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "deck": "starter",
+      "era": 0,
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "factoryTags": [],
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。"
+    },
+    {
+      "id": "S041",
+      "type": "common",
+      "name": "稳定互联平台",
+      "qty": 1,
+      "starter": true,
+      "board": "M04",
+      "components": [
+        {
+          "kind": "chip",
+          "name": "稳定互联平台",
+          "cost": 6,
+          "appeal": 2,
+          "load": 2,
+          "tech": 0,
+          "tag": "生态",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "deck": "starter",
+      "era": 0,
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "factoryTags": [],
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。"
+    },
+    {
+      "id": "S042",
+      "type": "common",
+      "name": "节能LCD",
+      "qty": 1,
+      "starter": true,
+      "board": "M04",
+      "components": [
+        {
+          "kind": "screen",
+          "name": "节能LCD",
+          "cost": 3,
+          "appeal": 0,
+          "load": 0,
+          "tech": 0,
+          "tag": "续航",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "deck": "starter",
+      "era": 0,
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "factoryTags": [],
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。"
+    },
+    {
+      "id": "S043",
+      "type": "common",
+      "name": "标准主摄",
+      "qty": 1,
+      "starter": true,
+      "board": "M04",
+      "components": [
+        {
+          "kind": "camera",
+          "name": "标准主摄",
+          "cost": 3,
+          "appeal": 2,
+          "load": 2,
+          "tech": 0,
+          "tag": "影像",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "deck": "starter",
+      "era": 0,
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "factoryTags": [],
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。"
+    },
+    {
+      "id": "S044",
+      "type": "common",
+      "name": "长续航入门机身",
+      "qty": 1,
+      "starter": true,
+      "board": "M04",
+      "components": [
+        {
+          "kind": "body",
+          "name": "长续航入门机身",
+          "cost": 3,
+          "appeal": 0,
+          "load": 10,
+          "tech": 0,
+          "tag": "续航",
+          "form": "slab"
+        }
+      ],
+      "effect": "无额外能力。",
+      "deck": "starter",
+      "era": 0,
+      "lifeCycle": "取得即公开入库，不占手牌；同一实体卡每场只供一台；发布后归库，成功失败均归还；每次使用仍付制造费。",
+      "factoryTags": [],
+      "rulesNote": "世代与个人科技分别检查；配件类别标签不计公司，配件没有五厂厂标。"
+    }
+  ],
+  "boards": [
+    {
+      "id": "M01",
+      "name": "珠江研发园",
+      "tag": "性能",
+      "plan": "P03",
+      "starterIds": [
+        "S011",
+        "S012",
+        "S013",
+        "S014"
+      ],
+      "special": "公开公司类别积累拥有至少3个性能标签：永久使带性能企划标签的新机发布费用减3。"
+    },
+    {
+      "id": "M02",
+      "name": "滨海影像中心",
+      "tag": "影像",
+      "plan": "P04",
+      "starterIds": [
+        "S021",
+        "S022",
+        "S023",
+        "S024"
+      ],
+      "special": "公开公司类别积累拥有至少3个影像标签：永久使带影像企划标签的新机发布费用减3。"
+    },
+    {
+      "id": "M03",
+      "name": "南山设计工坊",
+      "tag": "轻薄",
+      "plan": "P02",
+      "starterIds": [
+        "S031",
+        "S032",
+        "S033",
+        "S034"
+      ],
+      "special": "公开公司类别积累拥有至少3个轻薄标签：永久使带轻薄企划标签的新机发布费用减3。"
+    },
+    {
+      "id": "M04",
+      "name": "松山湖终端基地",
+      "tag": "续航",
+      "plan": "P01",
+      "starterIds": [
+        "S041",
+        "S042",
+        "S043",
+        "S044"
+      ],
+      "special": "公开公司类别积累拥有至少3个续航标签：永久使带续航企划标签的新机发布费用减3。"
+    }
+  ],
+  "projects": [
+    {
+      "id": "J01",
+      "name": "高性能计算",
+      "metric": "techCategory",
+      "label": "性能类科技卡",
+      "thresholds": [
+        1,
+        2,
+        3
+      ],
+      "rewards": [
+        1,
+        2,
+        3
+      ],
+      "effect": "已研究科技卡中带性能类别的张数达到1／2／3，且已有至少1款带该类别的已上市企划，可完成对应空档，获得1／2／3科技并推进发布2。企业类别不计本项目。",
+      "qty": 1,
+      "type": "project",
+      "requiresPublishedCategory": "性能"
+    },
+    {
+      "id": "J02",
+      "name": "移动影像",
+      "metric": "techCategory",
+      "label": "影像类科技卡",
+      "thresholds": [
+        1,
+        2,
+        3
+      ],
+      "rewards": [
+        1,
+        2,
+        3
+      ],
+      "effect": "已研究科技卡中带影像类别的张数达到1／2／3，且已有至少1款带该类别的已上市企划，可完成对应空档，获得1／2／3科技并推进发布2。企业类别不计本项目。",
+      "qty": 1,
+      "type": "project",
+      "requiresPublishedCategory": "影像"
+    },
+    {
+      "id": "J03",
+      "name": "轻薄化设计",
+      "metric": "techCategory",
+      "label": "轻薄类科技卡",
+      "thresholds": [
+        1,
+        2,
+        3
+      ],
+      "rewards": [
+        1,
+        2,
+        3
+      ],
+      "effect": "已研究科技卡中带轻薄类别的张数达到1／2／3，且已有至少1款带该类别的已上市企划，可完成对应空档，获得1／2／3科技并推进发布2。企业类别不计本项目。",
+      "qty": 1,
+      "type": "project",
+      "requiresPublishedCategory": "轻薄"
+    },
+    {
+      "id": "J04",
+      "name": "能效与续航",
+      "metric": "techCategory",
+      "label": "续航类科技卡",
+      "thresholds": [
+        1,
+        2,
+        3
+      ],
+      "rewards": [
+        1,
+        2,
+        3
+      ],
+      "effect": "已研究科技卡中带续航类别的张数达到1／2／3，且已有至少1款带该类别的已上市企划，可完成对应空档，获得1／2／3科技并推进发布2。企业类别不计本项目。",
+      "qty": 1,
+      "type": "project",
+      "requiresPublishedCategory": "续航"
+    },
+    {
+      "id": "J05",
+      "name": "折叠形态",
+      "metric": "techCategory",
+      "label": "折叠类科技卡",
+      "thresholds": [
+        1,
+        2,
+        3
+      ],
+      "rewards": [
+        1,
+        2,
+        3
+      ],
+      "effect": "已研究科技卡中带折叠类别的张数达到1／2／3，且已有至少1款带该类别的已上市企划，可完成对应空档，获得1／2／3科技并推进发布2。企业类别不计本项目。",
+      "qty": 1,
+      "type": "project",
+      "requiresPublishedCategory": "折叠"
+    },
+    {
+      "id": "J06",
+      "name": "软件生态",
+      "metric": "techCategory",
+      "label": "生态类科技卡",
+      "thresholds": [
+        1,
+        2,
+        3
+      ],
+      "rewards": [
+        1,
+        2,
+        3
+      ],
+      "effect": "已研究科技卡中带生态类别的张数达到1／2／3，且已有至少1款带该类别的已上市企划，可完成对应空档，获得1／2／3科技并推进发布2。企业类别不计本项目。",
+      "qty": 1,
+      "type": "project",
+      "requiresPublishedCategory": "生态"
+    },
+    {
+      "id": "J07",
+      "name": "技术标准体系",
+      "metric": "techCount",
+      "label": "已打出科技卡",
+      "thresholds": [
+        2,
+        4,
+        6
+      ],
+      "rewards": [
+        1,
+        2,
+        3
+      ],
+      "effect": "用合作行动占一个合格空档，获得对应科技，推进发布2。每档全桌一人；每人每项目整局一次。 另须已有至少2款已上市企划。",
+      "qty": 1,
+      "type": "project",
+      "requiresPublishedCount": 2
+    },
+    {
+      "id": "J08",
+      "name": "渠道服务网络",
+      "metric": "businessCount",
+      "label": "已打出企业卡",
+      "thresholds": [
+        2,
+        4,
+        6
+      ],
+      "rewards": [
+        1,
+        2,
+        3
+      ],
+      "effect": "用合作行动占一个合格空档，获得对应科技，推进发布2。每档全桌一人；每人每项目整局一次。 另须已有至少2款已上市企划。",
+      "qty": 1,
+      "type": "project",
+      "requiresPublishedCount": 2
+    },
+    {
+      "id": "J09",
+      "name": "量产产品线",
+      "metric": "phoneCount",
+      "label": "已上市企划",
+      "thresholds": [
+        2,
+        4,
+        6
+      ],
+      "rewards": [
+        1,
+        2,
+        3
+      ],
+      "effect": "用合作行动占一个合格空档，获得对应科技，推进发布2。每档全桌一人；每人每项目整局一次。 另须已有至少2款已上市企划。",
+      "qty": 1,
+      "type": "project",
+      "requiresPublishedCount": 2
+    },
+    {
+      "id": "J10",
+      "name": "产品组合",
+      "metric": "markets",
+      "label": "已上市市场种类",
+      "thresholds": [
+        2,
+        3,
+        4
+      ],
+      "rewards": [
+        1,
+        2,
+        3
+      ],
+      "effect": "用合作行动占一个合格空档，获得对应科技，推进发布2。每档全桌一人；每人每项目整局一次。 另须已有至少2款已上市企划。",
+      "qty": 1,
+      "type": "project",
+      "requiresPublishedCount": 2
+    },
+    {
+      "id": "J11",
+      "name": "自主供应链",
+      "metric": "libraryCount",
+      "label": "自有稳定配件实体卡",
+      "thresholds": [
+        6,
+        9,
+        12
+      ],
+      "rewards": [
+        1,
+        2,
+        3
+      ],
+      "effect": "用合作行动占一个合格空档，获得对应科技，推进发布2。每档全桌一人；每人每项目整局一次。 另须已有至少2款已上市企划。",
+      "qty": 1,
+      "type": "project",
+      "requiresPublishedCount": 2
+    },
+    {
+      "id": "J12",
+      "name": "平台兼容性",
+      "metric": "tagTypes",
+      "label": "公开公司类别标签种类",
+      "thresholds": [
+        3,
+        4,
+        6
+      ],
+      "rewards": [
+        1,
+        2,
+        3
+      ],
+      "effect": "用合作行动占一个合格空档，获得对应科技，推进发布2。每档全桌一人；每人每项目整局一次。 另须已有至少2款已上市企划。",
+      "qty": 1,
+      "type": "project",
+      "requiresPublishedCount": 2
+    }
+  ],
+  "goals": [
+    {
+      "id": "O01",
+      "name": "电竞娱乐品牌",
+      "effect": "每张已上市的电竞娱乐市场企划得2分，最多6分。",
+      "metric": "market",
+      "value": "电竞娱乐",
+      "qty": 1,
+      "type": "goal"
+    },
+    {
+      "id": "O02",
+      "name": "摄影创作品牌",
+      "effect": "每张已上市的摄影创作市场企划得2分，最多6分。",
+      "metric": "market",
+      "value": "摄影创作",
+      "qty": 1,
+      "type": "goal"
+    },
+    {
+      "id": "O03",
+      "name": "大众消费产品线",
+      "effect": "每张已上市的大众消费市场企划得2分，最多6分。",
+      "metric": "market",
+      "value": "大众消费",
+      "qty": 1,
+      "type": "goal"
+    },
+    {
+      "id": "O04",
+      "name": "商务办公产品线",
+      "effect": "每张已上市的商务办公市场企划得2分，最多6分。",
+      "metric": "market",
+      "value": "商务办公",
+      "qty": 1,
+      "type": "goal"
+    },
+    {
+      "id": "O05",
+      "name": "技术积累",
+      "effect": "每满2张已打出的科技卡得2分，最多6分。",
+      "metric": "tech",
+      "value": "",
+      "qty": 1,
+      "type": "goal"
+    },
+    {
+      "id": "O06",
+      "name": "渠道建设",
+      "effect": "每满2张已打出的企业卡得2分，最多6分。",
+      "metric": "business",
+      "value": "",
+      "qty": 1,
+      "type": "goal"
+    },
+    {
+      "id": "O07",
+      "name": "多元产品组合",
+      "effect": "已上市机型覆盖2／3／4种市场，得2／4／6分；不足2种得0分。",
+      "metric": "markets",
+      "value": "",
+      "qty": 1,
+      "type": "goal"
+    },
+    {
+      "id": "O08",
+      "name": "行业标准参与者",
+      "effect": "每完成1个产业突破得2分，最多6分。",
+      "metric": "projects",
+      "value": "",
+      "qty": 1,
+      "type": "goal"
+    },
+    {
+      "id": "O09",
+      "name": "供应体系建设",
+      "effect": "每满2张非初始稳定配件卡得1分，最多6分。重复实体卡分别计数。",
+      "metric": "library",
+      "value": "",
+      "qty": 1,
+      "type": "goal"
+    },
+    {
+      "id": "O10",
+      "name": "折叠产品专家",
+      "effect": "每张已上市且印有折叠标签的企划得2分，最多6分。",
+      "metric": "fold",
+      "value": "",
+      "qty": 1,
+      "type": "goal"
+    },
+    {
+      "id": "O11",
+      "name": "旗舰产品组合",
+      "effect": "每张已上市且印刷科技门槛至少4的企划得2分，最多6分。",
+      "metric": "flagship",
+      "value": "",
+      "qty": 1,
+      "type": "goal"
+    },
+    {
+      "id": "O12",
+      "name": "研发组织建设",
+      "effect": "每张已升级行动得1分；五张全升级再加1分，最多6分。",
+      "metric": "upgrades",
+      "value": "",
+      "qty": 1,
+      "type": "goal"
+    },
+    {
+      "id": "O13",
+      "name": "红厂产品体系",
+      "type": "goal",
+      "qty": 1,
+      "metric": "factoryPhones",
+      "value": "R",
+      "effect": "每张已上市且印有红厂厂标的企划得2分，最多6分。科技与企业厂标不按企划计数。"
+    },
+    {
+      "id": "O14",
+      "name": "黄厂产品体系",
+      "type": "goal",
+      "qty": 1,
+      "metric": "factoryPhones",
+      "value": "Y",
+      "effect": "每张已上市且印有黄厂厂标的企划得2分，最多6分。科技与企业厂标不按企划计数。"
+    },
+    {
+      "id": "O15",
+      "name": "蓝厂产品体系",
+      "type": "goal",
+      "qty": 1,
+      "metric": "factoryPhones",
+      "value": "B",
+      "effect": "每张已上市且印有蓝厂厂标的企划得2分，最多6分。科技与企业厂标不按企划计数。"
+    },
+    {
+      "id": "O16",
+      "name": "绿厂产品体系",
+      "type": "goal",
+      "qty": 1,
+      "metric": "factoryPhones",
+      "value": "G",
+      "effect": "每张已上市且印有绿厂厂标的企划得2分，最多6分。科技与企业厂标不按企划计数。"
+    },
+    {
+      "id": "O17",
+      "name": "黑厂产品体系",
+      "type": "goal",
+      "qty": 1,
+      "metric": "factoryPhones",
+      "value": "K",
+      "effect": "每张已上市且印有黑厂厂标的企划得2分，最多6分。科技与企业厂标不按企划计数。"
+    },
+    {
+      "id": "O18",
+      "name": "跨厂产品组合",
+      "type": "goal",
+      "qty": 1,
+      "metric": "phoneFactoryTypes",
+      "value": "",
+      "effect": "已上市企划覆盖3／4／5种厂家，得2／4／6分；不足3种得0分。只看企划厂标，不把科技或企业算成产品。"
+    }
+  ],
+  "achievements": [
+    {
+      "id": "A1",
+      "name": "首款上市",
+      "condition": "已上市企划≥1",
+      "reward": "一次性获得9现金",
+      "kind": "once"
+    },
+    {
+      "id": "A2",
+      "name": "产品矩阵",
+      "condition": "已上市企划≥3",
+      "reward": "获得1次行动升级",
+      "kind": "once"
+    },
+    {
+      "id": "A3",
+      "name": "产线扩建",
+      "condition": "科技≥5且已上市企划≥2",
+      "reward": "永久解锁第四筹备位",
+      "kind": "permanent"
+    },
+    {
+      "id": "A4",
+      "name": "行业认可",
+      "condition": "完成产业突破≥1",
+      "reward": "获得1次行动升级",
+      "kind": "once"
+    },
+    {
+      "id": "A5",
+      "name": "研发体系",
+      "condition": "已打出科技卡≥3",
+      "reward": "永久使科技卡研发费用减3",
+      "kind": "permanent"
+    },
+    {
+      "id": "A6",
+      "name": "渠道覆盖",
+      "condition": "已上市市场种类≥3",
+      "reward": "一次性增加3收入",
+      "kind": "once"
+    },
+    {
+      "id": "A7",
+      "name": "专业积累",
+      "condition": "本版图专长标签≥3",
+      "reward": "永久使对应类别标签新机费用减3",
+      "kind": "permanent"
+    }
+  ],
+  "releaseLengths": {
+    "2": 8,
+    "3": 11,
+    "4": 14
+  },
+  "scoreTrack": {
+    "incomeMax": 100,
+    "technologyMax": 36,
+    "earlyStep": 2,
+    "lateStep": 3,
+    "changeAt": 8,
+    "technologyUpgradeAt": [
+      3,
+      7
+    ],
+    "endCondition": "同一玩家的收入与科技标记相遇或越过；完成当前完整回合后全员各再一回合，再最终发布。",
+    "alignment": [
+      100,
+      98,
+      96,
+      94,
+      92,
+      90,
+      88,
+      86,
+      84,
+      81,
+      78,
+      75,
+      72,
+      69,
+      66,
+      63,
+      60,
+      57,
+      54,
+      51,
+      48,
+      45,
+      42,
+      39,
+      36,
+      33,
+      30,
+      27,
+      24,
+      21,
+      18,
+      15,
+      12,
+      9,
+      6,
+      3,
+      0
+    ],
+    "scoring": "按科技标记指向的收入对齐线计带正负号的收入格距离，再加终局目标。",
+    "overflowTechnologyStep": 3
+  },
+  "economy": {
+    "startingCash": 60,
+    "startingIncome": 5,
+    "startingTechnology": 0,
+    "payoutBase": 20,
+    "payoutIncomeMultiplier": 1,
+    "marketingCash": [
+      12,
+      15,
+      18,
+      21,
+      24
+    ],
+    "marketingUpgradedCash": [
+      18,
+      21,
+      24,
+      27,
+      30
+    ],
+    "financeCash": [
+      18,
+      21,
+      24,
+      27,
+      30
+    ],
+    "financeUpgradedCash": [
+      24,
+      27,
+      30,
+      33,
+      36
+    ],
+    "readyCash": 9,
+    "minimumPayment": 3,
+    "upgradeDiscount": 6,
+    "extraUpgradeCash": 9
+  },
+  "supply": {
+    "eraThresholds": [
+      0,
+      2,
+      4,
+      6,
+      8
+    ],
+    "eraNames": [
+      "成熟平台",
+      "工艺升级",
+      "集成平台",
+      "旗舰深化",
+      "新架构平台"
+    ],
+    "thresholdStatus": "2／4／6／8，暂沿用；新增竞标只在正常游戏的换代维护进行。",
+    "publicSlotsPerKind": "playerCount",
+    "normalResearchProcureLimit": 2,
+    "procureBasicQuota": 1,
+    "procureCash": null,
+    "stableEraIds": {
+      "1": [
+        "C02",
+        "C03",
+        "C05",
+        "D01",
+        "D02",
+        "I01",
+        "I02",
+        "F01",
+        "F02"
+      ],
+      "2": [
+        "C04",
+        "C06",
+        "C07",
+        "D03",
+        "D07",
+        "I03",
+        "I04",
+        "F03",
+        "F04"
+      ],
+      "3": [
+        "C08",
+        "C11",
+        "C13",
+        "D04",
+        "D09",
+        "I07",
+        "I08",
+        "F07",
+        "F08"
+      ],
+      "4": [
+        "C09",
+        "C10",
+        "D05",
+        "D08",
+        "I05",
+        "I09",
+        "F05",
+        "F09"
+      ],
+      "5": [
+        "C01",
+        "C12",
+        "D06",
+        "I06",
+        "F06"
+      ]
+    },
+    "customEraIds": {
+      "1": [
+        "X01",
+        "X02",
+        "X03",
+        "X05",
+        "X06",
+        "X09",
+        "X10",
+        "X11",
+        "X13",
+        "X14",
+        "X29",
+        "X30"
+      ],
+      "2": [
+        "X17",
+        "X18",
+        "X19",
+        "X20",
+        "X22",
+        "X25",
+        "X26",
+        "X27"
+      ],
+      "3": [
+        "X07",
+        "X08",
+        "X15",
+        "X16",
+        "X31",
+        "X32"
+      ],
+      "4": [
+        "X12",
+        "X21",
+        "X23",
+        "X24"
+      ],
+      "5": [
+        "X04",
+        "X28"
+      ]
+    },
+    "maintenanceTiming": "完整回合末，发布/成长/升级后统一一次维护。",
+    "refresh": "正常发布与换代合并一次；新世代可先竞标一张首批稳定芯片，再各行注入并按需补货。",
+    "purchasesPerResearch": 2,
+    "purchaseKindsMustDiffer": true,
+    "exceptionB21Max": 3,
+    "contractFeeByAge": [
+      9,
+      6,
+      3
+    ],
+    "matureManufacturingDiscountByAge": [
+      0,
+      1,
+      2
+    ],
+    "componentManufacturingMinimum": 1,
+    "auction": {
+      "bidOptions": [
+        0,
+        9,
+        15,
+        21
+      ],
+      "lotCount": 1,
+      "when": "非最后阶段、未出现双轨相遇的换代维护；跨多个世代只竞标最新一代一次",
+      "allPass": "拍品放回活动芯片堆顶，随后正常注入公开供应",
+      "winnerPaysOnly": true,
+      "feeIncluded": true,
+      "discountAllowed": false,
+      "ties": "从本回合行动者的下一位起顺时针优先，行动者最后",
+      "noPurchaseTriggers": true
+    },
+    "directPurchase": {
+      "action": "合作",
+      "normalStrength": 3,
+      "upgradedStrength": 2,
+      "perReleaseCycle": 1,
+      "extraFee": 6,
+      "viewCount": 3,
+      "kinds": [
+        "screen",
+        "camera",
+        "body"
+      ],
+      "unselected": "按原相对顺序放回该活动供应堆底",
+      "payOnlyWhenTaken": true,
+      "minContractFee": 3
+    }
+  },
+  "pricing": {
+    "timing": "发布开始、任何人揭晓企划与配件前，同时秘密选择；不是额外行动，不能借此改配置。",
+    "strategies": [
+      {
+        "id": "price_volume",
+        "name": "走量价",
+        "appealDelta": 4,
+        "cashByRank": [
+          3,
+          0,
+          0,
+          0
+        ],
+        "incomeByRank": [
+          3,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "id": "price_standard",
+        "name": "标准价",
+        "appealDelta": 0,
+        "cashByRank": [
+          12,
+          6,
+          3,
+          3
+        ],
+        "incomeByRank": [
+          4,
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "id": "price_premium",
+        "name": "溢价",
+        "appealDelta": -4,
+        "cashByRank": [
+          21,
+          9,
+          0,
+          0
+        ],
+        "incomeByRank": [
+          6,
+          2,
+          0,
+          0
+        ]
+      }
+    ],
+    "representative": "每公司每市场最终吸引力最高的新机或旧机；同分优先新机，新机间取较小筹备位。",
+    "salesCashLimit": "市场收入和销售现金，每公司每市场每场各一次；同市场非代表机不另结算定价收益。",
+    "settlement": "每市场新旧最强代表先检查需求线，合格者才排真人名次。全桌无有效新机时不发市场收益。",
+    "representation": {
+      "name": "筹备位专属定价牌",
+      "setsPerPlayer": 4,
+      "cardsPerSet": 3,
+      "cardsPerPlayer": 12,
+      "componentCountAtFourPlayers": 48,
+      "contentDeck": false,
+      "commitment": "每个已筹备位置从自己的对应编号套牌选1张，在屏后正面朝下放到该机旁；未选牌留屏后，全部锁定后同时翻开。",
+      "default": "漏放、多放或编号不符按标准价；不能揭晓后补选。",
+      "reuse": "发布后回收；旧机是否清仓用四市场专属片在屏后锁定，同时揭晓。"
+    },
+    "note": "新品三档表保留；旧机常规/清仓两表。无虚拟参考机；不累计自家公司机型吸引力。"
+  },
+  "status": "产业经营回归测试版；未完成充分多人实测",
+  "provenance": {
+    "basedOn": "5.2真实交付包",
+    "sourceSha256": "eb449f342103dd4d5ec5f48eb2d95cb5ad14b44468b9566229c609da260fd93d",
+    "date": "2026-09-21",
+    "note": "原版说明书用于设计溯源；本轮不覆盖旧版，不自动推送GitHub。"
+  },
+  "actions": [
+    {
+      "id": "AC01",
+      "name": "调研",
+      "front": "按S1—S5有2／2／3／3／4个额度。每额度取1张主牌（盲抽或牌市≤S），或付费采购1张公开稳定配件。通常至多2张不同部件类别；也可花1额度推进发布1，至多一次。",
+      "back": "基础额度同普通面，牌市8位均可选；额外盲抽1张主牌不能换采购或推进。通常至多采购2类；B21至多3类。每张稳定件按当前9／6／3签约费付费。"
+    },
+    {
+      "id": "AC02",
+      "name": "研发",
+      "front": "打出1张科技：满足科技、行动、研发基础及厂标门槛，付费取得印刷科技，公开入技术库；不会自动装载。或S≥4付24现金做基础研究得1科技，整局可重复。",
+      "back": "打出1张科技，费用减6、最低3，其余前置照常；不会自动装载。或S≥3付18现金基础研究得1科技。打牌与基础研究不能同次进行。"
+    },
+    {
+      "id": "AC03",
+      "name": "组装",
+      "front": "最多2次新增或返工任务：调整后要求总和≤S。每机本行动只处理一次，新增须有空筹备位。同任务安排四类配件、技术及调校；每机通常2技术位、特殊最多3。制造费留待发布。",
+      "back": "最多4次常规新增或返工：每项调整后要求≤S，总和≤S＋3。每机只处理一次，空位仍限制新增。B03仅按牌面额外返工；T37共享和T31换企划按专门规则。"
+    },
+    {
+      "id": "AC04",
+      "name": "合作",
+      "front": "三选一：从手牌签约1张合格企业并付费；S≥4完成1个产业突破；或S≥3进行1次非芯片后台采购。本周期后台须可用，先付签约费及服务费6，再取得配件并翻片。",
+      "back": "三选一：签约至多2张企业，总要求≤S、分别付费；S≥3完成1个产业突破；或S≥2后台采购1件。签约、项目、后台不能同次混用。"
+    },
+    {
+      "id": "AC05",
+      "name": "营销",
+      "front": "市场预热：按强度1至5获得12／15／18／21／24现金，自选推进1至强度格。或融资：获得18／21／24／27／30现金，不推进。不产生债务。",
+      "back": "市场预热：按强度1至5获得18／21／24／27／30现金，自选推进1至强度＋1格。或融资：获得24／27／30／33／36现金，不推进。不产生债务。"
+    }
+  ],
+  "technology": {
+    "principle": "科技来源多元而有投入；并非每张科技自动给点。",
+    "applicationIds": [
+      "T01",
+      "T02",
+      "T03",
+      "T04",
+      "T06",
+      "T19",
+      "T20",
+      "T23",
+      "T25",
+      "T31",
+      "T33",
+      "T34",
+      "T36"
+    ],
+    "resultIds": [
+      "T05",
+      "T07",
+      "T08",
+      "T09",
+      "T10",
+      "T11",
+      "T12",
+      "T13",
+      "T14",
+      "T15",
+      "T16",
+      "T17",
+      "T18",
+      "T21",
+      "T22",
+      "T24",
+      "T26",
+      "T27",
+      "T28",
+      "T29",
+      "T30",
+      "T32",
+      "T35",
+      "T37",
+      "T38",
+      "T39",
+      "T40",
+      "T41"
+    ],
+    "printedGainTotal": 36,
+    "productTechIds": [
+      "P14",
+      "P17",
+      "P21",
+      "P22",
+      "P23",
+      "P24",
+      "P28",
+      "P30",
+      "P33",
+      "P36",
+      "P38",
+      "P47",
+      "P48",
+      "P51",
+      "P55",
+      "P58",
+      "P61",
+      "P63",
+      "P64",
+      "P67",
+      "P71",
+      "P76",
+      "P80",
+      "P84",
+      "P86",
+      "P91",
+      "P92",
+      "P96"
+    ],
+    "engineIds": [
+      "T29",
+      "T39",
+      "T41"
+    ],
+    "basicResearch": {
+      "usesPerGame": null,
+      "normalStrength": 4,
+      "normalCost": 24,
+      "upgradedStrength": 3,
+      "upgradedCost": 18,
+      "gain": 1,
+      "perAction": 1,
+      "note": "每次占用整个研发行动；无整局次数上限，不受科技卡费用减免。"
+    },
+    "industryRewards": [
+      1,
+      2,
+      3
+    ],
+    "specialCrossFactoryRewards": [
+      2,
+      3,
+      4
+    ],
+    "moduleIds": [
+      "T01",
+      "T02",
+      "T03",
+      "T04",
+      "T05",
+      "T06",
+      "T07",
+      "T08",
+      "T09",
+      "T10",
+      "T11",
+      "T12",
+      "T13",
+      "T14",
+      "T15",
+      "T16",
+      "T17",
+      "T18",
+      "T19",
+      "T20",
+      "T21",
+      "T22",
+      "T23",
+      "T24",
+      "T25",
+      "T26",
+      "T27",
+      "T28",
+      "T29",
+      "T30",
+      "T31",
+      "T32",
+      "T33",
+      "T34",
+      "T35",
+      "T37",
+      "T38",
+      "T39",
+      "T40",
+      "T41"
+    ],
+    "companyOnlyIds": [
+      "T36"
+    ],
+    "installedPerPhone": 2,
+    "maxInstalledPerPhone": 3
+  },
+  "physicalAids": {
+    "priceCardsPerPlayer": 12,
+    "tuningMarkersPerPlayer": 4,
+    "basicResearchMarkersPerPlayer": 0,
+    "projectMarkersPerPlayer": 10,
+    "overflowMarkersPerPlayer": {
+      "income100": 1,
+      "technology36": 1
+    },
+    "penRequired": false,
+    "tuning": "配件调校标记放本机来源卡；T19须装载到本机，标记放对应T19格。共用芯片调校标记可放共享占位牌。",
+    "technologyAssignmentMarkersPerPlayer": 12,
+    "assignmentPerPrep": 3,
+    "assignmentBackIdentical": true,
+    "overtimeMarkersPerPlayer": 0,
+    "dispatchMarkersPerPlayer": 0,
+    "sharedChipLinksPerPlayer": 12,
+    "maxGoals": 1,
+    "continuingSalesBoardPerPlayer": 1,
+    "appealMarkersNote": "首发基准吸引力用可重复数字标记；旧机只保留基准与代龄，不手写配置。",
+    "bidCardsPerPlayer": 4,
+    "directPurchaseTokenPerPlayer": 1,
+    "clearanceMarkersPerPlayer": 4
+  },
+  "factories": [
+    {
+      "id": "R",
+      "name": "红厂",
+      "color": "#B94E48",
+      "symbol": "三角",
+      "shape": "triangle"
+    },
+    {
+      "id": "Y",
+      "name": "黄厂",
+      "color": "#AD8024",
+      "symbol": "六角",
+      "shape": "hexagon"
+    },
+    {
+      "id": "B",
+      "name": "蓝厂",
+      "color": "#386F9D",
+      "symbol": "菱形",
+      "shape": "diamond"
+    },
+    {
+      "id": "G",
+      "name": "绿厂",
+      "color": "#3B805C",
+      "symbol": "三叶",
+      "shape": "clover"
+    },
+    {
+      "id": "K",
+      "name": "黑厂",
+      "color": "#303B43",
+      "symbol": "圆环",
+      "shape": "ring"
+    }
+  ],
+  "specialProjects": [
+    {
+      "id": "R01",
+      "name": "红厂平台标准",
+      "type": "specialProject",
+      "qty": 1,
+      "metric": "factory",
+      "value": "R",
+      "label": "红厂公司厂标数",
+      "thresholds": [
+        2,
+        4,
+        6
+      ],
+      "rewards": [
+        1,
+        2,
+        3
+      ],
+      "factoryTags": [],
+      "proposalCost": 6,
+      "effect": "可从手牌提出并立即完成：先满足合格空档并额外支付6现金，再公开为全桌项目。完成获得对应科技，推进发布2。其后其他玩家无需申报费；每人每项目仅一次。 另须已有至少1张印有该厂标的已上市企划；不能只靠科技与合作协议申报。",
+      "requiresPublishedFactory": "R"
+    },
+    {
+      "id": "R02",
+      "name": "黄厂平台标准",
+      "type": "specialProject",
+      "qty": 1,
+      "metric": "factory",
+      "value": "Y",
+      "label": "黄厂公司厂标数",
+      "thresholds": [
+        2,
+        4,
+        6
+      ],
+      "rewards": [
+        1,
+        2,
+        3
+      ],
+      "factoryTags": [],
+      "proposalCost": 6,
+      "effect": "可从手牌提出并立即完成：先满足合格空档并额外支付6现金，再公开为全桌项目。完成获得对应科技，推进发布2。其后其他玩家无需申报费；每人每项目仅一次。 另须已有至少1张印有该厂标的已上市企划；不能只靠科技与合作协议申报。",
+      "requiresPublishedFactory": "Y"
+    },
+    {
+      "id": "R03",
+      "name": "蓝厂平台标准",
+      "type": "specialProject",
+      "qty": 1,
+      "metric": "factory",
+      "value": "B",
+      "label": "蓝厂公司厂标数",
+      "thresholds": [
+        2,
+        4,
+        6
+      ],
+      "rewards": [
+        1,
+        2,
+        3
+      ],
+      "factoryTags": [],
+      "proposalCost": 6,
+      "effect": "可从手牌提出并立即完成：先满足合格空档并额外支付6现金，再公开为全桌项目。完成获得对应科技，推进发布2。其后其他玩家无需申报费；每人每项目仅一次。 另须已有至少1张印有该厂标的已上市企划；不能只靠科技与合作协议申报。",
+      "requiresPublishedFactory": "B"
+    },
+    {
+      "id": "R04",
+      "name": "绿厂平台标准",
+      "type": "specialProject",
+      "qty": 1,
+      "metric": "factory",
+      "value": "G",
+      "label": "绿厂公司厂标数",
+      "thresholds": [
+        2,
+        4,
+        6
+      ],
+      "rewards": [
+        1,
+        2,
+        3
+      ],
+      "factoryTags": [],
+      "proposalCost": 6,
+      "effect": "可从手牌提出并立即完成：先满足合格空档并额外支付6现金，再公开为全桌项目。完成获得对应科技，推进发布2。其后其他玩家无需申报费；每人每项目仅一次。 另须已有至少1张印有该厂标的已上市企划；不能只靠科技与合作协议申报。",
+      "requiresPublishedFactory": "G"
+    },
+    {
+      "id": "R05",
+      "name": "黑厂平台标准",
+      "type": "specialProject",
+      "qty": 1,
+      "metric": "factory",
+      "value": "K",
+      "label": "黑厂公司厂标数",
+      "thresholds": [
+        2,
+        4,
+        6
+      ],
+      "rewards": [
+        1,
+        2,
+        3
+      ],
+      "factoryTags": [],
+      "proposalCost": 6,
+      "effect": "可从手牌提出并立即完成：先满足合格空档并额外支付6现金，再公开为全桌项目。完成获得对应科技，推进发布2。其后其他玩家无需申报费；每人每项目仅一次。 另须已有至少1张印有该厂标的已上市企划；不能只靠科技与合作协议申报。",
+      "requiresPublishedFactory": "K"
+    },
+    {
+      "id": "R06",
+      "name": "跨厂互联标准",
+      "type": "specialProject",
+      "qty": 1,
+      "metric": "factoryTypes",
+      "label": "公司不同厂家种类",
+      "thresholds": [
+        3,
+        4,
+        5
+      ],
+      "rewards": [
+        2,
+        3,
+        4
+      ],
+      "factoryTags": [],
+      "proposalCost": 6,
+      "effect": "可从手牌提出并立即完成：先满足合格空档并额外支付6现金，再公开为全桌项目。完成获得对应科技，推进发布2。其后其他玩家无需申报费；每人每项目仅一次。 另须已上市企划覆盖至少3种厂家；公司科技和企业不能代替该产品要求。",
+      "requiresPublishedFactoryKinds": 3
+    }
+  ],
+  "assembly": {
+    "tagMatchAppeal": 2,
+    "maxAcceptanceReduction": 4,
+    "technologySlots": 2,
+    "technologyMaximum": 3,
+    "slotExtensions": [
+      "T21",
+      "T30"
+    ],
+    "sharedChipProvider": "T37",
+    "replanProvider": "T31",
+    "technologyAssignment": "每张已研究科技最多指派一台。研发不自动装载；只在组装/返工任务里调整。T36除外。",
+    "initialPrepSlots": 3,
+    "maximumPrepSlots": 4,
+    "frontMaxTasks": 2,
+    "frontBudgetBonus": 0,
+    "backMaxTasks": 4,
+    "backBudgetBonus": 3,
+    "individualTaskLimit": "S",
+    "note": "调整后每项要求<=S；普通常规任务总和<=S，升级<=S+3。B03只按卡面额外返工，不额外新增。",
+    "fourthSlotTech": 5,
+    "fourthSlotPhones": 2
+  },
+  "factoryRules": {
+    "providerTypes": [
+      "phone",
+      "tech",
+      "business"
+    ],
+    "starterPlansNeutral": true,
+    "partsProvideMarks": false,
+    "marksAreNonConsumable": true,
+    "noAutomaticAppeal": true,
+    "noFixedPlayerFaction": true,
+    "planGateIds": [
+      "P11",
+      "P12",
+      "P15",
+      "P19",
+      "P22",
+      "P40",
+      "P45",
+      "P63",
+      "P70",
+      "P95"
+    ],
+    "existingPlanFactoryEffectIds": [
+      "P08",
+      "P19",
+      "P39",
+      "P69"
+    ],
+    "publishedPlanCounts": {
+      "R": 18,
+      "Y": 19,
+      "B": 19,
+      "G": 18,
+      "K": 18
+    },
+    "terminology": "类别标签与厂家标签分别计数，绝不合并为十一种。"
+  },
+  "counts": {
+    "designs": 302,
+    "physical": 374,
+    "phone": 96,
+    "tech": 41,
+    "business": 41,
+    "stablePhysical": 80,
+    "customPhysical": 64,
+    "starterPhysical": 16,
+    "baseProjects": 12,
+    "specialProjects": 6,
+    "goals": 18,
+    "initialMain": 204,
+    "eventualMainExcludingStarting": 244,
+    "mainIncludingStarting": 248
+  },
+  "marketCompetition": {
+    "demandByEra": [
+      6,
+      10,
+      14,
+      18,
+      22
+    ],
+    "benchmarkCountPerMarket": 0,
+    "companyRepresentative": "finalAppeal desc, new before continuing, new prepId asc",
+    "minimumNewPhonesGlobalForRewards": 1,
+    "rankOnlyQualified": true,
+    "note": "需求线是渠道接单条件，不是虚拟对手，不占名次。技术合格但未达线仍上市，只有一次性企划成果，无市场奖励。",
+    "newPlanIncomeRequiresOwnDemand": true,
+    "newPlanExtraIncomeRequiresOwnDemand": true,
+    "businessB11": "所有有效新机的需求门槛减2，用于本机企划收入和新代表资格；不增吸引力，不改代表挑选。"
+  },
+  "continuingSales": {
+    "slotsPerPlayer": 4,
+    "maxPerMarket": 1,
+    "extraReleases": 2,
+    "decayPerRelease": 4,
+    "newRecordAge": 1,
+    "pricing": "常规续销或一次清仓",
+    "priceAppealDelta": 0,
+    "incomeByRank": [
+      1,
+      0,
+      0
+    ],
+    "cashByRank": [
+      6,
+      3,
+      0
+    ],
+    "noManufacturingPayment": true,
+    "snapshot": "首发基准不含价格与渠道承诺；续销减4或8，清仓额外加4，本次之后必须退市。",
+    "retire": "旧二代或宣布清仓的旧机，本次发布后强制退市；原已上市企划保留公司积累。",
+    "clearanceAppealDelta": 4,
+    "clearanceIncomeByRank": [
+      0,
+      0,
+      0
+    ],
+    "clearanceCashByRank": [
+      12,
+      6,
+      0
+    ],
+    "clearanceRetiresRegardlessOfRank": true
+  },
+  "businessRules": {
+    "timings": [
+      "签约",
+      "采购",
+      "研发",
+      "组装",
+      "发布",
+      "回款"
+    ],
+    "noGenericActivation": true,
+    "oneEffectPerPrintedOccurrence": true,
+    "noExtraTurns": true,
+    "noActionReposition": true,
+    "normalGoals": 1
+  }
+}

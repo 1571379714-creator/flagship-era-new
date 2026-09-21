@@ -1,0 +1,14 @@
+{
+  "views": 8,
+  "ids": [
+    "market",
+    "supply",
+    "offers",
+    "company",
+    "model",
+    "allocation",
+    "scores",
+    "reference"
+  ],
+  "onlyDisplayAndPrint": true
+}
