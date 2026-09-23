@@ -1,0 +1,121 @@
+{
+  "cards": [
+    {
+      "id": "S011",
+      "company": "M01",
+      "kind": "chip",
+      "frontPage": 1,
+      "cell": 1
+    },
+    {
+      "id": "S012",
+      "company": "M01",
+      "kind": "screen",
+      "frontPage": 1,
+      "cell": 2
+    },
+    {
+      "id": "S013",
+      "company": "M01",
+      "kind": "camera",
+      "frontPage": 1,
+      "cell": 3
+    },
+    {
+      "id": "S014",
+      "company": "M01",
+      "kind": "body",
+      "frontPage": 1,
+      "cell": 4
+    },
+    {
+      "id": "S021",
+      "company": "M02",
+      "kind": "chip",
+      "frontPage": 1,
+      "cell": 5
+    },
+    {
+      "id": "S022",
+      "company": "M02",
+      "kind": "screen",
+      "frontPage": 1,
+      "cell": 6
+    },
+    {
+      "id": "S023",
+      "company": "M02",
+      "kind": "camera",
+      "frontPage": 1,
+      "cell": 7
+    },
+    {
+      "id": "S024",
+      "company": "M02",
+      "kind": "body",
+      "frontPage": 1,
+      "cell": 8
+    },
+    {
+      "id": "S031",
+      "company": "M03",
+      "kind": "chip",
+      "frontPage": 1,
+      "cell": 9
+    },
+    {
+      "id": "S032",
+      "company": "M03",
+      "kind": "screen",
+      "frontPage": 3,
+      "cell": 1
+    },
+    {
+      "id": "S033",
+      "company": "M03",
+      "kind": "camera",
+      "frontPage": 3,
+      "cell": 2
+    },
+    {
+      "id": "S034",
+      "company": "M03",
+      "kind": "body",
+      "frontPage": 3,
+      "cell": 3
+    },
+    {
+      "id": "S041",
+      "company": "M04",
+      "kind": "chip",
+      "frontPage": 3,
+      "cell": 4
+    },
+    {
+      "id": "S042",
+      "company": "M04",
+      "kind": "screen",
+      "frontPage": 3,
+      "cell": 5
+    },
+    {
+      "id": "S043",
+      "company": "M04",
+      "kind": "camera",
+      "frontPage": 3,
+      "cell": 6
+    },
+    {
+      "id": "S044",
+      "company": "M04",
+      "kind": "body",
+      "frontPage": 3,
+      "cell": 7
+    }
+  ],
+  "pages": 4,
+  "cardSizeMm": [
+    63,
+    88
+  ]
+}

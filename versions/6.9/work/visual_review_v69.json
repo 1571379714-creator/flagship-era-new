@@ -1,0 +1,226 @@
+{
+  "version": "6.9",
+  "rulebookAll26PagesOpened": true,
+  "planningAll2PagesOpened": true,
+  "catalogAndMain": "All page contact sheets inspected; selected cards also enlarged.",
+  "reviewedImageHashes": [
+    {
+      "name": "qa/rulebook_render/page-1.png",
+      "sha256": "245444b53bd696597bdbe1ee4a15374e58a3b2dbab332ca2849c20dcc804f56b"
+    },
+    {
+      "name": "qa/rulebook_render/page-2.png",
+      "sha256": "678f6e5d24cf3465844213d28cc64f1ceb6b17d4979523ccc36afbcf276c73fc"
+    },
+    {
+      "name": "qa/rulebook_render/page-3.png",
+      "sha256": "1d03ec850c9118a4fb31260577af068e719b722c9ab5986a1d085ad3cf31cd5b"
+    },
+    {
+      "name": "qa/rulebook_render/page-4.png",
+      "sha256": "a8d2ade7cddc1a3e13667327ca4506d0e0600e062b2bcecc0dc2c0edb8d7c8e8"
+    },
+    {
+      "name": "qa/rulebook_render/page-5.png",
+      "sha256": "c88cfb7519645f839b905b4e4c89875dbd01acafadec6859dc0e3afeb88bd979"
+    },
+    {
+      "name": "qa/rulebook_render/page-6.png",
+      "sha256": "cdc598bd58c6c6a17b5de19dd3d6304b030c92aa8e44c7d8757ab8191cb9b798"
+    },
+    {
+      "name": "qa/rulebook_render/page-7.png",
+      "sha256": "2101afa1f6c93456c11f95358f279c9a5da3ebb3700588f65a79c833588e808e"
+    },
+    {
+      "name": "qa/rulebook_render/page-8.png",
+      "sha256": "f775b9b82015f7e222bf889d81fd19d05ef9b74c45e67571fed42f9fd0a6726b"
+    },
+    {
+      "name": "qa/rulebook_render/page-9.png",
+      "sha256": "b7add0f50f59bc2bcf724674cea05d740106351e4fe3ae7d9a19b18bde1fb119"
+    },
+    {
+      "name": "qa/rulebook_render/page-10.png",
+      "sha256": "d392fe31bfd39d04a879b7b243528c59062220d3b87b1ddb655fbf04e86a94d0"
+    },
+    {
+      "name": "qa/rulebook_render/page-11.png",
+      "sha256": "4b9918d9a954cc5f9e5affc405cf1a54685c07a892d7e2489b28a029cf6af3cd"
+    },
+    {
+      "name": "qa/rulebook_render/page-12.png",
+      "sha256": "bd1872464e75e65d4a968b6d2fb245dc4e352798091e8aeb10eb5e4de242226f"
+    },
+    {
+      "name": "qa/rulebook_render/page-13.png",
+      "sha256": "8e30fe456af4f3d2a8692245fbe818d5420eeda102a5bf4ea984c6114cbd3cc6"
+    },
+    {
+      "name": "qa/rulebook_render/page-14.png",
+      "sha256": "dd450ad98ba51c2b01ea175de9d2dfbd3f32b14587bcdf68ea013579c69350d0"
+    },
+    {
+      "name": "qa/rulebook_render/page-15.png",
+      "sha256": "88fdc79437745ce01e0d3f78b0850d3d63537e8ebcce8fb49ae373778cde0ea8"
+    },
+    {
+      "name": "qa/rulebook_render/page-16.png",
+      "sha256": "9b7db32c5f4b80871e341cbcccbdbf797b6893e62740ef6ebd7d69347bab5342"
+    },
+    {
+      "name": "qa/rulebook_render/page-17.png",
+      "sha256": "9822812efbaa1c6f9041f0fb48cbaefb5faa3b76b1982bb06e3888ea067d373a"
+    },
+    {
+      "name": "qa/rulebook_render/page-18.png",
+      "sha256": "74f44c4ebeb9e17a1839b86c7f7b66f82206d4bdbc78f3db63632eef786388b5"
+    },
+    {
+      "name": "qa/rulebook_render/page-19.png",
+      "sha256": "d97b7a5be88a40f0f9e3da4852e527e0255025debe0ca35b639a5973ef679999"
+    },
+    {
+      "name": "qa/rulebook_render/page-20.png",
+      "sha256": "6b9f87de9a6730f46e6b725cac449b69fab11282844138ce9c17e221125bdad2"
+    },
+    {
+      "name": "qa/rulebook_render/page-21.png",
+      "sha256": "e093b144d7320a0a30322a377e8bf32110eedd8601c4472115c83c4f4a50c6c3"
+    },
+    {
+      "name": "qa/rulebook_render/page-22.png",
+      "sha256": "2d90da40a81665d4a5d1796a8a2c3d7c404d5495bc302768d9a2fef813d377e3"
+    },
+    {
+      "name": "qa/rulebook_render/page-23.png",
+      "sha256": "74b706f004c07f367632e11e9848e54c0b4781cfe82f702c7867d7ce8ed572dc"
+    },
+    {
+      "name": "qa/rulebook_render/page-24.png",
+      "sha256": "ddaf7e6809ddac11a0935cfca247432e54cbfd198ad8c44e7dd7cc2bb9f89167"
+    },
+    {
+      "name": "qa/rulebook_render/page-25.png",
+      "sha256": "bfd5d56d461a2df03210209b9c67462882160a4c8d30ce7ab63dd61768afdca9"
+    },
+    {
+      "name": "qa/rulebook_render/page-26.png",
+      "sha256": "97dee002dd5a0dc339d747382d543bcfb2348b5cb5688e03bbdc841e99a88050"
+    },
+    {
+      "name": "qa/planning_render/page-1.png",
+      "sha256": "716b90b18995b776db3c0e7ebc8ee00b5baede1ea9e679b96cb15f969ac26431"
+    },
+    {
+      "name": "qa/planning_render/page-2.png",
+      "sha256": "b61cc7058e4a40814d9d4995f1ea596bfa5d575119c7c7c4fc47fd43e9c8ddc7"
+    },
+    {
+      "name": "qa/overviews/catalog_1.jpg",
+      "sha256": "0a9c2bbdd4b4b2873c8585bf16b1fb34ea385a81243d7c89d07b2fa140c17748"
+    },
+    {
+      "name": "qa/overviews/catalog_2.jpg",
+      "sha256": "a2c327e181afd5ac5cb6fda6900db1d4f7b61e283f565abe4310b95691bd6d68"
+    },
+    {
+      "name": "qa/overviews/catalog_3.jpg",
+      "sha256": "68c30676868913b4dd0572ec3fd11220a9d8650b6268714597631f9886465825"
+    },
+    {
+      "name": "qa/overviews/catalog_4.jpg",
+      "sha256": "ff7e63f346212375b60b07fac516bcc0cf481cb643f34d2e0decc1cc36fb981c"
+    },
+    {
+      "name": "qa/overviews/main_front_1.jpg",
+      "sha256": "9fda5d450f10d71ccbac833a24b1967154e3bb9305f036d83528659fa81fba0e"
+    },
+    {
+      "name": "qa/overviews/main_front_2.jpg",
+      "sha256": "f6cee14e3093e82635bc26aec73ef3c4013cc655546be5f1f8beedad05d849b2"
+    },
+    {
+      "name": "qa/overviews/boards_1.jpg",
+      "sha256": "244ab3b3504f83bbf5b3cd1d2fd6d68508e4baff78074be7ed14184b049d07a8"
+    },
+    {
+      "name": "qa/overviews/aids_1.jpg",
+      "sha256": "77f35ef3573aa1f37a14efe72f12bb2f6f3000b3711cad6ece2228cb4ae9b9fe"
+    },
+    {
+      "name": "qa/overviews/suppliers_1.jpg",
+      "sha256": "edaeffd2df578c5b66736e5b77a3afe009c3135a0fa4b8d5781201df24951cfb"
+    },
+    {
+      "name": "qa/overviews/reference_1.jpg",
+      "sha256": "6654828a13bfea4e551ece146657e216281ff1d1663c8333ded76436a6016087"
+    },
+    {
+      "name": "qa/overviews/numeric_page_1.png",
+      "sha256": "626be1dad1f4ecff346a534ea9b46e6f2de897a72d375a27f23ea759b6dbf67f"
+    },
+    {
+      "name": "qa/overviews/numeric_page_2.png",
+      "sha256": "7fa1cd6308a3d2c6f8a48561400af3696231363d9c29594873b5638f71fc41dc"
+    },
+    {
+      "name": "qa/overviews/numeric_page_3.png",
+      "sha256": "1754b044e8ba98a335c8bd0d155f6c74cce6d361e25914275c3e09268d3ed656"
+    },
+    {
+      "name": "qa/overviews/numeric_page_4.png",
+      "sha256": "21f33ec8e81f9479cffef99142fda3d36957cb6417c52c7729f0b630d750660e"
+    },
+    {
+      "name": "qa/overviews/numeric_page_5.png",
+      "sha256": "c58d8658f5fe7e841f3b6b1ad0b7ea4be4b28d329b8ab828ece4dd65f8168030"
+    },
+    {
+      "name": "qa/overviews/numeric_page_6.png",
+      "sha256": "99dfa2cc8afbc28b303685bd72cbdddc85efd6fc56d6246cb995551d7bda5f9e"
+    },
+    {
+      "name": "qa/overviews/numeric_page_7.png",
+      "sha256": "503b1ae07ae393845963d08d0c24dac4ba4d5a128ebbfea8aa66c39db6ffc91b"
+    },
+    {
+      "name": "qa/overviews/numeric_page_8.png",
+      "sha256": "d36e6188cd2b4626594f08d2121b3a05f9831d7b093c1cd7c52d9fecb014a361"
+    },
+    {
+      "name": "qa/overviews/numeric_page_9.png",
+      "sha256": "c12853c1f1e24596f103c00c374c0ad626d7d87a36060b9a52e350fb2931319a"
+    },
+    {
+      "name": "qa/main_C112.png",
+      "sha256": "fc4c4774a14c8dd339e8087ea021e77b2fd7c965f6ea442982574992f6601915"
+    },
+    {
+      "name": "qa/main_X102.png",
+      "sha256": "10ffc2be350ad2bc9535afac0625d8e566ffdadd106d1b1442d10dd74fe6ebe4"
+    },
+    {
+      "name": "qa/main_X113.png",
+      "sha256": "9951c73217866482140b148721bc6fa397860357560d1a41defd3472faa81641"
+    },
+    {
+      "name": "qa/main_X123.png",
+      "sha256": "62ffc4bb4f89a288e6d57f3e3b773530b022264d4d7958bcd48ce797feecb6ee"
+    },
+    {
+      "name": "qa/main_X138.png",
+      "sha256": "aef0b15bc27854544cd96332e0b2d91f5671786e66992dada469cb0f72ebde43"
+    },
+    {
+      "name": "qa/main_X151.png",
+      "sha256": "5c9250506fe83273cf67badfa947855e388be7af471024fac1ab1e16fef7350a"
+    },
+    {
+      "name": "qa/main_X160.png",
+      "sha256": "074418d98165e5561323ce5eaa7d98265f49019a92bea7e84fd189b5922b5235"
+    }
+  ],
+  "imagesIncludedInPackage": false,
+  "scope": "Layout review, not physical printer registration or proof of game balance."
+}

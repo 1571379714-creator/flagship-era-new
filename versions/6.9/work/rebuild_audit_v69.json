@@ -1,0 +1,166 @@
+{
+  "version": "6.9",
+  "independentBuild": true,
+  "files": [
+    {
+      "name": "旗舰元年_6.9_50芯片名录与特色.html",
+      "kind": ".html",
+      "exists": true,
+      "identicalBytes": true,
+      "sha256": "372862879b69707034d09586f14c47d695da5104b07e3f0f183a83dea1bc9b90"
+    },
+    {
+      "name": "旗舰元年_6.9_50芯片名录与特色.pdf",
+      "kind": ".pdf",
+      "exists": true,
+      "pages": 9,
+      "samePageCount": true,
+      "identicalPageText": true
+    },
+    {
+      "name": "旗舰元年_6.9_供应商署名与授权组件.html",
+      "kind": ".html",
+      "exists": true,
+      "identicalBytes": true,
+      "sha256": "2222432c0dcd6a55fd40b59f28e6eb98e81fccd48831225a2acb999a9861b2a1"
+    },
+    {
+      "name": "旗舰元年_6.9_供应商署名与授权组件.pdf",
+      "kind": ".pdf",
+      "exists": true,
+      "pages": 6,
+      "samePageCount": true,
+      "identicalPageText": true
+    },
+    {
+      "name": "旗舰元年_6.9_全卡牌图鉴.html",
+      "kind": ".html",
+      "exists": true,
+      "identicalBytes": true,
+      "sha256": "56baa51d40a4ed96d6151ea07ccfa83577cce9379616dd2e2da79ffba71c2652"
+    },
+    {
+      "name": "旗舰元年_6.9_全卡牌图鉴.pdf",
+      "kind": ".pdf",
+      "exists": true,
+      "pages": 76,
+      "samePageCount": true,
+      "identicalPageText": true
+    },
+    {
+      "name": "旗舰元年_6.9_初始通用配件正反面.html",
+      "kind": ".html",
+      "exists": true,
+      "identicalBytes": true,
+      "sha256": "5f89a3822a2f7a51c5b5d39cf9651d9913e8098db7e57d70d026de4eeb551312"
+    },
+    {
+      "name": "旗舰元年_6.9_初始通用配件正反面.pdf",
+      "kind": ".pdf",
+      "exists": true,
+      "pages": 4,
+      "samePageCount": true,
+      "identicalPageText": true
+    },
+    {
+      "name": "旗舰元年_6.9_参考机正反面.html",
+      "kind": ".html",
+      "exists": true,
+      "identicalBytes": true,
+      "sha256": "510b5384625d478cb7a2cb6e81469c5f6fddf8574044e78fe72e54af03f9458a"
+    },
+    {
+      "name": "旗舰元年_6.9_参考机正反面.pdf",
+      "kind": ".pdf",
+      "exists": true,
+      "pages": 10,
+      "samePageCount": true,
+      "identicalPageText": true
+    },
+    {
+      "name": "旗舰元年_6.9_完整规则书.html",
+      "kind": ".html",
+      "exists": true,
+      "identicalBytes": true,
+      "sha256": "617fc13c76fe2822fb30bc6c7d620c351938037cbb188f5c398c26b3abe476bc"
+    },
+    {
+      "name": "旗舰元年_6.9_完整规则书.pdf",
+      "kind": ".pdf",
+      "exists": true,
+      "pages": 26,
+      "samePageCount": true,
+      "identicalPageText": true
+    },
+    {
+      "name": "旗舰元年_6.9_实体组件.html",
+      "kind": ".html",
+      "exists": true,
+      "identicalBytes": true,
+      "sha256": "31111c54d34e20aeca5d274ea6516de06cfec7b05469dfe32506af4ab0d14267"
+    },
+    {
+      "name": "旗舰元年_6.9_实体组件.pdf",
+      "kind": ".pdf",
+      "exists": true,
+      "pages": 11,
+      "samePageCount": true,
+      "identicalPageText": true
+    },
+    {
+      "name": "旗舰元年_6.9_扩产组件与速查.html",
+      "kind": ".html",
+      "exists": true,
+      "identicalBytes": true,
+      "sha256": "dced97a89c6fb0e601739bb32fdc1301561b90fe1380382b3cd7c2b1eb9af6cc"
+    },
+    {
+      "name": "旗舰元年_6.9_扩产组件与速查.pdf",
+      "kind": ".pdf",
+      "exists": true,
+      "pages": 3,
+      "samePageCount": true,
+      "identicalPageText": true
+    },
+    {
+      "name": "旗舰元年_6.9_线下版图.html",
+      "kind": ".html",
+      "exists": true,
+      "identicalBytes": true,
+      "sha256": "a37cef961b927437fe9447b412f3970e0691e752c881cffd65dd715ac318db6e"
+    },
+    {
+      "name": "旗舰元年_6.9_线下版图.pdf",
+      "kind": ".pdf",
+      "exists": true,
+      "pages": 12,
+      "samePageCount": true,
+      "identicalPageText": true
+    },
+    {
+      "name": "旗舰元年_6.9_统一主牌正反面.html",
+      "kind": ".html",
+      "exists": true,
+      "identicalBytes": true,
+      "sha256": "ecc5bd0e97e8c003ed2a95ea0b1bb7885966b18834ed33145e859a9d99b31cdd"
+    },
+    {
+      "name": "旗舰元年_6.9_统一主牌正反面.pdf",
+      "kind": ".pdf",
+      "exists": true,
+      "pages": 58,
+      "samePageCount": true,
+      "identicalPageText": true
+    },
+    {
+      "name": "旗舰元年_6.9_设计规划书.pdf",
+      "kind": ".pdf",
+      "exists": true,
+      "pages": 2,
+      "samePageCount": true,
+      "identicalPageText": true
+    }
+  ],
+  "errors": [],
+  "scope": "HTML字节、PDF页数与逐页文字相同；不宣称PDF二进制逐字节相同。"
+}

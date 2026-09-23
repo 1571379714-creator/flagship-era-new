@@ -1,0 +1,4767 @@
+{
+  "version": "6.9",
+  "partWitnesses": 160,
+  "searchAttempts": 19769,
+  "assumptions": [
+    "所选配件实际可取得，芯片和技术先验已可用",
+    "所列技术均由本人自主完成，不需外部授权",
+    "工作、资金、产品位足够；不保证实际牌流或科技前置取得路径"
+  ],
+  "limits": [
+    "只验证配件数值/兼容与部分研发修正",
+    "不穷举价格、偏好、Q/H/U或全部供应关系联动"
+  ],
+  "witnesses": {
+    "C101": {
+      "parts": [
+        "C101",
+        "D101",
+        "I101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 6,
+        "load": 3,
+        "supply": 12,
+        "headroom": 9,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 15
+      }
+    },
+    "C102": {
+      "parts": [
+        "C102",
+        "D101",
+        "I101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 8,
+        "load": 4,
+        "supply": 12,
+        "headroom": 8,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 18
+      }
+    },
+    "C103": {
+      "parts": [
+        "C103",
+        "D101",
+        "I101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 7,
+        "load": 5,
+        "supply": 12,
+        "headroom": 7,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 17
+      }
+    },
+    "C104": {
+      "parts": [
+        "C104",
+        "D101",
+        "I101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 8,
+        "load": 4,
+        "supply": 12,
+        "headroom": 8,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 17
+      }
+    },
+    "C105": {
+      "parts": [
+        "C105",
+        "D101",
+        "I101",
+        "F105"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 9,
+        "load": 6,
+        "supply": 16,
+        "headroom": 10,
+        "features": [
+          "性能",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 19
+      }
+    },
+    "C106": {
+      "parts": [
+        "C106",
+        "D101",
+        "I101",
+        "F105"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 10,
+        "load": 8,
+        "supply": 16,
+        "headroom": 8,
+        "features": [
+          "性能",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 19
+      }
+    },
+    "C107": {
+      "parts": [
+        "C107",
+        "D101",
+        "I101",
+        "F105"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 10,
+        "load": 5,
+        "supply": 16,
+        "headroom": 11,
+        "features": [
+          "性能",
+          "生态",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 21
+      }
+    },
+    "C108": {
+      "parts": [
+        "C108",
+        "D101",
+        "I101",
+        "F105"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 11,
+        "load": 5,
+        "supply": 16,
+        "headroom": 11,
+        "features": [
+          "性能",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 23
+      }
+    },
+    "C109": {
+      "parts": [
+        "C109",
+        "D101",
+        "I101",
+        "F109"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 11,
+        "load": 5,
+        "supply": 18,
+        "headroom": 13,
+        "features": [
+          "性能",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 20
+      }
+    },
+    "C110": {
+      "parts": [
+        "C110",
+        "D101",
+        "I101",
+        "F109"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 12,
+        "load": 8,
+        "supply": 18,
+        "headroom": 10,
+        "features": [
+          "性能",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 22
+      }
+    },
+    "C111": {
+      "parts": [
+        "C111",
+        "D101",
+        "I101",
+        "F109"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 13,
+        "load": 6,
+        "supply": 18,
+        "headroom": 12,
+        "features": [
+          "性能",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 24
+      }
+    },
+    "C112": {
+      "parts": [
+        "C112",
+        "D101",
+        "I101",
+        "F109"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 9,
+        "load": 3,
+        "supply": 18,
+        "headroom": 15,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [
+          "office"
+        ],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 18
+      }
+    },
+    "C113": {
+      "parts": [
+        "C113",
+        "D101",
+        "I101",
+        "F113"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 12,
+        "load": 5,
+        "supply": 20,
+        "headroom": 15,
+        "features": [
+          "性能",
+          "续航",
+          "耐候"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 23
+      }
+    },
+    "C114": {
+      "parts": [
+        "C114",
+        "D101",
+        "I101",
+        "F113"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 14,
+        "load": 6,
+        "supply": 20,
+        "headroom": 14,
+        "features": [
+          "性能",
+          "续航",
+          "耐候"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 26
+      }
+    },
+    "C115": {
+      "parts": [
+        "C115",
+        "D101",
+        "I101",
+        "F113"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 15,
+        "load": 5,
+        "supply": 20,
+        "headroom": 15,
+        "features": [
+          "性能",
+          "续航",
+          "耐候"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 30
+      }
+    },
+    "C116": {
+      "parts": [
+        "C116",
+        "D101",
+        "I101",
+        "F113"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 14,
+        "load": 7,
+        "supply": 20,
+        "headroom": 13,
+        "features": [
+          "性能",
+          "续航",
+          "耐候"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 27
+      }
+    },
+    "C117": {
+      "parts": [
+        "C117",
+        "D101",
+        "I101",
+        "F117"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 16,
+        "load": 6,
+        "supply": 20,
+        "headroom": 14,
+        "features": [
+          "性能",
+          "生态",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 27
+      }
+    },
+    "C118": {
+      "parts": [
+        "C118",
+        "D101",
+        "I101",
+        "F117"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 18,
+        "load": 5,
+        "supply": 20,
+        "headroom": 15,
+        "features": [
+          "性能",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 32
+      }
+    },
+    "C119": {
+      "parts": [
+        "C119",
+        "D101",
+        "I101",
+        "F117"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 17,
+        "load": 6,
+        "supply": 20,
+        "headroom": 14,
+        "features": [
+          "性能",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 29
+      }
+    },
+    "C120": {
+      "parts": [
+        "C120",
+        "D101",
+        "I101",
+        "F117"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 18,
+        "load": 5,
+        "supply": 20,
+        "headroom": 15,
+        "features": [
+          "性能",
+          "生态",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 33
+      }
+    },
+    "D101": {
+      "parts": [
+        "D101",
+        "S011",
+        "I101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 5,
+        "load": 2,
+        "supply": 12,
+        "headroom": 10,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 15
+      }
+    },
+    "D102": {
+      "parts": [
+        "D102",
+        "S011",
+        "I101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 6,
+        "load": 3,
+        "supply": 12,
+        "headroom": 9,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 16
+      }
+    },
+    "D103": {
+      "parts": [
+        "D103",
+        "S011",
+        "I101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 7,
+        "load": 4,
+        "supply": 12,
+        "headroom": 8,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 17
+      }
+    },
+    "D104": {
+      "parts": [
+        "D104",
+        "S011",
+        "I101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 8,
+        "load": 5,
+        "supply": 12,
+        "headroom": 7,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 18
+      }
+    },
+    "D105": {
+      "parts": [
+        "D105",
+        "S011",
+        "I101",
+        "F105"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 8,
+        "load": 4,
+        "supply": 16,
+        "headroom": 12,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 18
+      }
+    },
+    "D106": {
+      "parts": [
+        "D106",
+        "S011",
+        "I101",
+        "F105"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 9,
+        "load": 5,
+        "supply": 16,
+        "headroom": 11,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 19
+      }
+    },
+    "D107": {
+      "parts": [
+        "D107",
+        "S011",
+        "I101",
+        "F105"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 8,
+        "load": 6,
+        "supply": 16,
+        "headroom": 10,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 17
+      }
+    },
+    "D108": {
+      "parts": [
+        "D108",
+        "S011",
+        "I101",
+        "F108"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 12,
+        "load": 7,
+        "supply": 10,
+        "headroom": 3,
+        "features": [
+          "折叠"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 23
+      }
+    },
+    "D109": {
+      "parts": [
+        "D109",
+        "S011",
+        "I101",
+        "F109"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 11,
+        "load": 6,
+        "supply": 18,
+        "headroom": 12,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 20
+      }
+    },
+    "D110": {
+      "parts": [
+        "D110",
+        "S011",
+        "I101",
+        "F109"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 11,
+        "load": 5,
+        "supply": 18,
+        "headroom": 13,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 22
+      }
+    },
+    "D111": {
+      "parts": [
+        "D111",
+        "S011",
+        "I101",
+        "F109"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 10,
+        "load": 7,
+        "supply": 18,
+        "headroom": 11,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 19
+      }
+    },
+    "D112": {
+      "parts": [
+        "D112",
+        "S011",
+        "I101",
+        "F112"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 14,
+        "load": 7,
+        "supply": 14,
+        "headroom": 7,
+        "features": [
+          "折叠",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 25
+      }
+    },
+    "D113": {
+      "parts": [
+        "D113",
+        "S011",
+        "I101",
+        "F113"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 12,
+        "load": 4,
+        "supply": 20,
+        "headroom": 16,
+        "features": [
+          "续航",
+          "耐候"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 23
+      }
+    },
+    "D114": {
+      "parts": [
+        "D114",
+        "S011",
+        "I101",
+        "F113"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 13,
+        "load": 6,
+        "supply": 20,
+        "headroom": 14,
+        "features": [
+          "续航",
+          "耐候"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 24
+      }
+    },
+    "D115": {
+      "parts": [
+        "D115",
+        "S011",
+        "I101",
+        "F113"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 12,
+        "load": 5,
+        "supply": 20,
+        "headroom": 15,
+        "features": [
+          "续航",
+          "耐候"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 22
+      }
+    },
+    "D116": {
+      "parts": [
+        "D116",
+        "S011",
+        "I101",
+        "F116"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 16,
+        "load": 6,
+        "supply": 16,
+        "headroom": 10,
+        "features": [
+          "折叠",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 27
+      }
+    },
+    "D117": {
+      "parts": [
+        "D117",
+        "S011",
+        "I101",
+        "F117"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 15,
+        "load": 5,
+        "supply": 20,
+        "headroom": 15,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 25
+      }
+    },
+    "D118": {
+      "parts": [
+        "D118",
+        "S011",
+        "I101",
+        "F117"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 15,
+        "load": 4,
+        "supply": 20,
+        "headroom": 16,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 25
+      }
+    },
+    "D119": {
+      "parts": [
+        "D119",
+        "S011",
+        "I101",
+        "F117"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 16,
+        "load": 7,
+        "supply": 20,
+        "headroom": 13,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 27
+      }
+    },
+    "D120": {
+      "parts": [
+        "D120",
+        "S011",
+        "I101",
+        "F120"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 18,
+        "load": 5,
+        "supply": 18,
+        "headroom": 13,
+        "features": [
+          "折叠",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 30
+      }
+    },
+    "I101": {
+      "parts": [
+        "I101",
+        "S011",
+        "D101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 5,
+        "load": 2,
+        "supply": 12,
+        "headroom": 10,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 15
+      }
+    },
+    "I102": {
+      "parts": [
+        "I102",
+        "S011",
+        "D101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 6,
+        "load": 3,
+        "supply": 12,
+        "headroom": 9,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 16
+      }
+    },
+    "I103": {
+      "parts": [
+        "I103",
+        "S011",
+        "D101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 7,
+        "load": 4,
+        "supply": 12,
+        "headroom": 8,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 17
+      }
+    },
+    "I104": {
+      "parts": [
+        "I104",
+        "S011",
+        "D101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 8,
+        "load": 5,
+        "supply": 12,
+        "headroom": 7,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 18
+      }
+    },
+    "I105": {
+      "parts": [
+        "I105",
+        "S011",
+        "D101",
+        "F105"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 8,
+        "load": 4,
+        "supply": 16,
+        "headroom": 12,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 18
+      }
+    },
+    "I106": {
+      "parts": [
+        "I106",
+        "S011",
+        "D101",
+        "F105"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 9,
+        "load": 5,
+        "supply": 16,
+        "headroom": 11,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 19
+      }
+    },
+    "I107": {
+      "parts": [
+        "I107",
+        "S011",
+        "D101",
+        "F105"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 9,
+        "load": 6,
+        "supply": 16,
+        "headroom": 10,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 19
+      }
+    },
+    "I108": {
+      "parts": [
+        "I108",
+        "C102",
+        "D101",
+        "F105"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 13,
+        "load": 9,
+        "supply": 16,
+        "headroom": 7,
+        "features": [
+          "影像",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 24
+      }
+    },
+    "I109": {
+      "parts": [
+        "I109",
+        "S011",
+        "D101",
+        "F109"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 11,
+        "load": 4,
+        "supply": 18,
+        "headroom": 14,
+        "features": [
+          "影像",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 20
+      }
+    },
+    "I110": {
+      "parts": [
+        "I110",
+        "S011",
+        "D101",
+        "F109"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 12,
+        "load": 6,
+        "supply": 18,
+        "headroom": 12,
+        "features": [
+          "影像",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 22
+      }
+    },
+    "I111": {
+      "parts": [
+        "I111",
+        "C108",
+        "D101",
+        "F109"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 18,
+        "load": 10,
+        "supply": 18,
+        "headroom": 8,
+        "features": [
+          "影像",
+          "性能",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 30
+      }
+    },
+    "I112": {
+      "parts": [
+        "I112",
+        "S011",
+        "D101",
+        "F109"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 11,
+        "load": 5,
+        "supply": 18,
+        "headroom": 13,
+        "features": [
+          "影像",
+          "生态",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 21
+      }
+    },
+    "I113": {
+      "parts": [
+        "I113",
+        "C115",
+        "D101",
+        "F113"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 23,
+        "load": 11,
+        "supply": 20,
+        "headroom": 9,
+        "features": [
+          "影像",
+          "性能",
+          "续航",
+          "耐候"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 38
+      }
+    },
+    "I114": {
+      "parts": [
+        "I114",
+        "S011",
+        "D101",
+        "F113"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 13,
+        "load": 6,
+        "supply": 20,
+        "headroom": 14,
+        "features": [
+          "影像",
+          "续航",
+          "耐候"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 24
+      }
+    },
+    "I115": {
+      "parts": [
+        "I115",
+        "C115",
+        "D101",
+        "F113"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 22,
+        "load": 10,
+        "supply": 20,
+        "headroom": 10,
+        "features": [
+          "影像",
+          "性能",
+          "续航",
+          "耐候"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 37
+      }
+    },
+    "I116": {
+      "parts": [
+        "I116",
+        "S011",
+        "D101",
+        "F113"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 12,
+        "load": 4,
+        "supply": 20,
+        "headroom": 16,
+        "features": [
+          "影像",
+          "续航",
+          "耐候"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 23
+      }
+    },
+    "I117": {
+      "parts": [
+        "I117",
+        "S011",
+        "D101",
+        "F117"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 16,
+        "load": 6,
+        "supply": 20,
+        "headroom": 14,
+        "features": [
+          "影像",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 26
+      }
+    },
+    "I118": {
+      "parts": [
+        "I118",
+        "C118",
+        "D101",
+        "F117"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 27,
+        "load": 11,
+        "supply": 20,
+        "headroom": 9,
+        "features": [
+          "影像",
+          "性能",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 41
+      }
+    },
+    "I119": {
+      "parts": [
+        "I119",
+        "S011",
+        "D101",
+        "F117"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 15,
+        "load": 4,
+        "supply": 20,
+        "headroom": 16,
+        "features": [
+          "影像",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 25
+      }
+    },
+    "I120": {
+      "parts": [
+        "I120",
+        "S011",
+        "D101",
+        "F117"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 16,
+        "load": 7,
+        "supply": 20,
+        "headroom": 13,
+        "features": [
+          "影像",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 27
+      }
+    },
+    "F101": {
+      "parts": [
+        "F101",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 4,
+        "load": 2,
+        "supply": 10,
+        "headroom": 8,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 13
+      }
+    },
+    "F102": {
+      "parts": [
+        "F102",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 6,
+        "load": 2,
+        "supply": 7,
+        "headroom": 5,
+        "features": [
+          "续航",
+          "轻薄"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 15
+      }
+    },
+    "F103": {
+      "parts": [
+        "F103",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 5,
+        "load": 2,
+        "supply": 12,
+        "headroom": 10,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 15
+      }
+    },
+    "F104": {
+      "parts": [
+        "F104",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 8,
+        "load": 2,
+        "supply": 9,
+        "headroom": 7,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 17
+      }
+    },
+    "F105": {
+      "parts": [
+        "F105",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 5,
+        "load": 2,
+        "supply": 16,
+        "headroom": 14,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 16
+      }
+    },
+    "F106": {
+      "parts": [
+        "F106",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 8,
+        "load": 2,
+        "supply": 9,
+        "headroom": 7,
+        "features": [
+          "续航",
+          "轻薄"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 17
+      }
+    },
+    "F107": {
+      "parts": [
+        "F107",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 6,
+        "load": 2,
+        "supply": 14,
+        "headroom": 12,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 16
+      }
+    },
+    "F108": {
+      "parts": [
+        "F108",
+        "S011",
+        "D108",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 12,
+        "load": 7,
+        "supply": 10,
+        "headroom": 3,
+        "features": [
+          "折叠"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 23
+      }
+    },
+    "F109": {
+      "parts": [
+        "F109",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 6,
+        "load": 2,
+        "supply": 18,
+        "headroom": 16,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 17
+      }
+    },
+    "F110": {
+      "parts": [
+        "F110",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 9,
+        "load": 2,
+        "supply": 12,
+        "headroom": 10,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 18
+      }
+    },
+    "F111": {
+      "parts": [
+        "F111",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 10,
+        "load": 2,
+        "supply": 10,
+        "headroom": 8,
+        "features": [
+          "续航",
+          "轻薄"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 18
+      }
+    },
+    "F112": {
+      "parts": [
+        "F112",
+        "S011",
+        "D112",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 14,
+        "load": 7,
+        "supply": 14,
+        "headroom": 7,
+        "features": [
+          "折叠",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 25
+      }
+    },
+    "F113": {
+      "parts": [
+        "F113",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 6,
+        "load": 2,
+        "supply": 20,
+        "headroom": 18,
+        "features": [
+          "续航",
+          "耐候"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 18
+      }
+    },
+    "F114": {
+      "parts": [
+        "F114",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 10,
+        "load": 2,
+        "supply": 12,
+        "headroom": 10,
+        "features": [
+          "续航",
+          "轻薄"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 18
+      }
+    },
+    "F115": {
+      "parts": [
+        "F115",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 11,
+        "load": 2,
+        "supply": 14,
+        "headroom": 12,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 20
+      }
+    },
+    "F116": {
+      "parts": [
+        "F116",
+        "S011",
+        "D116",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 16,
+        "load": 6,
+        "supply": 16,
+        "headroom": 10,
+        "features": [
+          "折叠",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 27
+      }
+    },
+    "F117": {
+      "parts": [
+        "F117",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 8,
+        "load": 2,
+        "supply": 20,
+        "headroom": 18,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 19
+      }
+    },
+    "F118": {
+      "parts": [
+        "F118",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 11,
+        "load": 2,
+        "supply": 14,
+        "headroom": 12,
+        "features": [
+          "续航",
+          "轻薄"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 20
+      }
+    },
+    "F119": {
+      "parts": [
+        "F119",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 9,
+        "load": 2,
+        "supply": 18,
+        "headroom": 16,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 19
+      }
+    },
+    "F120": {
+      "parts": [
+        "F120",
+        "S011",
+        "D120",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 18,
+        "load": 5,
+        "supply": 18,
+        "headroom": 13,
+        "features": [
+          "折叠",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 30
+      }
+    },
+    "X101": {
+      "parts": [
+        "X101",
+        "D101",
+        "I101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 9,
+        "load": 5,
+        "supply": 12,
+        "headroom": 7,
+        "features": [
+          "性能",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 20
+      }
+    },
+    "X102": {
+      "parts": [
+        "X102",
+        "D101",
+        "I101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 5,
+        "load": 3,
+        "supply": 12,
+        "headroom": 9,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 5,
+        "cost": 11
+      }
+    },
+    "X103": {
+      "parts": [
+        "X103",
+        "S011",
+        "I101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 9,
+        "load": 3,
+        "supply": 12,
+        "headroom": 9,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 18
+      }
+    },
+    "X104": {
+      "parts": [
+        "X104",
+        "S011",
+        "I101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 10,
+        "load": 4,
+        "supply": 12,
+        "headroom": 8,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 19
+      }
+    },
+    "X105": {
+      "parts": [
+        "X105",
+        "S011",
+        "D101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 9,
+        "load": 3,
+        "supply": 12,
+        "headroom": 9,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 18
+      }
+    },
+    "X106": {
+      "parts": [
+        "X106",
+        "S011",
+        "D101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 10,
+        "load": 4,
+        "supply": 12,
+        "headroom": 8,
+        "features": [
+          "影像",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 19
+      }
+    },
+    "X107": {
+      "parts": [
+        "X107",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 8,
+        "load": 2,
+        "supply": 15,
+        "headroom": 13,
+        "features": [
+          "续航",
+          "耐候"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 16
+      }
+    },
+    "X108": {
+      "parts": [
+        "X108",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 9,
+        "load": 2,
+        "supply": 10,
+        "headroom": 8,
+        "features": [
+          "续航",
+          "轻薄"
+        ],
+        "bonuses": {
+          "mass": 2,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 16
+      }
+    },
+    "X109": {
+      "parts": [
+        "X109",
+        "I101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 13,
+        "load": 7,
+        "supply": 12,
+        "headroom": 5,
+        "features": [
+          "性能",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 21
+      }
+    },
+    "X110": {
+      "parts": [
+        "X110",
+        "D101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 14,
+        "load": 6,
+        "supply": 12,
+        "headroom": 6,
+        "features": [
+          "性能",
+          "生态",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 25
+      }
+    },
+    "X111": {
+      "parts": [
+        "X111",
+        "S011",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 11,
+        "load": 3,
+        "supply": 15,
+        "headroom": 12,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 6,
+        "cost": 17
+      }
+    },
+    "X112": {
+      "parts": [
+        "X112",
+        "S011"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 16,
+        "load": 6,
+        "supply": 10,
+        "headroom": 4,
+        "features": [
+          "续航",
+          "轻薄"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 24
+      }
+    },
+    "X113": {
+      "parts": [
+        "X113",
+        "D101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 15,
+        "load": 5,
+        "supply": 15,
+        "headroom": 10,
+        "features": [
+          "影像",
+          "性能",
+          "生态",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 24
+      }
+    },
+    "X114": {
+      "parts": [
+        "X114"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 21,
+        "load": 8,
+        "supply": 10,
+        "headroom": 2,
+        "features": [
+          "性能",
+          "生态",
+          "轻薄"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 30
+      }
+    },
+    "X115": {
+      "parts": [
+        "X115",
+        "D101",
+        "I101",
+        "F105"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 10,
+        "load": 5,
+        "supply": 16,
+        "headroom": 11,
+        "features": [
+          "性能",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 21
+      }
+    },
+    "X116": {
+      "parts": [
+        "X116",
+        "S011",
+        "I101",
+        "F105"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 11,
+        "load": 4,
+        "supply": 16,
+        "headroom": 12,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 21
+      }
+    },
+    "X117": {
+      "parts": [
+        "X117",
+        "S011",
+        "D101",
+        "F105"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 10,
+        "load": 3,
+        "supply": 16,
+        "headroom": 13,
+        "features": [
+          "影像",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 20
+      }
+    },
+    "X118": {
+      "parts": [
+        "X118",
+        "S011",
+        "D101",
+        "F105"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 11,
+        "load": 4,
+        "supply": 16,
+        "headroom": 12,
+        "features": [
+          "影像",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 21
+      }
+    },
+    "X119": {
+      "parts": [
+        "X119",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 9,
+        "load": 2,
+        "supply": 17,
+        "headroom": 15,
+        "features": [
+          "续航",
+          "耐候"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 17
+      }
+    },
+    "X120": {
+      "parts": [
+        "X120",
+        "I101",
+        "F105"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 15,
+        "load": 6,
+        "supply": 16,
+        "headroom": 10,
+        "features": [
+          "性能",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 25
+      }
+    },
+    "X121": {
+      "parts": [
+        "X121",
+        "S011",
+        "F105"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 15,
+        "load": 4,
+        "supply": 16,
+        "headroom": 12,
+        "features": [
+          "影像",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 24
+      }
+    },
+    "X122": {
+      "parts": [
+        "X122",
+        "S011",
+        "D101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 14,
+        "load": 4,
+        "supply": 12,
+        "headroom": 8,
+        "features": [
+          "影像",
+          "续航",
+          "轻薄"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 6,
+        "cost": 20
+      }
+    },
+    "X123": {
+      "parts": [
+        "X123",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 14,
+        "load": 4,
+        "supply": 17,
+        "headroom": 13,
+        "features": [
+          "性能",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 24
+      }
+    },
+    "X124": {
+      "parts": [
+        "X124",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 19,
+        "load": 9,
+        "supply": 12,
+        "headroom": 3,
+        "features": [
+          "性能",
+          "生态",
+          "轻薄"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 26
+      }
+    },
+    "X125": {
+      "parts": [
+        "X125"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 24,
+        "load": 8,
+        "supply": 15,
+        "headroom": 7,
+        "features": [
+          "安全",
+          "影像",
+          "性能",
+          "折叠",
+          "生态",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 35
+      }
+    },
+    "X126": {
+      "parts": [
+        "X126"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 2,
+      "result": {
+        "base": 26,
+        "load": 8,
+        "supply": 12,
+        "headroom": 4,
+        "features": [
+          "影像",
+          "性能",
+          "生态",
+          "续航",
+          "轻薄"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 35
+      }
+    },
+    "X127": {
+      "parts": [
+        "X127",
+        "D101",
+        "I101",
+        "F109"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 13,
+        "load": 4,
+        "supply": 18,
+        "headroom": 14,
+        "features": [
+          "性能",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 26
+      }
+    },
+    "X128": {
+      "parts": [
+        "X128",
+        "D101",
+        "I101",
+        "F109"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 12,
+        "load": 8,
+        "supply": 18,
+        "headroom": 10,
+        "features": [
+          "性能",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 22
+      }
+    },
+    "X129": {
+      "parts": [
+        "X129",
+        "S011",
+        "I101",
+        "F112"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 15,
+        "load": 5,
+        "supply": 14,
+        "headroom": 9,
+        "features": [
+          "折叠",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 25
+      }
+    },
+    "X130": {
+      "parts": [
+        "X130",
+        "S011",
+        "D101",
+        "F109"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 13,
+        "load": 5,
+        "supply": 18,
+        "headroom": 13,
+        "features": [
+          "影像",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 23
+      }
+    },
+    "X131": {
+      "parts": [
+        "X131",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 10,
+        "load": 2,
+        "supply": 19,
+        "headroom": 17,
+        "features": [
+          "续航",
+          "耐候"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 18
+      }
+    },
+    "X132": {
+      "parts": [
+        "X132",
+        "S011",
+        "D112",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 15,
+        "load": 7,
+        "supply": 15,
+        "headroom": 8,
+        "features": [
+          "折叠",
+          "续航",
+          "轻薄"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 25
+      }
+    },
+    "X133": {
+      "parts": [
+        "X133",
+        "S011",
+        "F109"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 18,
+        "load": 6,
+        "supply": 18,
+        "headroom": 12,
+        "features": [
+          "影像",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 27
+      }
+    },
+    "X134": {
+      "parts": [
+        "X134",
+        "S011",
+        "D101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 16,
+        "load": 5,
+        "supply": 14,
+        "headroom": 9,
+        "features": [
+          "影像",
+          "续航",
+          "轻薄"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 6,
+        "cost": 22
+      }
+    },
+    "X135": {
+      "parts": [
+        "X135",
+        "F109"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 26,
+        "load": 10,
+        "supply": 18,
+        "headroom": 8,
+        "features": [
+          "影像",
+          "性能",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 36
+      }
+    },
+    "X136": {
+      "parts": [
+        "X136",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 24,
+        "load": 8,
+        "supply": 14,
+        "headroom": 6,
+        "features": [
+          "性能",
+          "续航",
+          "轻薄"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 35
+      }
+    },
+    "X137": {
+      "parts": [
+        "X137"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 28,
+        "load": 8,
+        "supply": 19,
+        "headroom": 11,
+        "features": [
+          "影像",
+          "性能",
+          "生态",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 37
+      }
+    },
+    "X138": {
+      "parts": [
+        "X138"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 3,
+      "result": {
+        "base": 29,
+        "load": 11,
+        "supply": 15,
+        "headroom": 4,
+        "features": [
+          "影像",
+          "性能",
+          "折叠",
+          "生态",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 42
+      }
+    },
+    "X139": {
+      "parts": [
+        "X139",
+        "D101",
+        "I101",
+        "F113"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 11,
+        "load": 6,
+        "supply": 20,
+        "headroom": 14,
+        "features": [
+          "性能",
+          "续航",
+          "耐候"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 21
+      }
+    },
+    "X140": {
+      "parts": [
+        "X140",
+        "S011",
+        "I101",
+        "F113"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 14,
+        "load": 6,
+        "supply": 20,
+        "headroom": 14,
+        "features": [
+          "续航",
+          "耐候"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 25
+      }
+    },
+    "X141": {
+      "parts": [
+        "X141",
+        "S011",
+        "I101",
+        "F113"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 13,
+        "load": 5,
+        "supply": 20,
+        "headroom": 15,
+        "features": [
+          "续航",
+          "耐候"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 24
+      }
+    },
+    "X142": {
+      "parts": [
+        "X142",
+        "S011",
+        "D101",
+        "F113"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 14,
+        "load": 6,
+        "supply": 20,
+        "headroom": 14,
+        "features": [
+          "影像",
+          "续航",
+          "耐候"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 25
+      }
+    },
+    "X143": {
+      "parts": [
+        "X143",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 11,
+        "load": 2,
+        "supply": 21,
+        "headroom": 19,
+        "features": [
+          "续航",
+          "耐候"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 19
+      }
+    },
+    "X144": {
+      "parts": [
+        "X144",
+        "I101",
+        "F113"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 20,
+        "load": 10,
+        "supply": 20,
+        "headroom": 10,
+        "features": [
+          "性能",
+          "生态",
+          "续航",
+          "耐候"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 32
+      }
+    },
+    "X145": {
+      "parts": [
+        "X145",
+        "S011",
+        "F113"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 20,
+        "load": 8,
+        "supply": 20,
+        "headroom": 12,
+        "features": [
+          "影像",
+          "续航",
+          "耐候"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 30
+      }
+    },
+    "X146": {
+      "parts": [
+        "X146",
+        "S011",
+        "D101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 18,
+        "load": 6,
+        "supply": 16,
+        "headroom": 10,
+        "features": [
+          "影像",
+          "续航",
+          "轻薄"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 6,
+        "cost": 24
+      }
+    },
+    "X147": {
+      "parts": [
+        "X147",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 18,
+        "load": 6,
+        "supply": 21,
+        "headroom": 15,
+        "features": [
+          "性能",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 29
+      }
+    },
+    "X148": {
+      "parts": [
+        "X148",
+        "D101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 27,
+        "load": 10,
+        "supply": 16,
+        "headroom": 6,
+        "features": [
+          "影像",
+          "性能",
+          "续航",
+          "轻薄"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 4,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 37
+      }
+    },
+    "X149": {
+      "parts": [
+        "X149"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 32,
+        "load": 13,
+        "supply": 19,
+        "headroom": 6,
+        "features": [
+          "影像",
+          "性能",
+          "折叠",
+          "生态",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 43
+      }
+    },
+    "X150": {
+      "parts": [
+        "X150"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 4,
+      "result": {
+        "base": 34,
+        "load": 13,
+        "supply": 16,
+        "headroom": 3,
+        "features": [
+          "影像",
+          "性能",
+          "生态",
+          "轻薄"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 44
+      }
+    },
+    "X151": {
+      "parts": [
+        "X151",
+        "D101",
+        "I101",
+        "F117"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 18,
+        "load": 5,
+        "supply": 20,
+        "headroom": 15,
+        "features": [
+          "性能",
+          "生态",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 32
+      }
+    },
+    "X152": {
+      "parts": [
+        "X152",
+        "D101",
+        "I101",
+        "F117"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 18,
+        "load": 6,
+        "supply": 20,
+        "headroom": 14,
+        "features": [
+          "性能",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 1,
+        "assemblyFee": 8,
+        "cost": 33
+      }
+    },
+    "X153": {
+      "parts": [
+        "X153",
+        "S011",
+        "I101",
+        "F120"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 19,
+        "load": 7,
+        "supply": 18,
+        "headroom": 11,
+        "features": [
+          "折叠",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 30
+      }
+    },
+    "X154": {
+      "parts": [
+        "X154",
+        "S011",
+        "I101",
+        "F117"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 17,
+        "load": 7,
+        "supply": 20,
+        "headroom": 13,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 28
+      }
+    },
+    "X155": {
+      "parts": [
+        "X155",
+        "S011",
+        "D101",
+        "F117"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 16,
+        "load": 6,
+        "supply": 20,
+        "headroom": 14,
+        "features": [
+          "影像",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 26
+      }
+    },
+    "X156": {
+      "parts": [
+        "X156",
+        "C118",
+        "D101",
+        "F117"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 27,
+        "load": 10,
+        "supply": 20,
+        "headroom": 10,
+        "features": [
+          "影像",
+          "性能",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 3,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 1,
+        "assemblyFee": 8,
+        "cost": 40
+      }
+    },
+    "X157": {
+      "parts": [
+        "X157",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 12,
+        "load": 2,
+        "supply": 23,
+        "headroom": 21,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 20
+      }
+    },
+    "X158": {
+      "parts": [
+        "X158",
+        "S011",
+        "D120",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 19,
+        "load": 5,
+        "supply": 19,
+        "headroom": 14,
+        "features": [
+          "折叠",
+          "续航",
+          "轻薄"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 29
+      }
+    },
+    "X159": {
+      "parts": [
+        "X159",
+        "I101",
+        "F117"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 26,
+        "load": 9,
+        "supply": 20,
+        "headroom": 11,
+        "features": [
+          "性能",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 1,
+        "assemblyFee": 8,
+        "cost": 39
+      }
+    },
+    "X160": {
+      "parts": [
+        "X160",
+        "D101",
+        "F117"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 25,
+        "load": 11,
+        "supply": 20,
+        "headroom": 9,
+        "features": [
+          "影像",
+          "性能",
+          "生态",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 38
+      }
+    },
+    "X161": {
+      "parts": [
+        "X161",
+        "S011",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 19,
+        "load": 7,
+        "supply": 21,
+        "headroom": 14,
+        "features": [
+          "折叠",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 5,
+        "cost": 26
+      }
+    },
+    "X162": {
+      "parts": [
+        "X162",
+        "S011"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 28,
+        "load": 12,
+        "supply": 18,
+        "headroom": 6,
+        "features": [
+          "影像",
+          "续航",
+          "轻薄"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 36
+      }
+    },
+    "X163": {
+      "parts": [
+        "X163",
+        "D101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 30,
+        "load": 10,
+        "supply": 21,
+        "headroom": 11,
+        "features": [
+          "影像",
+          "性能",
+          "生态",
+          "续航",
+          "轻薄"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 4
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 39
+      }
+    },
+    "X164": {
+      "parts": [
+        "X164"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 5,
+      "result": {
+        "base": 38,
+        "load": 15,
+        "supply": 18,
+        "headroom": 3,
+        "features": [
+          "影像",
+          "性能",
+          "生态",
+          "轻薄"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 1,
+        "assemblyFee": 8,
+        "cost": 47
+      }
+    },
+    "S011": {
+      "parts": [
+        "S011",
+        "D101",
+        "I101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 5,
+        "load": 2,
+        "supply": 12,
+        "headroom": 10,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 15
+      }
+    },
+    "S012": {
+      "parts": [
+        "S012",
+        "S011",
+        "I101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 4,
+        "load": 2,
+        "supply": 12,
+        "headroom": 10,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 15
+      }
+    },
+    "S013": {
+      "parts": [
+        "S013",
+        "S011",
+        "D101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 6,
+        "load": 4,
+        "supply": 12,
+        "headroom": 8,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 15
+      }
+    },
+    "S014": {
+      "parts": [
+        "S014",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 4,
+        "load": 2,
+        "supply": 8,
+        "headroom": 6,
+        "features": [
+          "续航",
+          "轻薄"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 13
+      }
+    },
+    "S021": {
+      "parts": [
+        "S021",
+        "D101",
+        "I101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 5,
+        "load": 2,
+        "supply": 12,
+        "headroom": 10,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 14
+      }
+    },
+    "S022": {
+      "parts": [
+        "S022",
+        "S011",
+        "I101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 4,
+        "load": 2,
+        "supply": 12,
+        "headroom": 10,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 15
+      }
+    },
+    "S023": {
+      "parts": [
+        "S023",
+        "S011",
+        "D101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 6,
+        "load": 4,
+        "supply": 12,
+        "headroom": 8,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 16
+      }
+    },
+    "S024": {
+      "parts": [
+        "S024",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 4,
+        "load": 2,
+        "supply": 8,
+        "headroom": 6,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 13
+      }
+    },
+    "S031": {
+      "parts": [
+        "S031",
+        "D101",
+        "I101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 5,
+        "load": 2,
+        "supply": 12,
+        "headroom": 10,
+        "features": [
+          "生态",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 14
+      }
+    },
+    "S032": {
+      "parts": [
+        "S032",
+        "S011",
+        "I101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 4,
+        "load": 2,
+        "supply": 12,
+        "headroom": 10,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 15
+      }
+    },
+    "S033": {
+      "parts": [
+        "S033",
+        "S011",
+        "D101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 4,
+        "load": 2,
+        "supply": 12,
+        "headroom": 10,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 15
+      }
+    },
+    "S034": {
+      "parts": [
+        "S034",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 6,
+        "load": 2,
+        "supply": 6,
+        "headroom": 4,
+        "features": [
+          "续航",
+          "轻薄"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 14
+      }
+    },
+    "S041": {
+      "parts": [
+        "S041",
+        "D101",
+        "I101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 5,
+        "load": 2,
+        "supply": 12,
+        "headroom": 10,
+        "features": [
+          "生态",
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 15
+      }
+    },
+    "S042": {
+      "parts": [
+        "S042",
+        "S011",
+        "I101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 4,
+        "load": 2,
+        "supply": 12,
+        "headroom": 10,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 15
+      }
+    },
+    "S043": {
+      "parts": [
+        "S043",
+        "S011",
+        "D101",
+        "F103"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 6,
+        "load": 4,
+        "supply": 12,
+        "headroom": 8,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 15
+      }
+    },
+    "S044": {
+      "parts": [
+        "S044",
+        "S011",
+        "D101",
+        "I101"
+      ],
+      "ownPrivateTechnologies": [],
+      "era": 1,
+      "result": {
+        "base": 4,
+        "load": 2,
+        "supply": 10,
+        "headroom": 8,
+        "features": [
+          "续航"
+        ],
+        "bonuses": {
+          "mass": 0,
+          "gaming": 0,
+          "photo": 0,
+          "office": 0
+        },
+        "permits": [],
+        "slots": 0,
+        "assemblyFee": 8,
+        "cost": 13
+      }
+    }
+  }
+}

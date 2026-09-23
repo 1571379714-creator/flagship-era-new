@@ -1,0 +1,52 @@
+{
+  "views": [
+    {
+      "id": "release",
+      "title": "共同发布"
+    },
+    {
+      "id": "main",
+      "title": "唯一公开牌市"
+    },
+    {
+      "id": "library",
+      "title": "公司稳定配件库"
+    },
+    {
+      "id": "product",
+      "title": "单批产品面板"
+    },
+    {
+      "id": "dest",
+      "title": "秘密投放"
+    },
+    {
+      "id": "research",
+      "title": "研究、合同与世代"
+    },
+    {
+      "id": "scores",
+      "title": "收入与科技"
+    },
+    {
+      "id": "workflow",
+      "title": "桌边流程与通用数值"
+    },
+    {
+      "id": "suppliers",
+      "title": "个人供应商关系"
+    },
+    {
+      "id": "network",
+      "title": "公共供应商技术区"
+    },
+    {
+      "id": "licensing",
+      "title": "联合研发与按批授权"
+    },
+    {
+      "id": "expansion",
+      "title": "发布扩产 · 临时订单争夺"
+    }
+  ]
+}

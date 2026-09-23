@@ -1,0 +1,17 @@
+{
+  "version": "6.9",
+  "pages": 9,
+  "chipRows": 50,
+  "appleRows": 10,
+  "renamedRows": 12,
+  "families": {
+    "MediaTek": 9,
+    "Qualcomm": 12,
+    "Kirin": 7,
+    "Exynos": 6,
+    "UNISOC": 2,
+    "Google": 2,
+    "XRing": 2,
+    "Apple": 10
+  }
+}

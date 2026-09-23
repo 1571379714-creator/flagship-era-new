@@ -1,0 +1,17 @@
+.card .factory{display:inline-block;font-size:7.4pt;padding:.8mm 1.5mm;border:1px solid var(--fc,#688087);border-radius:2mm;color:var(--fc,#526772);margin-bottom:1mm;background:white;line-height:1.3}
+.card .jointnote{font-size:7.9pt;line-height:1.4;color:#385969;background:#eef5f6;padding:2mm;margin:2mm 0}
+.card .licensewells{display:grid;grid-template-columns:11mm repeat(4,1fr);gap:1mm;width:100%;height:10.5mm;margin-top:2mm;align-items:stretch}
+.licensewells>div{border:1px dashed #708b98;display:flex;align-items:center;justify-content:center;text-align:center;line-height:1.1;font-size:7pt;flex-direction:column;background:#fbfcfc}
+.licensewells .authorwell{border-radius:50%;width:10.5mm;height:10.5mm;border-style:solid}
+.licensewells .userwell{min-height:10mm}.licensewells b{font-size:10pt;color:#21485a}.licensewells small{font-size:6pt}
+.card[data-type=technology] .effect{line-height:1.5}.card[data-type=technology] .proof{font-size:8.3pt}
+.main-grid .card[data-type=technology] .metrics{flex-wrap:wrap;gap:.5mm}
+.main-grid .card[data-type=technology] .metric{font-size:6.2pt;padding:.5mm .7mm}
+.main-grid .card[data-type=technology] .metric b{font-size:8.5pt}
+.main-grid .card[data-type=technology] .proof{font-size:7.2pt;line-height:1.3;margin:1mm 0}
+.main-grid .card[data-type=technology] p.effect{font-size:7.6pt;line-height:1.38}
+.main-grid .card[data-type=technology] .jointnote{font-size:6.6pt;line-height:1.3;padding:1mm;margin:1mm 0}
+.main-grid .card[data-type=technology] .licensewells{margin-top:1mm}
+.main-grid .card[data-type=technology] h3{font-size:10.5pt}
+
+.cardgrid.tall{grid-template-rows:repeat(2,127mm)}

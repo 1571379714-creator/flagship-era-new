@@ -1,0 +1,380 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "title": "扩产标记 · 全桌40件 · 单面剪取",
+      "note": "全桌印1份，不是每人印一整页 · 不混主牌 · 原有订单/参考标记继续使用 · 20×18毫米"
+    },
+    {
+      "page": 2,
+      "title": "扩产流程与限次面板 · 全桌共用",
+      "note": "整页不剪 · 普通发布整理后状态移回可用 · 最终发布照常扩产 · 不增加轮次"
+    },
+    {
+      "page": 3,
+      "title": "扩产收款与占用速查",
+      "note": "全桌印1份单面；也可每人自选复印速查 · 不是新增效果牌或跨场保留券"
+    }
+  ],
+  "tokens": [
+    {
+      "company": "A",
+      "slot": 1,
+      "kind": "original",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "A",
+      "slot": 2,
+      "kind": "original",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "A",
+      "slot": 3,
+      "kind": "original",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "A",
+      "slot": 4,
+      "kind": "original",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "A",
+      "slot": 1,
+      "kind": "expansion",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "A",
+      "slot": 2,
+      "kind": "expansion",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "A",
+      "slot": 3,
+      "kind": "expansion",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "A",
+      "slot": 4,
+      "kind": "expansion",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "A",
+      "kind": "group",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "A",
+      "kind": "status",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "B",
+      "slot": 1,
+      "kind": "original",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "B",
+      "slot": 2,
+      "kind": "original",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "B",
+      "slot": 3,
+      "kind": "original",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "B",
+      "slot": 4,
+      "kind": "original",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "B",
+      "slot": 1,
+      "kind": "expansion",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "B",
+      "slot": 2,
+      "kind": "expansion",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "B",
+      "slot": 3,
+      "kind": "expansion",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "B",
+      "slot": 4,
+      "kind": "expansion",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "B",
+      "kind": "group",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "B",
+      "kind": "status",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "C",
+      "slot": 1,
+      "kind": "original",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "C",
+      "slot": 2,
+      "kind": "original",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "C",
+      "slot": 3,
+      "kind": "original",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "C",
+      "slot": 4,
+      "kind": "original",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "C",
+      "slot": 1,
+      "kind": "expansion",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "C",
+      "slot": 2,
+      "kind": "expansion",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "C",
+      "slot": 3,
+      "kind": "expansion",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "C",
+      "slot": 4,
+      "kind": "expansion",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "C",
+      "kind": "group",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "C",
+      "kind": "status",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "D",
+      "slot": 1,
+      "kind": "original",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "D",
+      "slot": 2,
+      "kind": "original",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "D",
+      "slot": 3,
+      "kind": "original",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "D",
+      "slot": 4,
+      "kind": "original",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "D",
+      "slot": 1,
+      "kind": "expansion",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "D",
+      "slot": 2,
+      "kind": "expansion",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "D",
+      "slot": 3,
+      "kind": "expansion",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "D",
+      "slot": 4,
+      "kind": "expansion",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "D",
+      "kind": "group",
+      "sizeMm": [
+        20,
+        18
+      ]
+    },
+    {
+      "company": "D",
+      "kind": "status",
+      "sizeMm": [
+        20,
+        18
+      ]
+    }
+  ],
+  "physicalTokens": 40,
+  "countsPerCompany": {
+    "originalRank": 4,
+    "expansionRank": 4,
+    "groupPlusOne": 1,
+    "status": 1
+  }
+}

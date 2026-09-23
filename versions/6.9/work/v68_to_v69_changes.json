@@ -1,0 +1,5224 @@
+[
+  {
+    "id": "C101",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "10nm、三丛集CPU与CorePilot调度；核心总数不直接当性能等级。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "MediaTek"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_C101"
+      },
+      "chipSources": {
+        "before": [
+          "v67_C101"
+        ],
+        "after": [
+          "v69_C101"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "Helio X30",
+            "batchCost": 2,
+            "spec": 3,
+            "power": 4,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v67_C101"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "Helio X30",
+            "batchCost": 2,
+            "spec": 3,
+            "power": 4,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v69_C101"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "Helio X30"
+      }
+    }
+  },
+  {
+    "id": "C102",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "Kryo 280、Adreno 540与10nm平台；图形能力作为定向用途。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Qualcomm"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_C102"
+      },
+      "chipSources": {
+        "before": [
+          "v67_C102"
+        ],
+        "after": [
+          "v69_C102"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "骁龙835",
+            "batchCost": 5,
+            "spec": 5,
+            "power": 4,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v67_C102"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "骁龙835",
+            "batchCost": 5,
+            "spec": 5,
+            "power": 4,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_C102"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "骁龙835"
+      }
+    }
+  },
+  {
+    "id": "C103",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "10nm、A73/A53与独立NPU、双ISP；NPU适配转为摄影条件效果。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Kirin"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_C103"
+      },
+      "chipSources": {
+        "before": [
+          "v67_C103"
+        ],
+        "after": [
+          "v69_C103"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "麒麟970",
+            "batchCost": 4,
+            "spec": 4,
+            "power": 5,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v67_C103"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "麒麟970",
+            "batchCost": 4,
+            "spec": 4,
+            "power": 5,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_C103"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "麒麟970"
+      }
+    }
+  },
+  {
+    "id": "C104",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "10nm、Mali-G71及双ISP；不把移动影像等同通用算力。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Exynos"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_C104"
+      },
+      "chipSources": {
+        "before": [
+          "v67_C104"
+        ],
+        "after": [
+          "v69_C104"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "猎户座8895",
+            "batchCost": 4,
+            "spec": 5,
+            "power": 4,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v67_C104"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "猎户座8895",
+            "batchCost": 4,
+            "spec": 5,
+            "power": 4,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v69_C104"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "猎户座8895"
+      }
+    }
+  },
+  {
+    "id": "C105",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "7nm EUV、Mali-G76和神经处理；恢复旗舰档，不继承骁龙460的低价定位。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Exynos"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_C105"
+      },
+      "chipSources": {
+        "before": [
+          "v67_C105"
+        ],
+        "after": [
+          "v69_C105"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "猎户座9825",
+            "batchCost": 5,
+            "spec": 6,
+            "power": 6,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v67_C105"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "猎户座9825",
+            "batchCost": 5,
+            "spec": 6,
+            "power": 6,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v69_C105"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "猎户座9825"
+      }
+    }
+  },
+  {
+    "id": "C106",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "官方列CPU、Mali-G77与双核NPU；负载8为保守游戏热预算，不是实测瓦数。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Exynos"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_C106"
+      },
+      "chipSources": {
+        "before": [
+          "v67_C106"
+        ],
+        "after": [
+          "v69_C106"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "猎户座990",
+            "batchCost": 5,
+            "spec": 7,
+            "power": 8,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v67_C106"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "猎户座990",
+            "batchCost": 5,
+            "spec": 7,
+            "power": 8,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_C106"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "猎户座990"
+      }
+    }
+  },
+  {
+    "id": "C107",
+    "fields": {
+      "cardEvidenceNote": {
+        "before": null,
+        "after": "990家族；版本参数非精确还原"
+      },
+      "chipBasis": {
+        "before": null,
+        "after": "原归档为麒麟990 5G；本卡游戏参数代表用户指定990家族供货方案。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Kirin"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_C107"
+      },
+      "name": {
+        "before": "麒麟990 5G",
+        "after": "麒麟990"
+      },
+      "chipSources": {
+        "before": [
+          "v67_C107"
+        ],
+        "after": [
+          "v69_C107"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "麒麟990 5G",
+            "batchCost": 7,
+            "spec": 7,
+            "power": 5,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v67_C107"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "麒麟990",
+            "batchCost": 7,
+            "spec": 7,
+            "power": 5,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_C107"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "麒麟990"
+      }
+    }
+  },
+  {
+    "id": "C108",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "Kryo585、Adreno650、Spectra480；比前代CPU/GPU提升的厂商说明。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Qualcomm"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_C108"
+      },
+      "chipSources": {
+        "before": [
+          "v67_C108"
+        ],
+        "after": [
+          "v69_C108"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "骁龙865",
+            "batchCost": 9,
+            "spec": 8,
+            "power": 5,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v67_C108"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "骁龙865",
+            "batchCost": 9,
+            "spec": 8,
+            "power": 5,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_C108"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "骁龙865"
+      }
+    }
+  },
+  {
+    "id": "C109",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "6nm、A78/A55与HyperEngine3.0；按2021高端平台重标。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "MediaTek"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipTier": {
+        "before": "旗舰/高端方案",
+        "after": "旗舰方案"
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_C109"
+      },
+      "chipSources": {
+        "before": [
+          "v67_C109"
+        ],
+        "after": [
+          "v69_C109"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "天玑1200",
+            "batchCost": 5,
+            "spec": 7,
+            "power": 5,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v67_C109"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "天玑1200",
+            "batchCost": 5,
+            "spec": 7,
+            "power": 5,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v69_C109"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "天玑1200"
+      }
+    }
+  },
+  {
+    "id": "C110",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "Cortex-X2代平台与18位ISP；与8+Gen1的厂商能效比较联合使用。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Qualcomm"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_C110"
+      },
+      "chipSources": {
+        "before": [
+          "v67_C110"
+        ],
+        "after": [
+          "v69_C110"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "骁龙8 Gen 1",
+            "batchCost": 7,
+            "spec": 8,
+            "power": 8,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v67_C110"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "骁龙8 Gen 1",
+            "batchCost": 7,
+            "spec": 8,
+            "power": 8,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_C110"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "骁龙8 Gen 1"
+      }
+    }
+  },
+  {
+    "id": "C111",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "TSMC4nm、Cortex-X2与LPDDR5X；保留新架构高端定位。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "MediaTek"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_C111"
+      },
+      "chipSources": {
+        "before": [
+          "v67_C111"
+        ],
+        "after": [
+          "v69_C111"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "天玑9000",
+            "batchCost": 9,
+            "spec": 9,
+            "power": 6,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v67_C111"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "天玑9000",
+            "batchCost": 9,
+            "spec": 9,
+            "power": 6,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_C111"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "天玑9000"
+      }
+    }
+  },
+  {
+    "id": "C112",
+    "fields": {
+      "cardEvidenceNote": {
+        "before": null,
+        "after": "应用可核；首发年份待核"
+      },
+      "chipBasis": {
+        "before": null,
+        "after": "HMD官方终端规格明确T760、6nm与5G。未取得首发原始公告，第三代位置为批准的游戏归档，不伪造首发年份。"
+      },
+      "designRationale": {
+        "before": null,
+        "after": "T760的第一方终端资料支持6nm与5G产品身份。以低价办公入口体现供货用途，不把网络代际直接换为通用性能。"
+      },
+      "chipYear": {
+        "before": 2022,
+        "after": null
+      },
+      "rules": {
+        "before": [
+          {
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "deployedField": "平台"
+              }
+            ],
+            "market": "gaming",
+            "text": "Xclipse图形联调：部署平台领域研发时，电竞娱乐竞争力加3。"
+          }
+        ],
+        "after": [
+          {
+            "op": "permit",
+            "when": [
+              {
+                "priceIn": [
+                  18,
+                  28
+                ]
+              }
+            ],
+            "market": "office",
+            "text": "普及5G：以18或28售价投放时，可进入商务办公；不自动取得生态或安全，不绕过预算。"
+          }
+        ]
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "本轮读取第一方材料：身份/应用；年代待核"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "UNISOC"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipTier": {
+        "before": "旗舰方案",
+        "after": "主流5G方案"
+      },
+      "installPartnerCost": {
+        "before": 4,
+        "after": 2
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_C112"
+      },
+      "name": {
+        "before": "猎户座2200",
+        "after": "唐古拉T760"
+      },
+      "chipSources": {
+        "before": [
+          "v67_C112"
+        ],
+        "after": [
+          "v69_C112"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "猎户座2200",
+            "batchCost": 6,
+            "spec": 8,
+            "power": 8,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v67_C112"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "唐古拉T760",
+            "batchCost": 3,
+            "spec": 5,
+            "power": 3,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v69_C112"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "唐古拉T760"
+      },
+      "effect": {
+        "before": "Xclipse图形联调：部署平台领域研发时，电竞娱乐竞争力加3。",
+        "after": "普及5G：以18或28售价投放时，可进入商务办公；不自动取得生态或安全，不绕过预算。"
+      },
+      "installCost": {
+        "before": 12,
+        "after": 8
+      }
+    }
+  },
+  {
+    "id": "C113",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "Tensor G4以端侧AI与实际应用优化为重点；不能拿整机电池提升当SoC功耗比例。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Google"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_C113"
+      },
+      "chipSources": {
+        "before": [
+          "v67_C113"
+        ],
+        "after": [
+          "v69_C113"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "Google Tensor G4",
+            "batchCost": 7,
+            "spec": 8,
+            "power": 5,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v67_C113"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "Google Tensor G4",
+            "batchCost": 7,
+            "spec": 8,
+            "power": 5,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v69_C113"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "Google Tensor G4"
+      }
+    }
+  },
+  {
+    "id": "C114",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "多核CPU、Xclipse940与光追；按性能档和平台适配共同表达。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Exynos"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_C114"
+      },
+      "chipSources": {
+        "before": [
+          "v67_C114"
+        ],
+        "after": [
+          "v69_C114"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "猎户座2400",
+            "batchCost": 10,
+            "spec": 10,
+            "power": 6,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v67_C114"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "猎户座2400",
+            "batchCost": 10,
+            "spec": 10,
+            "power": 6,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_C114"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "猎户座2400"
+      }
+    }
+  },
+  {
+    "id": "C115",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "Oryon与新Adreno平台；恢复高端性能，不沿用7+Gen2的印刷规格。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Qualcomm"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_C115"
+      },
+      "chipSources": {
+        "before": [
+          "v67_C115"
+        ],
+        "after": [
+          "v69_C115"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "骁龙8 Elite",
+            "batchCost": 14,
+            "spec": 11,
+            "power": 5,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v67_C115"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "骁龙8 Elite",
+            "batchCost": 14,
+            "spec": 11,
+            "power": 5,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_C115"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "骁龙8 Elite"
+      }
+    }
+  },
+  {
+    "id": "C116",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "全大核CPU与Immortalis图形；增强规格但保留高负载预算。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "MediaTek"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_C116"
+      },
+      "chipSources": {
+        "before": [
+          "v67_C116"
+        ],
+        "after": [
+          "v69_C116"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "天玑9300",
+            "batchCost": 11,
+            "spec": 10,
+            "power": 7,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v67_C116"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "天玑9300",
+            "batchCost": 11,
+            "spec": 10,
+            "power": 7,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_C116"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "天玑9300"
+      }
+    }
+  },
+  {
+    "id": "C117",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "官方明确12GB版本麒麟9030、16GB版本9030 Pro。本卡采用前者；不混用后者独有性能。"
+      },
+      "designRationale": {
+        "before": null,
+        "after": "官方Mate80Pro规格区分9030与9030Pro；使用用户指定9030，不挪用Pro独有参数，以系统研发形成办公路线。"
+      },
+      "rules": {
+        "before": [
+          {
+            "op": "market",
+            "value": 2,
+            "when": [
+              {
+                "kind": "camera",
+                "field": "spec",
+                "op": ">=",
+                "value": 8
+              }
+            ],
+            "market": "photo",
+            "text": "智能ISP：影像印刷规格至少8时，摄影创作竞争力加2。"
+          }
+        ],
+        "after": [
+          {
+            "op": "market",
+            "when": [
+              {
+                "kind": "screen",
+                "field": "spec",
+                "op": ">=",
+                "value": 8
+              },
+              {
+                "deployedField": "系统"
+              }
+            ],
+            "market": "office",
+            "value": 3,
+            "text": "整机协同：屏幕印刷规格至少8且部署系统领域研发时，商务办公竞争力加3。"
+          }
+        ]
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方架构/功能已读；最新跨厂性能与负载暂定；6.8未重新查询现实硬件资料",
+        "after": "本轮读取第一方材料：身份及应用"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Kirin"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_C117"
+      },
+      "name": {
+        "before": "猎户座2500",
+        "after": "麒麟9030"
+      },
+      "chipSources": {
+        "before": [
+          "v67_C117"
+        ],
+        "after": [
+          "v69_C117"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "猎户座2500",
+            "batchCost": 10,
+            "spec": 10,
+            "power": 6,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v67_C117"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "麒麟9030",
+            "batchCost": 10,
+            "spec": 10,
+            "power": 6,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_C117"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "麒麟9030"
+      },
+      "effect": {
+        "before": "智能ISP：影像印刷规格至少8时，摄影创作竞争力加2。",
+        "after": "整机协同：屏幕印刷规格至少8且部署系统领域研发时，商务办公竞争力加3。"
+      }
+    }
+  },
+  {
+    "id": "C118",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "新旗舰CPU/GPU/NPU与能效目标；本表上端采用压缩刻度。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方架构/功能已读；最新跨厂性能与负载暂定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "MediaTek"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_C118"
+      },
+      "chipSources": {
+        "before": [
+          "v67_C118"
+        ],
+        "after": [
+          "v69_C118"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "天玑9500",
+            "batchCost": 15,
+            "spec": 12,
+            "power": 5,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v67_C118"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "天玑9500",
+            "batchCost": 15,
+            "spec": 12,
+            "power": 5,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_C118"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "天玑9500"
+      }
+    }
+  },
+  {
+    "id": "C119",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "Arm官方确认Armv9.2 Cortex、Immortalis、CoreLink与3nm，面向旗舰手机和平板。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方架构/功能已读；最新跨厂性能与负载暂定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "XRing"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_C119"
+      },
+      "chipSources": {
+        "before": [
+          "v67_C119"
+        ],
+        "after": [
+          "v69_C119"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "玄戒O1",
+            "batchCost": 12,
+            "spec": 11,
+            "power": 6,
+            "mark": "轻薄",
+            "form": "slab",
+            "chipSource": "v67_C119"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "玄戒O1",
+            "batchCost": 12,
+            "spec": 11,
+            "power": 6,
+            "mark": "轻薄",
+            "form": "slab",
+            "chipSource": "v69_C119"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "玄戒O1"
+      }
+    }
+  },
+  {
+    "id": "C120",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "Oryon、Adreno与厂商相对前代能效改进；不把这些百分比当跨厂绝对排行。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方架构/功能已读；最新跨厂性能与负载暂定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Qualcomm"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_C120"
+      },
+      "chipSources": {
+        "before": [
+          "v67_C120"
+        ],
+        "after": [
+          "v69_C120"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "骁龙8 Elite Gen 5",
+            "batchCost": 16,
+            "spec": 12,
+            "power": 5,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v67_C120"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "骁龙8 Elite Gen 5",
+            "batchCost": 16,
+            "spec": 12,
+            "power": 5,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_C120"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "骁龙8 Elite Gen 5"
+      }
+    }
+  },
+  {
+    "id": "X101",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "Kryo385、Adreno630、Spectra280；相对835上移性能档。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Qualcomm"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X101"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X101"
+        ],
+        "after": [
+          "v69_X101"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "骁龙845",
+            "batchCost": 7,
+            "spec": 6,
+            "power": 5,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v67_X101"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "骁龙845",
+            "batchCost": 7,
+            "spec": 6,
+            "power": 5,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_X101"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "骁龙845"
+      }
+    }
+  },
+  {
+    "id": "X102",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "官方产品页确认SC9863A、A55/LTE与主流市场定位。不能用它证明统一负载功耗或旗舰级别。"
+      },
+      "designRationale": {
+        "before": null,
+        "after": "SC9863A官方面向主流LTE终端；低规格与低制造成本定位，不冒充旗舰。主板简化优惠为游戏工程抽象。"
+      },
+      "rules": {
+        "before": [
+          {
+            "op": "market",
+            "value": 2,
+            "when": [
+              {
+                "kind": "camera",
+                "field": "spec",
+                "op": ">=",
+                "value": 3
+              }
+            ],
+            "market": "photo",
+            "text": "Spectra人像联调：影像印刷规格至少3时，摄影创作竞争力加2；仍查市场资格。"
+          }
+        ],
+        "after": [
+          {
+            "op": "assemblyDiscount",
+            "when": [
+              {
+                "kind": "screen",
+                "field": "spec",
+                "op": "<=",
+                "value": 4
+              },
+              {
+                "kind": "camera",
+                "field": "spec",
+                "op": "<=",
+                "value": 4
+              }
+            ],
+            "value": 3,
+            "text": "普及主板：屏幕与影像印刷规格均至多4时，组装费减3，最低0。"
+          }
+        ]
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "本轮读取第一方材料：身份及功能"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "UNISOC"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipTier": {
+        "before": "次旗舰补位",
+        "after": "主流成本方案"
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X102"
+      },
+      "name": {
+        "before": "骁龙710·单项联调",
+        "after": "SC9863A·单项联调"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X102"
+        ],
+        "after": [
+          "v69_X102"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "骁龙710",
+            "batchCost": 3,
+            "spec": 4,
+            "power": 3,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v67_X102"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "SC9863A",
+            "batchCost": 1,
+            "spec": 2,
+            "power": 3,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v69_X102"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "SC9863A"
+      },
+      "effect": {
+        "before": "Spectra人像联调：影像印刷规格至少3时，摄影创作竞争力加2；仍查市场资格。",
+        "after": "普及主板：屏幕与影像印刷规格均至多4时，组装费减3，最低0。"
+      }
+    }
+  },
+  {
+    "id": "X109",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "自定义CPU与多格式视频平台；不再继承原Helio P60低负载值。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Exynos"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X109"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X109"
+        ],
+        "after": [
+          "v69_X109"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "猎户座9810",
+            "batchCost": 5,
+            "spec": 6,
+            "power": 6,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v67_X109"
+          },
+          {
+            "kind": "screen",
+            "name": "低耗直屏",
+            "batchCost": 4,
+            "spec": 5,
+            "power": 1,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "猎户座9810",
+            "batchCost": 5,
+            "spec": 6,
+            "power": 6,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_X109"
+          },
+          {
+            "kind": "screen",
+            "name": "低耗直屏",
+            "batchCost": 4,
+            "spec": 5,
+            "power": 1,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "猎户座9810"
+      }
+    }
+  },
+  {
+    "id": "X110",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "7nm、Cortex-A76、Mali-G76与双NPU，代际提升由规格和专长分开表现。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Kirin"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X110"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X110"
+        ],
+        "after": [
+          "v69_X110"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "麒麟980",
+            "batchCost": 8,
+            "spec": 7,
+            "power": 4,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v67_X110"
+          },
+          {
+            "kind": "camera",
+            "name": "双OIS影像模组",
+            "batchCost": 5,
+            "spec": 5,
+            "power": 2,
+            "mark": "影像",
+            "form": "slab"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "麒麟980",
+            "batchCost": 8,
+            "spec": 7,
+            "power": 4,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X110"
+          },
+          {
+            "kind": "camera",
+            "name": "双OIS影像模组",
+            "batchCost": 5,
+            "spec": 5,
+            "power": 2,
+            "mark": "影像",
+            "form": "slab"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "麒麟980"
+      }
+    }
+  },
+  {
+    "id": "X113",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "官方介绍A11 Bionic神经引擎、实时场景处理和人像摄影应用。游戏影像资格是规则抽象，不是硬件像素换算。"
+      },
+      "designRationale": {
+        "before": null,
+        "after": "A11 Bionic以神经引擎与人像处理作主题，帮助较低规格模组取得拍摄用途；这是游戏资格而非像素推算。"
+      },
+      "rules": {
+        "before": [
+          {
+            "op": "market",
+            "value": 2,
+            "when": [
+              {
+                "kind": "camera",
+                "field": "spec",
+                "op": ">=",
+                "value": 3
+              }
+            ],
+            "market": "photo",
+            "text": "神经影像联调：影像印刷规格至少3时，摄影创作竞争力加2。"
+          }
+        ],
+        "after": [
+          {
+            "op": "feature",
+            "when": [
+              {
+                "kind": "camera",
+                "field": "spec",
+                "op": ">=",
+                "value": 3
+              },
+              {
+                "kind": "camera",
+                "field": "spec",
+                "op": "<=",
+                "value": 5
+              }
+            ],
+            "feature": "影像",
+            "text": "神经人像：影像印刷规格在3至5之间时，本产品取得影像特征；不改变影像规格。"
+          }
+        ]
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "本轮读取第一方材料：身份及功能"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Apple"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X113"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X113"
+        ],
+        "after": [
+          "v69_X113"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "A11 Bionic",
+            "batchCost": 7,
+            "spec": 6,
+            "power": 4,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v67_X113"
+          },
+          {
+            "kind": "camera",
+            "name": "双OIS影像模组",
+            "batchCost": 4,
+            "spec": 5,
+            "power": 1,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "双电芯一体结构",
+            "batchCost": 4,
+            "spec": 3,
+            "power": 15,
+            "mark": "续航",
+            "form": "slab"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "A11 Bionic",
+            "batchCost": 7,
+            "spec": 6,
+            "power": 4,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X113"
+          },
+          {
+            "kind": "camera",
+            "name": "双OIS影像模组",
+            "batchCost": 4,
+            "spec": 5,
+            "power": 1,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "双电芯一体结构",
+            "batchCost": 4,
+            "spec": 3,
+            "power": 15,
+            "mark": "续航",
+            "form": "slab"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "A11 Bionic"
+      },
+      "effect": {
+        "before": "神经影像联调：影像印刷规格至少3时，摄影创作竞争力加2。",
+        "after": "神经人像：影像印刷规格在3至5之间时，本产品取得影像特征；不改变影像规格。"
+      }
+    }
+  },
+  {
+    "id": "X114",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "官方介绍A12 Bionic神经引擎、ISP与Smart HDR的联动，用于影像研发搭配主题。"
+      },
+      "designRationale": {
+        "before": null,
+        "after": "A12 Bionic把软件影像研发变成HDR调校优势，不再只因套装自带一块相机就无条件加分。"
+      },
+      "rules": {
+        "before": [
+          {
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "camera",
+                "field": "spec",
+                "op": ">=",
+                "value": 4
+              }
+            ],
+            "market": "photo",
+            "text": "Smart HDR方案：影像印刷规格至少4时，摄影创作竞争力加3。"
+          }
+        ],
+        "after": [
+          {
+            "op": "market",
+            "when": [
+              {
+                "deployedField": "影像"
+              }
+            ],
+            "market": "photo",
+            "value": 3,
+            "text": "Smart HDR联调：部署影像领域研发时，摄影创作竞争力加3；仍检查市场入场资格。"
+          }
+        ]
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "本轮读取第一方材料：身份及功能"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Apple"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X114"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X114"
+        ],
+        "after": [
+          "v69_X114"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "A12 Bionic",
+            "batchCost": 8,
+            "spec": 7,
+            "power": 4,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v67_X114"
+          },
+          {
+            "kind": "screen",
+            "name": "校色直屏",
+            "batchCost": 5,
+            "spec": 5,
+            "power": 2,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "camera",
+            "name": "视频影像模组",
+            "batchCost": 5,
+            "spec": 5,
+            "power": 2,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻量一体结构",
+            "batchCost": 4,
+            "spec": 4,
+            "power": 10,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "A12 Bionic",
+            "batchCost": 8,
+            "spec": 7,
+            "power": 4,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X114"
+          },
+          {
+            "kind": "screen",
+            "name": "校色直屏",
+            "batchCost": 5,
+            "spec": 5,
+            "power": 2,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "camera",
+            "name": "视频影像模组",
+            "batchCost": 5,
+            "spec": 5,
+            "power": 2,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻量一体结构",
+            "batchCost": 4,
+            "spec": 4,
+            "power": 10,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "A12 Bionic"
+      },
+      "effect": {
+        "before": "Smart HDR方案：影像印刷规格至少4时，摄影创作竞争力加3。",
+        "after": "Smart HDR联调：部署影像领域研发时，摄影创作竞争力加3；仍检查市场入场资格。"
+      }
+    }
+  },
+  {
+    "id": "X115",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "官方页面列Spectra 380、Kryo 485和Adreno 640。仅用于855身份与图像处理主题，不沿用855+频率。"
+      },
+      "designRationale": {
+        "before": null,
+        "after": "855区别于855+：围绕Spectra ISP和计算视觉设计影像入口，不再继承加强版的单一高帧能力。"
+      },
+      "rules": {
+        "before": [
+          {
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "screen",
+                "field": "spec",
+                "op": ">=",
+                "value": 5
+              }
+            ],
+            "market": "gaming",
+            "text": "增强图形：屏幕印刷规格至少5时，电竞娱乐竞争力加3。"
+          }
+        ],
+        "after": [
+          {
+            "op": "market",
+            "when": [
+              {
+                "kind": "camera",
+                "field": "spec",
+                "op": ">=",
+                "value": 5
+              }
+            ],
+            "market": "photo",
+            "value": 2,
+            "text": "Spectra视觉处理：影像印刷规格至少5时，摄影创作竞争力加2；部署影像研发时免除本机影像的芯片兼容要求。"
+          },
+          {
+            "op": "compatibility",
+            "when": [
+              {
+                "deployedField": "影像"
+              }
+            ],
+            "text": "Spectra视觉处理：影像印刷规格至少5时，摄影创作竞争力加2；部署影像研发时免除本机影像的芯片兼容要求。"
+          }
+        ]
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "本轮读取第一方材料：身份及功能"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Qualcomm"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X115"
+      },
+      "name": {
+        "before": "骁龙855+·单项联调",
+        "after": "骁龙855·单项联调"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X115"
+        ],
+        "after": [
+          "v69_X115"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "骁龙855+",
+            "batchCost": 8,
+            "spec": 7,
+            "power": 6,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v67_X115"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "骁龙855",
+            "batchCost": 7,
+            "spec": 7,
+            "power": 5,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_X115"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "骁龙855"
+      },
+      "effect": {
+        "before": "增强图形：屏幕印刷规格至少5时，电竞娱乐竞争力加3。",
+        "after": "Spectra视觉处理：影像印刷规格至少5时，摄影创作竞争力加2；部署影像研发时免除本机影像的芯片兼容要求。"
+      }
+    }
+  },
+  {
+    "id": "X120",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "官方目录单列Dimensity1000并介绍集成5G的1000家族；不把家族列表中1000+新增特性自动归给基础版。"
+      },
+      "designRationale": {
+        "before": null,
+        "after": "天玑1000使用基础型号名称，强调集成平台与能耗配套；不把1000+的具体新增显示特性移植到本卡。"
+      },
+      "chipYear": {
+        "before": 2020,
+        "after": 2019
+      },
+      "rules": {
+        "before": [
+          {
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "screen",
+                "field": "spec",
+                "op": ">=",
+                "value": 5
+              }
+            ],
+            "market": "gaming",
+            "text": "HyperEngine联调：屏幕印刷规格至少5时，电竞娱乐竞争力加3；不再按低价取得额外制造优惠。"
+          }
+        ],
+        "after": [
+          {
+            "op": "powerReduction",
+            "when": [
+              {
+                "kind": "screen",
+                "field": "power",
+                "op": "<=",
+                "value": 2
+              }
+            ],
+            "kind": "chip",
+            "value": 1,
+            "text": "集成5G：屏幕印刷功耗至多2时，芯片有效功耗减1，最低0；不减少其他部件功耗。"
+          }
+        ]
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "本轮读取第一方材料：基础名与家族范围"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "MediaTek"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X120"
+      },
+      "name": {
+        "before": "天玑1000+·双件联调",
+        "after": "天玑1000·双件联调"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X120"
+        ],
+        "after": [
+          "v69_X120"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "天玑1000+",
+            "batchCost": 6,
+            "spec": 7,
+            "power": 6,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v67_X120"
+          },
+          {
+            "kind": "screen",
+            "name": "低耗直屏",
+            "batchCost": 6,
+            "spec": 6,
+            "power": 2,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "天玑1000",
+            "batchCost": 6,
+            "spec": 7,
+            "power": 5,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v69_X120"
+          },
+          {
+            "kind": "screen",
+            "name": "低耗直屏",
+            "batchCost": 6,
+            "spec": 6,
+            "power": 2,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "天玑1000"
+      },
+      "effect": {
+        "before": "HyperEngine联调：屏幕印刷规格至少5时，电竞娱乐竞争力加3；不再按低价取得额外制造优惠。",
+        "after": "集成5G：屏幕印刷功耗至多2时，芯片有效功耗减1，最低0；不减少其他部件功耗。"
+      }
+    }
+  },
+  {
+    "id": "X123",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "官方明确Deep Fusion由A13 Bionic神经引擎支持，并结合机器学习处理照片。"
+      },
+      "designRationale": {
+        "before": null,
+        "after": "A13 Bionic以计算摄影与机器学习协作为主题，允许影像和系统两种研发搭配。"
+      },
+      "rules": {
+        "before": [
+          {
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "deployedField": "影像"
+              }
+            ],
+            "market": "photo",
+            "text": "Deep Fusion方案：部署影像领域研发时，摄影创作竞争力加3。"
+          }
+        ],
+        "after": [
+          {
+            "op": "market",
+            "when": [
+              {
+                "kind": "camera",
+                "field": "spec",
+                "op": ">=",
+                "value": 5
+              },
+              {
+                "any": [
+                  {
+                    "deployedField": "影像"
+                  },
+                  {
+                    "deployedField": "系统"
+                  }
+                ]
+              }
+            ],
+            "market": "photo",
+            "value": 3,
+            "text": "Deep Fusion：影像印刷规格至少5，且部署影像或系统领域研发时，摄影创作竞争力加3。"
+          }
+        ]
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "本轮读取第一方材料：身份及功能"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Apple"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X123"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X123"
+        ],
+        "after": [
+          "v69_X123"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "body",
+            "name": "双电芯一体结构",
+            "batchCost": 5,
+            "spec": 4,
+            "power": 17,
+            "mark": "续航",
+            "form": "slab"
+          },
+          {
+            "kind": "chip",
+            "name": "A13 Bionic",
+            "batchCost": 9,
+            "spec": 8,
+            "power": 4,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v67_X123"
+          }
+        ],
+        "after": [
+          {
+            "kind": "body",
+            "name": "双电芯一体结构",
+            "batchCost": 5,
+            "spec": 4,
+            "power": 17,
+            "mark": "续航",
+            "form": "slab"
+          },
+          {
+            "kind": "chip",
+            "name": "A13 Bionic",
+            "batchCost": 9,
+            "spec": 8,
+            "power": 4,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_X123"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "A13 Bionic"
+      },
+      "effect": {
+        "before": "Deep Fusion方案：部署影像领域研发时，摄影创作竞争力加3。",
+        "after": "Deep Fusion：影像印刷规格至少5，且部署影像或系统领域研发时，摄影创作竞争力加3。"
+      }
+    }
+  },
+  {
+    "id": "X124",
+    "fields": {
+      "cardEvidenceNote": {
+        "before": null,
+        "after": "2018发布／2019应用"
+      },
+      "chipBasis": {
+        "before": null,
+        "after": "官方产品页列专用NPU、三丛集CPU、ISP及8nm工艺；用于场景识别主题。"
+      },
+      "designRationale": {
+        "before": null,
+        "after": "猎户座9820改走NPU影像配套，规格/成本/负载重新定档；2018年发布而2019年代表终端应用，置第二供货窗口。"
+      },
+      "chipYear": {
+        "before": 2020,
+        "after": null
+      },
+      "rules": {
+        "before": [
+          {
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "screen",
+                "field": "spec",
+                "op": ">=",
+                "value": 5
+              }
+            ],
+            "market": "gaming",
+            "text": "高刷新率联调：屏幕印刷规格至少5时，电竞娱乐竞争力加3。"
+          }
+        ],
+        "after": [
+          {
+            "op": "market",
+            "when": [
+              {
+                "kind": "camera",
+                "field": "spec",
+                "op": ">=",
+                "value": 5
+              },
+              {
+                "deployedField": "系统"
+              }
+            ],
+            "market": "photo",
+            "value": 3,
+            "text": "NPU场景识别：影像印刷规格至少5且部署系统领域研发时，摄影创作竞争力加3。"
+          }
+        ]
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "本轮读取第一方材料：身份及功能"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Exynos"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X124"
+      },
+      "name": {
+        "before": "骁龙865+·三件协同",
+        "after": "猎户座9820·三件协同"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X124"
+        ],
+        "after": [
+          "v69_X124"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "骁龙865+",
+            "batchCost": 10,
+            "spec": 8,
+            "power": 6,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v67_X124"
+          },
+          {
+            "kind": "screen",
+            "name": "高刷直屏",
+            "batchCost": 6,
+            "spec": 6,
+            "power": 2,
+            "mark": "性能",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻量一体结构",
+            "batchCost": 5,
+            "spec": 5,
+            "power": 12,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "猎户座9820",
+            "batchCost": 6,
+            "spec": 7,
+            "power": 7,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X124"
+          },
+          {
+            "kind": "screen",
+            "name": "高刷直屏",
+            "batchCost": 6,
+            "spec": 6,
+            "power": 2,
+            "mark": "性能",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻量一体结构",
+            "batchCost": 5,
+            "spec": 5,
+            "power": 12,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "猎户座9820"
+      },
+      "effect": {
+        "before": "高刷新率联调：屏幕印刷规格至少5时，电竞娱乐竞争力加3。",
+        "after": "NPU场景识别：影像印刷规格至少5且部署系统领域研发时，摄影创作竞争力加3。"
+      }
+    }
+  },
+  {
+    "id": "X125",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "5nm、A77、24核Mali-G78、达芬奇2.0及ISP+NPU融合；安全资格是游戏方案。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Kirin"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X125"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X125"
+        ],
+        "after": [
+          "v69_X125"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "麒麟9000",
+            "batchCost": 10,
+            "spec": 8,
+            "power": 5,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v67_X125"
+          },
+          {
+            "kind": "screen",
+            "name": "柔性内折显示",
+            "batchCost": 6,
+            "spec": 6,
+            "power": 2,
+            "mark": "折叠",
+            "form": "fold"
+          },
+          {
+            "kind": "camera",
+            "name": "视频影像模组",
+            "batchCost": 5,
+            "spec": 6,
+            "power": 1,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "配套铰链结构",
+            "batchCost": 6,
+            "spec": 4,
+            "power": 15,
+            "mark": "折叠",
+            "form": "fold"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "麒麟9000",
+            "batchCost": 10,
+            "spec": 8,
+            "power": 5,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X125"
+          },
+          {
+            "kind": "screen",
+            "name": "柔性内折显示",
+            "batchCost": 6,
+            "spec": 6,
+            "power": 2,
+            "mark": "折叠",
+            "form": "fold"
+          },
+          {
+            "kind": "camera",
+            "name": "视频影像模组",
+            "batchCost": 5,
+            "spec": 6,
+            "power": 1,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "配套铰链结构",
+            "batchCost": 6,
+            "spec": 4,
+            "power": 15,
+            "mark": "折叠",
+            "form": "fold"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "麒麟9000"
+      }
+    }
+  },
+  {
+    "id": "X126",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "官方A14 Bionic资料支持机器学习与系统效能方向；本卡减耗仅为游戏联调。"
+      },
+      "designRationale": {
+        "before": null,
+        "after": "A14 Bionic以神经引擎与系统协同体现能效路线；减1是游戏调校收益，不是官方功耗数据。"
+      },
+      "rules": {
+        "before": [
+          {
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "camera",
+                "field": "spec",
+                "op": ">=",
+                "value": 5
+              }
+            ],
+            "market": "photo",
+            "text": "神经影像：影像印刷规格至少5时，摄影创作竞争力加3。"
+          }
+        ],
+        "after": [
+          {
+            "op": "powerReduction",
+            "when": [
+              {
+                "deployedField": "系统"
+              }
+            ],
+            "kind": "chip",
+            "value": 1,
+            "text": "神经能效：部署系统领域研发时，芯片有效功耗减1，最低0。"
+          }
+        ]
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "本轮读取第一方材料：身份及功能"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Apple"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X126"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X126"
+        ],
+        "after": [
+          "v69_X126"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "A14 Bionic",
+            "batchCost": 10,
+            "spec": 9,
+            "power": 4,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v67_X126"
+          },
+          {
+            "kind": "screen",
+            "name": "低耗直屏",
+            "batchCost": 6,
+            "spec": 6,
+            "power": 2,
+            "mark": "轻薄",
+            "form": "slab"
+          },
+          {
+            "kind": "camera",
+            "name": "长焦影像模组",
+            "batchCost": 6,
+            "spec": 6,
+            "power": 2,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻量一体结构",
+            "batchCost": 5,
+            "spec": 5,
+            "power": 12,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "A14 Bionic",
+            "batchCost": 10,
+            "spec": 9,
+            "power": 4,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X126"
+          },
+          {
+            "kind": "screen",
+            "name": "低耗直屏",
+            "batchCost": 6,
+            "spec": 6,
+            "power": 2,
+            "mark": "轻薄",
+            "form": "slab"
+          },
+          {
+            "kind": "camera",
+            "name": "长焦影像模组",
+            "batchCost": 6,
+            "spec": 6,
+            "power": 2,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻量一体结构",
+            "batchCost": 5,
+            "spec": 5,
+            "power": 12,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "A14 Bionic"
+      },
+      "effect": {
+        "before": "神经影像：影像印刷规格至少5时，摄影创作竞争力加3。",
+        "after": "神经能效：部署系统领域研发时，芯片有效功耗减1，最低0。"
+      }
+    }
+  },
+  {
+    "id": "X127",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "高通标注相对8Gen1 CPU/GPU能效最高改善约30%；因此功耗档明显低于8Gen1。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Qualcomm"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X127"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X127"
+        ],
+        "after": [
+          "v69_X127"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "骁龙8+ Gen 1",
+            "batchCost": 11,
+            "spec": 9,
+            "power": 4,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v67_X127"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "骁龙8+ Gen 1",
+            "batchCost": 11,
+            "spec": 9,
+            "power": 4,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_X127"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "骁龙8+ Gen 1"
+      }
+    }
+  },
+  {
+    "id": "X128",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "官方列Spectra 580三路ISP及平台功能；本卡使用888而非888+。游戏负载8不是瓦数。"
+      },
+      "designRationale": {
+        "before": null,
+        "after": "骁龙888保留高负载，突出三路ISP与散热取舍。以多路影像与热设计配套形成加分，不把ISP解释为联网生态。"
+      },
+      "rules": {
+        "before": [
+          {
+            "op": "market",
+            "value": 4,
+            "when": [
+              {
+                "kind": "screen",
+                "field": "spec",
+                "op": ">=",
+                "value": 6
+              },
+              {
+                "deployedField": "散热"
+              }
+            ],
+            "market": "gaming",
+            "text": "高频释放：屏幕印刷规格至少6且部署散热领域研发时，电竞娱乐竞争力加4。"
+          }
+        ],
+        "after": [
+          {
+            "op": "market",
+            "when": [
+              {
+                "kind": "camera",
+                "field": "spec",
+                "op": ">=",
+                "value": 6
+              }
+            ],
+            "market": "photo",
+            "value": 2,
+            "text": "三路ISP：影像印刷规格至少6时，摄影创作竞争力加2；同时部署散热研发时再加1。"
+          },
+          {
+            "op": "market",
+            "when": [
+              {
+                "kind": "camera",
+                "field": "spec",
+                "op": ">=",
+                "value": 6
+              },
+              {
+                "deployedField": "散热"
+              }
+            ],
+            "market": "photo",
+            "value": 1,
+            "text": "三路ISP：影像印刷规格至少6时，摄影创作竞争力加2；同时部署散热研发时再加1。"
+          }
+        ]
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "本轮读取第一方材料：身份及功能"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Qualcomm"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X128"
+      },
+      "name": {
+        "before": "骁龙888+·单项联调",
+        "after": "骁龙888·单项联调"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X128"
+        ],
+        "after": [
+          "v69_X128"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "骁龙888+",
+            "batchCost": 7,
+            "spec": 8,
+            "power": 8,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v67_X128"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "骁龙888",
+            "batchCost": 7,
+            "spec": 8,
+            "power": 8,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v69_X128"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "骁龙888"
+      },
+      "effect": {
+        "before": "高频释放：屏幕印刷规格至少6且部署散热领域研发时，电竞娱乐竞争力加4。",
+        "after": "三路ISP：影像印刷规格至少6时，摄影创作竞争力加2；同时部署散热研发时再加1。"
+      }
+    }
+  },
+  {
+    "id": "X135",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "官方列Cortex-X3、Immortalis-G715硬件光追与LPDDR5X；用于高帧配套主题。"
+      },
+      "designRationale": {
+        "before": null,
+        "after": "天玑9200围绕Immortalis硬件光追与驱动适配；不是9000+简单改名，规格与费用随新平台调整。"
+      },
+      "rules": {
+        "before": [
+          {
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "screen",
+                "field": "spec",
+                "op": ">=",
+                "value": 7
+              }
+            ],
+            "market": "gaming",
+            "text": "旗舰增强联调：屏幕印刷规格至少7时，电竞娱乐竞争力加3。"
+          }
+        ],
+        "after": [
+          {
+            "op": "market",
+            "when": [
+              {
+                "kind": "screen",
+                "field": "spec",
+                "op": ">=",
+                "value": 7
+              },
+              {
+                "deployedField": "平台"
+              }
+            ],
+            "market": "gaming",
+            "value": 4,
+            "text": "Immortalis光追：屏幕印刷规格至少7且部署平台领域研发时，电竞娱乐竞争力加4。"
+          }
+        ]
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "本轮读取第一方材料：身份及功能"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "MediaTek"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X135"
+      },
+      "name": {
+        "before": "天玑9000+·三件协同",
+        "after": "天玑9200·三件协同"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X135"
+        ],
+        "after": [
+          "v69_X135"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "天玑9000+",
+            "batchCost": 9,
+            "spec": 9,
+            "power": 6,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v67_X135"
+          },
+          {
+            "kind": "screen",
+            "name": "低耗直屏",
+            "batchCost": 6,
+            "spec": 7,
+            "power": 2,
+            "mark": "轻薄",
+            "form": "slab"
+          },
+          {
+            "kind": "camera",
+            "name": "长焦影像模组",
+            "batchCost": 6,
+            "spec": 7,
+            "power": 2,
+            "mark": "影像",
+            "form": "slab"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "天玑9200",
+            "batchCost": 11,
+            "spec": 10,
+            "power": 6,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_X135"
+          },
+          {
+            "kind": "screen",
+            "name": "低耗直屏",
+            "batchCost": 6,
+            "spec": 7,
+            "power": 2,
+            "mark": "轻薄",
+            "form": "slab"
+          },
+          {
+            "kind": "camera",
+            "name": "长焦影像模组",
+            "batchCost": 6,
+            "spec": 7,
+            "power": 2,
+            "mark": "影像",
+            "form": "slab"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "天玑9200"
+      },
+      "effect": {
+        "before": "旗舰增强联调：屏幕印刷规格至少7时，电竞娱乐竞争力加3。",
+        "after": "Immortalis光追：屏幕印刷规格至少7且部署平台领域研发时，电竞娱乐竞争力加4。"
+      }
+    }
+  },
+  {
+    "id": "X136",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "新Kryo/Adreno、硬件光追及能效改进，较8+Gen1上移规格。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Qualcomm"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X136"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X136"
+        ],
+        "after": [
+          "v69_X136"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "骁龙8 Gen 2",
+            "batchCost": 13,
+            "spec": 10,
+            "power": 5,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v67_X136"
+          },
+          {
+            "kind": "screen",
+            "name": "高刷直屏",
+            "batchCost": 7,
+            "spec": 7,
+            "power": 3,
+            "mark": "性能",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻量一体结构",
+            "batchCost": 6,
+            "spec": 6,
+            "power": 14,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "骁龙8 Gen 2",
+            "batchCost": 13,
+            "spec": 10,
+            "power": 5,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_X136"
+          },
+          {
+            "kind": "screen",
+            "name": "高刷直屏",
+            "batchCost": 7,
+            "spec": 7,
+            "power": 3,
+            "mark": "性能",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻量一体结构",
+            "batchCost": 6,
+            "spec": 6,
+            "power": 14,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "骁龙8 Gen 2"
+      }
+    }
+  },
+  {
+    "id": "X137",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "官方将A15 Bionic与电影模式、视频编解码相联系。游戏要求显示标识与系统研发是设计取舍。"
+      },
+      "designRationale": {
+        "before": null,
+        "after": "A15 Bionic与电影模式、视频编解码的官方关联，转化为显示监看和系统研发的创作组合。"
+      },
+      "rules": {
+        "before": [
+          {
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "camera",
+                "field": "spec",
+                "op": ">=",
+                "value": 5
+              }
+            ],
+            "market": "photo",
+            "text": "电影影像：影像印刷规格至少5时，摄影创作竞争力加3。"
+          }
+        ],
+        "after": [
+          {
+            "op": "market",
+            "when": [
+              {
+                "kind": "screen",
+                "field": "mark",
+                "op": "==",
+                "value": "影像"
+              },
+              {
+                "deployedField": "系统"
+              }
+            ],
+            "market": "photo",
+            "value": 4,
+            "text": "电影模式：屏幕带影像标识且部署系统领域研发时，摄影创作竞争力加4。"
+          }
+        ]
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "本轮读取第一方材料：身份及功能"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Apple"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X137"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X137"
+        ],
+        "after": [
+          "v69_X137"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "A15 Bionic",
+            "batchCost": 11,
+            "spec": 9,
+            "power": 4,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v67_X137"
+          },
+          {
+            "kind": "screen",
+            "name": "校色直屏",
+            "batchCost": 6,
+            "spec": 7,
+            "power": 2,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "camera",
+            "name": "视频影像模组",
+            "batchCost": 6,
+            "spec": 7,
+            "power": 2,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "双电芯一体结构",
+            "batchCost": 6,
+            "spec": 5,
+            "power": 19,
+            "mark": "续航",
+            "form": "slab"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "A15 Bionic",
+            "batchCost": 11,
+            "spec": 9,
+            "power": 4,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X137"
+          },
+          {
+            "kind": "screen",
+            "name": "校色直屏",
+            "batchCost": 6,
+            "spec": 7,
+            "power": 2,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "camera",
+            "name": "视频影像模组",
+            "batchCost": 6,
+            "spec": 7,
+            "power": 2,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "双电芯一体结构",
+            "batchCost": 6,
+            "spec": 5,
+            "power": 19,
+            "mark": "续航",
+            "form": "slab"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "A15 Bionic"
+      },
+      "effect": {
+        "before": "电影影像：影像印刷规格至少5时，摄影创作竞争力加3。",
+        "after": "电影模式：屏幕带影像标识且部署系统领域研发时，摄影创作竞争力加4。"
+      }
+    }
+  },
+  {
+    "id": "X138",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "官方介绍A16 Bionic、ProMotion低刷新率显示及整机能效应用；屏幕减耗是游戏联调，不是实测公式。"
+      },
+      "designRationale": {
+        "before": null,
+        "after": "A16 Bionic平台的低刷新率显示与节能整机应用是主题依据；不宣称本次证实一个特定独立硬件模块。"
+      },
+      "rules": {
+        "before": [
+          {
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "camera",
+                "field": "spec",
+                "op": ">=",
+                "value": 6
+              }
+            ],
+            "market": "photo",
+            "text": "计算摄影管线：影像印刷规格至少6时，摄影创作竞争力加3。"
+          }
+        ],
+        "after": [
+          {
+            "op": "powerReduction",
+            "when": [
+              {
+                "deployedField": "显示"
+              }
+            ],
+            "kind": "screen",
+            "value": 1,
+            "text": "显示协同：部署显示领域研发时，屏幕有效功耗再减1，最低0。"
+          }
+        ]
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "本轮读取第一方材料：身份及应用"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Apple"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X138"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X138"
+        ],
+        "after": [
+          "v69_X138"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "A16 Bionic",
+            "batchCost": 12,
+            "spec": 10,
+            "power": 4,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v67_X138"
+          },
+          {
+            "kind": "screen",
+            "name": "柔性内折显示",
+            "batchCost": 8,
+            "spec": 7,
+            "power": 4,
+            "mark": "折叠",
+            "form": "fold"
+          },
+          {
+            "kind": "camera",
+            "name": "长焦影像模组",
+            "batchCost": 7,
+            "spec": 7,
+            "power": 3,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "配套铰链结构",
+            "batchCost": 7,
+            "spec": 5,
+            "power": 15,
+            "mark": "折叠",
+            "form": "fold"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "A16 Bionic",
+            "batchCost": 12,
+            "spec": 10,
+            "power": 4,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X138"
+          },
+          {
+            "kind": "screen",
+            "name": "柔性内折显示",
+            "batchCost": 8,
+            "spec": 7,
+            "power": 4,
+            "mark": "折叠",
+            "form": "fold"
+          },
+          {
+            "kind": "camera",
+            "name": "长焦影像模组",
+            "batchCost": 7,
+            "spec": 7,
+            "power": 3,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "配套铰链结构",
+            "batchCost": 7,
+            "spec": 5,
+            "power": 15,
+            "mark": "折叠",
+            "form": "fold"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "A16 Bionic"
+      },
+      "effect": {
+        "before": "计算摄影管线：影像印刷规格至少6时，摄影创作竞争力加3。",
+        "after": "显示协同：部署显示领域研发时，屏幕有效功耗再减1，最低0。"
+      }
+    }
+  },
+  {
+    "id": "X139",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "Google强调TPU/ML、影像与语音；改为计算摄影联动而非原G81游戏入场特许。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Google"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X139"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X139"
+        ],
+        "after": [
+          "v69_X139"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "Google Tensor G3",
+            "batchCost": 5,
+            "spec": 7,
+            "power": 6,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v67_X139"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "Google Tensor G3",
+            "batchCost": 5,
+            "spec": 7,
+            "power": 6,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v69_X139"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "Google Tensor G3"
+      }
+    }
+  },
+  {
+    "id": "X144",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "官方终端规格列麒麟9020；不提供统一横测数据。本卡第四代的历史归档另承接Mate70时代背景，不以无日期页面证明发布时间。"
+      },
+      "designRationale": {
+        "before": null,
+        "after": "麒麟9020身份可由华为终端参数核对；本卡为软硬协同游戏方案，不断言未取得的CPU/ISP微架构。"
+      },
+      "rules": {
+        "before": [
+          {
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "deployedField": "系统"
+              }
+            ],
+            "market": "office",
+            "text": "端侧生成联调：部署系统领域研发时，商务办公竞争力加3；仍查市场资格。"
+          }
+        ],
+        "after": [
+          {
+            "op": "market",
+            "when": [
+              {
+                "kind": "camera",
+                "field": "spec",
+                "op": ">=",
+                "value": 7
+              },
+              {
+                "deployedField": "系统"
+              }
+            ],
+            "market": "photo",
+            "value": 3,
+            "text": "鸿蒙影像适配：影像印刷规格至少7且部署系统领域研发时，摄影创作竞争力加3。"
+          }
+        ]
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "本轮读取第一方材料：身份；架构推断不作事实"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Kirin"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X144"
+      },
+      "name": {
+        "before": "天玑9300+·双件联调",
+        "after": "麒麟9020·双件联调"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X144"
+        ],
+        "after": [
+          "v69_X144"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "天玑9300+",
+            "batchCost": 11,
+            "spec": 10,
+            "power": 7,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v67_X144"
+          },
+          {
+            "kind": "screen",
+            "name": "低耗直屏",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 4,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "麒麟9020",
+            "batchCost": 9,
+            "spec": 9,
+            "power": 6,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X144"
+          },
+          {
+            "kind": "screen",
+            "name": "低耗直屏",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 4,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "麒麟9020"
+      },
+      "effect": {
+        "before": "端侧生成联调：部署系统领域研发时，商务办公竞争力加3；仍查市场资格。",
+        "after": "鸿蒙影像适配：影像印刷规格至少7且部署系统领域研发时，摄影创作竞争力加3。"
+      }
+    }
+  },
+  {
+    "id": "X147",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "CPU/GPU与端侧生成式AI；高刷新配套是本卡设计。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Qualcomm"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X147"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X147"
+        ],
+        "after": [
+          "v69_X147"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "body",
+            "name": "双电芯一体结构",
+            "batchCost": 7,
+            "spec": 6,
+            "power": 21,
+            "mark": "续航",
+            "form": "slab"
+          },
+          {
+            "kind": "chip",
+            "name": "骁龙8 Gen 3",
+            "batchCost": 12,
+            "spec": 10,
+            "power": 6,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v67_X147"
+          }
+        ],
+        "after": [
+          {
+            "kind": "body",
+            "name": "双电芯一体结构",
+            "batchCost": 7,
+            "spec": 6,
+            "power": 21,
+            "mark": "续航",
+            "form": "slab"
+          },
+          {
+            "kind": "chip",
+            "name": "骁龙8 Gen 3",
+            "batchCost": 12,
+            "spec": 10,
+            "power": 6,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_X147"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "骁龙8 Gen 3"
+      }
+    }
+  },
+  {
+    "id": "X148",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "全大核、Immortalis及Imagiq影像；影像不是由大核数量直接换得。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "沿用6.8身份与主题资料，未对该型号重新进行统一硬件测量"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "MediaTek"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X148"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X148"
+        ],
+        "after": [
+          "v69_X148"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "天玑9400",
+            "batchCost": 13,
+            "spec": 11,
+            "power": 6,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v67_X148"
+          },
+          {
+            "kind": "camera",
+            "name": "双OIS影像模组",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 4,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻量一体结构",
+            "batchCost": 7,
+            "spec": 7,
+            "power": 16,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "天玑9400",
+            "batchCost": 13,
+            "spec": 11,
+            "power": 6,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_X148"
+          },
+          {
+            "kind": "camera",
+            "name": "双OIS影像模组",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 4,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻量一体结构",
+            "batchCost": 7,
+            "spec": 7,
+            "power": 16,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "天玑9400"
+      }
+    }
+  },
+  {
+    "id": "X149",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "官方A17 Pro资料支持硬件加速光线追踪；平台研发条件和加4是游戏设计。"
+      },
+      "designRationale": {
+        "before": null,
+        "after": "A17 Pro以硬件加速光线追踪与软件适配作主题；仍保持整套绑定与按批费用。"
+      },
+      "rules": {
+        "before": [
+          {
+            "op": "market",
+            "value": 4,
+            "when": [
+              {
+                "kind": "screen",
+                "field": "spec",
+                "op": ">=",
+                "value": 7
+              }
+            ],
+            "market": "gaming",
+            "text": "硬件光追整合：屏幕印刷规格至少7时，电竞娱乐竞争力加4。"
+          }
+        ],
+        "after": [
+          {
+            "op": "market",
+            "when": [
+              {
+                "kind": "screen",
+                "field": "spec",
+                "op": ">=",
+                "value": 7
+              },
+              {
+                "deployedField": "平台"
+              }
+            ],
+            "market": "gaming",
+            "value": 4,
+            "text": "硬件光追：屏幕印刷规格至少7且部署平台领域研发时，电竞娱乐竞争力加4。"
+          }
+        ]
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "本轮读取第一方材料：身份及功能"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Apple"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X149"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X149"
+        ],
+        "after": [
+          "v69_X149"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "A17 Pro",
+            "batchCost": 12,
+            "spec": 10,
+            "power": 6,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v67_X149"
+          },
+          {
+            "kind": "screen",
+            "name": "柔性内折显示",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 4,
+            "mark": "折叠",
+            "form": "fold"
+          },
+          {
+            "kind": "camera",
+            "name": "视频影像模组",
+            "batchCost": 7,
+            "spec": 8,
+            "power": 3,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "配套铰链结构",
+            "batchCost": 8,
+            "spec": 6,
+            "power": 19,
+            "mark": "折叠",
+            "form": "fold"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "A17 Pro",
+            "batchCost": 12,
+            "spec": 10,
+            "power": 6,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X149"
+          },
+          {
+            "kind": "screen",
+            "name": "柔性内折显示",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 4,
+            "mark": "折叠",
+            "form": "fold"
+          },
+          {
+            "kind": "camera",
+            "name": "视频影像模组",
+            "batchCost": 7,
+            "spec": 8,
+            "power": 3,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "配套铰链结构",
+            "batchCost": 8,
+            "spec": 6,
+            "power": 19,
+            "mark": "折叠",
+            "form": "fold"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "A17 Pro"
+      },
+      "effect": {
+        "before": "硬件光追整合：屏幕印刷规格至少7时，电竞娱乐竞争力加4。",
+        "after": "硬件光追：屏幕印刷规格至少7且部署平台领域研发时，电竞娱乐竞争力加4。"
+      }
+    }
+  },
+  {
+    "id": "X150",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "官方介绍A18 Pro平台与专业视频、4K高帧录制工作流；本卡高价条件不是现实功能锁定。"
+      },
+      "designRationale": {
+        "before": null,
+        "after": "A18 Pro以专业视频工作流支撑高价创作产品，而非在所有售价下自动领先。"
+      },
+      "rules": {
+        "before": [
+          {
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "camera",
+                "field": "spec",
+                "op": ">=",
+                "value": 6
+              }
+            ],
+            "market": "photo",
+            "text": "专业视频：影像印刷规格至少6时，摄影创作竞争力加3。"
+          }
+        ],
+        "after": [
+          {
+            "op": "market",
+            "when": [
+              {
+                "priceIn": [
+                  38,
+                  48
+                ]
+              },
+              {
+                "deployedField": "影像"
+              }
+            ],
+            "market": "photo",
+            "value": 4,
+            "text": "专业视频：以38或48售价投放摄影创作，且部署影像领域研发时，本市场竞争力加4。"
+          }
+        ]
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方身份/架构/功能已读；游戏数字仍为推定；6.8未重新查询现实硬件资料",
+        "after": "本轮读取第一方材料：身份及功能"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Apple"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X150"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X150"
+        ],
+        "after": [
+          "v69_X150"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "A18 Pro",
+            "batchCost": 13,
+            "spec": 11,
+            "power": 5,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v67_X150"
+          },
+          {
+            "kind": "screen",
+            "name": "低耗直屏",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 4,
+            "mark": "轻薄",
+            "form": "slab"
+          },
+          {
+            "kind": "camera",
+            "name": "长焦影像模组",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 4,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻量一体结构",
+            "batchCost": 7,
+            "spec": 7,
+            "power": 16,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "A18 Pro",
+            "batchCost": 13,
+            "spec": 11,
+            "power": 5,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X150"
+          },
+          {
+            "kind": "screen",
+            "name": "低耗直屏",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 4,
+            "mark": "轻薄",
+            "form": "slab"
+          },
+          {
+            "kind": "camera",
+            "name": "长焦影像模组",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 4,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻量一体结构",
+            "batchCost": 7,
+            "spec": 7,
+            "power": 16,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "A18 Pro"
+      },
+      "effect": {
+        "before": "专业视频：影像印刷规格至少6时，摄影创作竞争力加3。",
+        "after": "专业视频：以38或48售价投放摄影创作，且部署影像领域研发时，本市场竞争力加4。"
+      }
+    }
+  },
+  {
+    "id": "X151",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "苹果官方介绍A19 Pro GPU内神经加速器及与神经引擎协作；设备散热和N1网络芯片不能混成SoC本身规格。"
+      },
+      "designRationale": {
+        "before": null,
+        "after": "A19 Pro的GPU神经加速器与神经引擎协作作为特色依据；N1独立网络芯片的能力不算在A19 Pro名下。"
+      },
+      "rules": {
+        "before": [
+          {
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "deployedField": "散热"
+              }
+            ],
+            "market": "gaming",
+            "text": "HPB散热封装：部署散热领域研发时，电竞娱乐竞争力加3；不因电池供电大而直接减少芯片功耗。"
+          }
+        ],
+        "after": [
+          {
+            "op": "market",
+            "when": [
+              {
+                "kind": "screen",
+                "field": "spec",
+                "op": ">=",
+                "value": 8
+              },
+              {
+                "any": [
+                  {
+                    "deployedField": "平台"
+                  },
+                  {
+                    "deployedField": "系统"
+                  }
+                ]
+              }
+            ],
+            "market": "gaming",
+            "value": 3,
+            "text": "神经图形：屏幕印刷规格至少8，且部署平台或系统领域研发时，电竞娱乐竞争力加3。"
+          }
+        ]
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方架构/功能已读；最新跨厂性能与负载暂定；6.8未重新查询现实硬件资料",
+        "after": "本轮读取第一方材料：身份及功能"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Apple"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X151"
+      },
+      "name": {
+        "before": "猎户座2600·单项联调",
+        "after": "A19 Pro·单项联调"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X151"
+        ],
+        "after": [
+          "v69_X151"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "猎户座2600",
+            "batchCost": 15,
+            "spec": 12,
+            "power": 5,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v67_X151"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "A19 Pro",
+            "batchCost": 15,
+            "spec": 12,
+            "power": 5,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X151"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "A19 Pro"
+      },
+      "effect": {
+        "before": "HPB散热封装：部署散热领域研发时，电竞娱乐竞争力加3；不因电池供电大而直接减少芯片功耗。",
+        "after": "神经图形：屏幕印刷规格至少8，且部署平台或系统领域研发时，电竞娱乐竞争力加3。"
+      }
+    }
+  },
+  {
+    "id": "X152",
+    "fields": {
+      "cardEvidenceNote": {
+        "before": null,
+        "after": "前瞻名称；完整官方参数待核"
+      },
+      "chipBasis": {
+        "before": null,
+        "after": "前瞻名称保留。本轮未取得完整高通官方型号及同条件测评；所有值仅为暂定游戏强档。"
+      },
+      "evidenceStatus": {
+        "before": "前瞻/待核：暂无完整官方证据；6.8未重新查询现实硬件资料",
+        "after": "用户指定前瞻/待核占位；本次未取得完整匹配第一方参数"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Qualcomm"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": true,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipTier": {
+        "before": "前瞻方案",
+        "after": "旗舰方案"
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X152"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X152"
+        ],
+        "after": [
+          "v69_X152"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "骁龙8EE6〔前瞻〕",
+            "batchCost": 16,
+            "spec": 12,
+            "power": 6,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v67_X152"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "骁龙8EE6〔前瞻〕",
+            "batchCost": 16,
+            "spec": 12,
+            "power": 6,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_X152"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "骁龙8EE6"
+      }
+    }
+  },
+  {
+    "id": "X159",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "官方产品页强调CPU/GPU/NPU/ISP的AI协同。游戏档位及整套配件组合仍为暂定设计。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方架构/功能已读；最新跨厂性能与负载暂定；6.8未重新查询现实硬件资料",
+        "after": "本轮读取第一方材料：官方功能；横测不足"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "MediaTek"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X159"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X159"
+        ],
+        "after": [
+          "v69_X159"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "天玑9600 Pro",
+            "batchCost": 15,
+            "spec": 12,
+            "power": 5,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v67_X159"
+          },
+          {
+            "kind": "screen",
+            "name": "低耗直屏",
+            "batchCost": 8,
+            "spec": 9,
+            "power": 4,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "天玑9600 Pro",
+            "batchCost": 15,
+            "spec": 12,
+            "power": 5,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_X159"
+          },
+          {
+            "kind": "screen",
+            "name": "低耗直屏",
+            "batchCost": 8,
+            "spec": 9,
+            "power": 4,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "天玑9600 Pro"
+      }
+    }
+  },
+  {
+    "id": "X160",
+    "fields": {
+      "cardEvidenceNote": {
+        "before": null,
+        "after": "9050家族；无后缀版本待核"
+      },
+      "chipBasis": {
+        "before": null,
+        "after": "此官方材料写9050 Pro，不足以确证无后缀9050独立型号参数；按用户家族简称保留并显式标记缺口。"
+      },
+      "designRationale": {
+        "before": null,
+        "after": "沿用受限的折叠＋系统研发组合，不把9050 Pro资料冒充无后缀9050的确切架构。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方架构/功能已读；最新跨厂性能与负载暂定；6.8未重新查询现实硬件资料",
+        "after": "本轮读取第一方材料：仅Pro资料；无后缀待核"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Kirin"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X160"
+      },
+      "name": {
+        "before": "麒麟9050 Pro·双件联调",
+        "after": "麒麟9050·双件联调"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X160"
+        ],
+        "after": [
+          "v69_X160"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "麒麟9050 Pro",
+            "batchCost": 13,
+            "spec": 11,
+            "power": 6,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v67_X160"
+          },
+          {
+            "kind": "camera",
+            "name": "双OIS影像模组",
+            "batchCost": 9,
+            "spec": 9,
+            "power": 5,
+            "mark": "影像",
+            "form": "slab"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "麒麟9050",
+            "batchCost": 13,
+            "spec": 11,
+            "power": 6,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X160"
+          },
+          {
+            "kind": "camera",
+            "name": "双OIS影像模组",
+            "batchCost": 9,
+            "spec": 9,
+            "power": 5,
+            "mark": "影像",
+            "form": "slab"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "麒麟9050"
+      }
+    }
+  },
+  {
+    "id": "X163",
+    "fields": {
+      "cardEvidenceNote": {
+        "before": null,
+        "after": "O3完整第一方参数待核"
+      },
+      "chipBasis": {
+        "before": null,
+        "after": "完整官方参数尚未可靠取得；保留待核，不编造O3核心数、跑分或实测能耗。"
+      },
+      "evidenceStatus": {
+        "before": "前瞻/待核：暂无完整官方证据；6.8未重新查询现实硬件资料",
+        "after": "用户指定前瞻/待核占位；本次未取得完整匹配第一方参数"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "XRing"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": true,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipTier": {
+        "before": "前瞻方案",
+        "after": "旗舰方案"
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X163"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X163"
+        ],
+        "after": [
+          "v69_X163"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "玄戒O3〔待核〕",
+            "batchCost": 14,
+            "spec": 12,
+            "power": 6,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v67_X163"
+          },
+          {
+            "kind": "camera",
+            "name": "双OIS影像模组",
+            "batchCost": 8,
+            "spec": 9,
+            "power": 4,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻薄联合封装结构",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 21,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "玄戒O3〔待核〕",
+            "batchCost": 14,
+            "spec": 12,
+            "power": 6,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X163"
+          },
+          {
+            "kind": "camera",
+            "name": "双OIS影像模组",
+            "batchCost": 8,
+            "spec": 9,
+            "power": 4,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻薄联合封装结构",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 21,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "玄戒O3"
+      }
+    }
+  },
+  {
+    "id": "X164",
+    "fields": {
+      "chipBasis": {
+        "before": null,
+        "after": "官方A20 Pro发布材料用于名称与创作/神经处理方向。游戏整机方案不宣称现实可外售授权或精确横向性能。"
+      },
+      "evidenceStatus": {
+        "before": "6.7归档官方架构/功能已读；最新跨厂性能与负载暂定；6.8未重新查询现实硬件资料",
+        "after": "本轮读取第一方材料：官方功能；横测不足"
+      },
+      "chipFamily": {
+        "before": null,
+        "after": "Apple"
+      },
+      "realityCalibration": {
+        "before": {
+          "version": "6.7",
+          "specMeaning": "CPU/GPU综合性能的压缩等级，不是跑分倍数",
+          "powerMeaning": "本游戏等效负载档，不是瓦数；含热设计取舍",
+          "costMeaning": "供货/集成的游戏成本，不是现实报价",
+          "provisional": false,
+          "crossVendorCaution": true
+        },
+        "after": null
+      },
+      "chipSourceKey": {
+        "before": null,
+        "after": "v69_X164"
+      },
+      "chipSources": {
+        "before": [
+          "v67_X164"
+        ],
+        "after": [
+          "v69_X164"
+        ]
+      },
+      "components": {
+        "before": [
+          {
+            "kind": "chip",
+            "name": "A20 Pro",
+            "batchCost": 13,
+            "spec": 12,
+            "power": 5,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v67_X164"
+          },
+          {
+            "kind": "screen",
+            "name": "校色直屏",
+            "batchCost": 9,
+            "spec": 9,
+            "power": 5,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "camera",
+            "name": "视频影像模组",
+            "batchCost": 9,
+            "spec": 9,
+            "power": 5,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻量一体结构",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 18,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ],
+        "after": [
+          {
+            "kind": "chip",
+            "name": "A20 Pro",
+            "batchCost": 13,
+            "spec": 12,
+            "power": 5,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X164"
+          },
+          {
+            "kind": "screen",
+            "name": "校色直屏",
+            "batchCost": 9,
+            "spec": 9,
+            "power": 5,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "camera",
+            "name": "视频影像模组",
+            "batchCost": 9,
+            "spec": 9,
+            "power": 5,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻量一体结构",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 18,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ]
+      },
+      "chipCanonical": {
+        "before": null,
+        "after": "A20 Pro"
+      }
+    }
+  }
+]

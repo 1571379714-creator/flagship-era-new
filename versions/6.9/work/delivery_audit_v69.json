@@ -1,0 +1,91 @@
+{
+  "version": "6.9",
+  "checks": 4391,
+  "passed": 4391,
+  "errors": [],
+  "contentDesigns": 315,
+  "physicalCards": 315,
+  "mainCards": 257,
+  "pdfs": {
+    "旗舰元年_6.9_50芯片名录与特色.pdf": {
+      "pages": 9,
+      "bytes": 707510,
+      "outOfPage": [],
+      "replacementGlyphs": [],
+      "rasterizedPages": 9
+    },
+    "旗舰元年_6.9_供应商署名与授权组件.pdf": {
+      "pages": 6,
+      "bytes": 1560193,
+      "outOfPage": [],
+      "replacementGlyphs": [],
+      "rasterizedPages": 6
+    },
+    "旗舰元年_6.9_全卡牌图鉴.pdf": {
+      "pages": 76,
+      "bytes": 2623902,
+      "outOfPage": [],
+      "replacementGlyphs": [],
+      "rasterizedPages": 76
+    },
+    "旗舰元年_6.9_初始通用配件正反面.pdf": {
+      "pages": 4,
+      "bytes": 413191,
+      "outOfPage": [],
+      "replacementGlyphs": [],
+      "rasterizedPages": 4
+    },
+    "旗舰元年_6.9_参考机正反面.pdf": {
+      "pages": 10,
+      "bytes": 1602854,
+      "outOfPage": [],
+      "replacementGlyphs": [],
+      "rasterizedPages": 10
+    },
+    "旗舰元年_6.9_完整规则书.pdf": {
+      "pages": 26,
+      "bytes": 978005,
+      "outOfPage": [],
+      "replacementGlyphs": [],
+      "rasterizedPages": 26
+    },
+    "旗舰元年_6.9_实体组件.pdf": {
+      "pages": 11,
+      "bytes": 1459950,
+      "outOfPage": [],
+      "replacementGlyphs": [],
+      "rasterizedPages": 11
+    },
+    "旗舰元年_6.9_扩产组件与速查.pdf": {
+      "pages": 3,
+      "bytes": 599450,
+      "outOfPage": [],
+      "replacementGlyphs": [],
+      "rasterizedPages": 3
+    },
+    "旗舰元年_6.9_线下版图.pdf": {
+      "pages": 12,
+      "bytes": 1326401,
+      "outOfPage": [],
+      "replacementGlyphs": [],
+      "rasterizedPages": 12
+    },
+    "旗舰元年_6.9_统一主牌正反面.pdf": {
+      "pages": 58,
+      "bytes": 6379883,
+      "outOfPage": [],
+      "replacementGlyphs": [],
+      "rasterizedPages": 58
+    },
+    "旗舰元年_6.9_设计规划书.pdf": {
+      "pages": 2,
+      "bytes": 179697,
+      "outOfPage": [],
+      "replacementGlyphs": [],
+      "rasterizedPages": 2
+    }
+  },
+  "totalPdfPages": 217,
+  "remoteWritten": false,
+  "scope": "字段、份数、页面渲染与边界；不是完整对局或实测平衡。"
+}

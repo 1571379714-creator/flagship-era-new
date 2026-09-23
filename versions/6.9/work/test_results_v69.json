@@ -1,0 +1,23 @@
+{
+  "version": "6.9",
+  "testsRun": 116,
+  "failures": 0,
+  "errors": 0,
+  "success": true,
+  "inheritedTests": 77,
+  "newRosterAndAbilityTests": 39,
+  "inheritedAdaptations": [
+    "原数值断言每代稳定规格差≤3改为≤4，体现获批的低价T760；非玩家规则",
+    "输入快照路径改为当前6.8源；其余无关字段继续检查不变"
+  ],
+  "includedScenarios": {
+    "singleMarket": 600,
+    "fourMarketExpansion": 1200
+  },
+  "notWholeGames": true,
+  "limitations": [
+    "模型仅解释声明支持的配件和部分研发数值",
+    "合同与设施复杂前置在定向测试中由夹具给出",
+    "不模拟实际拿牌路径、完整策略、胜率或实际印刷"
+  ]
+}
