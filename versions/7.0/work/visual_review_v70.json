@@ -1,0 +1,31 @@
+{
+  "version": "7.0",
+  "rulebook": {
+    "pages": 25,
+    "method": "canonical DOCX renderer, each PNG page opened at readable scale",
+    "latestTextIdenticalToCanonicalRender": true
+  },
+  "planning": {
+    "pages": 2,
+    "method": "canonical DOCX renderer, each PNG page opened"
+  },
+  "catalog": {
+    "pages": 76,
+    "method": "all-page contact sheets plus full-effect text/geometry checks"
+  },
+  "main": {
+    "pages": 58,
+    "method": "all29 front pages overview, backs mirrored, X152/X147 latest full page viewed"
+  },
+  "boards": {
+    "views": 12,
+    "method": "all-page overview plus dual-track/array large view"
+  },
+  "functional": "action fronts, supplier/initial/reference overviews, expansion reused inspected layout, cash page large view",
+  "detectedUnresolvedLayoutIssues": 0,
+  "notValidated": [
+    "actual physical printer registration",
+    "color/bleed/die cut",
+    "all card interaction semantics"
+  ]
+}

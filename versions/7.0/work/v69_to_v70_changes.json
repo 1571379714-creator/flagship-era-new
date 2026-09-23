@@ -1,0 +1,8077 @@
+[
+  {
+    "id": "C108",
+    "name": "骁龙865",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "骁龙865",
+            "batchCost": 9,
+            "spec": 8,
+            "power": 5,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_C108"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "骁龙865",
+            "batchCost": 9,
+            "spec": 9,
+            "power": 5,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_C108"
+          }
+        ]
+      },
+      "installPartnerCost": {
+        "old": 15,
+        "new": 16
+      },
+      "installCost": {
+        "old": 18,
+        "new": 19
+      }
+    }
+  },
+  {
+    "id": "C109",
+    "name": "天玑1200",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "天玑1200",
+            "batchCost": 5,
+            "spec": 7,
+            "power": 5,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v69_C109"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "天玑1200",
+            "batchCost": 5,
+            "spec": 8,
+            "power": 5,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v69_C109"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "C110",
+    "name": "骁龙8 Gen 1",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "骁龙8 Gen 1",
+            "batchCost": 7,
+            "spec": 8,
+            "power": 8,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_C110"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "骁龙8 Gen 1",
+            "batchCost": 8,
+            "spec": 10,
+            "power": 8,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_C110"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "C111",
+    "name": "天玑9000",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "天玑9000",
+            "batchCost": 9,
+            "spec": 9,
+            "power": 6,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_C111"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "天玑9000",
+            "batchCost": 10,
+            "spec": 11,
+            "power": 6,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_C111"
+          }
+        ]
+      },
+      "installPartnerCost": {
+        "old": 13,
+        "new": 15
+      },
+      "installCost": {
+        "old": 17,
+        "new": 19
+      }
+    }
+  },
+  {
+    "id": "C113",
+    "name": "Google Tensor G4",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "Google Tensor G4",
+            "batchCost": 7,
+            "spec": 8,
+            "power": 5,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v69_C113"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "Google Tensor G4",
+            "batchCost": 7,
+            "spec": 9,
+            "power": 5,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v69_C113"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "C114",
+    "name": "猎户座2400",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "猎户座2400",
+            "batchCost": 10,
+            "spec": 10,
+            "power": 6,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_C114"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "猎户座2400",
+            "batchCost": 11,
+            "spec": 12,
+            "power": 6,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_C114"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "C115",
+    "name": "骁龙8 Elite",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "骁龙8 Elite",
+            "batchCost": 14,
+            "spec": 11,
+            "power": 5,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_C115"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "骁龙8 Elite",
+            "batchCost": 17,
+            "spec": 17,
+            "power": 5,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_C115"
+          }
+        ]
+      },
+      "installPartnerCost": {
+        "old": 20,
+        "new": 23
+      },
+      "installCost": {
+        "old": 22,
+        "new": 25
+      }
+    }
+  },
+  {
+    "id": "C116",
+    "name": "天玑9300",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "天玑9300",
+            "batchCost": 11,
+            "spec": 10,
+            "power": 7,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_C116"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "天玑9300",
+            "batchCost": 12,
+            "spec": 13,
+            "power": 7,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_C116"
+          }
+        ]
+      },
+      "installPartnerCost": {
+        "old": 13,
+        "new": 15
+      },
+      "installCost": {
+        "old": 18,
+        "new": 20
+      }
+    }
+  },
+  {
+    "id": "C117",
+    "name": "麒麟9030",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "麒麟9030",
+            "batchCost": 10,
+            "spec": 10,
+            "power": 6,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_C117"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "麒麟9030",
+            "batchCost": 11,
+            "spec": 12,
+            "power": 6,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_C117"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "C118",
+    "name": "天玑9500",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "天玑9500",
+            "batchCost": 15,
+            "spec": 12,
+            "power": 5,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_C118"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "天玑9500",
+            "batchCost": 17,
+            "spec": 18,
+            "power": 5,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_C118"
+          }
+        ]
+      },
+      "installPartnerCost": {
+        "old": 21,
+        "new": 23
+      },
+      "installCost": {
+        "old": 24,
+        "new": 26
+      }
+    }
+  },
+  {
+    "id": "C119",
+    "name": "玄戒O1",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "玄戒O1",
+            "batchCost": 12,
+            "spec": 11,
+            "power": 6,
+            "mark": "轻薄",
+            "form": "slab",
+            "chipSource": "v69_C119"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "玄戒O1",
+            "batchCost": 15,
+            "spec": 16,
+            "power": 6,
+            "mark": "轻薄",
+            "form": "slab",
+            "chipSource": "v69_C119"
+          }
+        ]
+      },
+      "installPartnerCost": {
+        "old": 11,
+        "new": 13
+      },
+      "installCost": {
+        "old": 19,
+        "new": 21
+      }
+    }
+  },
+  {
+    "id": "C120",
+    "name": "骁龙8 Elite Gen 5",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "骁龙8 Elite Gen 5",
+            "batchCost": 16,
+            "spec": 12,
+            "power": 5,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_C120"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "骁龙8 Elite Gen 5",
+            "batchCost": 18,
+            "spec": 19,
+            "power": 5,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_C120"
+          }
+        ]
+      },
+      "installPartnerCost": {
+        "old": 23,
+        "new": 25
+      },
+      "installCost": {
+        "old": 25,
+        "new": 27
+      }
+    }
+  },
+  {
+    "id": "D107",
+    "name": "90Hz游戏液晶",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "显示适配：芯片规格至少3时，大众消费竞争力加1。",
+            "op": "market",
+            "value": 1,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 3
+              }
+            ],
+            "market": "mass"
+          }
+        ],
+        "new": [
+          {
+            "text": "显示适配：芯片规格至少3时，大众消费竞争力加1。",
+            "op": "market",
+            "value": 1,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 4
+              }
+            ],
+            "market": "mass"
+          }
+        ]
+      },
+      "effect": {
+        "old": "显示适配：芯片规格至少3时，大众消费竞争力加1。",
+        "new": "显示适配：芯片规格至少4时，大众消费竞争力加1。"
+      }
+    }
+  },
+  {
+    "id": "D111",
+    "name": "144Hz竞速液晶",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "显示适配：芯片规格至少4时，电竞娱乐竞争力加1。",
+            "op": "market",
+            "value": 1,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 4
+              }
+            ],
+            "market": "gaming"
+          }
+        ],
+        "new": [
+          {
+            "text": "显示适配：芯片规格至少4时，电竞娱乐竞争力加1。",
+            "op": "market",
+            "value": 1,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 6
+              }
+            ],
+            "market": "gaming"
+          }
+        ]
+      },
+      "effect": {
+        "old": "显示适配：芯片规格至少4时，电竞娱乐竞争力加1。",
+        "new": "显示适配：芯片规格至少6时，电竞娱乐竞争力加1。"
+      }
+    }
+  },
+  {
+    "id": "D115",
+    "name": "窄边护眼直屏",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "显示适配：芯片规格至少5时，大众消费竞争力加1。",
+            "op": "market",
+            "value": 1,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 5
+              }
+            ],
+            "market": "mass"
+          }
+        ],
+        "new": [
+          {
+            "text": "显示适配：芯片规格至少5时，大众消费竞争力加1。",
+            "op": "market",
+            "value": 1,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 8
+              }
+            ],
+            "market": "mass"
+          }
+        ]
+      },
+      "effect": {
+        "old": "显示适配：芯片规格至少5时，大众消费竞争力加1。",
+        "new": "显示适配：芯片规格至少8时，大众消费竞争力加1。"
+      }
+    }
+  },
+  {
+    "id": "D119",
+    "name": "户外高亮2K屏",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "显示适配：芯片规格至少6时，大众消费竞争力加1。",
+            "op": "market",
+            "value": 1,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 6
+              }
+            ],
+            "market": "mass"
+          }
+        ],
+        "new": [
+          {
+            "text": "显示适配：芯片规格至少6时，大众消费竞争力加1。",
+            "op": "market",
+            "value": 1,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 10
+              }
+            ],
+            "market": "mass"
+          }
+        ]
+      },
+      "effect": {
+        "old": "显示适配：芯片规格至少6时，大众消费竞争力加1。",
+        "new": "显示适配：芯片规格至少10时，大众消费竞争力加1。"
+      }
+    }
+  },
+  {
+    "id": "I108",
+    "name": "三焦段相机模组",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "平台兼容：芯片规格须至少4，或本产品有免除高级影像兼容的能力。",
+            "op": "requireChip",
+            "value": 4,
+            "when": []
+          }
+        ],
+        "new": [
+          {
+            "text": "平台兼容：芯片规格须至少4，或本产品有免除高级影像兼容的能力。",
+            "op": "requireChip",
+            "value": 5,
+            "when": []
+          }
+        ]
+      },
+      "effect": {
+        "old": "平台兼容：芯片规格须至少4，或本产品有免除高级影像兼容的能力。",
+        "new": "平台兼容：芯片规格须至少5，或本产品有免除高级影像兼容的能力。"
+      }
+    }
+  },
+  {
+    "id": "I111",
+    "name": "潜望五倍长焦",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "平台兼容：芯片规格须至少6，或本产品有免除高级影像兼容的能力。",
+            "op": "requireChip",
+            "value": 6,
+            "when": []
+          }
+        ],
+        "new": [
+          {
+            "text": "平台兼容：芯片规格须至少6，或本产品有免除高级影像兼容的能力。",
+            "op": "requireChip",
+            "value": 8,
+            "when": []
+          }
+        ]
+      },
+      "effect": {
+        "old": "平台兼容：芯片规格须至少6，或本产品有免除高级影像兼容的能力。",
+        "new": "平台兼容：芯片规格须至少8，或本产品有免除高级影像兼容的能力。"
+      }
+    }
+  },
+  {
+    "id": "I113",
+    "name": "一英寸主摄模组",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "平台兼容：芯片规格须至少7，或本产品有免除高级影像兼容的能力。",
+            "op": "requireChip",
+            "value": 7,
+            "when": []
+          }
+        ],
+        "new": [
+          {
+            "text": "平台兼容：芯片规格须至少7，或本产品有免除高级影像兼容的能力。",
+            "op": "requireChip",
+            "value": 10,
+            "when": []
+          }
+        ]
+      },
+      "effect": {
+        "old": "平台兼容：芯片规格须至少7，或本产品有免除高级影像兼容的能力。",
+        "new": "平台兼容：芯片规格须至少10，或本产品有免除高级影像兼容的能力。"
+      }
+    }
+  },
+  {
+    "id": "I115",
+    "name": "双长焦旗舰模组",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "平台兼容：芯片规格须至少6，或本产品有免除高级影像兼容的能力。",
+            "op": "requireChip",
+            "value": 6,
+            "when": []
+          }
+        ],
+        "new": [
+          {
+            "text": "平台兼容：芯片规格须至少6，或本产品有免除高级影像兼容的能力。",
+            "op": "requireChip",
+            "value": 9,
+            "when": []
+          }
+        ]
+      },
+      "effect": {
+        "old": "平台兼容：芯片规格须至少6，或本产品有免除高级影像兼容的能力。",
+        "new": "平台兼容：芯片规格须至少9，或本产品有免除高级影像兼容的能力。"
+      }
+    }
+  },
+  {
+    "id": "I118",
+    "name": "大底潜望双长焦",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "平台兼容：芯片规格须至少8，或本产品有免除高级影像兼容的能力。",
+            "op": "requireChip",
+            "value": 8,
+            "when": []
+          }
+        ],
+        "new": [
+          {
+            "text": "平台兼容：芯片规格须至少8，或本产品有免除高级影像兼容的能力。",
+            "op": "requireChip",
+            "value": 14,
+            "when": []
+          }
+        ]
+      },
+      "effect": {
+        "old": "平台兼容：芯片规格须至少8，或本产品有免除高级影像兼容的能力。",
+        "new": "平台兼容：芯片规格须至少14，或本产品有免除高级影像兼容的能力。"
+      }
+    }
+  },
+  {
+    "id": "X116",
+    "name": "90Hz柔性显示定制",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "面板联调：芯片规格至少3时，大众消费竞争力加2。",
+            "op": "market",
+            "value": 2,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 3
+              }
+            ],
+            "market": "mass"
+          }
+        ],
+        "new": [
+          {
+            "text": "面板联调：芯片规格至少3时，大众消费竞争力加2。",
+            "op": "market",
+            "value": 2,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 4
+              }
+            ],
+            "market": "mass"
+          }
+        ]
+      },
+      "effect": {
+        "old": "面板联调：芯片规格至少3时，大众消费竞争力加2。",
+        "new": "面板联调：芯片规格至少4时，大众消费竞争力加2。"
+      }
+    }
+  },
+  {
+    "id": "X117",
+    "name": "48MP夜景模组定制",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "专用镜组：芯片规格至少4时，摄影创作竞争力加2。",
+            "op": "market",
+            "value": 2,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 4
+              }
+            ],
+            "market": "photo"
+          }
+        ],
+        "new": [
+          {
+            "text": "专用镜组：芯片规格至少4时，摄影创作竞争力加2。",
+            "op": "market",
+            "value": 2,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 5
+              }
+            ],
+            "market": "photo"
+          }
+        ]
+      },
+      "effect": {
+        "old": "专用镜组：芯片规格至少4时，摄影创作竞争力加2。",
+        "new": "专用镜组：芯片规格至少5时，摄影创作竞争力加2。"
+      }
+    }
+  },
+  {
+    "id": "X118",
+    "name": "潜望长焦模组定制",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "专用镜组：芯片规格至少4时，摄影创作竞争力加2。",
+            "op": "market",
+            "value": 2,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 4
+              }
+            ],
+            "market": "photo"
+          }
+        ],
+        "new": [
+          {
+            "text": "专用镜组：芯片规格至少4时，摄影创作竞争力加2。",
+            "op": "market",
+            "value": 2,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 5
+              }
+            ],
+            "market": "photo"
+          }
+        ]
+      },
+      "effect": {
+        "old": "专用镜组：芯片规格至少4时，摄影创作竞争力加2。",
+        "new": "专用镜组：芯片规格至少5时，摄影创作竞争力加2。"
+      }
+    }
+  },
+  {
+    "id": "X121",
+    "name": "HDR创作显示套装",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "创作配套：芯片规格至少3时，摄影创作竞争力加3。",
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 3
+              }
+            ],
+            "market": "photo"
+          }
+        ],
+        "new": [
+          {
+            "text": "创作配套：芯片规格至少3时，摄影创作竞争力加3。",
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 4
+              }
+            ],
+            "market": "photo"
+          }
+        ]
+      },
+      "effect": {
+        "old": "创作配套：芯片规格至少3时，摄影创作竞争力加3。",
+        "new": "创作配套：芯片规格至少4时，摄影创作竞争力加3。"
+      }
+    }
+  },
+  {
+    "id": "X123",
+    "name": "A13 Bionic·双件联调",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "body",
+            "name": "双电芯一体结构",
+            "batchCost": 5,
+            "spec": 4,
+            "power": 17,
+            "mark": "续航",
+            "form": "slab"
+          },
+          {
+            "kind": "chip",
+            "name": "A13 Bionic",
+            "batchCost": 9,
+            "spec": 8,
+            "power": 4,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_X123"
+          }
+        ],
+        "new": [
+          {
+            "kind": "body",
+            "name": "双电芯一体结构",
+            "batchCost": 5,
+            "spec": 4,
+            "power": 17,
+            "mark": "续航",
+            "form": "slab"
+          },
+          {
+            "kind": "chip",
+            "name": "A13 Bionic",
+            "batchCost": 9,
+            "spec": 9,
+            "power": 4,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_X123"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "X125",
+    "name": "麒麟9000·整机方案",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "麒麟9000",
+            "batchCost": 10,
+            "spec": 8,
+            "power": 5,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X125"
+          },
+          {
+            "kind": "screen",
+            "name": "柔性内折显示",
+            "batchCost": 6,
+            "spec": 6,
+            "power": 2,
+            "mark": "折叠",
+            "form": "fold"
+          },
+          {
+            "kind": "camera",
+            "name": "视频影像模组",
+            "batchCost": 5,
+            "spec": 6,
+            "power": 1,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "配套铰链结构",
+            "batchCost": 6,
+            "spec": 4,
+            "power": 15,
+            "mark": "折叠",
+            "form": "fold"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "麒麟9000",
+            "batchCost": 10,
+            "spec": 9,
+            "power": 5,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X125"
+          },
+          {
+            "kind": "screen",
+            "name": "柔性内折显示",
+            "batchCost": 6,
+            "spec": 6,
+            "power": 2,
+            "mark": "折叠",
+            "form": "fold"
+          },
+          {
+            "kind": "camera",
+            "name": "视频影像模组",
+            "batchCost": 5,
+            "spec": 6,
+            "power": 1,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "配套铰链结构",
+            "batchCost": 6,
+            "spec": 4,
+            "power": 15,
+            "mark": "折叠",
+            "form": "fold"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "X126",
+    "name": "A14 Bionic·整机方案",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "A14 Bionic",
+            "batchCost": 10,
+            "spec": 9,
+            "power": 4,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X126"
+          },
+          {
+            "kind": "screen",
+            "name": "低耗直屏",
+            "batchCost": 6,
+            "spec": 6,
+            "power": 2,
+            "mark": "轻薄",
+            "form": "slab"
+          },
+          {
+            "kind": "camera",
+            "name": "长焦影像模组",
+            "batchCost": 6,
+            "spec": 6,
+            "power": 2,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻量一体结构",
+            "batchCost": 5,
+            "spec": 5,
+            "power": 12,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "A14 Bionic",
+            "batchCost": 10,
+            "spec": 10,
+            "power": 4,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X126"
+          },
+          {
+            "kind": "screen",
+            "name": "低耗直屏",
+            "batchCost": 6,
+            "spec": 6,
+            "power": 2,
+            "mark": "轻薄",
+            "form": "slab"
+          },
+          {
+            "kind": "camera",
+            "name": "长焦影像模组",
+            "batchCost": 6,
+            "spec": 6,
+            "power": 2,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻量一体结构",
+            "batchCost": 5,
+            "spec": 5,
+            "power": 12,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "X127",
+    "name": "骁龙8+ Gen 1·单项联调",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "骁龙8+ Gen 1",
+            "batchCost": 11,
+            "spec": 9,
+            "power": 4,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_X127"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "骁龙8+ Gen 1",
+            "batchCost": 11,
+            "spec": 11,
+            "power": 4,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_X127"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "X128",
+    "name": "骁龙888·单项联调",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "骁龙888",
+            "batchCost": 7,
+            "spec": 8,
+            "power": 8,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v69_X128"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "骁龙888",
+            "batchCost": 7,
+            "spec": 9,
+            "power": 8,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v69_X128"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "X129",
+    "name": "UTG小折屏定制",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "面板联调：芯片规格至少4时，摄影创作竞争力加2。",
+            "op": "market",
+            "value": 2,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 4
+              }
+            ],
+            "market": "photo"
+          }
+        ],
+        "new": [
+          {
+            "text": "面板联调：芯片规格至少4时，摄影创作竞争力加2。",
+            "op": "market",
+            "value": 2,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 6
+              }
+            ],
+            "market": "photo"
+          }
+        ]
+      },
+      "effect": {
+        "old": "面板联调：芯片规格至少4时，摄影创作竞争力加2。",
+        "new": "面板联调：芯片规格至少6时，摄影创作竞争力加2。"
+      }
+    }
+  },
+  {
+    "id": "X130",
+    "name": "双OIS人像模组定制",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "专用镜组：芯片规格至少5时，摄影创作竞争力加2。",
+            "op": "market",
+            "value": 2,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 5
+              }
+            ],
+            "market": "photo"
+          }
+        ],
+        "new": [
+          {
+            "text": "专用镜组：芯片规格至少5时，摄影创作竞争力加2。",
+            "op": "market",
+            "value": 2,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 7
+              }
+            ],
+            "market": "photo"
+          }
+        ]
+      },
+      "effect": {
+        "old": "专用镜组：芯片规格至少5时，摄影创作竞争力加2。",
+        "new": "专用镜组：芯片规格至少7时，摄影创作竞争力加2。"
+      }
+    }
+  },
+  {
+    "id": "X133",
+    "name": "高刷影像监看套装",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "创作配套：芯片规格至少4时，摄影创作竞争力加3。",
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 4
+              }
+            ],
+            "market": "photo"
+          }
+        ],
+        "new": [
+          {
+            "text": "创作配套：芯片规格至少4时，摄影创作竞争力加3。",
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 6
+              }
+            ],
+            "market": "photo"
+          }
+        ]
+      },
+      "effect": {
+        "old": "创作配套：芯片规格至少4时，摄影创作竞争力加3。",
+        "new": "创作配套：芯片规格至少6时，摄影创作竞争力加3。"
+      }
+    }
+  },
+  {
+    "id": "X135",
+    "name": "天玑9200·三件协同",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "天玑9200",
+            "batchCost": 11,
+            "spec": 10,
+            "power": 6,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_X135"
+          },
+          {
+            "kind": "screen",
+            "name": "低耗直屏",
+            "batchCost": 6,
+            "spec": 7,
+            "power": 2,
+            "mark": "轻薄",
+            "form": "slab"
+          },
+          {
+            "kind": "camera",
+            "name": "长焦影像模组",
+            "batchCost": 6,
+            "spec": 7,
+            "power": 2,
+            "mark": "影像",
+            "form": "slab"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "天玑9200",
+            "batchCost": 12,
+            "spec": 12,
+            "power": 6,
+            "mark": "影像",
+            "form": "slab",
+            "chipSource": "v69_X135"
+          },
+          {
+            "kind": "screen",
+            "name": "低耗直屏",
+            "batchCost": 6,
+            "spec": 7,
+            "power": 2,
+            "mark": "轻薄",
+            "form": "slab"
+          },
+          {
+            "kind": "camera",
+            "name": "长焦影像模组",
+            "batchCost": 6,
+            "spec": 7,
+            "power": 2,
+            "mark": "影像",
+            "form": "slab"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "X136",
+    "name": "骁龙8 Gen 2·三件协同",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "骁龙8 Gen 2",
+            "batchCost": 13,
+            "spec": 10,
+            "power": 5,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_X136"
+          },
+          {
+            "kind": "screen",
+            "name": "高刷直屏",
+            "batchCost": 7,
+            "spec": 7,
+            "power": 3,
+            "mark": "性能",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻量一体结构",
+            "batchCost": 6,
+            "spec": 6,
+            "power": 14,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "骁龙8 Gen 2",
+            "batchCost": 13,
+            "spec": 12,
+            "power": 5,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_X136"
+          },
+          {
+            "kind": "screen",
+            "name": "高刷直屏",
+            "batchCost": 7,
+            "spec": 7,
+            "power": 3,
+            "mark": "性能",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻量一体结构",
+            "batchCost": 6,
+            "spec": 6,
+            "power": 14,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ]
+      },
+      "rules": {
+        "old": [
+          {
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "deployedField": "平台"
+              }
+            ],
+            "market": "gaming",
+            "text": "硬件光追方案：部署平台领域研发时，电竞娱乐竞争力加3。"
+          }
+        ],
+        "new": [
+          {
+            "op": "market",
+            "market": "gaming",
+            "value": 3,
+            "when": [
+              {
+                "kind": "screen",
+                "field": "spec",
+                "op": ">=",
+                "value": 7
+              },
+              {
+                "deployedField": "平台"
+              }
+            ]
+          }
+        ]
+      },
+      "effect": {
+        "old": "硬件光追方案：部署平台领域研发时，电竞娱乐竞争力加3。",
+        "new": "硬件光追：屏幕印刷规格至少7且部署平台领域研发时，电竞娱乐竞争力加3。"
+      }
+    }
+  },
+  {
+    "id": "X137",
+    "name": "A15 Bionic·整机方案",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "A15 Bionic",
+            "batchCost": 11,
+            "spec": 9,
+            "power": 4,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X137"
+          },
+          {
+            "kind": "screen",
+            "name": "校色直屏",
+            "batchCost": 6,
+            "spec": 7,
+            "power": 2,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "camera",
+            "name": "视频影像模组",
+            "batchCost": 6,
+            "spec": 7,
+            "power": 2,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "双电芯一体结构",
+            "batchCost": 6,
+            "spec": 5,
+            "power": 19,
+            "mark": "续航",
+            "form": "slab"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "A15 Bionic",
+            "batchCost": 11,
+            "spec": 11,
+            "power": 4,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X137"
+          },
+          {
+            "kind": "screen",
+            "name": "校色直屏",
+            "batchCost": 6,
+            "spec": 7,
+            "power": 2,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "camera",
+            "name": "视频影像模组",
+            "batchCost": 6,
+            "spec": 7,
+            "power": 2,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "双电芯一体结构",
+            "batchCost": 6,
+            "spec": 5,
+            "power": 19,
+            "mark": "续航",
+            "form": "slab"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "X138",
+    "name": "A16 Bionic·整机方案",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "A16 Bionic",
+            "batchCost": 12,
+            "spec": 10,
+            "power": 4,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X138"
+          },
+          {
+            "kind": "screen",
+            "name": "柔性内折显示",
+            "batchCost": 8,
+            "spec": 7,
+            "power": 4,
+            "mark": "折叠",
+            "form": "fold"
+          },
+          {
+            "kind": "camera",
+            "name": "长焦影像模组",
+            "batchCost": 7,
+            "spec": 7,
+            "power": 3,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "配套铰链结构",
+            "batchCost": 7,
+            "spec": 5,
+            "power": 15,
+            "mark": "折叠",
+            "form": "fold"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "A16 Bionic",
+            "batchCost": 12,
+            "spec": 12,
+            "power": 4,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X138"
+          },
+          {
+            "kind": "screen",
+            "name": "柔性内折显示",
+            "batchCost": 8,
+            "spec": 7,
+            "power": 4,
+            "mark": "折叠",
+            "form": "fold"
+          },
+          {
+            "kind": "camera",
+            "name": "长焦影像模组",
+            "batchCost": 7,
+            "spec": 7,
+            "power": 3,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "配套铰链结构",
+            "batchCost": 7,
+            "spec": 5,
+            "power": 15,
+            "mark": "折叠",
+            "form": "fold"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "X139",
+    "name": "Google Tensor G3·单项联调",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "Google Tensor G3",
+            "batchCost": 5,
+            "spec": 7,
+            "power": 6,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v69_X139"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "Google Tensor G3",
+            "batchCost": 5,
+            "spec": 8,
+            "power": 6,
+            "mark": "续航",
+            "form": "slab",
+            "chipSource": "v69_X139"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "X140",
+    "name": "高频护眼LTPO定制",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "面板联调：芯片规格至少5时，大众消费竞争力加3。",
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 5
+              }
+            ],
+            "market": "mass"
+          }
+        ],
+        "new": [
+          {
+            "text": "面板联调：芯片规格至少5时，大众消费竞争力加3。",
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 8
+              }
+            ],
+            "market": "mass"
+          }
+        ]
+      },
+      "effect": {
+        "old": "面板联调：芯片规格至少5时，大众消费竞争力加3。",
+        "new": "面板联调：芯片规格至少8时，大众消费竞争力加3。"
+      }
+    }
+  },
+  {
+    "id": "X141",
+    "name": "高亮2K显示定制",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "面板联调：芯片规格至少5时，摄影创作竞争力加3。",
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 5
+              }
+            ],
+            "market": "photo"
+          }
+        ],
+        "new": [
+          {
+            "text": "面板联调：芯片规格至少5时，摄影创作竞争力加3。",
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 8
+              }
+            ],
+            "market": "photo"
+          }
+        ]
+      },
+      "effect": {
+        "old": "面板联调：芯片规格至少5时，摄影创作竞争力加3。",
+        "new": "面板联调：芯片规格至少8时，摄影创作竞争力加3。"
+      }
+    }
+  },
+  {
+    "id": "X142",
+    "name": "一英寸超感光定制",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "专用镜组：芯片规格至少6时，摄影创作竞争力加3。",
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 6
+              }
+            ],
+            "market": "photo"
+          }
+        ],
+        "new": [
+          {
+            "text": "专用镜组：芯片规格至少6时，摄影创作竞争力加3。",
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 9
+              }
+            ],
+            "market": "photo"
+          }
+        ]
+      },
+      "effect": {
+        "old": "专用镜组：芯片规格至少6时，摄影创作竞争力加3。",
+        "new": "专用镜组：芯片规格至少9时，摄影创作竞争力加3。"
+      }
+    }
+  },
+  {
+    "id": "X144",
+    "name": "麒麟9020·双件联调",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "麒麟9020",
+            "batchCost": 9,
+            "spec": 9,
+            "power": 6,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X144"
+          },
+          {
+            "kind": "screen",
+            "name": "低耗直屏",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 4,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "麒麟9020",
+            "batchCost": 10,
+            "spec": 10,
+            "power": 6,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X144"
+          },
+          {
+            "kind": "screen",
+            "name": "低耗直屏",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 4,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "X145",
+    "name": "双长焦监看显示套装",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "创作配套：芯片规格至少5时，摄影创作竞争力加3。",
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 5
+              }
+            ],
+            "market": "photo"
+          }
+        ],
+        "new": [
+          {
+            "text": "创作配套：芯片规格至少5时，摄影创作竞争力加3。",
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 8
+              }
+            ],
+            "market": "photo"
+          }
+        ]
+      },
+      "effect": {
+        "old": "创作配套：芯片规格至少5时，摄影创作竞争力加3。",
+        "new": "创作配套：芯片规格至少8时，摄影创作竞争力加3。"
+      }
+    }
+  },
+  {
+    "id": "X147",
+    "name": "骁龙8 Gen 3·双件联调",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "body",
+            "name": "双电芯一体结构",
+            "batchCost": 7,
+            "spec": 6,
+            "power": 21,
+            "mark": "续航",
+            "form": "slab"
+          },
+          {
+            "kind": "chip",
+            "name": "骁龙8 Gen 3",
+            "batchCost": 12,
+            "spec": 10,
+            "power": 6,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_X147"
+          }
+        ],
+        "new": [
+          {
+            "kind": "body",
+            "name": "双电芯一体结构",
+            "batchCost": 7,
+            "spec": 6,
+            "power": 21,
+            "mark": "续航",
+            "form": "slab"
+          },
+          {
+            "kind": "chip",
+            "name": "骁龙8 Gen 3",
+            "batchCost": 14,
+            "spec": 14,
+            "power": 6,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_X147"
+          }
+        ]
+      },
+      "rules": {
+        "old": [
+          {
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "screen",
+                "field": "spec",
+                "op": ">=",
+                "value": 7
+              }
+            ],
+            "market": "gaming",
+            "text": "高帧联调：屏幕印刷规格至少7时，电竞娱乐竞争力加3。"
+          }
+        ],
+        "new": [
+          {
+            "op": "market",
+            "market": "gaming",
+            "value": 3,
+            "when": [
+              {
+                "kind": "screen",
+                "field": "spec",
+                "op": ">=",
+                "value": 7
+              },
+              {
+                "deployedField": "平台"
+              }
+            ]
+          }
+        ]
+      },
+      "effect": {
+        "old": "高帧联调：屏幕印刷规格至少7时，电竞娱乐竞争力加3。",
+        "new": "高帧光追：屏幕印刷规格至少7且部署平台领域研发时，电竞娱乐竞争力加3。"
+      }
+    }
+  },
+  {
+    "id": "X148",
+    "name": "天玑9400·三件协同",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "天玑9400",
+            "batchCost": 13,
+            "spec": 11,
+            "power": 6,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_X148"
+          },
+          {
+            "kind": "camera",
+            "name": "双OIS影像模组",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 4,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻量一体结构",
+            "batchCost": 7,
+            "spec": 7,
+            "power": 16,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "天玑9400",
+            "batchCost": 15,
+            "spec": 16,
+            "power": 6,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_X148"
+          },
+          {
+            "kind": "camera",
+            "name": "双OIS影像模组",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 4,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻量一体结构",
+            "batchCost": 7,
+            "spec": 7,
+            "power": 16,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "X149",
+    "name": "A17 Pro·整机方案",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "A17 Pro",
+            "batchCost": 12,
+            "spec": 10,
+            "power": 6,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X149"
+          },
+          {
+            "kind": "screen",
+            "name": "柔性内折显示",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 4,
+            "mark": "折叠",
+            "form": "fold"
+          },
+          {
+            "kind": "camera",
+            "name": "视频影像模组",
+            "batchCost": 7,
+            "spec": 8,
+            "power": 3,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "配套铰链结构",
+            "batchCost": 8,
+            "spec": 6,
+            "power": 19,
+            "mark": "折叠",
+            "form": "fold"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "A17 Pro",
+            "batchCost": 13,
+            "spec": 13,
+            "power": 6,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X149"
+          },
+          {
+            "kind": "screen",
+            "name": "柔性内折显示",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 4,
+            "mark": "折叠",
+            "form": "fold"
+          },
+          {
+            "kind": "camera",
+            "name": "视频影像模组",
+            "batchCost": 7,
+            "spec": 8,
+            "power": 3,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "配套铰链结构",
+            "batchCost": 8,
+            "spec": 6,
+            "power": 19,
+            "mark": "折叠",
+            "form": "fold"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "X150",
+    "name": "A18 Pro·整机方案",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "A18 Pro",
+            "batchCost": 13,
+            "spec": 11,
+            "power": 5,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X150"
+          },
+          {
+            "kind": "screen",
+            "name": "低耗直屏",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 4,
+            "mark": "轻薄",
+            "form": "slab"
+          },
+          {
+            "kind": "camera",
+            "name": "长焦影像模组",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 4,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻量一体结构",
+            "batchCost": 7,
+            "spec": 7,
+            "power": 16,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "A18 Pro",
+            "batchCost": 15,
+            "spec": 16,
+            "power": 5,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X150"
+          },
+          {
+            "kind": "screen",
+            "name": "低耗直屏",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 4,
+            "mark": "轻薄",
+            "form": "slab"
+          },
+          {
+            "kind": "camera",
+            "name": "长焦影像模组",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 4,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻量一体结构",
+            "batchCost": 7,
+            "spec": 7,
+            "power": 16,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "X151",
+    "name": "A19 Pro·单项联调",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "A19 Pro",
+            "batchCost": 15,
+            "spec": 12,
+            "power": 5,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X151"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "A19 Pro",
+            "batchCost": 17,
+            "spec": 18,
+            "power": 5,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X151"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "X152",
+    "name": "骁龙8 Elite Extreme Gen 6·单项联调",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "骁龙8EE6〔前瞻〕",
+            "batchCost": 16,
+            "spec": 12,
+            "power": 6,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_X152"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "骁龙8 Elite Extreme Gen 6",
+            "batchCost": 19,
+            "spec": 21,
+            "power": 6,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_X152"
+          }
+        ]
+      },
+      "name": {
+        "old": "骁龙8EE6〔前瞻〕·单项联调",
+        "new": "骁龙8 Elite Extreme Gen 6·单项联调"
+      },
+      "rules": {
+        "old": [
+          {
+            "op": "market",
+            "value": 4,
+            "when": [
+              {
+                "kind": "screen",
+                "field": "spec",
+                "op": ">=",
+                "value": 8
+              },
+              {
+                "deployedField": "平台"
+              }
+            ],
+            "market": "gaming",
+            "text": "旗舰图形方案〔前瞻〕：屏幕印刷规格至少8且部署平台领域研发时，电竞娱乐竞争力加4。 集成调校占1技术位，不算部署研发。"
+          }
+        ],
+        "new": [
+          {
+            "op": "market",
+            "market": "gaming",
+            "value": 4,
+            "when": [
+              {
+                "kind": "screen",
+                "field": "spec",
+                "op": ">=",
+                "value": 8
+              },
+              {
+                "any": [
+                  {
+                    "deployedField": "平台"
+                  },
+                  {
+                    "deployedField": "系统"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "cardEvidenceNote": {
+        "old": "前瞻名称；完整官方参数待核",
+        "new": "名称已更新；规格与等效负载为游戏值，不代表统一实测排名。"
+      },
+      "effect": {
+        "old": "旗舰图形方案〔前瞻〕：屏幕印刷规格至少8且部署平台领域研发时，电竞娱乐竞争力加4。 集成调校占1技术位，不算部署研发。",
+        "new": "Adreno Neural Fusion：屏幕印刷规格至少8，且部署平台或系统研发时，电竞娱乐竞争力加4。集成调校占1技术位，不算部署研发。"
+      }
+    }
+  },
+  {
+    "id": "X153",
+    "name": "超薄柔性折叠屏定制",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "面板联调：芯片规格至少6时，摄影创作竞争力加3。",
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 6
+              }
+            ],
+            "market": "photo"
+          }
+        ],
+        "new": [
+          {
+            "text": "面板联调：芯片规格至少6时，摄影创作竞争力加3。",
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 10
+              }
+            ],
+            "market": "photo"
+          }
+        ]
+      },
+      "effect": {
+        "old": "面板联调：芯片规格至少6时，摄影创作竞争力加3。",
+        "new": "面板联调：芯片规格至少10时，摄影创作竞争力加3。"
+      }
+    }
+  },
+  {
+    "id": "X154",
+    "name": "高刷新旗舰直屏定制",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "面板联调：芯片规格至少6时，电竞娱乐竞争力加3。",
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 6
+              }
+            ],
+            "market": "gaming"
+          }
+        ],
+        "new": [
+          {
+            "text": "面板联调：芯片规格至少6时，电竞娱乐竞争力加3。",
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 10
+              }
+            ],
+            "market": "gaming"
+          }
+        ]
+      },
+      "effect": {
+        "old": "面板联调：芯片规格至少6时，电竞娱乐竞争力加3。",
+        "new": "面板联调：芯片规格至少10时，电竞娱乐竞争力加3。"
+      }
+    }
+  },
+  {
+    "id": "X155",
+    "name": "大底双潜望光学定制",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "专用镜组：芯片规格至少7时，摄影创作竞争力加3。",
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 7
+              }
+            ],
+            "market": "photo"
+          }
+        ],
+        "new": [
+          {
+            "text": "专用镜组：芯片规格至少7时，摄影创作竞争力加3。",
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 12
+              }
+            ],
+            "market": "photo"
+          }
+        ]
+      },
+      "effect": {
+        "old": "专用镜组：芯片规格至少7时，摄影创作竞争力加3。",
+        "new": "专用镜组：芯片规格至少12时，摄影创作竞争力加3。"
+      }
+    }
+  },
+  {
+    "id": "X156",
+    "name": "可变焦距旗舰影像定制",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "专用镜组：芯片规格至少7时，摄影创作竞争力加3。",
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 7
+              }
+            ],
+            "market": "photo"
+          },
+          {
+            "text": "平台兼容：芯片规格须至少8，或有免除高级影像兼容的能力。",
+            "op": "requireChip",
+            "value": 8,
+            "when": []
+          }
+        ],
+        "new": [
+          {
+            "text": "专用镜组：芯片规格至少7时，摄影创作竞争力加3。",
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 12
+              }
+            ],
+            "market": "photo"
+          },
+          {
+            "text": "平台兼容：芯片规格须至少8，或有免除高级影像兼容的能力。",
+            "op": "requireChip",
+            "value": 14,
+            "when": []
+          }
+        ]
+      },
+      "effect": {
+        "old": "专用镜组：芯片规格至少7时，摄影创作竞争力加3。 平台兼容：芯片规格须至少8，或有免除高级影像兼容的能力。 集成调校占本产品1个技术位；不算部署研发。",
+        "new": "专用镜组：芯片规格至少12时，摄影创作竞争力加3。 平台兼容：芯片规格须至少14，或有免除高级影像兼容的能力。 集成调校占本产品1个技术位；不算部署研发。"
+      }
+    }
+  },
+  {
+    "id": "X159",
+    "name": "天玑9600 Pro·双件联调",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "天玑9600 Pro",
+            "batchCost": 15,
+            "spec": 12,
+            "power": 5,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_X159"
+          },
+          {
+            "kind": "screen",
+            "name": "低耗直屏",
+            "batchCost": 8,
+            "spec": 9,
+            "power": 4,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "天玑9600 Pro",
+            "batchCost": 18,
+            "spec": 20,
+            "power": 5,
+            "mark": "性能",
+            "form": "slab",
+            "chipSource": "v69_X159"
+          },
+          {
+            "kind": "screen",
+            "name": "低耗直屏",
+            "batchCost": 8,
+            "spec": 9,
+            "power": 4,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "X160",
+    "name": "麒麟9050·双件联调",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "麒麟9050",
+            "batchCost": 13,
+            "spec": 11,
+            "power": 6,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X160"
+          },
+          {
+            "kind": "camera",
+            "name": "双OIS影像模组",
+            "batchCost": 9,
+            "spec": 9,
+            "power": 5,
+            "mark": "影像",
+            "form": "slab"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "麒麟9050",
+            "batchCost": 15,
+            "spec": 14,
+            "power": 6,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X160"
+          },
+          {
+            "kind": "camera",
+            "name": "双OIS影像模组",
+            "batchCost": 9,
+            "spec": 9,
+            "power": 5,
+            "mark": "影像",
+            "form": "slab"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "X162",
+    "name": "专业视频机身三件套",
+    "group": "parts",
+    "fields": {
+      "rules": {
+        "old": [
+          {
+            "text": "创作配套：芯片规格至少6时，摄影创作竞争力加3。",
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 6
+              }
+            ],
+            "market": "photo"
+          }
+        ],
+        "new": [
+          {
+            "text": "创作配套：芯片规格至少6时，摄影创作竞争力加3。",
+            "op": "market",
+            "value": 3,
+            "when": [
+              {
+                "kind": "chip",
+                "field": "spec",
+                "op": ">=",
+                "value": 10
+              }
+            ],
+            "market": "photo"
+          }
+        ]
+      },
+      "effect": {
+        "old": "创作配套：芯片规格至少6时，摄影创作竞争力加3。",
+        "new": "创作配套：芯片规格至少10时，摄影创作竞争力加3。"
+      }
+    }
+  },
+  {
+    "id": "X163",
+    "name": "玄戒O3·三件协同",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "玄戒O3〔待核〕",
+            "batchCost": 14,
+            "spec": 12,
+            "power": 6,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X163"
+          },
+          {
+            "kind": "camera",
+            "name": "双OIS影像模组",
+            "batchCost": 8,
+            "spec": 9,
+            "power": 4,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻薄联合封装结构",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 21,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "玄戒O3",
+            "batchCost": 17,
+            "spec": 20,
+            "power": 6,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X163"
+          },
+          {
+            "kind": "camera",
+            "name": "双OIS影像模组",
+            "batchCost": 8,
+            "spec": 9,
+            "power": 4,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻薄联合封装结构",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 21,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ]
+      },
+      "name": {
+        "old": "玄戒O3〔待核〕·三件协同",
+        "new": "玄戒O3·三件协同"
+      },
+      "rules": {
+        "old": [
+          {
+            "op": "market",
+            "value": 4,
+            "when": [
+              {
+                "any": [
+                  {
+                    "fold": true
+                  },
+                  {
+                    "kind": "body",
+                    "field": "mark",
+                    "op": "==",
+                    "value": "轻薄"
+                  }
+                ]
+              }
+            ],
+            "market": "office",
+            "text": "整合平台〔待核·游戏方案〕：配套折叠或机身有轻薄标识时，商务办公竞争力加4。"
+          }
+        ],
+        "new": [
+          {
+            "op": "feature",
+            "feature": "生态",
+            "when": [
+              {
+                "deployedField": "系统"
+              }
+            ]
+          },
+          {
+            "op": "market",
+            "market": "photo",
+            "value": 3,
+            "when": [
+              {
+                "deployedField": "系统"
+              },
+              {
+                "deployedField": "影像"
+              }
+            ]
+          }
+        ]
+      },
+      "cardEvidenceNote": {
+        "old": "O3完整第一方参数待核",
+        "new": "名称已更新；规格与等效负载为游戏值，不代表统一实测排名。"
+      },
+      "effect": {
+        "old": "整合平台〔待核·游戏方案〕：配套折叠或机身有轻薄标识时，商务办公竞争力加4。",
+        "new": "端侧AI协同：部署系统研发时，本产品取得生态；若同时部署影像研发，摄影创作竞争力加3。"
+      }
+    }
+  },
+  {
+    "id": "X164",
+    "name": "A20 Pro·整机方案",
+    "group": "parts",
+    "fields": {
+      "components": {
+        "old": [
+          {
+            "kind": "chip",
+            "name": "A20 Pro",
+            "batchCost": 13,
+            "spec": 12,
+            "power": 5,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X164"
+          },
+          {
+            "kind": "screen",
+            "name": "校色直屏",
+            "batchCost": 9,
+            "spec": 9,
+            "power": 5,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "camera",
+            "name": "视频影像模组",
+            "batchCost": 9,
+            "spec": 9,
+            "power": 5,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻量一体结构",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 18,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ],
+        "new": [
+          {
+            "kind": "chip",
+            "name": "A20 Pro",
+            "batchCost": 16,
+            "spec": 21,
+            "power": 5,
+            "mark": "生态",
+            "form": "slab",
+            "chipSource": "v69_X164"
+          },
+          {
+            "kind": "screen",
+            "name": "校色直屏",
+            "batchCost": 9,
+            "spec": 9,
+            "power": 5,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "camera",
+            "name": "视频影像模组",
+            "batchCost": 9,
+            "spec": 9,
+            "power": 5,
+            "mark": "影像",
+            "form": "slab"
+          },
+          {
+            "kind": "body",
+            "name": "轻量一体结构",
+            "batchCost": 8,
+            "spec": 8,
+            "power": 18,
+            "mark": "轻薄",
+            "form": "slab"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "S011",
+    "name": "入门计算平台",
+    "group": "parts",
+    "fields": {
+      "effect": {
+        "old": "初始通用配件：入库0现金、0工作；每批仍支付本卡制造费。",
+        "new": "初始通用配件：开局免费入库，不执行供应行动；每批仍支付本卡制造费。"
+      }
+    }
+  },
+  {
+    "id": "S012",
+    "name": "标准LCD",
+    "group": "parts",
+    "fields": {
+      "effect": {
+        "old": "初始通用配件：入库0现金、0工作；每批仍支付本卡制造费。",
+        "new": "初始通用配件：开局免费入库，不执行供应行动；每批仍支付本卡制造费。"
+      }
+    }
+  },
+  {
+    "id": "S013",
+    "name": "基础主摄",
+    "group": "parts",
+    "fields": {
+      "effect": {
+        "old": "初始通用配件：入库0现金、0工作；每批仍支付本卡制造费。",
+        "new": "初始通用配件：开局免费入库，不执行供应行动；每批仍支付本卡制造费。"
+      }
+    }
+  },
+  {
+    "id": "S014",
+    "name": "复合材料机身",
+    "group": "parts",
+    "fields": {
+      "effect": {
+        "old": "初始通用配件：入库0现金、0工作；每批仍支付本卡制造费。",
+        "new": "初始通用配件：开局免费入库，不执行供应行动；每批仍支付本卡制造费。"
+      }
+    }
+  },
+  {
+    "id": "S021",
+    "name": "低功耗平台",
+    "group": "parts",
+    "fields": {
+      "effect": {
+        "old": "初始通用配件：入库0现金、0工作；每批仍支付本卡制造费。",
+        "new": "初始通用配件：开局免费入库，不执行供应行动；每批仍支付本卡制造费。"
+      }
+    }
+  },
+  {
+    "id": "S022",
+    "name": "轻量显示屏",
+    "group": "parts",
+    "fields": {
+      "effect": {
+        "old": "初始通用配件：入库0现金、0工作；每批仍支付本卡制造费。",
+        "new": "初始通用配件：开局免费入库，不执行供应行动；每批仍支付本卡制造费。"
+      }
+    }
+  },
+  {
+    "id": "S023",
+    "name": "入门影像模组",
+    "group": "parts",
+    "fields": {
+      "effect": {
+        "old": "初始通用配件：入库0现金、0工作；每批仍支付本卡制造费。",
+        "new": "初始通用配件：开局免费入库，不执行供应行动；每批仍支付本卡制造费。"
+      }
+    }
+  },
+  {
+    "id": "S024",
+    "name": "影像握持机身",
+    "group": "parts",
+    "fields": {
+      "effect": {
+        "old": "初始通用配件：入库0现金、0工作；每批仍支付本卡制造费。",
+        "new": "初始通用配件：开局免费入库，不执行供应行动；每批仍支付本卡制造费。"
+      }
+    }
+  },
+  {
+    "id": "S031",
+    "name": "互联基础平台",
+    "group": "parts",
+    "fields": {
+      "effect": {
+        "old": "初始通用配件：入库0现金、0工作；每批仍支付本卡制造费。",
+        "new": "初始通用配件：开局免费入库，不执行供应行动；每批仍支付本卡制造费。"
+      }
+    }
+  },
+  {
+    "id": "S032",
+    "name": "紧凑显示屏",
+    "group": "parts",
+    "fields": {
+      "effect": {
+        "old": "初始通用配件：入库0现金、0工作；每批仍支付本卡制造费。",
+        "new": "初始通用配件：开局免费入库，不执行供应行动；每批仍支付本卡制造费。"
+      }
+    }
+  },
+  {
+    "id": "S033",
+    "name": "微型基础模组",
+    "group": "parts",
+    "fields": {
+      "effect": {
+        "old": "初始通用配件：入库0现金、0工作；每批仍支付本卡制造费。",
+        "new": "初始通用配件：开局免费入库，不执行供应行动；每批仍支付本卡制造费。"
+      }
+    }
+  },
+  {
+    "id": "S034",
+    "name": "轻薄入门机身",
+    "group": "parts",
+    "fields": {
+      "effect": {
+        "old": "初始通用配件：入库0现金、0工作；每批仍支付本卡制造费。",
+        "new": "初始通用配件：开局免费入库，不执行供应行动；每批仍支付本卡制造费。"
+      }
+    }
+  },
+  {
+    "id": "S041",
+    "name": "通用互联平台",
+    "group": "parts",
+    "fields": {
+      "effect": {
+        "old": "初始通用配件：入库0现金、0工作；每批仍支付本卡制造费。",
+        "new": "初始通用配件：开局免费入库，不执行供应行动；每批仍支付本卡制造费。"
+      }
+    }
+  },
+  {
+    "id": "S042",
+    "name": "节能LCD",
+    "group": "parts",
+    "fields": {
+      "effect": {
+        "old": "初始通用配件：入库0现金、0工作；每批仍支付本卡制造费。",
+        "new": "初始通用配件：开局免费入库，不执行供应行动；每批仍支付本卡制造费。"
+      }
+    }
+  },
+  {
+    "id": "S043",
+    "name": "标准主摄",
+    "group": "parts",
+    "fields": {
+      "effect": {
+        "old": "初始通用配件：入库0现金、0工作；每批仍支付本卡制造费。",
+        "new": "初始通用配件：开局免费入库，不执行供应行动；每批仍支付本卡制造费。"
+      }
+    }
+  },
+  {
+    "id": "S044",
+    "name": "长续航入门机身",
+    "group": "parts",
+    "fields": {
+      "effect": {
+        "old": "初始通用配件：入库0现金、0工作；每批仍支付本卡制造费。",
+        "new": "初始通用配件：开局免费入库，不执行供应行动；每批仍支付本卡制造费。"
+      }
+    }
+  },
+  {
+    "id": "T07",
+    "name": "LPDDR5X",
+    "group": "technologies",
+    "fields": {
+      "proof": {
+        "old": "完成时展示芯片规格至少6的样机。",
+        "new": "完成时展示芯片规格至少8的合法样机。"
+      }
+    }
+  },
+  {
+    "id": "T13",
+    "name": "UFS 4.0",
+    "group": "technologies",
+    "fields": {
+      "proof": {
+        "old": "完成时展示芯片与屏幕规格均至少6的样机。",
+        "new": "完成时展示芯片规格至少10且屏幕规格至少6的合法样机。"
+      },
+      "effect": {
+        "old": "部署：芯片和屏幕规格均至少6时，本产品以38或48售价投放电竞娱乐或商务办公，竞争力加3。",
+        "new": "部署：芯片规格至少10、屏幕规格至少6时，本产品以38或48售价投电竞娱乐或商务办公，竞争力加3。"
+      }
+    }
+  },
+  {
+    "id": "T18",
+    "name": "端侧大模型",
+    "group": "technologies",
+    "fields": {
+      "proof": {
+        "old": "完成时展示芯片规格至少8且具有生态的样机。",
+        "new": "完成时展示芯片规格至少14且具有生态的合法样机。"
+      }
+    }
+  },
+  {
+    "id": "T28",
+    "name": "图形驱动优化",
+    "group": "technologies",
+    "fields": {
+      "effect": {
+        "old": "部署：芯片规格至少4即可取得性能特征，允许成熟中端平台进入电竞娱乐。",
+        "new": "部署：芯片规格至少4即可取得性能特征；不改变芯片印刷规格。"
+      }
+    }
+  },
+  {
+    "id": "T31",
+    "name": "模组接口标准",
+    "group": "technologies",
+    "fields": {
+      "effect": {
+        "old": "工艺：本人工作阶段取消产品后，紧接着花1工作在同位正常组装，组装费减6至最低0；每本人回合一次。原费用不退，发布扩产不触发。",
+        "new": "工艺：制造行动中，取消一批后紧接着在同产品位组装，本次组装费减6，最低0；每次制造行动最多一次。原款不退，发布扩产不触发。"
+      }
+    }
+  },
+  {
+    "id": "T32",
+    "name": "可靠性工程",
+    "group": "technologies",
+    "fields": {
+      "effect": {
+        "old": "工艺：独立验证的产品门槛改为基础竞争力至少8且至少1种特征；工作2、现金12和每公司每世代一次仍不变。",
+        "new": "工艺：独立验证门槛改为真实产品基础竞争力至少10、至少1种特征；仍占整次研发行动，付12现金，每当前世代一次得1科技。"
+      }
+    }
+  },
+  {
+    "id": "T36",
+    "name": "工程流程标准化",
+    "group": "technologies",
+    "fields": {
+      "effect": {
+        "old": "工艺：一次正常安装工作可依次安装至多2张不同类别稳定件，各付入库费并查锁定；不用于奖励签装，不增加普通组装或发布扩产次数。",
+        "new": "工艺：每次供应行动的安装上限加1，最多3张不同类别；分别付费并检查引用锁定。奖励签装不受本卡影响，不增加制造或扩产次数。"
+      }
+    }
+  },
+  {
+    "id": "T39",
+    "name": "能效验证体系",
+    "group": "technologies",
+    "fields": {
+      "proof": {
+        "old": "完成时展示基础竞争力至少18、供电余量至少4的样机。",
+        "new": "完成时展示基础竞争力至少24、供电余量至少4的合法样机。"
+      },
+      "effect": {
+        "old": "工艺：独立验证工作由2降为1，现金仍12；每公司每当前世代只可验证一次，取消产品不能恢复次数。",
+        "new": "工艺：选择独立验证的研发行动，完成验证后可给一个已有在研项目追加1进度；不可立项、不溢出、不叠实验室加速，也不预告。验证现金和每世代一次限制照常。"
+      }
+    }
+  },
+  {
+    "id": "H02",
+    "name": "电竞体验包",
+    "group": "contracts",
+    "fields": {
+      "requirement": {
+        "old": "具有性能；芯片规格至少6。",
+        "new": "具有性能；芯片印刷规格至少8。"
+      }
+    }
+  },
+  {
+    "id": "H08",
+    "name": "折叠体验单",
+    "group": "contracts",
+    "fields": {
+      "requirement": {
+        "old": "具有折叠，且芯片规格至少5。",
+        "new": "具有折叠，且芯片印刷规格至少7。"
+      }
+    }
+  },
+  {
+    "id": "H11",
+    "name": "旗舰预订单",
+    "group": "contracts",
+    "fields": {
+      "totalCash": {
+        "old": 48,
+        "new": 54
+      },
+      "requirement": {
+        "old": "基础竞争力至少24；至少一项部件规格8。",
+        "new": "基础竞争力至少30；芯片规格至少12或影像规格至少8。"
+      },
+      "unitPrice": {
+        "old": 48,
+        "new": 54
+      },
+      "effect": {
+        "old": "在签约后2次发布内，一次交付1个产品位的现货（每位1批），每批均须满足本卡条件，允许配置不同；不能分次交付。每批得48现金、4收入；整单48现金、4收入，并退6押金。未交付到期只没收押金，不增加债务。",
+        "new": "签约后2次发布内，一次交付1批满足要求的现货，得54现金、4收入并退6押金。不允许扩产补单。"
+      }
+    }
+  },
+  {
+    "id": "H16",
+    "name": "红厂主板保供",
+    "group": "contracts",
+    "fields": {
+      "effect": {
+        "old": "有效期2次发布。每本人回合首次正常组装引用红厂稳定芯片的产品，制造总费减3，最低6；不减授权费，取消不复位。发布扩产不触发。",
+        "new": "有效期2次发布。每次制造行动的第一批组装引用红厂稳定芯片的产品，制造总费减3，最低6；不减授权费，取消不复位。发布扩产不触发。"
+      }
+    }
+  },
+  {
+    "id": "H18",
+    "name": "蓝厂显示长约",
+    "group": "contracts",
+    "fields": {
+      "effect": {
+        "old": "有效期2次发布。安装蓝厂稳定件时，从当前关系对应卡价再减3入库费，最低0；仍花安装工作，不放宽库栏锁定。",
+        "new": "有效期2次发布。安装蓝厂稳定件时，从当前关系卡价再减3，最低0；不增加安装次数，不放宽引用锁定，奖励签装可用。"
+      }
+    }
+  },
+  {
+    "id": "H19",
+    "name": "绿厂结构备货",
+    "group": "contracts",
+    "fields": {
+      "effect": {
+        "old": "有效期2次发布。每准备期一次，可在本人工作阶段不花工作安装1张手中绿厂稳定件；支付当前关系对应入库价并查锁定。不是普通安装工作。",
+        "new": "有效期2次发布。每准备期一次，在自己六行动之一开始前可额外安装1张手中绿厂稳定件，支付卡价并查锁定；不执行供应行动、不移动阵列、不触发供应附抽。"
+      }
+    }
+  },
+  {
+    "id": "H20",
+    "name": "黑厂整合代工",
+    "group": "contracts",
+    "fields": {
+      "effect": {
+        "old": "有效期2次发布。每本人回合首次正常组装含黑厂多项定制的产品，组装费减4，最低0；部件及授权费照付。发布扩产不触发。",
+        "new": "有效期2次发布。每次制造行动的第一批组装含黑厂多项定制的产品，组装费减4，最低0；部件及授权费照付。发布扩产不触发。"
+      }
+    }
+  },
+  {
+    "id": "U01",
+    "name": "柔性装配线",
+    "group": "facilities",
+    "fields": {
+      "buildActionCost": {
+        "old": null,
+        "new": 1
+      },
+      "work": {
+        "old": 2,
+        "new": null
+      },
+      "action": {
+        "old": null,
+        "new": "合作"
+      },
+      "effect": {
+        "old": "每本人回合首次正常组装前，可顺带安装1张手中稳定件，不另花安装工作；照付入库费并查无引用，再正常组装1批。发布扩产不触发。",
+        "new": "每次制造行动的第一批组装前，可先安装1张手中稳定件；照付入库费并查无引用。不增加制造额度，不触发供应附抽；发布扩产不触发。"
+      }
+    }
+  },
+  {
+    "id": "U02",
+    "name": "双班生产车间",
+    "group": "facilities",
+    "fields": {
+      "buildActionCost": {
+        "old": null,
+        "new": 1
+      },
+      "work": {
+        "old": 2,
+        "new": null
+      },
+      "action": {
+        "old": null,
+        "new": "合作"
+      },
+      "effect": {
+        "old": "每本人回合另有1枚专用工作点，只能正常组装1批，不保存。普通发布末付6维护，否则停用；本人回合付6启用，本回合仍限一次。不增加发布扩产次数。",
+        "new": "制造行动组装上限加1，最多4批；逐批付款与占位照常，预告仍最多2格。普通发布末付6维护，否则停用；以后本人行动开始前付6启用。不增加发布扩产。"
+      }
+    }
+  },
+  {
+    "id": "U03",
+    "name": "采购办公室",
+    "group": "facilities",
+    "fields": {
+      "buildActionCost": {
+        "old": null,
+        "new": 1
+      },
+      "work": {
+        "old": 2,
+        "new": null
+      },
+      "action": {
+        "old": null,
+        "new": "合作"
+      },
+      "effect": {
+        "old": "每个本人回合首次取牌工作可取得至多3张主牌，而非2张；可混选当前牌市与盲抽，全部选完后统一补牌。",
+        "new": "调研行动的取牌上限加1，即强度1/2/3为3/4/5张。先选完再补牌；不作用于供应、合作和奖励附抽。"
+      }
+    }
+  },
+  {
+    "id": "U04",
+    "name": "供应商直联室",
+    "group": "facilities",
+    "fields": {
+      "buildActionCost": {
+        "old": null,
+        "new": 1
+      },
+      "work": {
+        "old": 2,
+        "new": null
+      },
+      "action": {
+        "old": null,
+        "new": "合作"
+      },
+      "effect": {
+        "old": "每准备期一次，取牌工作可改为看主堆顶5张，留至多2张已经是本公司伙伴的厂所供配件；余牌原顺序置底。只取牌不安装，不同时取牌市；未来件仍不能提前使用。",
+        "new": "每准备期一次，调研行动可改为看主堆顶5张，留至多2张自己已是伙伴的厂的配件；余牌原顺序置底。不同时拿牌市，也不安装；未来件仍禁提前使用。"
+      }
+    }
+  },
+  {
+    "id": "U05",
+    "name": "影像试验室",
+    "group": "facilities",
+    "fields": {
+      "buildActionCost": {
+        "old": null,
+        "new": 1
+      },
+      "work": {
+        "old": 2,
+        "new": null
+      },
+      "action": {
+        "old": null,
+        "new": "合作"
+      },
+      "effect": {
+        "old": "推进影像研发时，每个本人回合第一次推进额外加1进度；仍花该次工作点，不超项目工期。",
+        "new": "研发行动推进影像项目时，该次所选项目额外推进1格。每次行动一次，不超工期、不转移、不作用于独立验证或发布奖励。"
+      }
+    }
+  },
+  {
+    "id": "U06",
+    "name": "能效试验室",
+    "group": "facilities",
+    "fields": {
+      "buildActionCost": {
+        "old": null,
+        "new": 1
+      },
+      "work": {
+        "old": 2,
+        "new": null
+      },
+      "action": {
+        "old": null,
+        "new": "合作"
+      },
+      "effect": {
+        "old": "推进电源或散热研发时，每个本人回合第一次推进额外加1进度。",
+        "new": "研发行动推进电源或散热项目时，该次所选项目额外推进1格。每次行动一次，不超工期、不转移、不作用于独立验证或发布奖励。"
+      }
+    }
+  },
+  {
+    "id": "U07",
+    "name": "结构试验室",
+    "group": "facilities",
+    "fields": {
+      "buildActionCost": {
+        "old": null,
+        "new": 1
+      },
+      "work": {
+        "old": 2,
+        "new": null
+      },
+      "action": {
+        "old": null,
+        "new": "合作"
+      },
+      "effect": {
+        "old": "推进结构或显示研发时，每个本人回合第一次推进额外加1进度。",
+        "new": "研发行动推进结构或显示项目时，该次所选项目额外推进1格。每次行动一次，不超工期、不转移、不作用于独立验证或发布奖励。"
+      }
+    }
+  },
+  {
+    "id": "U08",
+    "name": "软件验证中心",
+    "group": "facilities",
+    "fields": {
+      "buildActionCost": {
+        "old": null,
+        "new": 1
+      },
+      "work": {
+        "old": 2,
+        "new": null
+      },
+      "action": {
+        "old": null,
+        "new": "合作"
+      },
+      "effect": {
+        "old": "推进系统或平台研发时，每个本人回合第一次推进额外加1进度。",
+        "new": "研发行动推进系统或平台项目时，该次所选项目额外推进1格。每次行动一次，不超工期、不转移、不作用于独立验证或发布奖励。"
+      }
+    }
+  },
+  {
+    "id": "U09",
+    "name": "第三研发工位",
+    "group": "facilities",
+    "fields": {
+      "buildActionCost": {
+        "old": null,
+        "new": 1
+      },
+      "work": {
+        "old": 2,
+        "new": null
+      },
+      "action": {
+        "old": null,
+        "new": "合作"
+      },
+      "effect": {
+        "old": "同时在研上限由2提高至3。不增加每回合工作点。",
+        "new": "同时在研上限从2提高到3。不增加每回合行动次数，也不允许一次研发行动处理多个项目。"
+      }
+    }
+  },
+  {
+    "id": "U10",
+    "name": "合同管理室",
+    "group": "facilities",
+    "fields": {
+      "buildActionCost": {
+        "old": null,
+        "new": 1
+      },
+      "work": {
+        "old": 2,
+        "new": null
+      },
+      "action": {
+        "old": null,
+        "new": "合作"
+      }
+    }
+  },
+  {
+    "id": "U11",
+    "name": "快速打样间",
+    "group": "facilities",
+    "fields": {
+      "buildActionCost": {
+        "old": null,
+        "new": 1
+      },
+      "work": {
+        "old": 2,
+        "new": null
+      },
+      "action": {
+        "old": null,
+        "new": "合作"
+      },
+      "effect": {
+        "old": "每本人回合首次正常组装，组装费8减6，最低0；部件、Q及授权费照付。发布扩产不是正常工作，不享受本优惠。",
+        "new": "每次制造行动的第一批组装，通用组装费8减6，最低0；部件、Q、授权费照付。发布扩产不享受本优惠。"
+      }
+    }
+  },
+  {
+    "id": "U12",
+    "name": "样机验证台",
+    "group": "facilities",
+    "fields": {
+      "buildActionCost": {
+        "old": null,
+        "new": 1
+      },
+      "work": {
+        "old": 2,
+        "new": null
+      },
+      "action": {
+        "old": null,
+        "new": "合作"
+      }
+    }
+  },
+  {
+    "id": "U13",
+    "name": "区域仓储中心",
+    "group": "facilities",
+    "fields": {
+      "buildActionCost": {
+        "old": null,
+        "new": 1
+      },
+      "work": {
+        "old": 2,
+        "new": null
+      },
+      "action": {
+        "old": null,
+        "new": "合作"
+      }
+    }
+  },
+  {
+    "id": "U14",
+    "name": "返修再制造站",
+    "group": "facilities",
+    "fields": {
+      "buildActionCost": {
+        "old": null,
+        "new": 1
+      },
+      "work": {
+        "old": 2,
+        "new": null
+      },
+      "action": {
+        "old": null,
+        "new": "合作"
+      },
+      "effect": {
+        "old": "本人工作阶段取消产品后，紧接同位正常改款组装，总费减3，最低6；每本人回合一次，不退原制造费。发布扩产不触发。",
+        "new": "每次制造行动最多一次：取消一批后紧接同位重新组装，制造总费减3，最低6。不退原款、不增加制造额度；发布扩产不触发。"
+      }
+    }
+  },
+  {
+    "id": "U15",
+    "name": "标准件加工线",
+    "group": "facilities",
+    "fields": {
+      "buildActionCost": {
+        "old": null,
+        "new": 1
+      },
+      "work": {
+        "old": 2,
+        "new": null
+      },
+      "action": {
+        "old": null,
+        "new": "合作"
+      }
+    }
+  },
+  {
+    "id": "U16",
+    "name": "联合实验基地",
+    "group": "facilities",
+    "fields": {
+      "buildActionCost": {
+        "old": null,
+        "new": 1
+      },
+      "work": {
+        "old": 2,
+        "new": null
+      },
+      "action": {
+        "old": null,
+        "new": "合作"
+      }
+    }
+  },
+  {
+    "id": "U17",
+    "name": "渠道服务中心",
+    "group": "facilities",
+    "fields": {
+      "buildActionCost": {
+        "old": null,
+        "new": 1
+      },
+      "work": {
+        "old": 2,
+        "new": null
+      },
+      "action": {
+        "old": null,
+        "new": "合作"
+      }
+    }
+  },
+  {
+    "id": "U18",
+    "name": "知识许可办公室",
+    "group": "facilities",
+    "fields": {
+      "buildActionCost": {
+        "old": null,
+        "new": 1
+      },
+      "work": {
+        "old": 2,
+        "new": null
+      },
+      "action": {
+        "old": null,
+        "new": "合作"
+      },
+      "effect": {
+        "old": "每准备期一次，另一家公司实际支付正数授权费使用本人署名技术后，可取当前牌市1张主牌并补空位。含扩产的第二批授权费；只取牌，不改变本场锁定配置或取得额外工作。",
+        "new": "每准备期一次，另一公司实际付正数授权费使用本人署名技术后，可取牌市1张并补空位。含扩产授权；只取牌，不执行额外行动或改变已锁配置。"
+      }
+    }
+  },
+  {
+    "id": "Q02",
+    "name": "成熟平台普及机",
+    "group": "schemes",
+    "fields": {
+      "requirement": {
+        "old": "引用库内稳定芯片，且芯片规格至多5。",
+        "new": "引用库内稳定芯片，且芯片规格至多8。"
+      }
+    }
+  },
+  {
+    "id": "Q04",
+    "name": "口袋性能机",
+    "group": "schemes",
+    "fields": {
+      "effect": {
+        "old": "芯片规格至少5时，本机取得性能特征。",
+        "new": "芯片规格至少5时，本产品取得性能特征。"
+      }
+    }
+  },
+  {
+    "id": "Q06",
+    "name": "Pro影像升级",
+    "group": "schemes",
+    "fields": {
+      "effect": {
+        "old": "48售价的通用门槛改为基础竞争力至少18；不另要求单项规格8。",
+        "new": "48售价的通用门槛改为基础竞争力至少24；不另要求芯片12或影像8。"
+      }
+    }
+  },
+  {
+    "id": "Q07",
+    "name": "极致性能旗舰",
+    "group": "schemes",
+    "fields": {
+      "requirement": {
+        "old": "芯片规格至少8。",
+        "new": "芯片规格至少12。"
+      }
+    }
+  },
+  {
+    "id": "Q20",
+    "name": "办公大折叠",
+    "group": "schemes",
+    "fields": {
+      "requirement": {
+        "old": "折叠配套且芯片规格至少6。",
+        "new": "折叠配套且芯片规格至少8。"
+      }
+    }
+  },
+  {
+    "id": "Q24",
+    "name": "旗舰标准版",
+    "group": "schemes",
+    "fields": {
+      "requirement": {
+        "old": "基础竞争力至少18。",
+        "new": "基础竞争力至少24。"
+      }
+    }
+  },
+  {
+    "id": "V11",
+    "name": "初代基础通讯机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 6,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "gaming",
+            "score": 3,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "photo",
+            "score": 2,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "office",
+            "score": 5,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 7,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "gaming",
+            "score": 4,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "photo",
+            "score": 4,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "office",
+            "score": 6,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          }
+        ]
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V12",
+    "name": "初代均衡主流机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 9,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "gaming",
+            "score": 8,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "photo",
+            "score": 8,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "office",
+            "score": 9,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 15,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "取1张"
+          },
+          {
+            "market": "gaming",
+            "score": 13,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "photo",
+            "score": 13,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "office",
+            "score": 15,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "取1张"
+          }
+        ]
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V13",
+    "name": "初代电竞性能机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 7,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "gaming",
+            "score": 14,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "推进1"
+          },
+          {
+            "market": "photo",
+            "score": 6,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "office",
+            "score": 7,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 12,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "gaming",
+            "score": 22,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "进度＋1"
+          },
+          {
+            "market": "photo",
+            "score": 11,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "office",
+            "score": 12,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          }
+        ]
+      },
+      "specialSummary": {
+        "old": "给一个已有在研项目增加本格进度；不立项、不叠工作加速，不溢出。须有技术挑战资格，用结算前已有证据。",
+        "new": "给一个已有在研项目增加本格进度；不立项、不叠研发行动加速，不溢出。须有技术挑战资格，用结算前已有证据。"
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V14",
+    "name": "初代影像创作机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 8,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "gaming",
+            "score": 6,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "photo",
+            "score": 14,
+            "reward": 1,
+            "specialValue": 12,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "回购12"
+          },
+          {
+            "market": "office",
+            "score": 8,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 13,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "gaming",
+            "score": 11,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "photo",
+            "score": 22,
+            "reward": 1,
+            "specialValue": 12,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "另一未售批回购12"
+          },
+          {
+            "market": "office",
+            "score": 13,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          }
+        ]
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V15",
+    "name": "初代商务折叠机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 7,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "gaming",
+            "score": 7,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "photo",
+            "score": 9,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "office",
+            "score": 14,
+            "reward": 1,
+            "specialValue": 3,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "入库−3"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 12,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "gaming",
+            "score": 12,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "photo",
+            "score": 14,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "office",
+            "score": 22,
+            "reward": 1,
+            "specialValue": 3,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "安装1张，费减3"
+          }
+        ]
+      },
+      "specialSummary": {
+        "old": "本场清理售出/回购/出口配置后，立即从手牌安装1张稳定件，安装工作0，入库费减本格数、最低0；仍被未售产品引用的栏不可换。",
+        "new": "本场清理售出/回购/出口配置后，立即从手牌安装1张稳定件，不执行供应行动，入库费减本格数、最低0；仍被未售产品引用的栏不可换。"
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V16",
+    "name": "初代全能旗舰机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 13,
+            "reward": 1,
+            "specialValue": 0,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "建设−0 / 工作0"
+          },
+          {
+            "market": "gaming",
+            "score": 13,
+            "reward": 1,
+            "specialValue": 0,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "建设−0 / 工作0"
+          },
+          {
+            "market": "photo",
+            "score": 13,
+            "reward": 1,
+            "specialValue": 0,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "建设−0 / 工作0"
+          },
+          {
+            "market": "office",
+            "score": 13,
+            "reward": 1,
+            "specialValue": 0,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "建设−0 / 工作0"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 20,
+            "reward": 1,
+            "specialValue": 0,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "建1设施，费减0"
+          },
+          {
+            "market": "gaming",
+            "score": 20,
+            "reward": 1,
+            "specialValue": 0,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "建1设施，费减0"
+          },
+          {
+            "market": "photo",
+            "score": 20,
+            "reward": 1,
+            "specialValue": 0,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "建1设施，费减0"
+          },
+          {
+            "market": "office",
+            "score": 20,
+            "reward": 1,
+            "specialValue": 0,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "建1设施，费减0"
+          }
+        ]
+      },
+      "specialSummary": {
+        "old": "本场清理产品后，从手牌立即建设1设施，建设工作0、费用减本格数、最低0；照查现金和空间，不补领本场效果。",
+        "new": "本场清理产品后，从手牌立即建设1设施，不执行合作行动、费用减本格数、最低0；照查现金和空间，不补领本场效果。"
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V21",
+    "name": "二代基础通讯机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 10,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "gaming",
+            "score": 7,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "photo",
+            "score": 6,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "office",
+            "score": 9,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 13,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "gaming",
+            "score": 10,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "photo",
+            "score": 10,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "office",
+            "score": 12,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          }
+        ]
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V22",
+    "name": "二代均衡主流机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 13,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "取1张"
+          },
+          {
+            "market": "gaming",
+            "score": 12,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "取1张"
+          },
+          {
+            "market": "photo",
+            "score": 12,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "取1张"
+          },
+          {
+            "market": "office",
+            "score": 13,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "取1张"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 21,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "取1张"
+          },
+          {
+            "market": "gaming",
+            "score": 19,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "取1张"
+          },
+          {
+            "market": "photo",
+            "score": 19,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "取1张"
+          },
+          {
+            "market": "office",
+            "score": 21,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "取1张"
+          }
+        ]
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V23",
+    "name": "二代电竞性能机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 11,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "推进1"
+          },
+          {
+            "market": "gaming",
+            "score": 18,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "推进2"
+          },
+          {
+            "market": "photo",
+            "score": 10,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "office",
+            "score": 11,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "推进1"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 18,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "进度＋1"
+          },
+          {
+            "market": "gaming",
+            "score": 28,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "进度＋2"
+          },
+          {
+            "market": "photo",
+            "score": 17,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "进度＋1"
+          },
+          {
+            "market": "office",
+            "score": 18,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "进度＋1"
+          }
+        ]
+      },
+      "specialSummary": {
+        "old": "给一个已有在研项目增加本格进度；不立项、不叠工作加速，不溢出。须有技术挑战资格，用结算前已有证据。",
+        "new": "给一个已有在研项目增加本格进度；不立项、不叠研发行动加速，不溢出。须有技术挑战资格，用结算前已有证据。"
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V24",
+    "name": "二代影像创作机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 12,
+            "reward": 1,
+            "specialValue": 12,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "回购12"
+          },
+          {
+            "market": "gaming",
+            "score": 10,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "photo",
+            "score": 18,
+            "reward": 2,
+            "specialValue": 20,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "回购20"
+          },
+          {
+            "market": "office",
+            "score": 12,
+            "reward": 1,
+            "specialValue": 12,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "回购12"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 19,
+            "reward": 1,
+            "specialValue": 12,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "另一未售批回购12"
+          },
+          {
+            "market": "gaming",
+            "score": 17,
+            "reward": 1,
+            "specialValue": 12,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "另一未售批回购12"
+          },
+          {
+            "market": "photo",
+            "score": 28,
+            "reward": 2,
+            "specialValue": 20,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "另一未售批回购20"
+          },
+          {
+            "market": "office",
+            "score": 19,
+            "reward": 1,
+            "specialValue": 12,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "另一未售批回购12"
+          }
+        ]
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V25",
+    "name": "二代商务折叠机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 11,
+            "reward": 1,
+            "specialValue": 3,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "入库−3"
+          },
+          {
+            "market": "gaming",
+            "score": 11,
+            "reward": 1,
+            "specialValue": 3,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "入库−3"
+          },
+          {
+            "market": "photo",
+            "score": 13,
+            "reward": 1,
+            "specialValue": 3,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "入库−3"
+          },
+          {
+            "market": "office",
+            "score": 18,
+            "reward": 2,
+            "specialValue": 6,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "入库−6"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 18,
+            "reward": 1,
+            "specialValue": 3,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "安装1张，费减3"
+          },
+          {
+            "market": "gaming",
+            "score": 18,
+            "reward": 1,
+            "specialValue": 3,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "安装1张，费减3"
+          },
+          {
+            "market": "photo",
+            "score": 20,
+            "reward": 1,
+            "specialValue": 3,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "安装1张，费减3"
+          },
+          {
+            "market": "office",
+            "score": 28,
+            "reward": 2,
+            "specialValue": 6,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "安装1张，费减6"
+          }
+        ]
+      },
+      "specialSummary": {
+        "old": "本场清理售出/回购/出口配置后，立即从手牌安装1张稳定件，安装工作0，入库费减本格数、最低0；仍被未售产品引用的栏不可换。",
+        "new": "本场清理售出/回购/出口配置后，立即从手牌安装1张稳定件，不执行供应行动，入库费减本格数、最低0；仍被未售产品引用的栏不可换。"
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V26",
+    "name": "二代全能旗舰机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 17,
+            "reward": 2,
+            "specialValue": 3,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "建设−3 / 工作0"
+          },
+          {
+            "market": "gaming",
+            "score": 17,
+            "reward": 2,
+            "specialValue": 3,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "建设−3 / 工作0"
+          },
+          {
+            "market": "photo",
+            "score": 17,
+            "reward": 2,
+            "specialValue": 3,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "建设−3 / 工作0"
+          },
+          {
+            "market": "office",
+            "score": 17,
+            "reward": 2,
+            "specialValue": 3,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "建设−3 / 工作0"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 26,
+            "reward": 1,
+            "specialValue": 0,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "建1设施，费减0"
+          },
+          {
+            "market": "gaming",
+            "score": 26,
+            "reward": 1,
+            "specialValue": 0,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "建1设施，费减0"
+          },
+          {
+            "market": "photo",
+            "score": 26,
+            "reward": 1,
+            "specialValue": 0,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "建1设施，费减0"
+          },
+          {
+            "market": "office",
+            "score": 26,
+            "reward": 1,
+            "specialValue": 0,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "建1设施，费减0"
+          }
+        ]
+      },
+      "specialSummary": {
+        "old": "本场清理产品后，从手牌立即建设1设施，建设工作0、费用减本格数、最低0；照查现金和空间，不补领本场效果。",
+        "new": "本场清理产品后，从手牌立即建设1设施，不执行合作行动、费用减本格数、最低0；照查现金和空间，不补领本场效果。"
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V31",
+    "name": "三代基础通讯机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 14,
+            "reward": 1,
+            "specialValue": 8,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "8现金"
+          },
+          {
+            "market": "gaming",
+            "score": 11,
+            "reward": 1,
+            "specialValue": 8,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "8现金"
+          },
+          {
+            "market": "photo",
+            "score": 10,
+            "reward": 0,
+            "specialValue": 0,
+            "incomeReward": 0,
+            "technologyReward": 0,
+            "specialText": "无"
+          },
+          {
+            "market": "office",
+            "score": 13,
+            "reward": 1,
+            "specialValue": 8,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "8现金"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 20,
+            "reward": 1,
+            "specialValue": 8,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "现金＋8"
+          },
+          {
+            "market": "gaming",
+            "score": 17,
+            "reward": 1,
+            "specialValue": 8,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "现金＋8"
+          },
+          {
+            "market": "photo",
+            "score": 17,
+            "reward": 1,
+            "specialValue": 8,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "现金＋8"
+          },
+          {
+            "market": "office",
+            "score": 19,
+            "reward": 1,
+            "specialValue": 8,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "现金＋8"
+          }
+        ]
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V32",
+    "name": "三代均衡主流机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 17,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "取2张"
+          },
+          {
+            "market": "gaming",
+            "score": 16,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "取1张"
+          },
+          {
+            "market": "photo",
+            "score": 16,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "取1张"
+          },
+          {
+            "market": "office",
+            "score": 17,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "取2张"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 28,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "取2张"
+          },
+          {
+            "market": "gaming",
+            "score": 26,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "取1张"
+          },
+          {
+            "market": "photo",
+            "score": 26,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "取1张"
+          },
+          {
+            "market": "office",
+            "score": 28,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "取2张"
+          }
+        ]
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V33",
+    "name": "三代电竞性能机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 15,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "推进1"
+          },
+          {
+            "market": "gaming",
+            "score": 22,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "推进2"
+          },
+          {
+            "market": "photo",
+            "score": 14,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "推进1"
+          },
+          {
+            "market": "office",
+            "score": 15,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "推进1"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 25,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "进度＋1"
+          },
+          {
+            "market": "gaming",
+            "score": 35,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "进度＋2"
+          },
+          {
+            "market": "photo",
+            "score": 24,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "进度＋1"
+          },
+          {
+            "market": "office",
+            "score": 25,
+            "reward": 1,
+            "specialValue": 1,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "进度＋1"
+          }
+        ]
+      },
+      "specialSummary": {
+        "old": "给一个已有在研项目增加本格进度；不立项、不叠工作加速，不溢出。须有技术挑战资格，用结算前已有证据。",
+        "new": "给一个已有在研项目增加本格进度；不立项、不叠研发行动加速，不溢出。须有技术挑战资格，用结算前已有证据。"
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V34",
+    "name": "三代影像创作机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 16,
+            "reward": 1,
+            "specialValue": 12,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "回购12"
+          },
+          {
+            "market": "gaming",
+            "score": 14,
+            "reward": 1,
+            "specialValue": 12,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "回购12"
+          },
+          {
+            "market": "photo",
+            "score": 22,
+            "reward": 2,
+            "specialValue": 20,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "回购20"
+          },
+          {
+            "market": "office",
+            "score": 16,
+            "reward": 1,
+            "specialValue": 12,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "回购12"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 26,
+            "reward": 1,
+            "specialValue": 12,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "另一未售批回购12"
+          },
+          {
+            "market": "gaming",
+            "score": 24,
+            "reward": 1,
+            "specialValue": 12,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "另一未售批回购12"
+          },
+          {
+            "market": "photo",
+            "score": 35,
+            "reward": 2,
+            "specialValue": 20,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "另一未售批回购20"
+          },
+          {
+            "market": "office",
+            "score": 26,
+            "reward": 1,
+            "specialValue": 12,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "另一未售批回购12"
+          }
+        ]
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V35",
+    "name": "三代商务折叠机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 15,
+            "reward": 1,
+            "specialValue": 3,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "入库−3"
+          },
+          {
+            "market": "gaming",
+            "score": 15,
+            "reward": 1,
+            "specialValue": 3,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "入库−3"
+          },
+          {
+            "market": "photo",
+            "score": 17,
+            "reward": 2,
+            "specialValue": 6,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "入库−6"
+          },
+          {
+            "market": "office",
+            "score": 22,
+            "reward": 2,
+            "specialValue": 6,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "入库−6"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 25,
+            "reward": 1,
+            "specialValue": 3,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "安装1张，费减3"
+          },
+          {
+            "market": "gaming",
+            "score": 25,
+            "reward": 1,
+            "specialValue": 3,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "安装1张，费减3"
+          },
+          {
+            "market": "photo",
+            "score": 27,
+            "reward": 1,
+            "specialValue": 3,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "安装1张，费减3"
+          },
+          {
+            "market": "office",
+            "score": 35,
+            "reward": 2,
+            "specialValue": 6,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "安装1张，费减6"
+          }
+        ]
+      },
+      "specialSummary": {
+        "old": "本场清理售出/回购/出口配置后，立即从手牌安装1张稳定件，安装工作0，入库费减本格数、最低0；仍被未售产品引用的栏不可换。",
+        "new": "本场清理售出/回购/出口配置后，立即从手牌安装1张稳定件，不执行供应行动，入库费减本格数、最低0；仍被未售产品引用的栏不可换。"
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V36",
+    "name": "三代全能旗舰机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 21,
+            "reward": 2,
+            "specialValue": 3,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "建设−3 / 工作0"
+          },
+          {
+            "market": "gaming",
+            "score": 21,
+            "reward": 2,
+            "specialValue": 3,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "建设−3 / 工作0"
+          },
+          {
+            "market": "photo",
+            "score": 21,
+            "reward": 2,
+            "specialValue": 3,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "建设−3 / 工作0"
+          },
+          {
+            "market": "office",
+            "score": 21,
+            "reward": 2,
+            "specialValue": 3,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "建设−3 / 工作0"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 33,
+            "reward": 2,
+            "specialValue": 3,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "建1设施，费减3"
+          },
+          {
+            "market": "gaming",
+            "score": 33,
+            "reward": 2,
+            "specialValue": 3,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "建1设施，费减3"
+          },
+          {
+            "market": "photo",
+            "score": 33,
+            "reward": 2,
+            "specialValue": 3,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "建1设施，费减3"
+          },
+          {
+            "market": "office",
+            "score": 33,
+            "reward": 2,
+            "specialValue": 3,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "建1设施，费减3"
+          }
+        ]
+      },
+      "specialSummary": {
+        "old": "本场清理产品后，从手牌立即建设1设施，建设工作0、费用减本格数、最低0；照查现金和空间，不补领本场效果。",
+        "new": "本场清理产品后，从手牌立即建设1设施，不执行合作行动、费用减本格数、最低0；照查现金和空间，不补领本场效果。"
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V41",
+    "name": "四代基础通讯机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 18,
+            "reward": 2,
+            "specialValue": 16,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "16现金"
+          },
+          {
+            "market": "gaming",
+            "score": 15,
+            "reward": 1,
+            "specialValue": 8,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "8现金"
+          },
+          {
+            "market": "photo",
+            "score": 14,
+            "reward": 1,
+            "specialValue": 8,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "8现金"
+          },
+          {
+            "market": "office",
+            "score": 17,
+            "reward": 2,
+            "specialValue": 16,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "16现金"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 27,
+            "reward": 1,
+            "specialValue": 8,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "现金＋8"
+          },
+          {
+            "market": "gaming",
+            "score": 24,
+            "reward": 1,
+            "specialValue": 8,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "现金＋8"
+          },
+          {
+            "market": "photo",
+            "score": 24,
+            "reward": 1,
+            "specialValue": 8,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "现金＋8"
+          },
+          {
+            "market": "office",
+            "score": 26,
+            "reward": 1,
+            "specialValue": 8,
+            "incomeReward": 2,
+            "technologyReward": 1,
+            "specialText": "现金＋8"
+          }
+        ]
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V42",
+    "name": "四代均衡主流机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 21,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "取2张"
+          },
+          {
+            "market": "gaming",
+            "score": 20,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "取2张"
+          },
+          {
+            "market": "photo",
+            "score": 20,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "取2张"
+          },
+          {
+            "market": "office",
+            "score": 21,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "取2张"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 35,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "取2张"
+          },
+          {
+            "market": "gaming",
+            "score": 33,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "取2张"
+          },
+          {
+            "market": "photo",
+            "score": 33,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "取2张"
+          },
+          {
+            "market": "office",
+            "score": 35,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "取2张"
+          }
+        ]
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V43",
+    "name": "四代电竞性能机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 19,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "推进2"
+          },
+          {
+            "market": "gaming",
+            "score": 26,
+            "reward": 3,
+            "specialValue": 3,
+            "incomeReward": 6,
+            "technologyReward": 3,
+            "specialText": "推进3"
+          },
+          {
+            "market": "photo",
+            "score": 18,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "推进2"
+          },
+          {
+            "market": "office",
+            "score": 19,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "推进2"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 32,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "进度＋2"
+          },
+          {
+            "market": "gaming",
+            "score": 42,
+            "reward": 3,
+            "specialValue": 3,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "进度＋3"
+          },
+          {
+            "market": "photo",
+            "score": 31,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "进度＋2"
+          },
+          {
+            "market": "office",
+            "score": 32,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "进度＋2"
+          }
+        ]
+      },
+      "specialSummary": {
+        "old": "给一个已有在研项目增加本格进度；不立项、不叠工作加速，不溢出。须有技术挑战资格，用结算前已有证据。",
+        "new": "给一个已有在研项目增加本格进度；不立项、不叠研发行动加速，不溢出。须有技术挑战资格，用结算前已有证据。"
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V44",
+    "name": "四代影像创作机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 20,
+            "reward": 2,
+            "specialValue": 20,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "回购20"
+          },
+          {
+            "market": "gaming",
+            "score": 18,
+            "reward": 2,
+            "specialValue": 20,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "回购20"
+          },
+          {
+            "market": "photo",
+            "score": 26,
+            "reward": 3,
+            "specialValue": 28,
+            "incomeReward": 6,
+            "technologyReward": 3,
+            "specialText": "回购28"
+          },
+          {
+            "market": "office",
+            "score": 20,
+            "reward": 2,
+            "specialValue": 20,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "回购20"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 33,
+            "reward": 2,
+            "specialValue": 20,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "另一未售批回购20"
+          },
+          {
+            "market": "gaming",
+            "score": 31,
+            "reward": 2,
+            "specialValue": 20,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "另一未售批回购20"
+          },
+          {
+            "market": "photo",
+            "score": 42,
+            "reward": 3,
+            "specialValue": 28,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "另一未售批回购28"
+          },
+          {
+            "market": "office",
+            "score": 33,
+            "reward": 2,
+            "specialValue": 20,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "另一未售批回购20"
+          }
+        ]
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V45",
+    "name": "四代商务折叠机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 19,
+            "reward": 2,
+            "specialValue": 6,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "入库−6"
+          },
+          {
+            "market": "gaming",
+            "score": 19,
+            "reward": 2,
+            "specialValue": 6,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "入库−6"
+          },
+          {
+            "market": "photo",
+            "score": 21,
+            "reward": 2,
+            "specialValue": 6,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "入库−6"
+          },
+          {
+            "market": "office",
+            "score": 26,
+            "reward": 3,
+            "specialValue": 9,
+            "incomeReward": 6,
+            "technologyReward": 3,
+            "specialText": "入库−9"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 32,
+            "reward": 2,
+            "specialValue": 6,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "安装1张，费减6"
+          },
+          {
+            "market": "gaming",
+            "score": 32,
+            "reward": 2,
+            "specialValue": 6,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "安装1张，费减6"
+          },
+          {
+            "market": "photo",
+            "score": 34,
+            "reward": 2,
+            "specialValue": 6,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "安装1张，费减6"
+          },
+          {
+            "market": "office",
+            "score": 42,
+            "reward": 3,
+            "specialValue": 9,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "安装1张，费减9"
+          }
+        ]
+      },
+      "specialSummary": {
+        "old": "本场清理售出/回购/出口配置后，立即从手牌安装1张稳定件，安装工作0，入库费减本格数、最低0；仍被未售产品引用的栏不可换。",
+        "new": "本场清理售出/回购/出口配置后，立即从手牌安装1张稳定件，不执行供应行动，入库费减本格数、最低0；仍被未售产品引用的栏不可换。"
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V46",
+    "name": "四代全能旗舰机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 25,
+            "reward": 3,
+            "specialValue": 6,
+            "incomeReward": 6,
+            "technologyReward": 3,
+            "specialText": "建设−6 / 工作0"
+          },
+          {
+            "market": "gaming",
+            "score": 25,
+            "reward": 3,
+            "specialValue": 6,
+            "incomeReward": 6,
+            "technologyReward": 3,
+            "specialText": "建设−6 / 工作0"
+          },
+          {
+            "market": "photo",
+            "score": 25,
+            "reward": 3,
+            "specialValue": 6,
+            "incomeReward": 6,
+            "technologyReward": 3,
+            "specialText": "建设−6 / 工作0"
+          },
+          {
+            "market": "office",
+            "score": 25,
+            "reward": 3,
+            "specialValue": 6,
+            "incomeReward": 6,
+            "technologyReward": 3,
+            "specialText": "建设−6 / 工作0"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 40,
+            "reward": 2,
+            "specialValue": 3,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "建1设施，费减3"
+          },
+          {
+            "market": "gaming",
+            "score": 40,
+            "reward": 2,
+            "specialValue": 3,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "建1设施，费减3"
+          },
+          {
+            "market": "photo",
+            "score": 40,
+            "reward": 2,
+            "specialValue": 3,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "建1设施，费减3"
+          },
+          {
+            "market": "office",
+            "score": 40,
+            "reward": 2,
+            "specialValue": 3,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "建1设施，费减3"
+          }
+        ]
+      },
+      "specialSummary": {
+        "old": "本场清理产品后，从手牌立即建设1设施，建设工作0、费用减本格数、最低0；照查现金和空间，不补领本场效果。",
+        "new": "本场清理产品后，从手牌立即建设1设施，不执行合作行动、费用减本格数、最低0；照查现金和空间，不补领本场效果。"
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V51",
+    "name": "五代基础通讯机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 22,
+            "reward": 2,
+            "specialValue": 16,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "16现金"
+          },
+          {
+            "market": "gaming",
+            "score": 19,
+            "reward": 2,
+            "specialValue": 16,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "16现金"
+          },
+          {
+            "market": "photo",
+            "score": 18,
+            "reward": 2,
+            "specialValue": 16,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "16现金"
+          },
+          {
+            "market": "office",
+            "score": 21,
+            "reward": 2,
+            "specialValue": 16,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "16现金"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 34,
+            "reward": 2,
+            "specialValue": 16,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "现金＋16"
+          },
+          {
+            "market": "gaming",
+            "score": 31,
+            "reward": 2,
+            "specialValue": 16,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "现金＋16"
+          },
+          {
+            "market": "photo",
+            "score": 31,
+            "reward": 2,
+            "specialValue": 16,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "现金＋16"
+          },
+          {
+            "market": "office",
+            "score": 33,
+            "reward": 2,
+            "specialValue": 16,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "现金＋16"
+          }
+        ]
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V52",
+    "name": "五代均衡主流机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 25,
+            "reward": 3,
+            "specialValue": 3,
+            "incomeReward": 6,
+            "technologyReward": 3,
+            "specialText": "取3张"
+          },
+          {
+            "market": "gaming",
+            "score": 24,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "取2张"
+          },
+          {
+            "market": "photo",
+            "score": 24,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "取2张"
+          },
+          {
+            "market": "office",
+            "score": 25,
+            "reward": 3,
+            "specialValue": 3,
+            "incomeReward": 6,
+            "technologyReward": 3,
+            "specialText": "取3张"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 42,
+            "reward": 3,
+            "specialValue": 3,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "取3张"
+          },
+          {
+            "market": "gaming",
+            "score": 40,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "取2张"
+          },
+          {
+            "market": "photo",
+            "score": 40,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "取2张"
+          },
+          {
+            "market": "office",
+            "score": 42,
+            "reward": 3,
+            "specialValue": 3,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "取3张"
+          }
+        ]
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V53",
+    "name": "五代电竞性能机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 23,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "推进2"
+          },
+          {
+            "market": "gaming",
+            "score": 30,
+            "reward": 3,
+            "specialValue": 3,
+            "incomeReward": 6,
+            "technologyReward": 3,
+            "specialText": "推进3"
+          },
+          {
+            "market": "photo",
+            "score": 22,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "推进2"
+          },
+          {
+            "market": "office",
+            "score": 23,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "推进2"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 39,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "进度＋2"
+          },
+          {
+            "market": "gaming",
+            "score": 49,
+            "reward": 3,
+            "specialValue": 3,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "进度＋3"
+          },
+          {
+            "market": "photo",
+            "score": 38,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "进度＋2"
+          },
+          {
+            "market": "office",
+            "score": 39,
+            "reward": 2,
+            "specialValue": 2,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "进度＋2"
+          }
+        ]
+      },
+      "specialSummary": {
+        "old": "给一个已有在研项目增加本格进度；不立项、不叠工作加速，不溢出。须有技术挑战资格，用结算前已有证据。",
+        "new": "给一个已有在研项目增加本格进度；不立项、不叠研发行动加速，不溢出。须有技术挑战资格，用结算前已有证据。"
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V54",
+    "name": "五代影像创作机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 24,
+            "reward": 2,
+            "specialValue": 20,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "回购20"
+          },
+          {
+            "market": "gaming",
+            "score": 22,
+            "reward": 2,
+            "specialValue": 20,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "回购20"
+          },
+          {
+            "market": "photo",
+            "score": 30,
+            "reward": 3,
+            "specialValue": 28,
+            "incomeReward": 6,
+            "technologyReward": 3,
+            "specialText": "回购28"
+          },
+          {
+            "market": "office",
+            "score": 24,
+            "reward": 2,
+            "specialValue": 20,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "回购20"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 40,
+            "reward": 2,
+            "specialValue": 20,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "另一未售批回购20"
+          },
+          {
+            "market": "gaming",
+            "score": 38,
+            "reward": 2,
+            "specialValue": 20,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "另一未售批回购20"
+          },
+          {
+            "market": "photo",
+            "score": 49,
+            "reward": 3,
+            "specialValue": 28,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "另一未售批回购28"
+          },
+          {
+            "market": "office",
+            "score": 40,
+            "reward": 2,
+            "specialValue": 20,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "另一未售批回购20"
+          }
+        ]
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V55",
+    "name": "五代商务折叠机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 23,
+            "reward": 2,
+            "specialValue": 6,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "入库−6"
+          },
+          {
+            "market": "gaming",
+            "score": 23,
+            "reward": 2,
+            "specialValue": 6,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "入库−6"
+          },
+          {
+            "market": "photo",
+            "score": 25,
+            "reward": 3,
+            "specialValue": 9,
+            "incomeReward": 6,
+            "technologyReward": 3,
+            "specialText": "入库−9"
+          },
+          {
+            "market": "office",
+            "score": 30,
+            "reward": 3,
+            "specialValue": 9,
+            "incomeReward": 6,
+            "technologyReward": 3,
+            "specialText": "入库−9"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 39,
+            "reward": 2,
+            "specialValue": 6,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "安装1张，费减6"
+          },
+          {
+            "market": "gaming",
+            "score": 39,
+            "reward": 2,
+            "specialValue": 6,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "安装1张，费减6"
+          },
+          {
+            "market": "photo",
+            "score": 41,
+            "reward": 2,
+            "specialValue": 6,
+            "incomeReward": 3,
+            "technologyReward": 1,
+            "specialText": "安装1张，费减6"
+          },
+          {
+            "market": "office",
+            "score": 49,
+            "reward": 3,
+            "specialValue": 9,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "安装1张，费减9"
+          }
+        ]
+      },
+      "specialSummary": {
+        "old": "本场清理售出/回购/出口配置后，立即从手牌安装1张稳定件，安装工作0，入库费减本格数、最低0；仍被未售产品引用的栏不可换。",
+        "new": "本场清理售出/回购/出口配置后，立即从手牌安装1张稳定件，不执行供应行动，入库费减本格数、最低0；仍被未售产品引用的栏不可换。"
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "V56",
+    "name": "五代全能旗舰机",
+    "group": "benchmarks",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "score": 29,
+            "reward": 3,
+            "specialValue": 6,
+            "incomeReward": 6,
+            "technologyReward": 3,
+            "specialText": "建设−6 / 工作0"
+          },
+          {
+            "market": "gaming",
+            "score": 29,
+            "reward": 3,
+            "specialValue": 6,
+            "incomeReward": 6,
+            "technologyReward": 3,
+            "specialText": "建设−6 / 工作0"
+          },
+          {
+            "market": "photo",
+            "score": 29,
+            "reward": 3,
+            "specialValue": 6,
+            "incomeReward": 6,
+            "technologyReward": 3,
+            "specialText": "建设−6 / 工作0"
+          },
+          {
+            "market": "office",
+            "score": 29,
+            "reward": 3,
+            "specialValue": 6,
+            "incomeReward": 6,
+            "technologyReward": 3,
+            "specialText": "建设−6 / 工作0"
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "score": 47,
+            "reward": 3,
+            "specialValue": 6,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "建1设施，费减6"
+          },
+          {
+            "market": "gaming",
+            "score": 47,
+            "reward": 3,
+            "specialValue": 6,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "建1设施，费减6"
+          },
+          {
+            "market": "photo",
+            "score": 47,
+            "reward": 3,
+            "specialValue": 6,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "建1设施，费减6"
+          },
+          {
+            "market": "office",
+            "score": 47,
+            "reward": 3,
+            "specialValue": 6,
+            "incomeReward": 4,
+            "technologyReward": 2,
+            "specialText": "建1设施，费减6"
+          }
+        ]
+      },
+      "specialSummary": {
+        "old": "本场清理产品后，从手牌立即建设1设施，建设工作0、费用减本格数、最低0；照查现金和空间，不补领本场效果。",
+        "new": "本场清理产品后，从手牌立即建设1设施，不执行合作行动、费用减本格数、最低0；照查现金和空间，不补领本场效果。"
+      },
+      "effect": {
+        "old": "全员锁定后现抽。全部扩产完成、最终零售成交且严格超过本格才可挑战；每公司每场一次。选本格收入、科技或特色。科技/工程需锁定时已部署本人完成研发，外部授权/集成位不算。奖励本场结清。",
+        "new": "全员锁定后现抽，扩产后最终零售成交且严格超过本格才挑战；每公司每场一次，从本格收入/科技/特色选1。科技及工程奖励须实际部署本人研发。全部当场结清。"
+      }
+    }
+  },
+  {
+    "id": "N01",
+    "name": "日常换机",
+    "group": "demands",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "budget": 28,
+            "ordersDelta": 0,
+            "preferences": [
+              "续航",
+              "轻薄"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "gaming",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "性能",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "photo",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "影像",
+              "轻薄"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "office",
+            "budget": 48,
+            "ordersDelta": 0,
+            "preferences": [
+              "生态",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "budget": 28,
+            "ordersDelta": 0,
+            "preferences": [
+              "续航",
+              "轻薄"
+            ],
+            "ordersByPlayers": {
+              "2": 3,
+              "3": 4,
+              "4": 5
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "gaming",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "性能",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 1,
+              "3": 2,
+              "4": 3
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "photo",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "影像",
+              "轻薄"
+            ],
+            "ordersByPlayers": {
+              "2": 1,
+              "3": 2,
+              "4": 3
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "office",
+            "budget": 48,
+            "ordersDelta": 0,
+            "preferences": [
+              "生态",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          }
+        ]
+      },
+      "effect": {
+        "old": "本卡提前公开；订单按本卡2/3/4人列直接取片。每种已满足偏好加3，通常各一次。预算为最高可接受售价。实际普通发布末才更换。",
+        "new": "本卡在准备期开始公开；按2/3/4人列直接放订单片，不按本场现货动态增减。偏好每项＋3、各一次；预算为最高售价。普通发布整理末更换。"
+      }
+    }
+  },
+  {
+    "id": "N02",
+    "name": "校园开学",
+    "group": "demands",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "budget": 28,
+            "ordersDelta": 1,
+            "preferences": [
+              "性能",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 3,
+              "3": 4,
+              "4": 5
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "gaming",
+            "budget": 28,
+            "ordersDelta": 1,
+            "preferences": [
+              "性能",
+              "轻薄"
+            ],
+            "ordersByPlayers": {
+              "2": 3,
+              "3": 4,
+              "4": 5
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "photo",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "影像",
+              "轻薄"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "office",
+            "budget": 38,
+            "ordersDelta": -1,
+            "preferences": [
+              "轻薄",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 1,
+              "3": 2,
+              "4": 3
+            },
+            "preferenceBonus": 3
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "budget": 28,
+            "ordersDelta": 1,
+            "preferences": [
+              "性能",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 3,
+              "3": 4,
+              "4": 5
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "gaming",
+            "budget": 28,
+            "ordersDelta": 1,
+            "preferences": [
+              "性能",
+              "轻薄"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "photo",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "影像",
+              "轻薄"
+            ],
+            "ordersByPlayers": {
+              "2": 1,
+              "3": 2,
+              "4": 3
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "office",
+            "budget": 38,
+            "ordersDelta": -1,
+            "preferences": [
+              "轻薄",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 1,
+              "3": 2,
+              "4": 3
+            },
+            "preferenceBonus": 3
+          }
+        ]
+      },
+      "effect": {
+        "old": "本卡提前公开；订单按本卡2/3/4人列直接取片。每种已满足偏好加3，通常各一次。预算为最高可接受售价。实际普通发布末才更换。",
+        "new": "本卡在准备期开始公开；按2/3/4人列直接放订单片，不按本场现货动态增减。偏好每项＋3、各一次；预算为最高售价。普通发布整理末更换。"
+      }
+    }
+  },
+  {
+    "id": "N03",
+    "name": "创作旺季",
+    "group": "demands",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "影像",
+              "轻薄"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "gaming",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "性能",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "photo",
+            "budget": 48,
+            "ordersDelta": 1,
+            "preferences": [
+              "影像",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 3,
+              "3": 4,
+              "4": 5
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "office",
+            "budget": 38,
+            "ordersDelta": -1,
+            "preferences": [
+              "生态",
+              "轻薄"
+            ],
+            "ordersByPlayers": {
+              "2": 1,
+              "3": 2,
+              "4": 3
+            },
+            "preferenceBonus": 3
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "影像",
+              "轻薄"
+            ],
+            "ordersByPlayers": {
+              "2": 1,
+              "3": 2,
+              "4": 3
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "gaming",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "性能",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 1,
+              "3": 2,
+              "4": 3
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "photo",
+            "budget": 48,
+            "ordersDelta": 1,
+            "preferences": [
+              "影像",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 3,
+              "3": 4,
+              "4": 5
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "office",
+            "budget": 38,
+            "ordersDelta": -1,
+            "preferences": [
+              "生态",
+              "轻薄"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          }
+        ]
+      },
+      "effect": {
+        "old": "本卡提前公开；订单按本卡2/3/4人列直接取片。每种已满足偏好加3，通常各一次。预算为最高可接受售价。实际普通发布末才更换。",
+        "new": "本卡在准备期开始公开；按2/3/4人列直接放订单片，不按本场现货动态增减。偏好每项＋3、各一次；预算为最高售价。普通发布整理末更换。"
+      }
+    }
+  },
+  {
+    "id": "N04",
+    "name": "企业集中换机",
+    "group": "demands",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "budget": 28,
+            "ordersDelta": -1,
+            "preferences": [
+              "续航",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 1,
+              "3": 2,
+              "4": 3
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "gaming",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "性能",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "photo",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "影像",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "office",
+            "budget": 48,
+            "ordersDelta": 1,
+            "preferences": [
+              "生态",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 3,
+              "3": 4,
+              "4": 5
+            },
+            "preferenceBonus": 3
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "budget": 28,
+            "ordersDelta": -1,
+            "preferences": [
+              "续航",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 1,
+              "3": 2,
+              "4": 3
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "gaming",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "性能",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 1,
+              "3": 2,
+              "4": 3
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "photo",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "影像",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "office",
+            "budget": 48,
+            "ordersDelta": 1,
+            "preferences": [
+              "生态",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 3,
+              "3": 4,
+              "4": 5
+            },
+            "preferenceBonus": 3
+          }
+        ]
+      },
+      "effect": {
+        "old": "本卡提前公开；订单按本卡2/3/4人列直接取片。每种已满足偏好加3，通常各一次。预算为最高可接受售价。实际普通发布末才更换。",
+        "new": "本卡在准备期开始公开；按2/3/4人列直接放订单片，不按本场现货动态增减。偏好每项＋3、各一次；预算为最高售价。普通发布整理末更换。"
+      }
+    }
+  },
+  {
+    "id": "N05",
+    "name": "轻薄潮流",
+    "group": "demands",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "budget": 38,
+            "ordersDelta": 1,
+            "preferences": [
+              "轻薄",
+              "影像"
+            ],
+            "ordersByPlayers": {
+              "2": 3,
+              "3": 4,
+              "4": 5
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "gaming",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "性能",
+              "轻薄"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "photo",
+            "budget": 48,
+            "ordersDelta": 0,
+            "preferences": [
+              "影像",
+              "轻薄"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "office",
+            "budget": 48,
+            "ordersDelta": 0,
+            "preferences": [
+              "轻薄",
+              "折叠"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "budget": 38,
+            "ordersDelta": 1,
+            "preferences": [
+              "轻薄",
+              "影像"
+            ],
+            "ordersByPlayers": {
+              "2": 3,
+              "3": 4,
+              "4": 5
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "gaming",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "性能",
+              "轻薄"
+            ],
+            "ordersByPlayers": {
+              "2": 1,
+              "3": 2,
+              "4": 3
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "photo",
+            "budget": 48,
+            "ordersDelta": 0,
+            "preferences": [
+              "影像",
+              "轻薄"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "office",
+            "budget": 48,
+            "ordersDelta": 0,
+            "preferences": [
+              "轻薄",
+              "折叠"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          }
+        ]
+      },
+      "effect": {
+        "old": "本卡提前公开；订单按本卡2/3/4人列直接取片。每种已满足偏好加3，通常各一次。预算为最高可接受售价。实际普通发布末才更换。",
+        "new": "本卡在准备期开始公开；按2/3/4人列直接放订单片，不按本场现货动态增减。偏好每项＋3、各一次；预算为最高售价。普通发布整理末更换。"
+      }
+    }
+  },
+  {
+    "id": "N06",
+    "name": "预算收紧",
+    "group": "demands",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "budget": 18,
+            "ordersDelta": 1,
+            "preferences": [
+              "续航",
+              "性能"
+            ],
+            "ordersByPlayers": {
+              "2": 3,
+              "3": 4,
+              "4": 5
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "gaming",
+            "budget": 28,
+            "ordersDelta": 0,
+            "preferences": [
+              "性能",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "photo",
+            "budget": 28,
+            "ordersDelta": 0,
+            "preferences": [
+              "影像",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "office",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "续航",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "budget": 18,
+            "ordersDelta": 1,
+            "preferences": [
+              "续航",
+              "性能"
+            ],
+            "ordersByPlayers": {
+              "2": 3,
+              "3": 4,
+              "4": 5
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "gaming",
+            "budget": 28,
+            "ordersDelta": 0,
+            "preferences": [
+              "性能",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 1,
+              "3": 2,
+              "4": 3
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "photo",
+            "budget": 28,
+            "ordersDelta": 0,
+            "preferences": [
+              "影像",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 1,
+              "3": 2,
+              "4": 3
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "office",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "续航",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          }
+        ]
+      },
+      "effect": {
+        "old": "本卡提前公开；订单按本卡2/3/4人列直接取片。每种已满足偏好加3，通常各一次。预算为最高可接受售价。实际普通发布末才更换。",
+        "new": "本卡在准备期开始公开；按2/3/4人列直接放订单片，不按本场现货动态增减。偏好每项＋3、各一次；预算为最高售价。普通发布整理末更换。"
+      }
+    }
+  },
+  {
+    "id": "N07",
+    "name": "旗舰热销",
+    "group": "demands",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "budget": 38,
+            "ordersDelta": -1,
+            "preferences": [
+              "影像",
+              "轻薄"
+            ],
+            "ordersByPlayers": {
+              "2": 1,
+              "3": 2,
+              "4": 3
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "gaming",
+            "budget": 48,
+            "ordersDelta": 1,
+            "preferences": [
+              "性能",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 3,
+              "3": 4,
+              "4": 5
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "photo",
+            "budget": 48,
+            "ordersDelta": 1,
+            "preferences": [
+              "影像",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 3,
+              "3": 4,
+              "4": 5
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "office",
+            "budget": 48,
+            "ordersDelta": 0,
+            "preferences": [
+              "折叠",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "budget": 38,
+            "ordersDelta": -1,
+            "preferences": [
+              "影像",
+              "轻薄"
+            ],
+            "ordersByPlayers": {
+              "2": 1,
+              "3": 2,
+              "4": 3
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "gaming",
+            "budget": 48,
+            "ordersDelta": 1,
+            "preferences": [
+              "性能",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "photo",
+            "budget": 48,
+            "ordersDelta": 1,
+            "preferences": [
+              "影像",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 3,
+              "3": 4,
+              "4": 5
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "office",
+            "budget": 48,
+            "ordersDelta": 0,
+            "preferences": [
+              "折叠",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          }
+        ]
+      },
+      "effect": {
+        "old": "本卡提前公开；订单按本卡2/3/4人列直接取片。每种已满足偏好加3，通常各一次。预算为最高可接受售价。实际普通发布末才更换。",
+        "new": "本卡在准备期开始公开；按2/3/4人列直接放订单片，不按本场现货动态增减。偏好每项＋3、各一次；预算为最高售价。普通发布整理末更换。"
+      }
+    }
+  },
+  {
+    "id": "N08",
+    "name": "出行季",
+    "group": "demands",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "budget": 28,
+            "ordersDelta": 1,
+            "preferences": [
+              "续航",
+              "轻薄"
+            ],
+            "ordersByPlayers": {
+              "2": 3,
+              "3": 4,
+              "4": 5
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "gaming",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "性能",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "photo",
+            "budget": 38,
+            "ordersDelta": 1,
+            "preferences": [
+              "影像",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 3,
+              "3": 4,
+              "4": 5
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "office",
+            "budget": 38,
+            "ordersDelta": -1,
+            "preferences": [
+              "轻薄",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 1,
+              "3": 2,
+              "4": 3
+            },
+            "preferenceBonus": 3
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "budget": 28,
+            "ordersDelta": 1,
+            "preferences": [
+              "续航",
+              "轻薄"
+            ],
+            "ordersByPlayers": {
+              "2": 3,
+              "3": 4,
+              "4": 5
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "gaming",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "性能",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 1,
+              "3": 2,
+              "4": 3
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "photo",
+            "budget": 38,
+            "ordersDelta": 1,
+            "preferences": [
+              "影像",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "office",
+            "budget": 38,
+            "ordersDelta": -1,
+            "preferences": [
+              "轻薄",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 1,
+              "3": 2,
+              "4": 3
+            },
+            "preferenceBonus": 3
+          }
+        ]
+      },
+      "effect": {
+        "old": "本卡提前公开；订单按本卡2/3/4人列直接取片。每种已满足偏好加3，通常各一次。预算为最高可接受售价。实际普通发布末才更换。",
+        "new": "本卡在准备期开始公开；按2/3/4人列直接放订单片，不按本场现货动态增减。偏好每项＋3、各一次；预算为最高售价。普通发布整理末更换。"
+      }
+    }
+  },
+  {
+    "id": "N09",
+    "name": "折叠商务",
+    "group": "demands",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "轻薄",
+              "折叠"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "gaming",
+            "budget": 38,
+            "ordersDelta": -1,
+            "preferences": [
+              "性能",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 1,
+              "3": 2,
+              "4": 3
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "photo",
+            "budget": 48,
+            "ordersDelta": 0,
+            "preferences": [
+              "影像",
+              "折叠"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "office",
+            "budget": 48,
+            "ordersDelta": 1,
+            "preferences": [
+              "折叠",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 3,
+              "3": 4,
+              "4": 5
+            },
+            "preferenceBonus": 3
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "轻薄",
+              "折叠"
+            ],
+            "ordersByPlayers": {
+              "2": 1,
+              "3": 2,
+              "4": 3
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "gaming",
+            "budget": 38,
+            "ordersDelta": -1,
+            "preferences": [
+              "性能",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 1,
+              "3": 2,
+              "4": 3
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "photo",
+            "budget": 48,
+            "ordersDelta": 0,
+            "preferences": [
+              "影像",
+              "折叠"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "office",
+            "budget": 48,
+            "ordersDelta": 1,
+            "preferences": [
+              "折叠",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 3,
+              "3": 4,
+              "4": 5
+            },
+            "preferenceBonus": 3
+          }
+        ]
+      },
+      "effect": {
+        "old": "本卡提前公开；订单按本卡2/3/4人列直接取片。每种已满足偏好加3，通常各一次。预算为最高可接受售价。实际普通发布末才更换。",
+        "new": "本卡在准备期开始公开；按2/3/4人列直接放订单片，不按本场现货动态增减。偏好每项＋3、各一次；预算为最高售价。普通发布整理末更换。"
+      }
+    }
+  },
+  {
+    "id": "N10",
+    "name": "续航关注",
+    "group": "demands",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "budget": 28,
+            "ordersDelta": 0,
+            "preferences": [
+              "续航",
+              "轻薄"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "gaming",
+            "budget": 38,
+            "ordersDelta": 1,
+            "preferences": [
+              "性能",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 3,
+              "3": 4,
+              "4": 5
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "photo",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "影像",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "office",
+            "budget": 48,
+            "ordersDelta": 0,
+            "preferences": [
+              "续航",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "budget": 28,
+            "ordersDelta": 0,
+            "preferences": [
+              "续航",
+              "轻薄"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "gaming",
+            "budget": 38,
+            "ordersDelta": 1,
+            "preferences": [
+              "性能",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "photo",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "影像",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 1,
+              "3": 2,
+              "4": 3
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "office",
+            "budget": 48,
+            "ordersDelta": 0,
+            "preferences": [
+              "续航",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          }
+        ]
+      },
+      "effect": {
+        "old": "本卡提前公开；订单按本卡2/3/4人列直接取片。每种已满足偏好加3，通常各一次。预算为最高可接受售价。实际普通发布末才更换。",
+        "new": "本卡在准备期开始公开；按2/3/4人列直接放订单片，不按本场现货动态增减。偏好每项＋3、各一次；预算为最高售价。普通发布整理末更换。"
+      }
+    }
+  },
+  {
+    "id": "N11",
+    "name": "生态协同",
+    "group": "demands",
+    "fields": {
+      "markets": {
+        "old": [
+          {
+            "market": "mass",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "生态",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "gaming",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "性能",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "photo",
+            "budget": 48,
+            "ordersDelta": 0,
+            "preferences": [
+              "影像",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "office",
+            "budget": 48,
+            "ordersDelta": 1,
+            "preferences": [
+              "生态",
+              "折叠"
+            ],
+            "ordersByPlayers": {
+              "2": 3,
+              "3": 4,
+              "4": 5
+            },
+            "preferenceBonus": 3
+          }
+        ],
+        "new": [
+          {
+            "market": "mass",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "生态",
+              "续航"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "gaming",
+            "budget": 38,
+            "ordersDelta": 0,
+            "preferences": [
+              "性能",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 1,
+              "3": 2,
+              "4": 3
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "photo",
+            "budget": 48,
+            "ordersDelta": 0,
+            "preferences": [
+              "影像",
+              "生态"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          },
+          {
+            "market": "office",
+            "budget": 48,
+            "ordersDelta": 1,
+            "preferences": [
+              "生态",
+              "折叠"
+            ],
+            "ordersByPlayers": {
+              "2": 2,
+              "3": 3,
+              "4": 4
+            },
+            "preferenceBonus": 3
+          }
+        ]
+      },
+      "effect": {
+        "old": "本卡提前公开；订单按本卡2/3/4人列直接取片。每种已满足偏好加3，通常各一次。预算为最高可接受售价。实际普通发布末才更换。",
+        "new": "本卡在准备期开始公开；按2/3/4人列直接放订单片，不按本场现货动态增减。偏好每项＋3、各一次；预算为最高售价。普通发布整理末更换。"
+      }
+    }
+  },
+  {
+    "id": "N12",
+    "name": "均衡消费",
+    "group": "demands",
+    "fields": {
+      "effect": {
+        "old": "本卡提前公开；订单按本卡2/3/4人列直接取片。每种已满足偏好加3，通常各一次。预算为最高可接受售价。实际普通发布末才更换。",
+        "new": "本卡在准备期开始公开；按2/3/4人列直接放订单片，不按本场现货动态增减。偏好每项＋3、各一次；预算为最高售价。普通发布整理末更换。"
+      }
+    }
+  }
+]

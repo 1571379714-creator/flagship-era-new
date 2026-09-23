@@ -1,0 +1,68 @@
+{
+  "version": "7.0",
+  "method": "独立目录从当前JSON/正文重新导出；不复制现有outputs",
+  "html": {
+    "旗舰元年_7.0_芯片与市场校准表.html": true,
+    "旗舰元年_7.0_线下版图.html": true,
+    "旗舰元年_7.0_初始通用配件正反面.html": true,
+    "旗舰元年_7.0_扩产组件与速查.html": true,
+    "旗舰元年_7.0_完整规则书.html": true,
+    "旗舰元年_7.0_供应商署名与授权组件.html": true,
+    "旗舰元年_7.0_六部门行动正反面.html": true,
+    "旗舰元年_7.0_参考机正反面.html": true,
+    "旗舰元年_7.0_全卡牌图鉴.html": true,
+    "旗舰元年_7.0_统一主牌正反面.html": true,
+    "旗舰元年_7.0_实体组件.html": true
+  },
+  "pdf": {
+    "旗舰元年_7.0_设计规划书.pdf": {
+      "pages": 2,
+      "samePageText": true
+    },
+    "旗舰元年_7.0_统一主牌正反面.pdf": {
+      "pages": 58,
+      "samePageText": true
+    },
+    "旗舰元年_7.0_完整规则书.pdf": {
+      "pages": 25,
+      "samePageText": true
+    },
+    "旗舰元年_7.0_六部门行动正反面.pdf": {
+      "pages": 2,
+      "samePageText": true
+    },
+    "旗舰元年_7.0_实体组件.pdf": {
+      "pages": 11,
+      "samePageText": true
+    },
+    "旗舰元年_7.0_芯片与市场校准表.pdf": {
+      "pages": 11,
+      "samePageText": true
+    },
+    "旗舰元年_7.0_参考机正反面.pdf": {
+      "pages": 10,
+      "samePageText": true
+    },
+    "旗舰元年_7.0_全卡牌图鉴.pdf": {
+      "pages": 76,
+      "samePageText": true
+    },
+    "旗舰元年_7.0_线下版图.pdf": {
+      "pages": 12,
+      "samePageText": true
+    },
+    "旗舰元年_7.0_供应商署名与授权组件.pdf": {
+      "pages": 6,
+      "samePageText": true
+    },
+    "旗舰元年_7.0_初始通用配件正反面.pdf": {
+      "pages": 4,
+      "samePageText": true
+    },
+    "旗舰元年_7.0_扩产组件与速查.pdf": {
+      "pages": 3,
+      "samePageText": true
+    }
+  },
+  "issues": []
+}

@@ -1,0 +1,53 @@
+{
+  "views": [
+    {
+      "id": "tracks",
+      "title": "对向双轨 · 企业成绩"
+    },
+    {
+      "id": "market",
+      "title": "共同市场与发布轨"
+    },
+    {
+      "id": "array",
+      "title": "个人行动阵列 · 六部门"
+    },
+    {
+      "id": "action_summary",
+      "title": "六行动 · 三档速查"
+    },
+    {
+      "id": "supply",
+      "title": "个人稳定库 · 四栏"
+    },
+    {
+      "id": "research",
+      "title": "个人研发与合同"
+    },
+    {
+      "id": "product",
+      "title": "单批产品面板 · 每人使用四个编号"
+    },
+    {
+      "id": "allocation",
+      "title": "唯一投放 · 只移动产品编号"
+    },
+    {
+      "id": "relations",
+      "title": "供应商关系 · 不是五色阵营"
+    },
+    {
+      "id": "publictech",
+      "title": "公共技术区 · 已完成的联合成果"
+    },
+    {
+      "id": "expansion",
+      "title": "发布扩产 · 订单排序"
+    },
+    {
+      "id": "workflow",
+      "title": "发布与终局 · 完整顺序"
+    }
+  ],
+  "pages": 12
+}

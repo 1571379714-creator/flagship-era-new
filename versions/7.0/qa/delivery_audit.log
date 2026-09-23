@@ -1,0 +1,30 @@
+{
+  "version": "7.0",
+  "contentCards": 315,
+  "mainCards": 257,
+  "chipNames": 50,
+  "pdfCount": 12,
+  "pdfPages": 220,
+  "sourceUnchanged": {
+    "v69_planning.md": true,
+    "v69_rulebook.json": true,
+    "v69_data.json": true,
+    "v69_rules.md": true
+  },
+  "canonicalDOCXTextMatches": {
+    "完整规则书": true,
+    "设计规划书": true
+  },
+  "fullCardEffectsChecked": {
+    "catalog": 315,
+    "main": 257
+  },
+  "layoutIssues": 0,
+  "issues": [],
+  "notVerified": [
+    "full multiplayer games",
+    "full generic interpreter for all H/U/Q effects",
+    "physical printer registration",
+    "commercial bleed/die cutting"
+  ]
+}

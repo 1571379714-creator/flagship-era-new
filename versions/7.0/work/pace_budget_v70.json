@@ -1,0 +1,613 @@
+{
+  "version": "7.0",
+  "type": "排程枚举＋公开输入的增长轨迹算例",
+  "isFullGameSimulation": false,
+  "matrixSchedule": [
+    {
+      "turn": 1,
+      "action": "调研",
+      "strength": 1,
+      "rowsBefore": [
+        [
+          "调研",
+          "供应",
+          "制造"
+        ],
+        [
+          "合作",
+          "研发",
+          "运营"
+        ]
+      ]
+    },
+    {
+      "turn": 2,
+      "action": "供应",
+      "strength": 2,
+      "rowsBefore": [
+        [
+          "调研",
+          "供应",
+          "制造"
+        ],
+        [
+          "合作",
+          "研发",
+          "运营"
+        ]
+      ]
+    },
+    {
+      "turn": 3,
+      "action": "制造",
+      "strength": 3,
+      "rowsBefore": [
+        [
+          "供应",
+          "调研",
+          "制造"
+        ],
+        [
+          "合作",
+          "研发",
+          "运营"
+        ]
+      ]
+    },
+    {
+      "turn": 4,
+      "action": "研发",
+      "strength": 2,
+      "rowsBefore": [
+        [
+          "制造",
+          "供应",
+          "调研"
+        ],
+        [
+          "合作",
+          "研发",
+          "运营"
+        ]
+      ]
+    },
+    {
+      "turn": 5,
+      "action": "运营",
+      "strength": 3,
+      "rowsBefore": [
+        [
+          "制造",
+          "供应",
+          "调研"
+        ],
+        [
+          "研发",
+          "合作",
+          "运营"
+        ]
+      ]
+    },
+    {
+      "turn": 6,
+      "action": "合作",
+      "strength": 3,
+      "rowsBefore": [
+        [
+          "制造",
+          "供应",
+          "调研"
+        ],
+        [
+          "运营",
+          "研发",
+          "合作"
+        ]
+      ]
+    },
+    {
+      "turn": 7,
+      "action": "调研",
+      "strength": 3,
+      "rowsBefore": [
+        [
+          "制造",
+          "供应",
+          "调研"
+        ],
+        [
+          "合作",
+          "运营",
+          "研发"
+        ]
+      ]
+    },
+    {
+      "turn": 8,
+      "action": "供应",
+      "strength": 3,
+      "rowsBefore": [
+        [
+          "调研",
+          "制造",
+          "供应"
+        ],
+        [
+          "合作",
+          "运营",
+          "研发"
+        ]
+      ]
+    },
+    {
+      "turn": 9,
+      "action": "制造",
+      "strength": 3,
+      "rowsBefore": [
+        [
+          "供应",
+          "调研",
+          "制造"
+        ],
+        [
+          "合作",
+          "运营",
+          "研发"
+        ]
+      ]
+    },
+    {
+      "turn": 10,
+      "action": "研发",
+      "strength": 3,
+      "rowsBefore": [
+        [
+          "制造",
+          "供应",
+          "调研"
+        ],
+        [
+          "合作",
+          "运营",
+          "研发"
+        ]
+      ]
+    },
+    {
+      "turn": 11,
+      "action": "运营",
+      "strength": 3,
+      "rowsBefore": [
+        [
+          "制造",
+          "供应",
+          "调研"
+        ],
+        [
+          "研发",
+          "合作",
+          "运营"
+        ]
+      ]
+    },
+    {
+      "turn": 12,
+      "action": "合作",
+      "strength": 3,
+      "rowsBefore": [
+        [
+          "制造",
+          "供应",
+          "调研"
+        ],
+        [
+          "运营",
+          "研发",
+          "合作"
+        ]
+      ]
+    },
+    {
+      "turn": 13,
+      "action": "调研",
+      "strength": 3,
+      "rowsBefore": [
+        [
+          "制造",
+          "供应",
+          "调研"
+        ],
+        [
+          "合作",
+          "运营",
+          "研发"
+        ]
+      ]
+    },
+    {
+      "turn": 14,
+      "action": "供应",
+      "strength": 3,
+      "rowsBefore": [
+        [
+          "调研",
+          "制造",
+          "供应"
+        ],
+        [
+          "合作",
+          "运营",
+          "研发"
+        ]
+      ]
+    },
+    {
+      "turn": 15,
+      "action": "制造",
+      "strength": 3,
+      "rowsBefore": [
+        [
+          "供应",
+          "调研",
+          "制造"
+        ],
+        [
+          "合作",
+          "运营",
+          "研发"
+        ]
+      ]
+    },
+    {
+      "turn": 16,
+      "action": "研发",
+      "strength": 3,
+      "rowsBefore": [
+        [
+          "制造",
+          "供应",
+          "调研"
+        ],
+        [
+          "合作",
+          "运营",
+          "研发"
+        ]
+      ]
+    },
+    {
+      "turn": 17,
+      "action": "运营",
+      "strength": 3,
+      "rowsBefore": [
+        [
+          "制造",
+          "供应",
+          "调研"
+        ],
+        [
+          "研发",
+          "合作",
+          "运营"
+        ]
+      ]
+    },
+    {
+      "turn": 18,
+      "action": "合作",
+      "strength": 3,
+      "rowsBefore": [
+        [
+          "制造",
+          "供应",
+          "调研"
+        ],
+        [
+          "运营",
+          "研发",
+          "合作"
+        ]
+      ]
+    }
+  ],
+  "steadyCycle": "每行三卡轮换，第二轮起本序列六行动均强度3；不交换也可持续，但不代表该序列总是最优。",
+  "noticeBudget": {
+    "allCashSixTurnsPerCompany": 3,
+    "withPublicityInsteadOfCash": 5,
+    "publishedTrackPerCompanyEquivalent": 4,
+    "assumption": "制造足额3批且仍存在，研发每轮完成1项目。未完成项目则减1推进；无钱或无卡会更慢。"
+  },
+  "trajectories": {
+    "均衡输入": {
+      "declaredInput": true,
+      "history": [
+        {
+          "release": 1,
+          "incomeIncrement": 4,
+          "techIncrement": 2,
+          "income": 4,
+          "technology": 2,
+          "signedDistance": -122,
+          "selfLedEra": 1
+        },
+        {
+          "release": 2,
+          "incomeIncrement": 5,
+          "techIncrement": 2,
+          "income": 9,
+          "technology": 4,
+          "signedDistance": -113,
+          "selfLedEra": 2
+        },
+        {
+          "release": 3,
+          "incomeIncrement": 6,
+          "techIncrement": 2,
+          "income": 15,
+          "technology": 6,
+          "signedDistance": -103,
+          "selfLedEra": 2
+        },
+        {
+          "release": 4,
+          "incomeIncrement": 6,
+          "techIncrement": 3,
+          "income": 21,
+          "technology": 9,
+          "signedDistance": -90,
+          "selfLedEra": 3
+        },
+        {
+          "release": 5,
+          "incomeIncrement": 7,
+          "techIncrement": 3,
+          "income": 28,
+          "technology": 12,
+          "signedDistance": -74,
+          "selfLedEra": 3
+        },
+        {
+          "release": 6,
+          "incomeIncrement": 7,
+          "techIncrement": 3,
+          "income": 35,
+          "technology": 15,
+          "signedDistance": -58,
+          "selfLedEra": 4
+        },
+        {
+          "release": 7,
+          "incomeIncrement": 7,
+          "techIncrement": 3,
+          "income": 42,
+          "technology": 18,
+          "signedDistance": -42,
+          "selfLedEra": 4
+        },
+        {
+          "release": 8,
+          "incomeIncrement": 8,
+          "techIncrement": 4,
+          "income": 50,
+          "technology": 22,
+          "signedDistance": -22,
+          "selfLedEra": 5
+        },
+        {
+          "release": 9,
+          "incomeIncrement": 8,
+          "techIncrement": 5,
+          "income": 58,
+          "technology": 27,
+          "signedDistance": 1,
+          "selfLedEra": 5
+        }
+      ],
+      "crossesAtRelease": 9,
+      "finalReleaseIfNoEarlierOtherTrigger": 10,
+      "note": "商业路径需其他玩家推动技术进入第五代；不能据此声称独立商业领航也能两场换代。"
+    },
+    "科研偏向输入": {
+      "declaredInput": true,
+      "history": [
+        {
+          "release": 1,
+          "incomeIncrement": 3,
+          "techIncrement": 2,
+          "income": 3,
+          "technology": 2,
+          "signedDistance": -123,
+          "selfLedEra": 1
+        },
+        {
+          "release": 2,
+          "incomeIncrement": 3,
+          "techIncrement": 2,
+          "income": 6,
+          "technology": 4,
+          "signedDistance": -116,
+          "selfLedEra": 2
+        },
+        {
+          "release": 3,
+          "incomeIncrement": 4,
+          "techIncrement": 3,
+          "income": 10,
+          "technology": 7,
+          "signedDistance": -106,
+          "selfLedEra": 2
+        },
+        {
+          "release": 4,
+          "incomeIncrement": 4,
+          "techIncrement": 3,
+          "income": 14,
+          "technology": 10,
+          "signedDistance": -94,
+          "selfLedEra": 3
+        },
+        {
+          "release": 5,
+          "incomeIncrement": 4,
+          "techIncrement": 3,
+          "income": 18,
+          "technology": 13,
+          "signedDistance": -81,
+          "selfLedEra": 3
+        },
+        {
+          "release": 6,
+          "incomeIncrement": 5,
+          "techIncrement": 3,
+          "income": 23,
+          "technology": 16,
+          "signedDistance": -67,
+          "selfLedEra": 4
+        },
+        {
+          "release": 7,
+          "incomeIncrement": 5,
+          "techIncrement": 3,
+          "income": 28,
+          "technology": 19,
+          "signedDistance": -53,
+          "selfLedEra": 4
+        },
+        {
+          "release": 8,
+          "incomeIncrement": 6,
+          "techIncrement": 3,
+          "income": 34,
+          "technology": 22,
+          "signedDistance": -38,
+          "selfLedEra": 5
+        },
+        {
+          "release": 9,
+          "incomeIncrement": 7,
+          "techIncrement": 4,
+          "income": 41,
+          "technology": 26,
+          "signedDistance": -19,
+          "selfLedEra": 5
+        },
+        {
+          "release": 10,
+          "incomeIncrement": 7,
+          "techIncrement": 4,
+          "income": 48,
+          "technology": 30,
+          "signedDistance": 0,
+          "selfLedEra": 5
+        }
+      ],
+      "crossesAtRelease": 10,
+      "finalReleaseIfNoEarlierOtherTrigger": 11,
+      "note": "商业路径需其他玩家推动技术进入第五代；不能据此声称独立商业领航也能两场换代。"
+    },
+    "商业偏向输入": {
+      "declaredInput": true,
+      "history": [
+        {
+          "release": 1,
+          "incomeIncrement": 6,
+          "techIncrement": 1,
+          "income": 6,
+          "technology": 1,
+          "signedDistance": -122,
+          "selfLedEra": 1
+        },
+        {
+          "release": 2,
+          "incomeIncrement": 8,
+          "techIncrement": 1,
+          "income": 14,
+          "technology": 2,
+          "signedDistance": -112,
+          "selfLedEra": 1
+        },
+        {
+          "release": 3,
+          "incomeIncrement": 9,
+          "techIncrement": 1,
+          "income": 23,
+          "technology": 3,
+          "signedDistance": -101,
+          "selfLedEra": 1
+        },
+        {
+          "release": 4,
+          "incomeIncrement": 10,
+          "techIncrement": 1,
+          "income": 33,
+          "technology": 4,
+          "signedDistance": -89,
+          "selfLedEra": 2
+        },
+        {
+          "release": 5,
+          "incomeIncrement": 10,
+          "techIncrement": 1,
+          "income": 43,
+          "technology": 5,
+          "signedDistance": -77,
+          "selfLedEra": 2
+        },
+        {
+          "release": 6,
+          "incomeIncrement": 11,
+          "techIncrement": 1,
+          "income": 54,
+          "technology": 6,
+          "signedDistance": -64,
+          "selfLedEra": 2
+        },
+        {
+          "release": 7,
+          "incomeIncrement": 12,
+          "techIncrement": 1,
+          "income": 66,
+          "technology": 7,
+          "signedDistance": -50,
+          "selfLedEra": 2
+        },
+        {
+          "release": 8,
+          "incomeIncrement": 12,
+          "techIncrement": 1,
+          "income": 78,
+          "technology": 8,
+          "signedDistance": -36,
+          "selfLedEra": 2
+        },
+        {
+          "release": 9,
+          "incomeIncrement": 12,
+          "techIncrement": 2,
+          "income": 90,
+          "technology": 10,
+          "signedDistance": -18,
+          "selfLedEra": 3
+        },
+        {
+          "release": 10,
+          "incomeIncrement": 12,
+          "techIncrement": 1,
+          "income": 102,
+          "technology": 11,
+          "signedDistance": -3,
+          "selfLedEra": 3
+        }
+      ],
+      "crossesAtRelease": null,
+      "finalReleaseIfNoEarlierOtherTrigger": null,
+      "note": "商业路径需其他玩家推动技术进入第五代；不能据此声称独立商业领航也能两场换代。"
+    }
+  },
+  "limits": [
+    "输入收入/科技增量是设计预算，不是已执行的完整取得/生产/销售策略",
+    "不包括真实牌序、合同、研究证明、全部卡牌联动、定价心理或对手",
+    "换代只取全桌最大科技，产量/合同分流/参考竞争仍待多人实测",
+    "约2场/代、第五代约2场尚未得到完整对局统计验证"
+  ]
+}

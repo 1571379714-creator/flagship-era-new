@@ -1,0 +1,527 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "title": "全桌技术指派 · 正面",
+      "note": "全桌1份 · 本页与下一页A4原尺寸长边翻转双面 · A=M01 / B=M02 / C=M03 / D=M04"
+    },
+    {
+      "page": 2,
+      "title": "全桌技术指派 · 镜像背面",
+      "note": "全桌1份 · 与前页配对 · 同一公司每枚背面完全相同 · 不使用旧版无公司指派片"
+    },
+    {
+      "page": 3,
+      "title": "永久署名片 · 圆形",
+      "note": "全桌1份单面 · 每公司35枚直径9.5毫米 · 公司字母不是供应商颜色"
+    },
+    {
+      "page": 4,
+      "title": "个人关系和研发模式片",
+      "note": "全桌1份单面 · 不是入库券、授权券或奖励券 · 可用相同形状的玩家标记替代"
+    },
+    {
+      "page": 5,
+      "title": "公共供应商技术区 · 五条厂区标题",
+      "note": "全桌1份单面 · 可替代A3公共技术版图，桌面技术增多时展开摆放"
+    },
+    {
+      "page": 6,
+      "title": "署名与授权摆放示例",
+      "note": "全桌速查 · 非新增卡牌或独立游戏阶段 · 与规则§9—10一致"
+    }
+  ],
+  "pointers": [
+    {
+      "company": "A",
+      "product": 1,
+      "copy": 1,
+      "localCell": 0,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "A",
+      "product": 1,
+      "copy": 2,
+      "localCell": 1,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "A",
+      "product": 1,
+      "copy": 3,
+      "localCell": 2,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "A",
+      "product": 2,
+      "copy": 1,
+      "localCell": 3,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "A",
+      "product": 2,
+      "copy": 2,
+      "localCell": 4,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "A",
+      "product": 2,
+      "copy": 3,
+      "localCell": 5,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "A",
+      "product": 3,
+      "copy": 1,
+      "localCell": 6,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "A",
+      "product": 3,
+      "copy": 2,
+      "localCell": 7,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "A",
+      "product": 3,
+      "copy": 3,
+      "localCell": 8,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "A",
+      "product": 4,
+      "copy": 1,
+      "localCell": 9,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "A",
+      "product": 4,
+      "copy": 2,
+      "localCell": 10,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "A",
+      "product": 4,
+      "copy": 3,
+      "localCell": 11,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "B",
+      "product": 1,
+      "copy": 1,
+      "localCell": 0,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "B",
+      "product": 1,
+      "copy": 2,
+      "localCell": 1,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "B",
+      "product": 1,
+      "copy": 3,
+      "localCell": 2,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "B",
+      "product": 2,
+      "copy": 1,
+      "localCell": 3,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "B",
+      "product": 2,
+      "copy": 2,
+      "localCell": 4,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "B",
+      "product": 2,
+      "copy": 3,
+      "localCell": 5,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "B",
+      "product": 3,
+      "copy": 1,
+      "localCell": 6,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "B",
+      "product": 3,
+      "copy": 2,
+      "localCell": 7,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "B",
+      "product": 3,
+      "copy": 3,
+      "localCell": 8,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "B",
+      "product": 4,
+      "copy": 1,
+      "localCell": 9,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "B",
+      "product": 4,
+      "copy": 2,
+      "localCell": 10,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "B",
+      "product": 4,
+      "copy": 3,
+      "localCell": 11,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "C",
+      "product": 1,
+      "copy": 1,
+      "localCell": 0,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "C",
+      "product": 1,
+      "copy": 2,
+      "localCell": 1,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "C",
+      "product": 1,
+      "copy": 3,
+      "localCell": 2,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "C",
+      "product": 2,
+      "copy": 1,
+      "localCell": 3,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "C",
+      "product": 2,
+      "copy": 2,
+      "localCell": 4,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "C",
+      "product": 2,
+      "copy": 3,
+      "localCell": 5,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "C",
+      "product": 3,
+      "copy": 1,
+      "localCell": 6,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "C",
+      "product": 3,
+      "copy": 2,
+      "localCell": 7,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "C",
+      "product": 3,
+      "copy": 3,
+      "localCell": 8,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "C",
+      "product": 4,
+      "copy": 1,
+      "localCell": 9,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "C",
+      "product": 4,
+      "copy": 2,
+      "localCell": 10,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "C",
+      "product": 4,
+      "copy": 3,
+      "localCell": 11,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "D",
+      "product": 1,
+      "copy": 1,
+      "localCell": 0,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "D",
+      "product": 1,
+      "copy": 2,
+      "localCell": 1,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "D",
+      "product": 1,
+      "copy": 3,
+      "localCell": 2,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "D",
+      "product": 2,
+      "copy": 1,
+      "localCell": 3,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "D",
+      "product": 2,
+      "copy": 2,
+      "localCell": 4,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "D",
+      "product": 2,
+      "copy": 3,
+      "localCell": 5,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "D",
+      "product": 3,
+      "copy": 1,
+      "localCell": 6,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "D",
+      "product": 3,
+      "copy": 2,
+      "localCell": 7,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "D",
+      "product": 3,
+      "copy": 3,
+      "localCell": 8,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "D",
+      "product": 4,
+      "copy": 1,
+      "localCell": 9,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "D",
+      "product": 4,
+      "copy": 2,
+      "localCell": 10,
+      "sizeMm": [
+        10,
+        9
+      ]
+    },
+    {
+      "company": "D",
+      "product": 4,
+      "copy": 3,
+      "localCell": 11,
+      "sizeMm": [
+        10,
+        9
+      ]
+    }
+  ],
+  "authorsPerCompany": 35,
+  "relationPerCompany": 5,
+  "corePerCompany": 1,
+  "jointModePerCompany": 3,
+  "authorSizeMm": 9.5,
+  "playerMap": {
+    "A": "M01",
+    "B": "M02",
+    "C": "M03",
+    "D": "M04"
+  }
+}

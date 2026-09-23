@@ -1,26 +1,25 @@
 # 旗舰元年 · Flagship Era
 
-**当前归档基线：6.9「五十平台与芯片专长」测试版**
+**当前归档基线：7.0「双行排程与世代竞逐」结构首测版**
 
-6.9 延续 6.8 的统一牌流与单批产品结构，整理 50 款芯片平台和特色。适合 2—4 人；未完成充分多人实测，不承诺固定时长或平衡性。
+7.0 以 6.9 完整归档为底稿，采用六张行动牌双行排程和世代竞逐。适合 2—4 人，尚未完成充分多人实测，不承诺固定时长或平衡性。
 
-## 6.9 文件入口
+## 7.0 文件入口
 
 | 内容 | 文件 |
 | --- | --- |
-| 完整规则 | [PDF](versions/6.9/outputs/旗舰元年_6.9_完整规则书.pdf) · [HTML](versions/6.9/outputs/旗舰元年_6.9_完整规则书.html) · [Word](versions/6.9/outputs/旗舰元年_6.9_完整规则书.docx) |
-| 全卡牌图鉴 | [PDF](versions/6.9/outputs/旗舰元年_6.9_全卡牌图鉴.pdf) · [HTML](versions/6.9/outputs/旗舰元年_6.9_全卡牌图鉴.html) |
-| 统一主牌与初始配件 | [主牌 PDF](versions/6.9/outputs/旗舰元年_6.9_统一主牌正反面.pdf) · [初始配件 PDF](versions/6.9/outputs/旗舰元年_6.9_初始通用配件正反面.pdf) |
-| 50 芯片名录 | [PDF](versions/6.9/outputs/旗舰元年_6.9_50芯片名录与特色.pdf) · [设计边界](versions/6.9/outputs/旗舰元年_6.9_芯片资料与设计边界.md) |
-| 版图与实体组件 | [版图 PDF](versions/6.9/outputs/旗舰元年_6.9_线下版图.pdf) · [组件 PDF](versions/6.9/outputs/旗舰元年_6.9_实体组件.pdf) |
-| 数据与校验 | [卡牌数据](versions/6.9/work/v69_data.json) · [交付说明](versions/6.9/outputs/旗舰元年_6.9_修改与校验说明.md) · [文件哈希](versions/6.9/SHA256.json) |
+| 完整规则 | [PDF](versions/7.0/outputs/旗舰元年_7.0_完整规则书.pdf) · [HTML](versions/7.0/outputs/旗舰元年_7.0_完整规则书.html) · [Word](versions/7.0/outputs/旗舰元年_7.0_完整规则书.docx) |
+| 全卡牌图鉴 | [PDF](versions/7.0/outputs/旗舰元年_7.0_全卡牌图鉴.pdf) · [HTML](versions/7.0/outputs/旗舰元年_7.0_全卡牌图鉴.html) |
+| 统一主牌与六部门行动 | [主牌 PDF](versions/7.0/outputs/旗舰元年_7.0_统一主牌正反面.pdf) · [行动牌 PDF](versions/7.0/outputs/旗舰元年_7.0_六部门行动正反面.pdf) |
+| 版图与实体组件 | [版图 PDF](versions/7.0/outputs/旗舰元年_7.0_线下版图.pdf) · [组件 PDF](versions/7.0/outputs/旗舰元年_7.0_实体组件.pdf) |
+| 芯片校准与节奏 | [芯片与市场校准表](versions/7.0/outputs/旗舰元年_7.0_芯片与市场校准表.pdf) · [节奏预算与实测清单](versions/7.0/outputs/旗舰元年_7.0_节奏预算与实测清单.md) |
+| 数据与迁移记录 | [卡牌数据](versions/7.0/work/v70_data.json) · [结构化规则](versions/7.0/work/v70_rulebook.json) · [迁移说明](versions/7.0/outputs/旗舰元年_7.0_迁移核对与修改说明.md) · [交付核对](versions/7.0/outputs/旗舰元年_7.0_交付核对记录.md) |
 
-HTML 文件用于本地查阅和打印，不提供电子游玩、自动结算或对局保存。
-
-6.9 内容为 315 种/315 张卡，统一主牌 257 张。芯片名称、现实依据和游戏数值分开记录；交付测试不代表完整游戏平衡或真实硬件横测。
+HTML 用于本地查阅和打印，不提供发牌、自动裁定或对局存档。卡组包含 315 种/315 张内容牌，主牌 257 张；另有每人 6 张行动牌。
 
 ## 历史版本
 
-`versions/6.9/source/` 是 6.8 追溯底稿，不是当前卡面。更早的 6.2、6.0 与 5.0 快照分别保存在对应目录，不与 6.9 混用。
+- [6.9 · 五十平台与芯片专长](versions/6.9/)：规则、50 芯片名录、主牌、打印件、版图、实体组件与 QA 记录。
+- [6.2](versions/6.2/)、[6.0](versions/6.0/) 与 [5.0](versions/5.0/)：各自保留独立原始快照。
 
-仓库保持私有；未指定开放许可。详见各版本目录中的 README、设计说明和交付记录。
+旧版 `source/` 目录仅供追溯，卡牌和规则不能与 7.0 混用。仓库保持私有，未指定开放许可。

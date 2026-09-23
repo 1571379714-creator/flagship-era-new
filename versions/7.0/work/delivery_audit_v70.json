@@ -1,0 +1,104 @@
+{
+  "version": "7.0",
+  "contentCards": 315,
+  "mainCards": 257,
+  "chipNames": 50,
+  "pdfs": {
+    "旗舰元年_7.0_供应商署名与授权组件.pdf": {
+      "pages": 6,
+      "bytes": 1560386,
+      "sha256": "f6f8fd09f2c8541c9081bc69bfdf3ca40f6ae85dc1f1b8ae7271d81f38a94c9a",
+      "allPagesRendered": true
+    },
+    "旗舰元年_7.0_全卡牌图鉴.pdf": {
+      "pages": 76,
+      "bytes": 2639650,
+      "sha256": "34c0bdbbf84479c5be0cfac82403e91713e5def78b5f4b3a8f425166591a6d98",
+      "allPagesRendered": true
+    },
+    "旗舰元年_7.0_六部门行动正反面.pdf": {
+      "pages": 2,
+      "bytes": 374068,
+      "sha256": "eb617c7e5ba3aa01e1808f688d7b9787ca3186d022fe1be647f3fc23a10b019d",
+      "allPagesRendered": true
+    },
+    "旗舰元年_7.0_初始通用配件正反面.pdf": {
+      "pages": 4,
+      "bytes": 420974,
+      "sha256": "86fc2e4a160fe84b5e079327b23ba017a323b1241cae1279be5dd8ba45497fe7",
+      "allPagesRendered": true
+    },
+    "旗舰元年_7.0_参考机正反面.pdf": {
+      "pages": 10,
+      "bytes": 1608216,
+      "sha256": "06b530760264dce23ff20b33df02d9eb3b118701983b5409b5540d23a7a5e0de",
+      "allPagesRendered": true
+    },
+    "旗舰元年_7.0_完整规则书.pdf": {
+      "pages": 25,
+      "bytes": 954151,
+      "sha256": "6c3723f654dec5fd278106e0d7f80448620db5780d8b9373b126c5b9fd8eeb81",
+      "allPagesRendered": true
+    },
+    "旗舰元年_7.0_实体组件.pdf": {
+      "pages": 11,
+      "bytes": 1471854,
+      "sha256": "737f67758b00ed7aa3ab7ad5d6909bc1f7d04d987362a530b41280014d8cd0f7",
+      "allPagesRendered": true
+    },
+    "旗舰元年_7.0_扩产组件与速查.pdf": {
+      "pages": 3,
+      "bytes": 601519,
+      "sha256": "367a02eeebacdf98965422d91d6af003be5883925abaff4664e78d2218bc8e12",
+      "allPagesRendered": true
+    },
+    "旗舰元年_7.0_线下版图.pdf": {
+      "pages": 12,
+      "bytes": 1492402,
+      "sha256": "6584b4c3d62ce0bd14d5fb18b19d7c47fb39785a4d3ee15f041e1ed56ea07b15",
+      "allPagesRendered": true
+    },
+    "旗舰元年_7.0_统一主牌正反面.pdf": {
+      "pages": 58,
+      "bytes": 6364976,
+      "sha256": "930fb4d79933e176251e24a12c0e7c0769e384afa96267e60e83b390ad79974c",
+      "allPagesRendered": true
+    },
+    "旗舰元年_7.0_芯片与市场校准表.pdf": {
+      "pages": 11,
+      "bytes": 477023,
+      "sha256": "0c68ed87f725551347a2c5510b00194f5afc1b43301f2a147a8f173122b5cc06",
+      "allPagesRendered": true
+    },
+    "旗舰元年_7.0_设计规划书.pdf": {
+      "pages": 2,
+      "bytes": 226904,
+      "sha256": "4e618dcede16d659c0d7e137fc5254822c5f0cf27daf95e1878a13ecb02e6acf",
+      "allPagesRendered": true
+    }
+  },
+  "pdfCount": 12,
+  "pdfPages": 220,
+  "sourceUnchanged": {
+    "v69_planning.md": true,
+    "v69_rulebook.json": true,
+    "v69_data.json": true,
+    "v69_rules.md": true
+  },
+  "canonicalDOCXTextMatches": {
+    "完整规则书": true,
+    "设计规划书": true
+  },
+  "fullCardEffectsChecked": {
+    "catalog": 315,
+    "main": 257
+  },
+  "layoutIssues": 0,
+  "issues": [],
+  "notVerified": [
+    "full multiplayer games",
+    "full generic interpreter for all H/U/Q effects",
+    "physical printer registration",
+    "commercial bleed/die cutting"
+  ]
+}
